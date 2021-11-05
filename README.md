@@ -14,7 +14,7 @@
 ##### Linguagens:
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="https://media.discordapp.net/attachments/783708626577260584/906265256282689536/New_Project.gif"-->
+  <img align="right" alt="pic" height="50" style="border-radius:70px;" src="https://media.discordapp.net/attachments/783708626577260584/906265256282689536/New_Project.gif">
 </div>
 
 <div style="display: inline_block">
@@ -40,3 +40,9 @@
 <div> 
   <a href="https://youtube.com/channel/UCPmFk2-4Ra4mI_RAS239vKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+ ## Visualizações no meu perfil:<br>
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Lobooooooo14/count.svg" />
+ </p>
