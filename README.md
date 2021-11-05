@@ -1,7 +1,7 @@
 
 
 
-## Opa, eu soy o Lobo🐺
+## Opa, eu soy o Lobo:wolf:
 
 <div align="center">
   <a href="https://github.com/Lobooooooo14">
@@ -14,7 +14,7 @@
 ##### Linguagens:
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="50" style="border-radius:70px;" src="https://media.discordapp.net/attachments/783708626577260584/906265256282689536/New_Project.gif">
+  <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="" -->
 </div>
 
 <div style="display: inline_block">
