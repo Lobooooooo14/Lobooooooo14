@@ -9,7 +9,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 ##### Linguagens:
 
@@ -17,14 +17,14 @@
   <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="https://media.discordapp.net/attachments/783708626577260584/906265256282689536/New_Project.gif"-->
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 ##### Plataformas:
 
   <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 ##### IDEs:
 
