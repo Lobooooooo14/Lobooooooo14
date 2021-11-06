@@ -13,15 +13,15 @@
 
 ##### Linguagens:
 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="50" style="border-radius:70px;" src="files/lobo.gif">
+  <img align="center" alt="Python" height="40" width="40" src="files/py-png.gif">
+  <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="files/lobo.gif" -->
 </div>
 
 <div style="display: inline_block">
 
 ##### Plataformas:
 
-  <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+  <img align="center" alt="android" height="30" width="40" src="files/android.png">
 </div>
 
 <div style="display: inline_block">
