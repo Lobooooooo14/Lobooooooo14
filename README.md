@@ -21,7 +21,7 @@
 
 ##### Plataformas:
 
-  <img align="center" alt="android" height="30" width="40" src="files/android.png">
+  <img align="center" alt="android" height="25" width="45" src="files/android.png">
 </div>
 
 <div style="display: inline_block">
