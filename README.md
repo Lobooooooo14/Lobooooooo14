@@ -14,7 +14,7 @@
 ##### Linguagens:
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="" -->
+  <img align="right" alt="pic" height="50" style="border-radius:70px;" src="files/lobo.gif">
 </div>
 
 <div style="display: inline_block">
