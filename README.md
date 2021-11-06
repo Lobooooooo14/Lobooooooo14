@@ -3,10 +3,13 @@
 
 ## Opa, eu soy o Lobo:wolf:
 
+<div align="center">
+  <img alt="lobooooooo" height="120" style="border-radius:70px;" src="files/lobo-name.gif">
+</div>
 
 <div align="center">
   <a href="https://github.com/Lobooooooo14">
-  <img align="center" alt="lobooooooo" height="120" style="border-radius:70px;" src="files/lobo-name.gif">
+  <!-- img align="center" alt="lobooooooo" height="120" style="border-radius:70px;" src="files/lobo-name.gif" -->
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Lobooooooo14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&layout=compact&langs_count=5&theme=dark"/>
 </div>
