@@ -3,6 +3,8 @@
 
 ## Opa, eu soy o Lobo:wolf:
 
+<img align="center" alt="lobooooooo" height="50" style="border-radius:70px;" src="files/lobo-name.gif">
+
 <div align="center">
   <a href="https://github.com/Lobooooooo14">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Lobooooooo14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +16,6 @@
 ##### Linguagens:
 
   <img align="center" alt="Python" height="40" width="40" src="files/py-png.gif">
-  <!-- img align="right" alt="pic" height="50" style="border-radius:70px;" src="files/lobo.gif" -->
 </div>
 
 <div style="display: inline_block">
