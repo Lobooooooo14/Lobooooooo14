@@ -4,7 +4,7 @@
 ## Opa, eu soy o Lobo:wolf:
 
 <div align="center">
-  <img alt="lobooooooo" height="120" style="border-radius:70px;" src="files/lobo-name.gif">
+  <img alt="lobooooooo" height="120" src="files/lobo-name.gif"><br>
 </div>
 
 <div align="center">
