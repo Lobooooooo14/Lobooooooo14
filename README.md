@@ -1,6 +1,4 @@
 
-
-
 ## Opa, eu soy o Lobo:wolf:
 
 <div align="center">
