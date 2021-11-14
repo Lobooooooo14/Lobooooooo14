@@ -33,7 +33,7 @@
 ##### IDEs:
 
   <img align="center" alt="googleColab" height="30" width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-  <img align="center" alt="Pydroid" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNau4Z5Ry_KnMVR2IBSjKFGx2rCAYVb3viw&usqp=CAU">
+  <img align="center" alt="Pydroid" height="30" width="30" src="files/Pydroid3.gif">
   <img align="center" alt="termux" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpB4OvXQZGfDbQpFbTxQKht8jP43sko7wDA&usqp=CAU">
   <img align="center" alt="Pydroid" height="30" width="30" src="https://play-lh.googleusercontent.com/i3mDiwxhA3hz0idCn8vMWmn30QvyCZlOEna5VQqbInKIcPyhyl4ZUGtvXy_Ex6wauJYS">
   <img align="center" alt="replit" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg">
