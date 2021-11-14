@@ -35,8 +35,8 @@
   <img align="center" alt="googleColab" height="30" width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img align="center" alt="Pydroid" height="30" width="30" src="files/Pydroid3.gif">
   <img align="center" alt="termux" height="30" width="30" src="files/Termux.gif">
-  <img align="center" alt="Pydroid" height="30" width="30" src="https://play-lh.googleusercontent.com/i3mDiwxhA3hz0idCn8vMWmn30QvyCZlOEna5VQqbInKIcPyhyl4ZUGtvXy_Ex6wauJYS">
-  <img align="center" alt="replit" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg">
+  <img align="center" alt="QPython" height="30" width="30" src="https://play-lh.googleusercontent.com/i3mDiwxhA3hz0idCn8vMWmn30QvyCZlOEna5VQqbInKIcPyhyl4ZUGtvXy_Ex6wauJYS">
+  <img align="center" alt="repl.it" height="30" width="30" src="files/Repl it.gif">
 </div>
 
 ### Redes sociais:
