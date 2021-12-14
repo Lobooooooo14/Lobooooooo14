@@ -49,6 +49,9 @@
    <img alingn="center" src="https://profile-counter.glitch.me/Lobooooooo14/count.svg" />
  </p>
 
+#
 
 ###### projetinhos:
--
+
+- [ ] joguinho de palavras em python (para meu amiguinho **Betrayed#6492**) 
+- [ ] bot para discord e whatsapp do brainly
