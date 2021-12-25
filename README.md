@@ -14,6 +14,8 @@
 
 <div style="display: inline_block">
 
+<hr>
+
 ##### Linguagens:
 
   <img align="center" alt="Python" height="40" width="40" src="files/py-png.gif">
@@ -21,12 +23,16 @@
 
 <div style="display: inline_block">
 
+<hr>
+
 ##### Plataformas:
 
   <img align="center" alt="android" height="25" width="40" src="files/android.gif">
 </div>
 
 <div style="display: inline_block">
+
+<hr>
 
 ##### IDEs:
 
@@ -37,11 +43,15 @@
   <img align="center" alt="repl.it" height="30" width="30" src="files/Repl it.gif">
 </div>
 
+<hr>
+
 ### Redes sociais:
  
 <div> 
   <a href="https://youtube.com/channel/UCPmFk2-4Ra4mI_RAS239vKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+<hr>
 
  ## Visualizações no meu perfil:<br>
 
@@ -50,6 +60,8 @@
  </p>
 
 #
+
+<hr>
 
 ###### projetinhos:
 
