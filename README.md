@@ -43,6 +43,7 @@
  
 <div> 
   <a href="https://youtube.com/channel/UCPmFk2-4Ra4mI_RAS239vKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/channel/UCT8_OLl6Mvb7EDMNbbztdLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
   <a href="https://discord.com/users/783120232134082580"><img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 
