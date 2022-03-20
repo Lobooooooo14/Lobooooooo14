@@ -8,23 +8,23 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
 </div>
 
-<hr>
-
+<!--
  ##### Linguagens:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="files/py-png.gif">
 </div>
-
+-->
 <hr>
 
+<!--
  ##### OS:
 
 <div style="display: inline_block">
   <img align="center" alt="android" height="25" width="40" src="files/android.gif">
 </div>
 
-<!--
+
 <hr>
 
  ##### IDEs:
@@ -37,7 +37,6 @@
   <img align="center" alt="repl.it" height="30" width="30" src="files/Repl it.gif">
 </div>
 -->
-<hr>
 
  ### Redes sociais:
  
@@ -54,9 +53,3 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Lobooooooo14/count.svg" />
  </p>
-
-<hr>
-
- ##### projetinhos:
-
- ###### repositórios serão adicionados aqui
