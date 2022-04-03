@@ -1,24 +1,81 @@
+<h1 align="center">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="35px">
+  Olá, eu sou o Lobo.
+</h1>
 
- ## Olá :wave:
+<p align="center">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+   </a>
+   <a href="https://www.python.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   </a>
+</p>
 
-<div align="center">
+<h4 align="center">
+  <details>
+    <summary>
+      Mais...
+    </summary>
+
+<p align="center">
   <a href="https://github.com/Lobooooooo14">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lobooooooo14&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
-</div>
+    <img
+      align="center"
+      height="150px"
+      src="https://github-readme-stats.vercel.app/api?username=Lobooooooo14&theme=radical&show_icons=true"
+    />
+  </a>
+  <a href="https://github.com/Lobooooooo14">
+    <img
+      align="center"
+      height="150px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&&layout=compact&theme=radical"
+    />
+  </a>
+</p>
 
- ### Redes sociais:
- 
-<div> 
-  <a href="https://youtube.com/channel/UCPmFk2-4Ra4mI_RAS239vKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://youtube.com/channel/UCT8_OLl6Mvb7EDMNbbztdLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
-  <a href="https://discord.com/users/783120232134082580"><img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
+<h3 align="center">
+  Principais Projetos:
+</h3>
 
-<hr>
+<p align="center">
+  <a href="https://github.com/Lobooooooo14/XVLIB">
+    <img
+      align="center"
+      height="120px"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=XVLIB&theme=radical">
+    </img>
+  </a>
+</p>
 
- ## Visualizações no meu perfil:<br>
+<h3 align="center">Redes Sociais:</h3>
 
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Lobooooooo14/count.svg" />
- </p>
+<p align="center">
+  <a href="https://twitter.com/seu-usuario">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"
+    />
+  </a>
+  <a href="https://discord.com/users/783120232134082580">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/discord-7289da?style=flat-square&logo=discord&logoColor=white"
+    />
+  </a>
+  <a href="https://youtube.com/channel/UCPmFk2-4Ra4mI_RAS239vKg">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"
+    />
+  </a>
+</p>
+
+</details>
+</h4>
