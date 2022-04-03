@@ -57,7 +57,7 @@
 <h3 align="center">Redes Sociais:</h3>
 
 <p align="center">
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/lobooooooo14">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"
