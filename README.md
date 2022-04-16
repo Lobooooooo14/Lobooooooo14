@@ -78,4 +78,7 @@
 </p>
 
 </details>
+
+![Snake animation](https://github.com/Lobooooooo14/Lobooooooo14/blob/output/github-contribution-grid-snake.svg)
+
 </h4>
