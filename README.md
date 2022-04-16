@@ -23,6 +23,10 @@
       Mais...
     </summary>
 
+<h3 align="center">
+  Status:
+</h3>
+
 <p align="center">
   <a href="https://github.com/Lobooooooo14">
     <img
