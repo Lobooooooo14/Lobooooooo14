@@ -59,6 +59,12 @@
       height="120px"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=XVLIB&theme=radical">
     </img>
+  <a href="https://github.com/Lobooooooo14/Vex.py">
+    <img
+      align="center"
+      height="120px"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=Vex.py&theme=radical">
+    </img>
   </a>
 </p>
 
