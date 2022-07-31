@@ -67,7 +67,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=XVLIB&theme=radical">
     </img>
   </a>
-  <a href="https://github.com/Lobooooooo14/Vex.py">
+  <a href="https://github.com/BotVex/Vex.py">
     <img
       align="center"
       height="150px"
