@@ -45,6 +45,13 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobooooooo14&&layout=compact&theme=radical"
     />
   </a>
+  <a href="https://github.com/Lobooooooo14">
+    <img
+      align="center"
+      height="150px"
+      src="https://activity-graph.herokuapp.com/graph?username=Lobooooooo14&custom_title=Lobo&#x27;s%20Contribution%20Chart&theme=radical"
+    />
+  </a>
 </p>
 
 <h3 align="center">
@@ -56,14 +63,15 @@
   <a href="https://github.com/Lobooooooo14/XVLIB">
     <img
       align="center"
-      height="120px"
+      height="150px"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=XVLIB&theme=radical">
     </img>
+  </a>
   <a href="https://github.com/Lobooooooo14/Vex.py">
     <img
       align="center"
-      height="120px"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Lobooooooo14&repo=Vex.py&theme=radical">
+      height="150px"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=BotVex&repo=Vex.py&theme=radical">
     </img>
   </a>
 </p>
@@ -94,9 +102,7 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://cdn.discordapp.com/emojis/865189083658453013.png" width="70">
-</h1>
+<img src="https://cdn.discordapp.com/emojis/865189083658453013.png" width="70">
 
 </details>
 
