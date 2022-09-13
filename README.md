@@ -98,9 +98,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="lobooooooo14">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en" alt="lobooooooo14">
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Lobooooooo14&custom_title=Lobo&#x27;s%20Contribution%20Chart&theme=dark" alt="lobooooooo14">
-</p>
 
 <br>
 
