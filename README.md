@@ -16,6 +16,9 @@
   <li>
     <p>Atualmente estou trabalhando em meu bot para Discord, a <a href="https://github.com/BotVex/Vex.py"><b>Vex</b></a>
   </li>
+  <li>
+    <p>Tambem tenho um módulo Python que uso de aprendizado, o <a href="https://github.com/Lobooooooo14/tempyrature"><b>Tempyrature</b></a>
+  </li>
 </ul>
 
 <br>
