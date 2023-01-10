@@ -47,8 +47,8 @@
 <hr>
 
 <p align="center">
-  <img align="center" src="github-readme-stats-lobo.vercel.app/api/top-langs?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="lobooooooo14">
-  <img align="center" src="github-readme-stats-lobo.vercel.app/api?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en" alt="lobooooooo14">
+  <img align="center" src="github-readme-stats.vercel.app/api/top-langs?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="lobooooooo14">
+  <img align="center" src="github-readme-stats.vercel.app/api?username=lobooooooo14&show_icons=true&theme=dark&title_color=ffffff&text_color=dbdbdb&bg_color=0d1117&hide_border=true&locale=en" alt="lobooooooo14">
 
 <br>
 
