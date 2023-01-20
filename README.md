@@ -30,5 +30,5 @@
 
 <div align="center">
   <h1>:snake: Snak-ommits :snake:</h1>
-![Snake animation](https://github.com/Lobooooooo14/Lobooooooo14/blob/output/github-contribution-grid-snake.svg)
+  <img alt="Snake animation" src="https://github.com/Lobooooooo14/Lobooooooo14/blob/output/github-contribution-grid-snake.svg">
 </div>
