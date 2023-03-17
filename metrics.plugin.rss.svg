@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Idéias para a criação de um projeto de bloquear requisições em redes sociais</div>
+                                <div class="title">Timers, Cronometros em React.</div>
+                                <div class="date">17 Mar 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">[AJUDA] Requisições se multiplicando a cada interação com input</div>
                                 <div class="date">16 Mar 2023</div>
                             </div>
                         </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">🚀 Quer aprender Web3 AGORA de forma GRATUITA? 🤓</div>
+                                <div class="title">Programando com a Síndrome do Impostor</div>
                                 <div class="date">16 Mar 2023</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Como lidar com Token no Front-End usando uma SPA de forma (quase) 100% segura?</div>
-                                <div class="date">15 Mar 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">5 Técnicas do NestJS para aplicativos eficientes e de fácil manutenção</div>
-                                <div class="date">15 Mar 2023</div>
+                                <div class="title">Como fazer uma calculadora em React?</div>
+                                <div class="date">16 Mar 2023</div>
                             </div>
                         </div>
                     </section>
