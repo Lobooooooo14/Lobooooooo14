@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Gastoo] Publiquei meu primeiro app</div>
-                                <div class="date">17 Mar 2023</div>
+                                <div class="title">Ajuda: Novato em Windows Manager</div>
+                                <div class="date">18 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Artistas entrando no tabnews.</div>
-                                <div class="date">17 Mar 2023</div>
+                                <div class="title">⏰ De forma realista como ter produtividade 📅</div>
+                                <div class="date">18 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[DUVIDA] DOTENV + VITE + REACT + FIREBASE</div>
-                                <div class="date">17 Mar 2023</div>
+                                <div class="title">Python IntelliSense VSCode</div>
+                                <div class="date">18 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Preciso de ajuda -&gt; Jupyter notebook no VSCode</div>
-                                <div class="date">17 Mar 2023</div>
+                                <div class="title">Algum curso robusto de VueJS para me indicar?</div>
+                                <div class="date">18 Mar 2023</div>
                             </div>
                         </div>
                     </section>
