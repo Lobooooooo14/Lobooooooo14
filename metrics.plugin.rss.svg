@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Arquitetura com .NET 7, Angular 15, Clean Architecture, Clean Code e SOLID.</div>
-                                <div class="date">24 Mar 2023</div>
+                                <div class="title">Vídeo: Demonstrando a biblioteca global do VisuAlg na extensão do Visual Studio Code</div>
+                                <div class="date">25 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RANT: Eu nao aguento mais ver chatgpt na minha frente.</div>
-                                <div class="date">24 Mar 2023</div>
+                                <div class="title">me ajudem a criar um blog usando json</div>
+                                <div class="date">25 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pitch: Um Caixa Eletrônico Que Roda Na Web??</div>
-                                <div class="date">24 Mar 2023</div>
+                                <div class="title">blog com next consumindo um json</div>
+                                <div class="date">25 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">🚗 API REST tabela FIPE feita em Nodejs e atualizada. Prontinha para usar !</div>
-                                <div class="date">24 Mar 2023</div>
+                                <div class="title">[Python e GTK] Configurando o ambiente de desenvolvimento no Windows</div>
+                                <div class="date">25 Mar 2023</div>
                             </div>
                         </div>
                     </section>
