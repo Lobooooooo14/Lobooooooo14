@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Você usaria esse APP?</div>
+                                <div class="title">ETL (Extrair, transformar, carregar) em banco de dados</div>
                                 <div class="date">1 Apr 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Como criar um site?</div>
-                                <div class="date">31 Mar 2023</div>
+                                <div class="title">O que é Orientação a Objeto?</div>
+                                <div class="date">1 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Publicaram o Algoritmo de recomendação do Twitter</div>
-                                <div class="date">31 Mar 2023</div>
+                                <div class="title">[DUVIDA/AJUDA] Estou Parado No Aprendizado</div>
+                                <div class="date">1 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pitch: Inscrições abertos para o curso de desenvolvimento web até 09/04</div>
-                                <div class="date">31 Mar 2023</div>
+                                <div class="title">Vídeo: Executando Portugol Studio e Portugol Webstudio no Visual Studio Code</div>
+                                <div class="date">1 Apr 2023</div>
                             </div>
                         </div>
                     </section>
