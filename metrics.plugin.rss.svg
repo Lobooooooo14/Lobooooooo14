@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OPEN SOURCE COLOCA O SEU SOFTWARE EM RISCO</div>
+                                <div class="title">Indiquem livros para quem esta começando!</div>
                                 <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Pitch] YouteeTech - Curso gratis de React</div>
-                                <div class="date">15 Apr 2023</div>
+                                <div class="title">Katas de programação: uma maneira divertida e eficaz de aprimorar suas habilidades</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Pitch] Minha nova homepage https://interaminense.dev</div>
-                                <div class="date">15 Apr 2023</div>
+                                <div class="title">dificuldade com node e JavaScript es6</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[AJUDA] Botão customizado no site do YouTube</div>
-                                <div class="date">15 Apr 2023</div>
+                                <div class="title">Desenvolvendo uma API CRUD com Firebase Firestore em Node.js: Um Guia Prático</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                     </section>
