@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pitch: Fiz uma ferramenta que coleta várias informações de um site</div>
+                                <div class="title">Meu primeiro site usando RemixJS e Tailwind (Site sobre IA)</div>
                                 <div class="date">2 May 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Analise de Dados (Pandas + Streamlit)</div>
+                                <div class="title">Input e Textarea do TabNews</div>
                                 <div class="date">2 May 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Divulgação] video sobre metodologias ágeis!</div>
+                                <div class="title">Recomendação de plataforma de freelancer para fazer app iOS</div>
                                 <div class="date">2 May 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Converse com uma I.A. para aprender idiomas</div>
-                                <div class="date">1 May 2023</div>
+                                <div class="title">6 linguagens de programação indicadas para a robótica?</div>
+                                <div class="date">2 May 2023</div>
                             </div>
                         </div>
                     </section>
