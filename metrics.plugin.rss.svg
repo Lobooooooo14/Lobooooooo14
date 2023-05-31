@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">🏫 Curso CS50 de Harvard: Minha opinião.</div>
+                                <div class="title">[Tutorial - Next.js &amp; Postman] - Testando as rotas de autenticação do NextAuth usando o Postman</div>
                                 <div class="date">30 May 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Como vejo falhas de segurança?</div>
+                                <div class="title">A melhor IDE para PCs fracos? 😯</div>
                                 <div class="date">30 May 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">como deletar minha conta no tabnews?</div>
-                                <div class="date">29 May 2023</div>
+                                <div class="title">[Ajuda] Atualizador automático para aplicações Windows forms</div>
+                                <div class="date">30 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[PITCH] Criei uma API de reconhecimento facial usando Python e Ngrok! APIvalidFace.</div>
-                                <div class="date">29 May 2023</div>
+                                <div class="title">Aprender com projetos pequenos ou projetos grandes?</div>
+                                <div class="date">30 May 2023</div>
                             </div>
                         </div>
                     </section>
