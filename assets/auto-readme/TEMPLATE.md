@@ -36,9 +36,9 @@
 <div align="center">
 <h1>:chart_with_upwards_trend: statistics :chart_with_upwards_trend:</h1>
   <a href="https://github.com/Lobooooooo14" target="_blank">
-    <img src="https://github.com/Lobooooooo14/tests/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
+    <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
   <a href="https://github.com/Lobooooooo14" target="_blank">
-      <img src="https://github.com/Lobooooooo14/tests/blob/renders-output/metrics.plugin.isocalendar.fullyear.svg" alt="year commits calendar" width="400px">
+      <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.isocalendar.fullyear.svg" alt="year commits calendar" width="400px">
     </a>
   </a>
 </div>
