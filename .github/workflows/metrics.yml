@@ -7,27 +7,7 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    steps:
-      - name: 📈 Isometric calendar
-        uses: lowlighter/metrics@latest
-        with:
-          output_action: commit
-          committer_branch: renders-output
-          committer_message: "chore: (metrics) update"
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          base: "isocalendar"
-          extras_css: |
-            h2.field {
-                display: none;
-            }
-
-            div.row {
-                opacity: 0;
-            }
-      
+    steps:      
       - name: 💻 Most used languages
         uses: lowlighter/metrics@latest
         with:
