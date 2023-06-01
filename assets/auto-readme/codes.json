@@ -1,0 +1,192 @@
+[
+    {
+      "name":"Python",
+      "ext":"py",
+      "code":"print('Hello, World!')"
+    },
+    {
+      "name":"JavaScript",
+      "ext":"js",
+      "code":"console.log('Hello, World!');"
+    },
+    {
+      "name":"Java",
+      "ext":"java",
+      "code":"public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
+    },
+    {
+      "name":"C",
+      "ext":"c",
+      "code":"#include <stdio.h>\n\nint main() {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"
+    },
+    {
+      "name":"Ruby",
+      "ext":"rb",
+      "code":"puts 'Hello, World!'"
+    },
+    {
+      "name":"C++",
+      "ext":"cpp",
+      "code":"#include <iostream>\n\nint main() {\n    std::cout << \"Hello, World!\" << std::endl;\n    return 0;\n}"
+    },
+    {
+      "name":"Swift",
+      "ext":"swift",
+      "code":"import Swift\n\nprint(\"Hello, World!\")"
+    },
+    {
+      "name":"Go",
+      "ext":"go",
+      "code":"package main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}"
+    },
+    {
+      "name":"Rust",
+      "ext":"rs",
+      "code":"fn main() {\n    println!(\"Hello, World!\");\n}"
+    },
+    {
+      "name":"PHP",
+      "ext":"php",
+      "code":"<?php\n\necho 'Hello, World!';"
+    },
+    {
+      "name":"C#",
+      "ext":"cs",
+      "code":"using System;\n\nclass Program\n{\n    static void Main()\n    {\n        Console.WriteLine(\"Hello, World!\");\n    }\n}"
+    },
+    {
+      "name":"Perl",
+      "ext":"pl",
+      "code":"print \"Hello, World!\\n\";"
+    },
+    {
+      "name":"Scala",
+      "ext":"scala",
+      "code":"object HelloWorld {\n    def main(args: Array[String]): Unit = {\n        println(\"Hello, World!\")\n    }\n}"
+    },
+    {
+      "name":"Kotlin",
+      "ext":"kt",
+      "code":"fun main() {\n    println(\"Hello, World!\")\n}"
+    },
+    {
+      "name":"R",
+      "ext":"r",
+      "code":"print(\"Hello, World!\")"
+    },
+    {
+      "name":"Haskell",
+      "ext":"hs",
+      "code":"main = putStrLn \"Hello, World!\""
+    },
+    {
+      "name":"Objective-C",
+      "ext":"m",
+      "code":"#import <Foundation/Foundation.h>\n\nint main() {\n    @autoreleasepool {\n        NSLog(@\"Hello, World!\");\n    }\n    return 0;\n}"
+    },
+    {
+      "name":"TypeScript",
+      "ext":"ts",
+      "code":"console.log('Hello, World!');"
+    },
+    {
+      "name":"Julia",
+      "ext":"jl",
+      "code":"println(\"Hello, World!\")"
+    },
+    {
+      "name":"Elixir",
+      "ext":"ex",
+      "code":"IO.puts(\"Hello, World!\")"
+    },
+    {
+      "name":"Dart",
+      "ext":"dart",
+      "code":"void main() {\n  print('Hello, World!');\n}"
+    },
+    {
+      "name":"PowerShell",
+      "ext":"ps1",
+      "code":"Write-Host 'Hello, World!'"
+    },
+    {
+      "name":"Groovy",
+      "ext":"groovy",
+      "code":"println 'Hello, World!'"
+    },
+    {
+      "name":"Racket",
+      "ext":"rkt",
+      "code":"#lang racket\n\n(println \"Hello, World!\")"
+    },
+    {
+      "name":"Erlang",
+      "ext":"erl",
+      "code":"-module(hello).\n-export([world/0]).\n\nworld() ->\n    io:fwrite(\"Hello, World!\\n\")."
+    },
+    {
+      "name":"OCaml",
+      "ext":"ml",
+      "code":"print_endline \"Hello, World!\""
+    },
+    {
+      "name":"Bash",
+      "ext":"sh",
+      "code":"echo 'Hello, World!'"
+    },
+    {
+      "name":"Haxe",
+      "ext":"hx",
+      "code":"class HelloWorld {\n    static function main() {\n        trace(\"Hello, World!\");\n    }\n}"
+    },
+    {
+      "name":"Prolog",
+      "ext":"pl",
+      "code":":- initialization(writeln('Hello, World!'))."
+    },
+    {
+      "name":"Matlab",
+      "ext":"m",
+      "code":"disp('Hello, World!');"
+    },
+    {
+      "name":"Ada",
+      "ext":"adb",
+      "code":"with Ada.Text_IO;\n\nprocedure Hello_World is\nbegin\n   Ada.Text_IO.Put_Line (\"Hello, World!\");\nend Hello_World;"
+    },
+    {
+      "name":"F#",
+      "ext":"fs",
+      "code":"printfn \"Hello, World!\""
+    },
+    {
+      "name":"Lisp",
+      "ext":"lisp",
+      "code":"(format t \"Hello, World!\")"
+    },
+    {
+      "name":"Fortran",
+      "ext":"f90",
+      "code":"program HelloWorld\n    print *, \"Hello, World!\"\nend program HelloWorld"
+    },
+    {
+      "name":"COBOL",
+      "ext":"cob",
+      "code":"IDENTIFICATION DIVISION.\nPROGRAM-ID. HELLO-WORLD.\nPROCEDURE DIVISION.\n    DISPLAY 'Hello, World'.\n    STOP RUN."
+    },
+    {
+      "name":"Scheme",
+      "ext":"scm",
+      "code":"(display \"Hello, World!\")(newline)"
+    },
+    {
+      "name":"Lua",
+      "ext":"lua",
+      "code":"print(\"Hello, World!\")"
+    },
+    {
+      "name":"Smalltalk",
+      "ext":"st",
+      "code":"Transcript show: 'Hello, World!'"
+    }
+]
