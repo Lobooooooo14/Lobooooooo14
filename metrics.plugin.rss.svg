@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[ Dúvida ] Tenho 15 anos, como posso começar a ganhar dinheiro com programação?</div>
-                                <div class="date">31 May 2023</div>
+                                <div class="title">[AJUDA] Estou pensando em começar a fazer freela</div>
+                                <div class="date">1 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dúvida: Qual sua opinião sobre a Linguagem Rust</div>
-                                <div class="date">31 May 2023</div>
+                                <div class="title">Strings: Como funcionam e como podem ser usadas para criar algoritmos de criptografia</div>
+                                <div class="date">1 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[DÚVIDA] Mudar o foco para tirar uma ideia do papel é uma boa?</div>
-                                <div class="date">31 May 2023</div>
+                                <div class="title">Implementação e estilização do vue-chartjs em um projeto vue3 usando compose-api (script setup)</div>
+                                <div class="date">1 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Imersão GRATUITA em Inteligência Artificial</div>
-                                <div class="date">31 May 2023</div>
+                                <div class="title">[Ajuda] Perda de acesso ao contexto principal ao usar hydrateRoot para renderizar</div>
+                                <div class="date">1 Jun 2023</div>
                             </div>
                         </div>
                     </section>
