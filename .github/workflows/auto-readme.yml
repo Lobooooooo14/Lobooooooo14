@@ -29,7 +29,7 @@ jobs:
         env:
           github_token: ${{ secrets.TOKEN }}
           github_user: "Lobooooooo14"
-          user_repository: "tests"
+          user_repository: "Lobooooooo14"
           commit_message: "chore: (AUTOREADME) updated"
           branch: main
           codes_path: ./assets/auto-readme/codes.json
