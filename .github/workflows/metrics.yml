@@ -20,8 +20,12 @@ jobs:
           plugin_isocalendar_duration: full-year
           base: "isocalendar"
           extras_css: |
-            h2.field, div.row {
+            h2.field {
                 display: none;
+            }
+
+            div.row {
+                opacity: 0;
             }
       
       - name: 💻 Most used languages
