@@ -39,9 +39,6 @@ print('Hello, World!')
 <h1>:chart_with_upwards_trend: statistics :chart_with_upwards_trend:</h1>
   <a href="https://github.com/Lobooooooo14" target="_blank">
     <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
-  <a href="https://github.com/Lobooooooo14" target="_blank">
-      <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.isocalendar.fullyear.svg" alt="year commits calendar" width="400px">
-    </a>
   </a>
 </div>
 
@@ -61,10 +58,10 @@ print('Hello, World!')
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://api.github.com/users/cookieukw" target="_blank">cookieukw</a><p>23 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/128815126?v=4" width="100%"/><br><a href="https://api.github.com/users/bennettricki" target="_blank">bennettricki</a><p>20 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/83879368?v=4" width="100%"/><br><a href="https://api.github.com/users/Luizin5" target="_blank">Luizin5</a><p>5 contribuições</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://api.github.com/users/cookieukw" target="_blank">cookieukw</a><p>24 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/128815126?v=4" width="100%"/><br><a href="https://api.github.com/users/bennettricki" target="_blank">bennettricki</a><p>20 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/83879368?v=4" width="100%"/><br><a href="https://api.github.com/users/Luizin5" target="_blank">Luizin5</a><p>5 contribuições</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://api.github.com/users/cookieukw">cookieukw</a><span> - 23 contribuicões</span></li><li><a href="https://api.github.com/users/bennettricki">bennettricki</a><span> - 20 contribuicões</span></li><li><a href="https://api.github.com/users/Luizin5">Luizin5</a><span> - 5 contribuicões</span></li><li><a href="https://api.github.com/users/GiverPlay007">GiverPlay007</a><span> - 1 contribuição</span></li></ol>
+                <ol><li><a href="https://api.github.com/users/cookieukw">cookieukw</a><span> - 24 contribuicões</span></li><li><a href="https://api.github.com/users/bennettricki">bennettricki</a><span> - 20 contribuicões</span></li><li><a href="https://api.github.com/users/Luizin5">Luizin5</a><span> - 5 contribuicões</span></li><li><a href="https://api.github.com/users/GiverPlay007">GiverPlay007</a><span> - 1 contribuição</span></li></ol>
             </td>
         </tr>
     </table>
@@ -84,5 +81,5 @@ print('Hello, World!')
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-01 19:04:53<h6>
+  <h6>Perfil atualizado em: 2023-06-01 23:15:52<h6>
 </div>
