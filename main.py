@@ -201,7 +201,7 @@ def main():
         tops.append(
             {
                 "username":login, 
-                "url": follower_user.html_url, 
+                "url": follower_user.url, 
                 "avatar":follower_user.avatar_url, 
                 "contributions": contributions
             }
