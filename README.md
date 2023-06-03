@@ -22,12 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>JavaScript</b></p>
+  <p>Código do dia: <b>Java</b></p>
   
   <div align="left">
 
-```js
-console.log('Hello, World!');
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
   </div>
@@ -81,5 +85,5 @@ console.log('Hello, World!');
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-02 15:44:23<h6>
+  <h6>Perfil atualizado em: 2023-06-03 00:56:15<h6>
 </div>
