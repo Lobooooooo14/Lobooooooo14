@@ -22,15 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Java</b></p>
+  <p>Código do dia: <b>C</b></p>
   
   <div align="left">
 
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
 }
 ```
 
@@ -85,5 +86,5 @@ public class HelloWorld {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-03 00:56:15<h6>
+  <h6>Perfil atualizado em: 2023-06-04 01:04:50<h6>
 </div>
