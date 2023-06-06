@@ -63,10 +63,10 @@ int main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>26 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/128815126?v=4" width="100%"/><br><a href="https://github.com/bennettricki" target="_blank">bennettricki</a><p>20 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/83879368?v=4" width="100%"/><br><a href="https://github.com/Luizin5" target="_blank">Luizin5</a><p>5 contribuições</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>0 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>0 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/83879368?v=4" width="100%"/><br><a href="https://github.com/Luizin5" target="_blank">Luizin5</a><p>0 contribuições</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 26 contribuicões</span></li><li><a href="https://github.com/bennettricki">bennettricki</a><span> - 20 contribuicões</span></li><li><a href="https://github.com/Luizin5">Luizin5</a><span> - 5 contribuicões</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 1 contribuição</span></li></ol>
+                <ol></ol>
             </td>
         </tr>
     </table>
@@ -86,5 +86,5 @@ int main() {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-06 18:39:28<h6>
+  <h6>Perfil atualizado em: 2023-06-06 20:09:44<h6>
 </div>
