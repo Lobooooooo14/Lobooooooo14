@@ -22,12 +22,17 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Ruby</b></p>
+  <p>Código do dia: <b>C++</b></p>
   
   <div align="left">
 
-```rb
-puts 'Hello, World!'
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 ```
 
   </div>
@@ -81,5 +86,5 @@ puts 'Hello, World!'
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-05 00:57:21<h6>
+  <h6>Perfil atualizado em: 2023-06-06 00:58:40<h6>
 </div>
