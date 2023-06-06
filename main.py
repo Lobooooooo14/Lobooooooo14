@@ -2,12 +2,14 @@ import os
 import sys
 import json
 import random
+import requests
 from typing import Tuple
 from github import Github
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 DEV = False
+GH_GRAPHQL_API = "https://api.github.com/graphql"
 
 if len(sys.argv) == 2 and sys.argv[1] == "--dev":
     from dotenv import load_dotenv
@@ -146,14 +148,45 @@ def create_followers_leaderboard(top_users: list) -> str:
     return f"<ol>{''.join(positions)}</ol>"
 
 
-def monthly_contributions(user):
-        total_contributions = 0
-        events = user.get_events()
-        for event in events:
-            if event.type == 'PushEvent':
-                total_contributions += 1
+def monthly_contributions(username: str):
+    current_date = datetime.now()
 
-        return total_contributions
+    first_day = current_date.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    
+    next_month = first_day.replace(month=first_day.month+1, day=1)
+    last_day = next_month - timedelta(days=1)
+    last_day = last_day.replace(hour=23, minute=59, second=59)
+
+    first_day_str = first_day.strftime('%Y-%m-%dT%H:%M:%SZ')
+    last_day_str = last_day.strftime('%Y-%m-%dT%H:%M:%SZ')
+
+    query = '''
+        query {
+            user(login: "%s") {
+                contributionsCollection(from: "%s", to: "%s") {
+                    totalCommitContributions
+                    totalRepositoryContributions
+                    totalPullRequestContributions
+                }
+            }
+        }
+    ''' % (username, first_day_str, last_day_str)
+
+    headers = {"Authorization": f"bearer {Inputs.GH_TOKEN}"}
+    data = {'query': query}
+
+    response = requests.post(GH_GRAPHQL_API, json=data, headers=headers)
+    result: dict = response.json()
+
+    contributions_collection = result.get("data", {}).get("user", {})
+
+    return sum(
+        [
+            contributions_collection.get("totalCommitContributions", 0),
+            contributions_collection.get("totalRepositoryContributions", 0),
+            contributions_collection.get("totalPullRequestContributions", 0)
+        ]
+    )
 
 
 def main():
@@ -195,13 +228,13 @@ def main():
     tops = []
     for follower in followers:
         login = follower.login
-        contributions = monthly_contributions(follower)
+        contributions = monthly_contributions(login)
 
         follower_user = github.get_user(login=login)
         tops.append(
             {
                 "username":login, 
-                "url": follower_user.html_url, 
+                "url":follower_user.html_url, 
                 "avatar":follower_user.avatar_url, 
                 "contributions": contributions
             }
@@ -225,13 +258,16 @@ def main():
 
     replaced_readme_content = replace_tags(template_readme_content, tags)
 
-    repo.update_file(
-        path=repo_readme.path,
-        message=Inputs.COMMIT_MESSAGE,
-        content=replaced_readme_content,
-        sha=repo_readme.sha,
-        branch=Inputs.BRANCH
-    )
+    if not DEV:
+        repo.update_file(
+            path=repo_readme.path,
+            message=Inputs.COMMIT_MESSAGE,
+            content=replaced_readme_content,
+            sha=repo_readme.sha,
+            branch=Inputs.BRANCH
+        )
+    else:
+        print(replaced_readme_content)
 
 
 if __name__ == "__main__":
