@@ -22,17 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>C++</b></p>
+  <p>Código do dia: <b>Swift</b></p>
   
   <div align="left">
 
-```cpp
-#include <iostream>
+```swift
+import Swift
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+print("Hello, World!")
 ```
 
   </div>
@@ -86,5 +83,5 @@ int main() {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-06 20:09:44<h6>
+  <h6>Perfil atualizado em: 2023-06-07 00:59:54<h6>
 </div>
