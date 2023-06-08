@@ -22,14 +22,18 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Swift</b></p>
+  <p>Código do dia: <b>Go</b></p>
   
   <div align="left">
 
-```swift
-import Swift
+```go
+package main
 
-print("Hello, World!")
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
 ```
 
   </div>
@@ -83,5 +87,5 @@ print("Hello, World!")
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-07 00:59:54<h6>
+  <h6>Perfil atualizado em: 2023-06-08 00:57:23<h6>
 </div>
