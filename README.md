@@ -30,6 +30,8 @@
 <?php
 
 echo 'Hello, World!';
+
+?>
 ```
 
   </div>
@@ -83,5 +85,5 @@ echo 'Hello, World!';
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-10 16:00:04<h6>
+  <h6>Perfil atualizado em: 2023-06-10 16:02:41<h6>
 </div>
