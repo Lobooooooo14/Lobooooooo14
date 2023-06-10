@@ -47,7 +47,7 @@
     {
       "name":"PHP",
       "ext":"php",
-      "code":"<?php\n\necho 'Hello, World!';"
+      "code":"<?php\n\necho 'Hello, World!';\n\n?>"
     },
     {
       "name":"C#",
