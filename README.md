@@ -22,14 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Rust</b></p>
+  <p>Código do dia: <b>PHP</b></p>
   
   <div align="left">
 
-```rs
-fn main() {
-    println!("Hello, World!");
-}
+```php
+<?php
+
+echo 'Hello, World!';
 ```
 
   </div>
@@ -83,5 +83,5 @@ fn main() {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-09 00:59:23<h6>
+  <h6>Perfil atualizado em: 2023-06-10 00:53:45<h6>
 </div>
