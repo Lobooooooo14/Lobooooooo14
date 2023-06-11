@@ -22,16 +22,20 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>PHP</b></p>
+  <p>Código do dia: <b>C#</b></p>
   
   <div align="left">
 
-```php
-<?php
+```cs
+using System;
 
-echo 'Hello, World!';
-
-?>
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
 ```
 
   </div>
@@ -85,5 +89,5 @@ echo 'Hello, World!';
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-10 16:02:41<h6>
+  <h6>Perfil atualizado em: 2023-06-11 01:03:59<h6>
 </div>
