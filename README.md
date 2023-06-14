@@ -22,15 +22,13 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Scala</b></p>
+  <p>Código do dia: <b>Kotlin</b></p>
   
   <div align="left">
 
-```scala
-object HelloWorld {
-    def main(args: Array[String]): Unit = {
-        println("Hello, World!")
-    }
+```kt
+fun main() {
+    println("Hello, World!")
 }
 ```
 
@@ -85,5 +83,5 @@ object HelloWorld {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-13 00:57:04<h6>
+  <h6>Perfil atualizado em: 2023-06-14 00:55:33<h6>
 </div>
