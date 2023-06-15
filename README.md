@@ -22,14 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Kotlin</b></p>
+  <p>Código do dia: <b>R</b></p>
   
   <div align="left">
 
-```kt
-fun main() {
-    println("Hello, World!")
-}
+```r
+print("Hello, World!")
 ```
 
   </div>
@@ -83,5 +81,5 @@ fun main() {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-14 00:55:33<h6>
+  <h6>Perfil atualizado em: 2023-06-15 00:55:47<h6>
 </div>
