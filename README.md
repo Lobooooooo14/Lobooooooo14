@@ -22,19 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Objective-C</b></p>
+  <p>Código do dia: <b>TypeScript</b></p>
   
   <div align="left">
 
-```m
-#import <Foundation/Foundation.h>
-
-int main() {
-    @autoreleasepool {
-        NSLog(@"Hello, World!");
-    }
-    return 0;
-}
+```ts
+console.log('Hello, World!');
 ```
 
   </div>
@@ -88,5 +81,5 @@ int main() {
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-17 00:52:40<h6>
+  <h6>Perfil atualizado em: 2023-06-18 01:02:07<h6>
 </div>
