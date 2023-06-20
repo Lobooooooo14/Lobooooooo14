@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Julia</b></p>
+  <p>Código do dia: <b>Elixir</b></p>
   
   <div align="left">
 
-```jl
-println("Hello, World!")
+```ex
+IO.puts("Hello, World!")
 ```
 
   </div>
@@ -81,5 +81,5 @@ println("Hello, World!")
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-19 00:55:38<h6>
+  <h6>Perfil atualizado em: 2023-06-20 00:53:51<h6>
 </div>
