@@ -22,12 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Elixir</b></p>
+  <p>Código do dia: <b>Dart</b></p>
   
   <div align="left">
 
-```ex
-IO.puts("Hello, World!")
+```dart
+void main() {
+  print('Hello, World!');
+}
 ```
 
   </div>
@@ -81,5 +83,5 @@ IO.puts("Hello, World!")
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-20 00:53:51<h6>
+  <h6>Perfil atualizado em: 2023-06-21 00:56:32<h6>
 </div>
