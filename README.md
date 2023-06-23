@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>PowerShell</b></p>
+  <p>Código do dia: <b>Groovy</b></p>
   
   <div align="left">
 
-```ps1
-Write-Host 'Hello, World!'
+```groovy
+println 'Hello, World!'
 ```
 
   </div>
@@ -81,5 +81,5 @@ Write-Host 'Hello, World!'
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-22 00:56:58<h6>
+  <h6>Perfil atualizado em: 2023-06-23 01:01:51<h6>
 </div>
