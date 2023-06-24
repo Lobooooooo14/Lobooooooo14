@@ -22,12 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Groovy</b></p>
+  <p>Código do dia: <b>Racket</b></p>
   
   <div align="left">
 
-```groovy
-println 'Hello, World!'
+```rkt
+#lang racket
+
+(println "Hello, World!")
 ```
 
   </div>
@@ -81,5 +83,5 @@ println 'Hello, World!'
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-23 01:01:51<h6>
+  <h6>Perfil atualizado em: 2023-06-24 01:02:05<h6>
 </div>
