@@ -22,16 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Erlang</b></p>
+  <p>Código do dia: <b>OCaml</b></p>
   
   <div align="left">
 
-```erl
--module(hello).
--export([world/0]).
-
-world() ->
-    io:fwrite("Hello, World!\n").
+```ml
+print_endline "Hello, World!"
 ```
 
   </div>
@@ -85,5 +81,5 @@ world() ->
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-25 01:08:38<h6>
+  <h6>Perfil atualizado em: 2023-06-26 01:03:55<h6>
 </div>
