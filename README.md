@@ -22,12 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Bash</b></p>
+  <p>Código do dia: <b>Haxe</b></p>
   
   <div align="left">
 
-```sh
-echo 'Hello, World!'
+```hx
+class HelloWorld {
+    static function main() {
+        trace("Hello, World!");
+    }
+}
 ```
 
   </div>
@@ -81,5 +85,5 @@ echo 'Hello, World!'
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-27 01:04:14<h6>
+  <h6>Perfil atualizado em: 2023-06-28 01:03:48<h6>
 </div>
