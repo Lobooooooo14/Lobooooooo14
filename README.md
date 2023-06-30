@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Prolog</b></p>
+  <p>Código do dia: <b>Matlab</b></p>
   
   <div align="left">
 
-```pl
-:- initialization(writeln('Hello, World!')).
+```m
+disp('Hello, World!');
 ```
 
   </div>
@@ -81,5 +81,5 @@
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-29 01:01:04<h6>
+  <h6>Perfil atualizado em: 2023-06-30 00:59:23<h6>
 </div>
