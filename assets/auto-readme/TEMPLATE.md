@@ -75,9 +75,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
-<br>
-
-<div align="right">
-  <h6>Perfil atualizado em: <!-- AUTOREADME:LAST_UPDATED --><h6>
-</div>
