@@ -58,10 +58,10 @@ print('Hello, World!')
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>0 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>0 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/83879368?v=4" width="100%"/><br><a href="https://github.com/Luizin5" target="_blank">Luizin5</a><p>0 contribuições</p></td></tr></table>
+                <p>Ainda não há contribuidores!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
@@ -76,10 +76,4 @@ print('Hello, World!')
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
     </picture>
-</div>
-
-<br>
-
-<div align="right">
-  <h6>Perfil atualizado em: 2023-07-01 01:07:47<h6>
 </div>
