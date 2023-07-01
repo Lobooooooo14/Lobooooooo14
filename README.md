@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Matlab</b></p>
+  <p>Código do dia: <b>Python</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -81,5 +81,5 @@ disp('Hello, World!');
 <br>
 
 <div align="right">
-  <h6>Perfil atualizado em: 2023-06-30 00:59:23<h6>
+  <h6>Perfil atualizado em: 2023-07-01 01:07:47<h6>
 </div>
