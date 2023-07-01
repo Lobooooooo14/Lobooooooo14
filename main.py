@@ -2,21 +2,34 @@ import os
 import sys
 import json
 import random
+import logging
 import requests
 from typing import Tuple
-from github import Github
+from github import Github, NamedUser
+from rich.logging import RichHandler
 from datetime import datetime, timedelta
 
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(name)s - %(message)s",
+    handlers=[
+        RichHandler()
+    ]
+)
 
 DEV = False
 GH_GRAPHQL_API = "https://api.github.com/graphql"
 
 if len(sys.argv) == 2 and sys.argv[1] == "--dev":
-    from dotenv import load_dotenv
-
-    load_dotenv()
+    logging.warning("dev mode enabled")
 
     DEV = True
+
+    from dotenv import load_dotenv
+    from rich import print
+
+    load_dotenv()
 
 
 class Inputs:
@@ -30,7 +43,6 @@ class Inputs:
     CODES_PATH: str | None = os.getenv("codes_path")
     CODES_USE_DAY: str | None = os.getenv("codes_use_day")
     AUTOREADME_TAG_NAME: str | None = os.getenv("autoreadme_tag_name")
-
 
 
 def check_inputs():
@@ -57,6 +69,8 @@ def check_inputs():
 
 
 def daily_code(codes: list[str]) -> dict:
+    logging.info("Choosing daily code")
+
     if not Inputs.CODES_USE_DAY:
         code = random.choice(codes)
     else:
@@ -65,12 +79,15 @@ def daily_code(codes: list[str]) -> dict:
         try:
             code = codes[day - 1]
         except IndexError:
+            logging.info("No code found for today. Choosing random code.")
             code = random.choice(codes)
     
     return code
 
 
 def create_codeblock(code_dict: dict) -> Tuple[str, str]:
+    logging.info("Creating codeblock")
+
     name = code_dict.get("name", "")
     ext = code_dict.get("ext", "text")
     code = code_dict.get("code", "")
@@ -81,6 +98,8 @@ def create_codeblock(code_dict: dict) -> Tuple[str, str]:
 
 
 def replace_tags(content: str, tags: dict) -> str:
+    logging.info("Replacing tags")
+
     for tag, tag_value in tags.items():
         tag = f"<!-- {Inputs.AUTOREADME_TAG_NAME}:{tag} -->"
         content = content.replace(tag, str(tag_value))
@@ -89,12 +108,16 @@ def replace_tags(content: str, tags: dict) -> str:
 
 
 def create_medal_table(medal: str) -> str:
+    logging.info("Creating medal table")
+
     table = f"<td width=\"100px\" align=\"center\"><p>{medal}</p></td>"
 
     return table
 
 
 def create_follower_table(user: dict) -> str:
+    logging.info("Creating follower table")
+
     username = user.get('username', '')
     avatar = user.get('avatar', '')
     url = user.get('url', '')
@@ -106,6 +129,12 @@ def create_follower_table(user: dict) -> str:
 
 
 def create_followers_table_top_3(top_users: list) -> str:
+    logging.info("Creating followers table top 3")
+
+    if sum([x.get("contributions", 0) for x in top_users]) < 1:
+        return "<p>Ainda não há contribuidores!</p>"
+        
+
     medal_tables = []
     user_tables = []
     for index, user in enumerate(top_users):
@@ -133,6 +162,11 @@ def create_followers_table_top_3(top_users: list) -> str:
 
 
 def create_followers_leaderboard(top_users: list) -> str:
+    logging.info("Creating followers leaderboard")
+
+    if sum([x.get("contributions", 0) for x in top_users]) < 1:
+        return "<p align=\"center\">...</p>"
+
     positions = []
     for index, user in enumerate(top_users):
         username = user.get('username', '')
@@ -148,7 +182,9 @@ def create_followers_leaderboard(top_users: list) -> str:
     return f"<ol>{''.join(positions)}</ol>"
 
 
-def monthly_contributions(username: str):
+def monthly_contributions(user: NamedUser.NamedUser) -> str:
+    logging.info(f"Getting monthly contributions for {user.login}")
+
     current_date = datetime.now()
 
     first_day = current_date.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
@@ -170,7 +206,7 @@ def monthly_contributions(username: str):
                 }
             }
         }
-    ''' % (username, first_day_str, last_day_str)
+    ''' % (user.login, last_day_str, first_day_str)
 
     headers = {"Authorization": f"bearer {Inputs.GH_TOKEN}"}
     data = {'query': query}
@@ -178,8 +214,8 @@ def monthly_contributions(username: str):
     response = requests.post(GH_GRAPHQL_API, json=data, headers=headers)
     result: dict = response.json()
 
-    contributions_collection = result.get("data", {}).get("user", {})
-
+    contributions_collection = result.get("data", {}).get("user", {}).get("contributionsCollection", {})
+    
     return sum(
         [
             contributions_collection.get("totalCommitContributions", 0),
@@ -190,9 +226,8 @@ def monthly_contributions(username: str):
 
 
 def main():
+    logging.info("Checking inputs")
     check_inputs()
-
-    LAST_UPDATED = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     github = Github(
         login_or_token=Inputs.GH_TOKEN
@@ -223,17 +258,18 @@ def main():
 
     followers = user.get_followers()
 
-    followers = sorted(followers, key=lambda x: monthly_contributions(x), reverse=True)
+    followers_contributions = sorted(
+        [(follower.login, monthly_contributions(follower)) for follower in followers],
+        key=lambda x: x[1],
+        reverse=True)
 
     tops = []
-    for follower in followers:
-        login = follower.login
-        contributions = monthly_contributions(login)
+    for follower, contributions in followers_contributions:
 
-        follower_user = github.get_user(login=login)
+        follower_user = github.get_user(login=follower)
         tops.append(
             {
-                "username":login, 
+                "username":follower, 
                 "url":follower_user.html_url, 
                 "avatar":follower_user.avatar_url, 
                 "contributions": contributions
@@ -248,17 +284,16 @@ def main():
         "FOLLOWING":user.following,
         "REPOS_AMMOUNT":user.public_repos,
         "NAME":user.name,
-        "LAST_UPDATED":LAST_UPDATED,
         "DAILY_CODE_NAME":language if Inputs.CODES_PATH else "",
         "DAILY_CODE":codeblock if Inputs.CODES_PATH else "",
         "FOLLOWERS_ACTIVE_TOP_3":top3_table,
         "FOLLOWERS_ACTIVE_LEADERBOARD":leaderboard
     }
 
-
     replaced_readme_content = replace_tags(template_readme_content, tags)
 
     if not DEV:
+        logging.info("Updating readme")
         repo.update_file(
             path=repo_readme.path,
             message=Inputs.COMMIT_MESSAGE,
