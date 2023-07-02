@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Python</b></p>
+  <p>Código do dia: <b>JavaScript</b></p>
   
   <div align="left">
 
-```py
-print('Hello, World!')
+```js
+console.log('Hello, World!');
 ```
 
   </div>
