@@ -22,15 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Java</b></p>
+  <p>Código do dia: <b>C</b></p>
   
   <div align="left">
 
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
 }
 ```
 
