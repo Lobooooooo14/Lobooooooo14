@@ -22,17 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>C</b></p>
+  <p>Código do dia: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
