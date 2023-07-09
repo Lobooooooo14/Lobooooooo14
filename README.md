@@ -22,17 +22,13 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Go</b></p>
+  <p>Código do dia: <b>Rust</b></p>
   
   <div align="left">
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
+```rs
+fn main() {
+    println!("Hello, World!");
 }
 ```
 
