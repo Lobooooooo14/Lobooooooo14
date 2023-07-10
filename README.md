@@ -22,14 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Rust</b></p>
+  <p>Código do dia: <b>PHP</b></p>
   
   <div align="left">
 
-```rs
-fn main() {
-    println!("Hello, World!");
-}
+```php
+<?php
+
+echo 'Hello, World!';
+
+?>
 ```
 
   </div>
