@@ -22,15 +22,13 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Scala</b></p>
+  <p>Código do dia: <b>Kotlin</b></p>
   
   <div align="left">
 
-```scala
-object HelloWorld {
-    def main(args: Array[String]): Unit = {
-        println("Hello, World!")
-    }
+```kt
+fun main() {
+    println("Hello, World!")
 }
 ```
 
