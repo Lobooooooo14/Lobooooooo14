@@ -22,14 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Kotlin</b></p>
+  <p>Código do dia: <b>R</b></p>
   
   <div align="left">
 
-```kt
-fun main() {
-    println("Hello, World!")
-}
+```r
+print("Hello, World!")
 ```
 
   </div>
