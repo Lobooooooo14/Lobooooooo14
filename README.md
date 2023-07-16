@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>R</b></p>
+  <p>Código do dia: <b>Haskell</b></p>
   
   <div align="left">
 
-```r
-print("Hello, World!")
+```hs
+main = putStrLn "Hello, World!"
 ```
 
   </div>
