@@ -22,12 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Elixir</b></p>
+  <p>Código do dia: <b>Dart</b></p>
   
   <div align="left">
 
-```ex
-IO.puts("Hello, World!")
+```dart
+void main() {
+  print('Hello, World!');
+}
 ```
 
   </div>
