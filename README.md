@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>PowerShell</b></p>
+  <p>Código do dia: <b>Groovy</b></p>
   
   <div align="left">
 
-```ps1
-Write-Host 'Hello, World!'
+```groovy
+println 'Hello, World!'
 ```
 
   </div>
