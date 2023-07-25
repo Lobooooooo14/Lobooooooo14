@@ -22,14 +22,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Racket</b></p>
+  <p>Código do dia: <b>Erlang</b></p>
   
   <div align="left">
 
-```rkt
-#lang racket
+```erl
+-module(hello).
+-export([world/0]).
 
-(println "Hello, World!")
+world() ->
+    io:fwrite("Hello, World!\n").
 ```
 
   </div>
