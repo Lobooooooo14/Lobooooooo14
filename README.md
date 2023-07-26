@@ -22,16 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Erlang</b></p>
+  <p>Código do dia: <b>OCaml</b></p>
   
   <div align="left">
 
-```erl
--module(hello).
--export([world/0]).
-
-world() ->
-    io:fwrite("Hello, World!\n").
+```ml
+print_endline "Hello, World!"
 ```
 
   </div>
