@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>OCaml</b></p>
+  <p>Código do dia: <b>Bash</b></p>
   
   <div align="left">
 
-```ml
-print_endline "Hello, World!"
+```sh
+echo 'Hello, World!'
 ```
 
   </div>
