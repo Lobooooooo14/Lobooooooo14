@@ -22,16 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Haxe</b></p>
+  <p>Código do dia: <b>Prolog</b></p>
   
   <div align="left">
 
-```hx
-class HelloWorld {
-    static function main() {
-        trace("Hello, World!");
-    }
-}
+```pl
+:- initialization(writeln('Hello, World!')).
 ```
 
   </div>
