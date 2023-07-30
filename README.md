@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Prolog</b></p>
+  <p>Código do dia: <b>Matlab</b></p>
   
   <div align="left">
 
-```pl
-:- initialization(writeln('Hello, World!')).
+```m
+disp('Hello, World!');
 ```
 
   </div>
