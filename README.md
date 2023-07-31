@@ -22,12 +22,17 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Matlab</b></p>
+  <p>Código do dia: <b>Ada</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```adb
+with Ada.Text_IO;
+
+procedure Hello_World is
+begin
+   Ada.Text_IO.Put_Line ("Hello, World!");
+end Hello_World;
 ```
 
   </div>
