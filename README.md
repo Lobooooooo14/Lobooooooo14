@@ -22,17 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>Ada</b></p>
+  <p>Código do dia: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
