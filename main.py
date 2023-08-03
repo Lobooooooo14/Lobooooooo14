@@ -196,6 +196,8 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
     first_day_str = first_day.strftime('%Y-%m-%dT%H:%M:%SZ')
     last_day_str = last_day.strftime('%Y-%m-%dT%H:%M:%SZ')
 
+    print(first_day_str, last_day_str)
+
     query = '''
         query {
             user(login: "%s") {
@@ -206,13 +208,14 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
                 }
             }
         }
-    ''' % (user.login, last_day_str, first_day_str)
+    ''' % (user.login, first_day_str, last_day_str)
 
     headers = {"Authorization": f"bearer {Inputs.GH_TOKEN}"}
     data = {'query': query}
 
     response = requests.post(GH_GRAPHQL_API, json=data, headers=headers)
     result: dict = response.json()
+    print(result)
 
     contributions_collection = result.get("data", {}).get("user", {}).get("contributionsCollection", {})
     
