@@ -22,17 +22,14 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>C++</b></p>
+  <p>Código do dia: <b>Swift</b></p>
   
   <div align="left">
 
-```cpp
-#include <iostream>
+```swift
+import Swift
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+print("Hello, World!")
 ```
 
   </div>
@@ -63,10 +60,10 @@ int main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>16 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>10 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>1 contribuições</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>22 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>20 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>4 contribuições</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 16 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 10 contribuicões</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 1 contribuição</span></li></ol>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 22 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 20 contribuicões</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 4 contribuicões</span></li></ol>
             </td>
         </tr>
     </table>
