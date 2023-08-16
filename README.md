@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>R</b></p>
+  <p>Código do dia: <b>Haskell</b></p>
   
   <div align="left">
 
-```r
-print("Hello, World!")
+```hs
+main = putStrLn "Hello, World!"
 ```
 
   </div>
@@ -58,10 +58,10 @@ print("Hello, World!")
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>87 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>23 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>8 contribuições</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>95 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>23 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>8 contribuições</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 87 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 23 contribuicões</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 8 contribuicões</span></li><li><a href="https://github.com/MatheusBaldi">MatheusBaldi</a><span> - 7 contribuicões</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 7 contribuicões</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribuição</span></li></ol>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 95 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 23 contribuicões</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 8 contribuicões</span></li><li><a href="https://github.com/MatheusBaldi">MatheusBaldi</a><span> - 7 contribuicões</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 7 contribuicões</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribuição</span></li></ol>
             </td>
         </tr>
     </table>
