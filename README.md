@@ -22,17 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>C</b></p>
+  <p>Código do dia: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
@@ -63,10 +58,10 @@ int main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>32 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>5 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>1 contribuições</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>36 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>6 contribuições</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>1 contribuições</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 32 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 5 contribuicões</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 1 contribuição</span></li></ol>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 36 contribuicões</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 6 contribuicões</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 1 contribuição</span></li></ol>
             </td>
         </tr>
     </table>
