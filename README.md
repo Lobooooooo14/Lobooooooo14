@@ -22,12 +22,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Código do dia: <b>TypeScript</b></p>
+  <p>Código do dia: <b>Julia</b></p>
   
   <div align="left">
 
-```ts
-console.log('Hello, World!');
+```jl
+println("Hello, World!")
 ```
 
   </div>
