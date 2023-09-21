@@ -33,5 +33,5 @@ jobs:
           commit_message: "chore: (AUTOREADME) updated"
           branch: main
           codes_path: ./assets/auto-readme/codes.json
-          codes_use_day: true
+          codes_use_day: false
           template_path: ./assets/auto-readme/TEMPLATE.md
