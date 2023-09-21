@@ -123,7 +123,7 @@ def create_follower_table(user: dict) -> str:
     url = user.get('url', '')
     contributions = user.get('contributions', '')
 
-    table = f"<td width=\"100px\" align=\"center\"><img src=\"{avatar}\" width=\"100%\"/><br><a href=\"{url}\" target=\"_blank\">{username}</a><p>{contributions} contribuições</p></td>"
+    table = f"<td width=\"100px\" align=\"center\"><img src=\"{avatar}\" width=\"100%\"/><br><a href=\"{url}\" target=\"_blank\">{username}</a><p>{contributions} {'contributions' if contributions > 1 else 'contribution'}</p></td>"
     
     return table
 
@@ -132,7 +132,7 @@ def create_followers_table_top_3(top_users: list) -> str:
     logging.info("Creating followers table top 3")
 
     if sum([x.get("contributions", 0) for x in top_users]) < 1:
-        return "<p>Ainda não há contribuidores!</p>"
+        return "<p>There are no contributors yet!</p>"
         
 
     medal_tables = []
@@ -174,7 +174,7 @@ def create_followers_leaderboard(top_users: list) -> str:
         contributions = int(user.get('contributions', 0))
 
         if contributions > 0:
-            positions.append(f"<li><a href=\"{url}\">{username}</a><span> - {contributions} {'contribuicões' if contributions > 1 else 'contribuição'}</span></li>")
+            positions.append(f"<li><a href=\"{url}\">{username}</a><span> - {contributions} {'contributions' if contributions > 1 else 'contribution'}</span></li>")
         
         if index == 5:
             break
@@ -196,8 +196,6 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
     first_day_str = first_day.strftime('%Y-%m-%dT%H:%M:%SZ')
     last_day_str = last_day.strftime('%Y-%m-%dT%H:%M:%SZ')
 
-    print(first_day_str, last_day_str)
-
     query = '''
         query {
             user(login: "%s") {
@@ -215,7 +213,6 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
 
     response = requests.post(GH_GRAPHQL_API, json=data, headers=headers)
     result: dict = response.json()
-    print(result)
 
     contributions_collection = result.get("data", {}).get("user", {}).get("contributionsCollection", {})
     
