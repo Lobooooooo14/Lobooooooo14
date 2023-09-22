@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Dart</b></p>
+  <p>Today's daily code is in: <b>PowerShell</b></p>
   
   <div align="left">
 
-```dart
-void main() {
-  print('Hello, World!');
-}
+```ps1
+Write-Host 'Hello, World!'
 ```
 
   </div>
@@ -60,10 +58,10 @@ void main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>53 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>13 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>6 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>55 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>14 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>13 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 53 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 13 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 6 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 55 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 14 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 13 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
