@@ -21,12 +21,16 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Bash</b></p>
+  <p>Today's daily code is in: <b>Haxe</b></p>
   
   <div align="left">
 
-```sh
-echo 'Hello, World!'
+```hx
+class HelloWorld {
+    static function main() {
+        trace("Hello, World!");
+    }
+}
 ```
 
   </div>
@@ -58,10 +62,10 @@ echo 'Hello, World!'
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>70 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>38 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>37 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>70 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>41 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>37 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 70 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 38 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 37 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 33 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 17 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 70 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 41 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 37 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 34 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 18 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li></ol>
             </td>
         </tr>
     </table>
