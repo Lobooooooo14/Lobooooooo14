@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Python</b></p>
+  <p>Today's daily code is in: <b>JavaScript</b></p>
   
   <div align="left">
 
-```py
-print('Hello, World!')
+```js
+console.log('Hello, World!');
 ```
 
   </div>
@@ -58,10 +58,10 @@ print('Hello, World!')
         </tr>
         <tr>
             <td width="100px" align="center">
-                <p>There are no contributors yet!</p>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>3 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/118086444?v=4" width="100%"/><br><a href="https://github.com/Nicky7x" target="_blank">Nicky7x</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <p align="center">...</p>
+                <ol><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 3 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
