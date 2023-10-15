@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Kotlin</b></p>
+  <p>Today's daily code is in: <b>R</b></p>
   
   <div align="left">
 
-```kt
-fun main() {
-    println("Hello, World!")
-}
+```r
+print("Hello, World!")
 ```
 
   </div>
@@ -60,10 +58,10 @@ fun main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>19 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>17 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/118086444?v=4" width="100%"/><br><a href="https://github.com/Nicky7x" target="_blank">Nicky7x</a><p>12 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>95 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>19 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>17 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 19 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 17 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 12 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 10 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 6 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 95 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 19 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 17 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 12 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 10 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li></ol>
             </td>
         </tr>
     </table>
