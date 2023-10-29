@@ -21,16 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Haxe</b></p>
+  <p>Today's daily code is in: <b>Prolog</b></p>
   
   <div align="left">
 
-```hx
-class HelloWorld {
-    static function main() {
-        trace("Hello, World!");
-    }
-}
+```pl
+:- initialization(writeln('Hello, World!')).
 ```
 
   </div>
@@ -62,10 +58,10 @@ class HelloWorld {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>103 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>29 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>26 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>114 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>29 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>26 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 103 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 29 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 26 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 21 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 17 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 13 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 114 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 29 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 26 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 21 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 19 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 13 contributions</span></li></ol>
             </td>
         </tr>
     </table>
