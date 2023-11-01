@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Ada</b></p>
+  <p>Today's daily code is in: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -63,10 +58,10 @@ end Hello_World;
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>116 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>29 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>26 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 116 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 29 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 26 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 24 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 20 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 13 contributions</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
