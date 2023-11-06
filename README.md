@@ -21,12 +21,17 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Ruby</b></p>
+  <p>Today's daily code is in: <b>C++</b></p>
   
   <div align="left">
 
-```rb
-puts 'Hello, World!'
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 ```
 
   </div>
@@ -58,10 +63,10 @@ puts 'Hello, World!'
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/109004816?v=4" width="100%"/><br><a href="https://github.com/joaokleberpazpereira" target="_blank">joaokleberpazpereira</a><p>7 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>5 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>5 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>7 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/109004816?v=4" width="100%"/><br><a href="https://github.com/joaokleberpazpereira" target="_blank">joaokleberpazpereira</a><p>7 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>6 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 5 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 5 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 5 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 6 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 6 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 5 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 5 contributions</span></li></ol>
             </td>
         </tr>
     </table>
