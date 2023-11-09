@@ -21,17 +21,13 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Go</b></p>
+  <p>Today's daily code is in: <b>Rust</b></p>
   
   <div align="left">
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
+```rs
+fn main() {
+    println!("Hello, World!");
 }
 ```
 
@@ -64,10 +60,10 @@ func main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>26 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>11 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/109004816?v=4" width="100%"/><br><a href="https://github.com/joaokleberpazpereira" target="_blank">joaokleberpazpereira</a><p>7 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>34 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>14 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/109004816?v=4" width="100%"/><br><a href="https://github.com/joaokleberpazpereira" target="_blank">joaokleberpazpereira</a><p>7 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 26 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 11 contributions</span></li><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 6 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 6 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 5 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 34 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 14 contributions</span></li><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 6 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 6 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 6 contributions</span></li></ol>
             </td>
         </tr>
     </table>
