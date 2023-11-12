@@ -21,20 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>C#</b></p>
+  <p>Today's daily code is in: <b>Perl</b></p>
   
   <div align="left">
 
-```cs
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+```pl
+print "Hello, World!\n";
 ```
 
   </div>
@@ -66,10 +58,10 @@ class Program
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>41 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>16 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>7 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>41 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>39 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>16 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 41 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 16 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 7 contributions</span></li><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 6 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 6 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 41 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 39 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 16 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 11 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 7 contributions</span></li><li><a href="https://github.com/joaokleberpazpereira">joaokleberpazpereira</a><span> - 7 contributions</span></li></ol>
             </td>
         </tr>
     </table>
