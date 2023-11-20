@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Julia</b></p>
+  <p>Today's daily code is in: <b>Elixir</b></p>
   
   <div align="left">
 
-```jl
-println("Hello, World!")
+```ex
+IO.puts("Hello, World!")
 ```
 
   </div>
@@ -58,10 +58,10 @@ println("Hello, World!")
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>49 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>46 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>21 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>54 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>49 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>21 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 49 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 46 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 21 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 19 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 11 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 7 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 54 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 49 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 21 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 19 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 15 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 7 contributions</span></li></ol>
             </td>
         </tr>
     </table>
