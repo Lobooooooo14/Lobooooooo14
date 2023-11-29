@@ -21,16 +21,12 @@
 
 <div align="center">
   <h1>:man_technologist: Daily code :man_technologist:</h1>
-  <p>Today's daily code is in: <b>Haxe</b></p>
+  <p>Today's daily code is in: <b>Prolog</b></p>
   
   <div align="left">
 
-```hx
-class HelloWorld {
-    static function main() {
-        trace("Hello, World!");
-    }
-}
+```pl
+:- initialization(writeln('Hello, World!')).
 ```
 
   </div>
