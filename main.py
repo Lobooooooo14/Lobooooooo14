@@ -189,7 +189,7 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
 
     first_day = current_date.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
     
-    next_month = first_day.replace(month=first_day.month+1, day=1)
+    next_month = first_day.replace(month=(first_day.month % 12) + 1, year=first_day.year + (first_day.month // 12), day=1)
     last_day = next_month - timedelta(days=1)
     last_day = last_day.replace(hour=23, minute=59, second=59)
 
