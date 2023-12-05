@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>:wave: Olar, i am <!-- AUTOREADME:NAME --></h1>
+  <h1>👋 Olar, i am <!-- AUTOREADME:NAME --></h1>
 </div>
 
-> :technologist: | My favorite language to program in is **Python**, but I also know **JavaScript**. In recent years, I've started studying the **React** framework and **TypeScript**.
-> 
-> :computer: | I got introduced to programming in ~2016 through **Arduino**, but i decided to learn **Python** right after that.
+> 🧑‍💻 | My favorite language to program in is **Python**, but I also know **JavaScript**. In recent years, I've started studying the **React** framework and **TypeScript**.
 >
-> :iphone: | Initially, I learned **Arduino** and **Python** using only **free ebooks** and a **cellphone**, and since then, I've been improving my skills.
+> 💻 | I got introduced to programming in ~2016 through **Arduino**, but i decided to learn **Python** right after that.
+>
+> 📱 | Initially, I learned **Arduino** and **Python** using only **free ebooks** and a **cellphone**, and since then, I've been improving my skills.
 
 ***
 
@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <h1>:man_technologist: Daily code :man_technologist:</h1>
+  <h1>👨‍💻 Daily code 👨‍💻</h1>
   <p>Today's daily code is in: <b><!-- AUTOREADME:DAILY_CODE_NAME --></b></p>
   
   <div align="left">
@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-<h1>:chart_with_upwards_trend: Statistics :chart_with_upwards_trend:</h1>
+<h1>📈 Statistics 📈</h1>
   <p>Most used languages:</p>
   <a href="https://github.com/Lobooooooo14" target="_blank">
     <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-    <h1>:trophy: Top followers :trophy:</h1>
+    <h1>🏆 Top followers 🏆</h1>
     <p>Followers with more contributions in this month:</p>
     <table>
         <tr>
@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <h1>:snake: Snakommits :snake:</h1>
+  <h1>🐍 Snakommits 🐍</h1>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
