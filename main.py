@@ -226,6 +226,8 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
 
 
 def main():
+    blacklist = ["isyuricunha"]
+
     logging.info("Checking inputs")
     check_inputs()
 
@@ -259,7 +261,7 @@ def main():
     followers = user.get_followers()
 
     followers_contributions = sorted(
-        [(follower.login, monthly_contributions(follower)) for follower in followers],
+        [(follower.login, monthly_contributions(follower)) for follower in followers if follower.login not in blacklist],
         key=lambda x: x[1],
         reverse=True)
 
