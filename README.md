@@ -21,12 +21,14 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Groovy</b></p>
+  <p>Today's daily code is in: <b>Racket</b></p>
   
   <div align="left">
 
-```groovy
-println 'Hello, World!'
+```rkt
+#lang racket
+
+(println "Hello, World!")
 ```
 
   </div>
@@ -61,7 +63,7 @@ println 'Hello, World!'
                 <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>51 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>17 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>14 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 51 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 17 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 14 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 12 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 12 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 3 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 51 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 17 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 14 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 13 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 12 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 3 contributions</span></li></ol>
             </td>
         </tr>
     </table>
