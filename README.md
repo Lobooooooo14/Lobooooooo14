@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>R</b></p>
+  <p>Today's daily code is in: <b>Haskell</b></p>
   
   <div align="left">
 
-```r
-print("Hello, World!")
+```hs
+main = putStrLn "Hello, World!"
 ```
 
   </div>
