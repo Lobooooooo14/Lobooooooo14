@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Dart</b></p>
+  <p>Today's daily code is in: <b>PowerShell</b></p>
   
   <div align="left">
 
-```dart
-void main() {
-  print('Hello, World!');
-}
+```ps1
+Write-Host 'Hello, World!'
 ```
 
   </div>
