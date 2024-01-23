@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>PowerShell</b></p>
+  <p>Today's daily code is in: <b>Groovy</b></p>
   
   <div align="left">
 
-```ps1
-Write-Host 'Hello, World!'
+```groovy
+println 'Hello, World!'
 ```
 
   </div>
