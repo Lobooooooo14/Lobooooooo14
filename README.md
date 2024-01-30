@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Prolog</b></p>
+  <p>Today's daily code is in: <b>Matlab</b></p>
   
   <div align="left">
 
-```pl
-:- initialization(writeln('Hello, World!')).
+```m
+disp('Hello, World!');
 ```
 
   </div>
