@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>C</b></p>
+  <p>Today's daily code is in: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
