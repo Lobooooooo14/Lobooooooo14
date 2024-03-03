@@ -21,12 +21,16 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>JavaScript</b></p>
+  <p>Today's daily code is in: <b>Java</b></p>
   
   <div align="left">
 
-```js
-console.log('Hello, World!');
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
   </div>
