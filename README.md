@@ -21,14 +21,18 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Swift</b></p>
+  <p>Today's daily code is in: <b>Go</b></p>
   
   <div align="left">
 
-```swift
-import Swift
+```go
+package main
 
-print("Hello, World!")
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
 ```
 
   </div>
