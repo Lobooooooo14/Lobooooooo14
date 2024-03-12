@@ -21,20 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>C#</b></p>
+  <p>Today's daily code is in: <b>Perl</b></p>
   
   <div align="left">
 
-```cs
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+```pl
+print "Hello, World!\n";
 ```
 
   </div>
