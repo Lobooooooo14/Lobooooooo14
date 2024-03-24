@@ -21,12 +21,14 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Groovy</b></p>
+  <p>Today's daily code is in: <b>Racket</b></p>
   
   <div align="left">
 
-```groovy
-println 'Hello, World!'
+```rkt
+#lang racket
+
+(println "Hello, World!")
 ```
 
   </div>
