@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Ada</b></p>
+  <p>Today's daily code is in: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -63,10 +58,10 @@ end Hello_World;
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>83 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>24 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>4 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 83 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 24 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 4 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribution</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
