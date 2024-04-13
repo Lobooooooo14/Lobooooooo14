@@ -21,12 +21,16 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Perl</b></p>
+  <p>Today's daily code is in: <b>Scala</b></p>
   
   <div align="left">
 
-```pl
-print "Hello, World!\n";
+```scala
+object HelloWorld {
+    def main(args: Array[String]): Unit = {
+        println("Hello, World!")
+    }
+}
 ```
 
   </div>
