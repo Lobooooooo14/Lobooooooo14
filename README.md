@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>TypeScript</b></p>
+  <p>Today's daily code is in: <b>Julia</b></p>
   
   <div align="left">
 
-```ts
-console.log('Hello, World!');
+```jl
+println("Hello, World!")
 ```
 
   </div>
