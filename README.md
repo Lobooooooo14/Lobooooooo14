@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Matlab</b></p>
+  <p>Today's daily code is in: <b>Python</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -58,10 +58,10 @@ disp('Hello, World!');
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>61 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>38 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>8 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 61 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 38 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 8 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 5 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 3 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 1 contribution</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
