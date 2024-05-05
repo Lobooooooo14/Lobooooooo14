@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>C</b></p>
+  <p>Today's daily code is in: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
@@ -63,10 +58,10 @@ int main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/118086444?v=4" width="100%"/><br><a href="https://github.com/Nicky7x" target="_blank">Nicky7x</a><p>2 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>2 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 2 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 2 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 2 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 1 contribution</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 2 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 2 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 2 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 2 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
