@@ -21,12 +21,19 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Haskell</b></p>
+  <p>Today's daily code is in: <b>Objective-C</b></p>
   
   <div align="left">
 
-```hs
-main = putStrLn "Hello, World!"
+```m
+#import <Foundation/Foundation.h>
+
+int main() {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
 ```
 
   </div>
