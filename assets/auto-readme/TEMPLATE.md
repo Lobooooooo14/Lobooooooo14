@@ -8,12 +8,12 @@
 >
 > 📱 | Initially, I learned **Arduino** and **Python** using only **free ebooks** and a **cellphone**, and since then, I've been improving my skills.
 
-***
+---
 
 <div align="center">
   <p>I like these things:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,md,html,css,js,github,git,vscode,linux,ts,sass,react,vite,vercel,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,md,html,css,js,github,git,vscode,linux,ts,sass,react,vite,vercel,arduino,godot&perline=8" />
   </a>
 </div>
 
