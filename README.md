@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Ada</b></p>
+  <p>Today's daily code is in: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -63,10 +58,10 @@ end Hello_World;
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/GiverPlay007" target="_blank">GiverPlay007</a><p>13 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>5 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 13 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 6 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 5 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 4 contributions</span></li><li><a href="https://github.com/Nicky7x">Nicky7x</a><span> - 4 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 2 contributions</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
