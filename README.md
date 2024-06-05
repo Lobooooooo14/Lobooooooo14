@@ -21,17 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>C</b></p>
+  <p>Today's daily code is in: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
@@ -63,10 +58,10 @@ int main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <p>There are no contributors yet!</p>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>0 contribution</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <p align="center">...</p>
+                <ol><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
