@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Kotlin</b></p>
+  <p>Today's daily code is in: <b>R</b></p>
   
   <div align="left">
 
-```kt
-fun main() {
-    println("Hello, World!")
-}
+```r
+print("Hello, World!")
 ```
 
   </div>
