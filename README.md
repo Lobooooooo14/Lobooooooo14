@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Julia</b></p>
+  <p>Today's daily code is in: <b>Elixir</b></p>
   
   <div align="left">
 
-```jl
-println("Hello, World!")
+```ex
+IO.puts("Hello, World!")
 ```
 
   </div>
@@ -61,7 +61,7 @@ println("Hello, World!")
                 <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>14 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>4 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>2 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 14 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 2 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/artenlf">artenlf</a><span> - 14 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 2 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
