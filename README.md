@@ -21,12 +21,17 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Ruby</b></p>
+  <p>Today's daily code is in: <b>C++</b></p>
   
   <div align="left">
 
-```rb
-puts 'Hello, World!'
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 ```
 
   </div>
