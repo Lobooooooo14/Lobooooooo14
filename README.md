@@ -21,12 +21,19 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Haskell</b></p>
+  <p>Today's daily code is in: <b>Objective-C</b></p>
   
   <div align="left">
 
-```hs
-main = putStrLn "Hello, World!"
+```m
+#import <Foundation/Foundation.h>
+
+int main() {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
 ```
 
   </div>
@@ -58,10 +65,10 @@ main = putStrLn "Hello, World!"
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>27 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>26 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>14 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>32 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>26 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>14 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 27 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 26 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 14 contributions</span></li><li><a href="https://github.com/bennettricki">bennettricki</a><span> - 10 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 7 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 4 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/LestterX">LestterX</a><span> - 32 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 26 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 14 contributions</span></li><li><a href="https://github.com/bennettricki">bennettricki</a><span> - 10 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 7 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 4 contributions</span></li></ol>
             </td>
         </tr>
     </table>
