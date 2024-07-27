@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>OCaml</b></p>
+  <p>Today's daily code is in: <b>Bash</b></p>
   
   <div align="left">
 
-```ml
-print_endline "Hello, World!"
+```sh
+echo 'Hello, World!'
 ```
 
   </div>
