@@ -21,12 +21,17 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Matlab</b></p>
+  <p>Today's daily code is in: <b>Ada</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```adb
+with Ada.Text_IO;
+
+procedure Hello_World is
+begin
+   Ada.Text_IO.Put_Line ("Hello, World!");
+end Hello_World;
 ```
 
   </div>
