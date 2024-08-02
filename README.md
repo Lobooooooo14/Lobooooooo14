@@ -21,12 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Python</b></p>
+  <p>Today's daily code is in: <b>JavaScript</b></p>
   
   <div align="left">
 
-```py
-print('Hello, World!')
+```js
+console.log('Hello, World!');
 ```
 
   </div>
