@@ -21,16 +21,20 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>PHP</b></p>
+  <p>Today's daily code is in: <b>C#</b></p>
   
   <div align="left">
 
-```php
-<?php
+```cs
+using System;
 
-echo 'Hello, World!';
-
-?>
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
 ```
 
   </div>
