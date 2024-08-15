@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Kotlin</b></p>
+  <p>Today's daily code is in: <b>R</b></p>
   
   <div align="left">
 
-```kt
-fun main() {
-    println("Hello, World!")
-}
+```r
+print("Hello, World!")
 ```
 
   </div>
@@ -60,10 +58,10 @@ fun main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="100%"/><br><a href="https://github.com/eust-w" target="_blank">eust-w</a><p>10 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>7 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>7 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="100%"/><br><a href="https://github.com/eust-w" target="_blank">eust-w</a><p>11 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>7 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>7 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/eust-w">eust-w</a><span> - 10 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 7 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 5 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/eust-w">eust-w</a><span> - 11 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 7 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 6 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 4 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
