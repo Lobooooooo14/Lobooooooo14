@@ -21,14 +21,12 @@
 
 <div align="center">
   <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>Dart</b></p>
+  <p>Today's daily code is in: <b>PowerShell</b></p>
   
   <div align="left">
 
-```dart
-void main() {
-  print('Hello, World!');
-}
+```ps1
+Write-Host 'Hello, World!'
 ```
 
   </div>
@@ -63,7 +61,7 @@ void main() {
                 <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/168492663?v=4" width="100%"/><br><a href="https://github.com/Pardoardo" target="_blank">Pardoardo</a><p>38 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>11 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>8 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 38 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 11 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 7 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 7 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 38 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 11 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 8 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 8 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 7 contributions</span></li></ol>
             </td>
         </tr>
     </table>
