@@ -1,17 +1,13 @@
 <div align="center">
-  <h1>👋 Olar, i am <!-- AUTOREADME:NAME --></h1>
+  <h1>👋 Olá, eu sou o <!-- AUTOREADME:NAME --></h1>
 </div>
 
-> 🧑‍💻 | My favorite language to program in is **Python**, but I also know **JavaScript**. In recent years, I've started studying the **React** framework and **TypeScript**.
->
-> 💻 | I got introduced to programming in ~2016 through **Arduino**, but i decided to learn **Python** right after that.
->
-> 📱 | Initially, I learned **Arduino** and **Python** using only **free ebooks** and a **cellphone**, and since then, I've been improving my skills.
+> Olá, me chamo Gabriel Lobo, tenho 18 anos e sou um entusiasta de tecnologia. Conheci o mundo da programação em 2016 através do Arduino e desde então venho estudando e aprendendo novas ferramentas até hoje.
 
 ---
 
 <div align="center">
-  <p>I like these things:</p>
+  <p>Algumas coisas que eu gosto:</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,md,html,css,js,github,git,vscode,linux,ts,sass,react,vite,vercel,arduino,godot&perline=8" />
   </a>
@@ -20,8 +16,8 @@
 <br>
 
 <div align="center">
-  <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b><!-- AUTOREADME:DAILY_CODE_NAME --></b></p>
+  <h1>👨‍💻 Código do dia 👨‍💻</h1>
+  <p>O código do dia está em: <b><!-- AUTOREADME:DAILY_CODE_NAME --></b></p>
   
   <div align="left">
 
@@ -33,8 +29,8 @@
 <br>
 
 <div align="center">
-<h1>📈 Statistics 📈</h1>
-  <p>Most used languages:</p>
+<h1>📈 Estatísticas 📈</h1>
+  <p>Linguagens mais usadas:</p>
   <a href="https://github.com/Lobooooooo14" target="_blank">
     <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
   </a>
@@ -43,15 +39,15 @@
 <br>
 
 <div align="center">
-    <h1>🏆 Top followers 🏆</h1>
-    <p>Followers with more contributions in this month:</p>
+    <h1>🏆 Seguidores destaques 🏆</h1>
+    <p>Seguidores com mais contribuições no mês:</p>
     <table>
         <tr>
             <td align="center">
                 <p>Top 3</p>
             </td>
             <td align="center">
-                <p>Leaderboard</p>
+                <p>Classificações</p>
             </td>
         </tr>
         <tr>
