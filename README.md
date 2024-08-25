@@ -17,14 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Racket</b></p>
+  <p>O código do dia está em: <b>Erlang</b></p>
   
   <div align="left">
 
-```rkt
-#lang racket
+```erl
+-module(hello).
+-export([world/0]).
 
-(println "Hello, World!")
+world() ->
+    io:fwrite("Hello, World!\n").
 ```
 
   </div>
@@ -56,10 +58,10 @@
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/168492663?v=4" width="100%"/><br><a href="https://github.com/Pardoardo" target="_blank">Pardoardo</a><p>39 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>11 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>10 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/168492663?v=4" width="100%"/><br><a href="https://github.com/Pardoardo" target="_blank">Pardoardo</a><p>42 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>11 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>10 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 39 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 11 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 10 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 10 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 9 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 42 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 11 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 10 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 10 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 9 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li></ol>
             </td>
         </tr>
     </table>
