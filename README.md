@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Prolog</b></p>
+  <p>O código do dia está em: <b>Matlab</b></p>
   
   <div align="left">
 
-```pl
-:- initialization(writeln('Hello, World!')).
+```m
+disp('Hello, World!');
 ```
 
   </div>
