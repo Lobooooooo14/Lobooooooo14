@@ -17,12 +17,17 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Matlab</b></p>
+  <p>O código do dia está em: <b>Ada</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```adb
+with Ada.Text_IO;
+
+procedure Hello_World is
+begin
+   Ada.Text_IO.Put_Line ("Hello, World!");
+end Hello_World;
 ```
 
   </div>
