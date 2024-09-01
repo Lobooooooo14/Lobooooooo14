@@ -17,17 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Ada</b></p>
+  <p>O código do dia está em: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -59,10 +54,10 @@ end Hello_World;
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/168492663?v=4" width="100%"/><br><a href="https://github.com/Pardoardo" target="_blank">Pardoardo</a><p>45 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>13 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>12 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 45 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 13 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 12 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 10 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 9 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
