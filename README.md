@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Python</b></p>
+  <p>O código do dia está em: <b>JavaScript</b></p>
   
   <div align="left">
 
-```py
-print('Hello, World!')
+```js
+console.log('Hello, World!');
 ```
 
   </div>
@@ -54,10 +54,10 @@ print('Hello, World!')
         </tr>
         <tr>
             <td width="100px" align="center">
-                <p>There are no contributors yet!</p>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>5 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <p align="center">...</p>
+                <ol><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 5 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 2 contributions</span></li></ol>
             </td>
         </tr>
     </table>
