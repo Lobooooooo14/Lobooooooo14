@@ -17,17 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>C</b></p>
+  <p>O código do dia está em: <b>Ruby</b></p>
   
   <div align="left">
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+```rb
+puts 'Hello, World!'
 ```
 
   </div>
