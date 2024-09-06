@@ -17,12 +17,17 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Ruby</b></p>
+  <p>O código do dia está em: <b>C++</b></p>
   
   <div align="left">
 
-```rb
-puts 'Hello, World!'
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 ```
 
   </div>
