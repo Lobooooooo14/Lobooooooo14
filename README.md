@@ -17,17 +17,14 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>C++</b></p>
+  <p>O código do dia está em: <b>Swift</b></p>
   
   <div align="left">
 
-```cpp
-#include <iostream>
+```swift
+import Swift
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+print("Hello, World!")
 ```
 
   </div>
