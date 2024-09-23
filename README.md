@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>PowerShell</b></p>
+  <p>O código do dia está em: <b>Groovy</b></p>
   
   <div align="left">
 
-```ps1
-Write-Host 'Hello, World!'
+```groovy
+println 'Hello, World!'
 ```
 
   </div>
