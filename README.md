@@ -17,12 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Bash</b></p>
+  <p>O código do dia está em: <b>Haxe</b></p>
   
   <div align="left">
 
-```sh
-echo 'Hello, World!'
+```hx
+class HelloWorld {
+    static function main() {
+        trace("Hello, World!");
+    }
+}
 ```
 
   </div>
