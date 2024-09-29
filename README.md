@@ -17,16 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Haxe</b></p>
+  <p>O código do dia está em: <b>Prolog</b></p>
   
   <div align="left">
 
-```hx
-class HelloWorld {
-    static function main() {
-        trace("Hello, World!");
-    }
-}
+```pl
+:- initialization(writeln('Hello, World!')).
 ```
 
   </div>
@@ -61,7 +57,7 @@ class HelloWorld {
                 <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>35 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>15 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>13 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 35 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 15 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 13 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 6 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 5 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 3 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 35 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 15 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 13 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 6 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 5 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
