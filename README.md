@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Python</b></p>
+  <p>O código do dia está em: <b>JavaScript</b></p>
   
   <div align="left">
 
-```py
-print('Hello, World!')
+```js
+console.log('Hello, World!');
 ```
 
   </div>
