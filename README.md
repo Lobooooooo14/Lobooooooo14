@@ -17,12 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>JavaScript</b></p>
+  <p>O código do dia está em: <b>Java</b></p>
   
   <div align="left">
 
-```js
-console.log('Hello, World!');
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
   </div>
