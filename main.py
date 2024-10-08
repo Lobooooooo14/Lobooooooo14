@@ -110,7 +110,7 @@ def replace_tags(content: str, tags: dict) -> str:
 def create_medal_table(medal: str) -> str:
     logging.info("Creating medal table")
 
-    table = f"<td width=\"100px\" align=\"center\"><p>{medal}</p></td>"
+    table = f"<td width=\"100px\" align=\center\"><p>{medal}</p></td>"
 
     return table
 
