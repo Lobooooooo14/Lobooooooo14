@@ -17,20 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>C#</b></p>
+  <p>O código do dia está em: <b>Perl</b></p>
   
   <div align="left">
 
-```cs
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+```pl
+print "Hello, World!\n";
 ```
 
   </div>
@@ -62,10 +54,10 @@ class Program
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>3 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>2 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>8 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>3 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/75454542?v=4" width="100%"/><br><a href="https://github.com/samjamsh" target="_blank">samjamsh</a><p>2 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 6 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 3 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 2 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 2 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 8 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 3 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 2 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 2 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
