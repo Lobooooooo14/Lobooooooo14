@@ -17,15 +17,13 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Scala</b></p>
+  <p>O código do dia está em: <b>Kotlin</b></p>
   
   <div align="left">
 
-```scala
-object HelloWorld {
-    def main(args: Array[String]): Unit = {
-        println("Hello, World!")
-    }
+```kt
+fun main() {
+    println("Hello, World!")
 }
 ```
 
