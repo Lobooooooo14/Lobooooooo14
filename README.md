@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>R</b></p>
+  <p>O código do dia está em: <b>Haskell</b></p>
   
   <div align="left">
 
-```r
-print("Hello, World!")
+```hs
+main = putStrLn "Hello, World!"
 ```
 
   </div>
