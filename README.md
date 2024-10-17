@@ -17,12 +17,19 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Haskell</b></p>
+  <p>O código do dia está em: <b>Objective-C</b></p>
   
   <div align="left">
 
-```hs
-main = putStrLn "Hello, World!"
+```m
+#import <Foundation/Foundation.h>
+
+int main() {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
 ```
 
   </div>
