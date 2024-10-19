@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>TypeScript</b></p>
+  <p>O código do dia está em: <b>Julia</b></p>
   
   <div align="left">
 
-```ts
-console.log('Hello, World!');
+```jl
+println("Hello, World!")
 ```
 
   </div>
