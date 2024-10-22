@@ -17,14 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Dart</b></p>
+  <p>O código do dia está em: <b>PowerShell</b></p>
   
   <div align="left">
 
-```dart
-void main() {
-  print('Hello, World!');
-}
+```ps1
+Write-Host 'Hello, World!'
 ```
 
   </div>
