@@ -17,12 +17,14 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Groovy</b></p>
+  <p>O código do dia está em: <b>Racket</b></p>
   
   <div align="left">
 
-```groovy
-println 'Hello, World!'
+```rkt
+#lang racket
+
+(println "Hello, World!")
 ```
 
   </div>
