@@ -17,14 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Racket</b></p>
+  <p>O código do dia está em: <b>Erlang</b></p>
   
   <div align="left">
 
-```rkt
-#lang racket
+```erl
+-module(hello).
+-export([world/0]).
 
-(println "Hello, World!")
+world() ->
+    io:fwrite("Hello, World!\n").
 ```
 
   </div>
