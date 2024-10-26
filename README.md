@@ -17,16 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Erlang</b></p>
+  <p>O código do dia está em: <b>OCaml</b></p>
   
   <div align="left">
 
-```erl
--module(hello).
--export([world/0]).
-
-world() ->
-    io:fwrite("Hello, World!\n").
+```ml
+print_endline "Hello, World!"
 ```
 
   </div>
