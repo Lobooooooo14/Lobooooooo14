@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>OCaml</b></p>
+  <p>O código do dia está em: <b>Bash</b></p>
   
   <div align="left">
 
-```ml
-print_endline "Hello, World!"
+```sh
+echo 'Hello, World!'
 ```
 
   </div>
