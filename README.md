@@ -17,16 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Haxe</b></p>
+  <p>O código do dia está em: <b>Prolog</b></p>
   
   <div align="left">
 
-```hx
-class HelloWorld {
-    static function main() {
-        trace("Hello, World!");
-    }
-}
+```pl
+:- initialization(writeln('Hello, World!')).
 ```
 
   </div>
