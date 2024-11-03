@@ -17,12 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>JavaScript</b></p>
+  <p>O código do dia está em: <b>Java</b></p>
   
   <div align="left">
 
-```js
-console.log('Hello, World!');
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
   </div>
@@ -54,10 +58,10 @@ console.log('Hello, World!');
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="100%"/><br><a href="https://github.com/eust-w" target="_blank">eust-w</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>0 contribution</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>3 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="100%"/><br><a href="https://github.com/eust-w" target="_blank">eust-w</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 3 contributions</span></li><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
