@@ -17,12 +17,17 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Ruby</b></p>
+  <p>O código do dia está em: <b>C++</b></p>
   
   <div align="left">
 
-```rb
-puts 'Hello, World!'
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 ```
 
   </div>
@@ -54,10 +59,10 @@ puts 'Hello, World!'
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>2 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="100%"/><br><a href="https://github.com/eust-w" target="_blank">eust-w</a><p>1 contribution</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="100%"/><br><a href="https://github.com/idimetrix" target="_blank">idimetrix</a><p>129 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>2 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 6 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 2 contributions</span></li><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/idimetrix">idimetrix</a><span> - 129 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 6 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 2 contributions</span></li><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
