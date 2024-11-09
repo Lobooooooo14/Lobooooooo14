@@ -17,17 +17,13 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Go</b></p>
+  <p>O código do dia está em: <b>Rust</b></p>
   
   <div align="left">
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
+```rs
+fn main() {
+    println!("Hello, World!");
 }
 ```
 
@@ -60,10 +56,10 @@ func main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="100%"/><br><a href="https://github.com/idimetrix" target="_blank">idimetrix</a><p>147 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>4 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="100%"/><br><a href="https://github.com/idimetrix" target="_blank">idimetrix</a><p>148 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>6 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>4 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/idimetrix">idimetrix</a><span> - 147 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 6 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 4 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 2 contributions</span></li><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/idimetrix">idimetrix</a><span> - 148 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 6 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 4 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 2 contributions</span></li><li><a href="https://github.com/eust-w">eust-w</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
