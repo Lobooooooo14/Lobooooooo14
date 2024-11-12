@@ -1,4 +1,3 @@
-#isso é um comentário
 import os
 import sys
 import json
@@ -227,7 +226,7 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
 
 
 def main():
-    blacklist = ["isyuricunha"] # uses automations, e.g.
+    blacklist = ["isyuricunha", "idimetrix"] # uses automations, e.g.
 
     logging.info("Checking inputs")
     check_inputs()
