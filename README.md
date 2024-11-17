@@ -17,12 +17,19 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Haskell</b></p>
+  <p>O código do dia está em: <b>Objective-C</b></p>
   
   <div align="left">
 
-```hs
-main = putStrLn "Hello, World!"
+```m
+#import <Foundation/Foundation.h>
+
+int main() {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
 ```
 
   </div>
@@ -54,10 +61,10 @@ main = putStrLn "Hello, World!"
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="100%"/><br><a href="https://github.com/ipqwery" target="_blank">ipqwery</a><p>20 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>13 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/13619024?v=4" width="100%"/><br><a href="https://github.com/artenlf" target="_blank">artenlf</a><p>7 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>33 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="100%"/><br><a href="https://github.com/ipqwery" target="_blank">ipqwery</a><p>20 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/giverplay" target="_blank">giverplay</a><p>14 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/ipqwery">ipqwery</a><span> - 20 contributions</span></li><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 13 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/GiverPlay007">GiverPlay007</a><span> - 7 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 7 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 5 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 33 contributions</span></li><li><a href="https://github.com/ipqwery">ipqwery</a><span> - 20 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 14 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 7 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 7 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 5 contributions</span></li></ol>
             </td>
         </tr>
     </table>
