@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Julia</b></p>
+  <p>O código do dia está em: <b>Elixir</b></p>
   
   <div align="left">
 
-```jl
-println("Hello, World!")
+```ex
+IO.puts("Hello, World!")
 ```
 
   </div>
@@ -57,7 +57,7 @@ println("Hello, World!")
                 <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>34 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="100%"/><br><a href="https://github.com/ipqwery" target="_blank">ipqwery</a><p>20 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/giverplay" target="_blank">giverplay</a><p>14 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 34 contributions</span></li><li><a href="https://github.com/ipqwery">ipqwery</a><span> - 20 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 14 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 13 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 8 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 7 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 34 contributions</span></li><li><a href="https://github.com/ipqwery">ipqwery</a><span> - 20 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 14 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 13 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 9 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 7 contributions</span></li></ol>
             </td>
         </tr>
     </table>
