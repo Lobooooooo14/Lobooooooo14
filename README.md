@@ -17,12 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Matlab</b></p>
+  <p>O código do dia está em: <b>Python</b></p>
   
   <div align="left">
 
-```m
-disp('Hello, World!');
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -54,10 +54,10 @@ disp('Hello, World!');
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/99373133?v=4" width="100%"/><br><a href="https://github.com/gustavosett" target="_blank">gustavosett</a><p>35 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/37253454?v=4" width="100%"/><br><a href="https://github.com/giverplay" target="_blank">giverplay</a><p>22 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/106936924?v=4" width="100%"/><br><a href="https://github.com/LestterX" target="_blank">LestterX</a><p>14 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/gustavosett">gustavosett</a><span> - 35 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 22 contributions</span></li><li><a href="https://github.com/LestterX">LestterX</a><span> - 14 contributions</span></li><li><a href="https://github.com/artenlf">artenlf</a><span> - 9 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 8 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 7 contributions</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
