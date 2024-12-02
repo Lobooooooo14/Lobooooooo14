@@ -226,7 +226,7 @@ def monthly_contributions(user: NamedUser.NamedUser) -> str:
 
 
 def main():
-    blacklist = ["isyuricunha", "idimetrix", "ipqwery"] # uses automations, e.g.
+    blacklist = ["isyuricunha", "idimetrix", "ipqwery", "frontendlandingpages"] # uses automations, e.g.
 
     logging.info("Checking inputs")
     check_inputs()
