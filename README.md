@@ -17,17 +17,13 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Go</b></p>
+  <p>O código do dia está em: <b>Rust</b></p>
   
   <div align="left">
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
+```rs
+fn main() {
+    println!("Hello, World!");
 }
 ```
 
@@ -60,10 +56,10 @@ func main() {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>116 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>4 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>3 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>143 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>4 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>3 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 116 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 3 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 2 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 2 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 143 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 3 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 2 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 2 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
