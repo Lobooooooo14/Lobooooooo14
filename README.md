@@ -17,20 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>C#</b></p>
+  <p>O código do dia está em: <b>Perl</b></p>
   
   <div align="left">
 
-```cs
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+```pl
+print "Hello, World!\n";
 ```
 
   </div>
@@ -62,10 +54,10 @@ class Program
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>160 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>4 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>3 contributions</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>164 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/65344982?v=4" width="100%"/><br><a href="https://github.com/cookieukw" target="_blank">cookieukw</a><p>8 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>4 contributions</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 160 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 3 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 2 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 2 contributions</span></li><li><a href="https://github.com/samjamsh">samjamsh</a><span> - 2 contributions</span></li></ol>
+                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 164 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 8 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 4 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 3 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 2 contributions</span></li><li><a href="https://github.com/giverplay">giverplay</a><span> - 2 contributions</span></li></ol>
             </td>
         </tr>
     </table>
