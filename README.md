@@ -17,17 +17,12 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Ada</b></p>
+  <p>O código do dia está em: <b>Python</b></p>
   
   <div align="left">
 
-```adb
-with Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Ada.Text_IO.Put_Line ("Hello, World!");
-end Hello_World;
+```py
+print('Hello, World!')
 ```
 
   </div>
@@ -59,10 +54,10 @@ end Hello_World;
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>252 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/26858993?v=4" width="100%"/><br><a href="https://github.com/DeyvedAntonio" target="_blank">DeyvedAntonio</a><p>32 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/87309497?v=4" width="100%"/><br><a href="https://github.com/RafaZeero" target="_blank">RafaZeero</a><p>19 contributions</p></td></tr></table>
+                <p>There are no contributors yet!</p>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 252 contributions</span></li><li><a href="https://github.com/DeyvedAntonio">DeyvedAntonio</a><span> - 32 contributions</span></li><li><a href="https://github.com/RafaZeero">RafaZeero</a><span> - 19 contributions</span></li><li><a href="https://github.com/cookieukw">cookieukw</a><span> - 18 contributions</span></li><li><a href="https://github.com/Pardoardo">Pardoardo</a><span> - 6 contributions</span></li><li><a href="https://github.com/filipedeschamps">filipedeschamps</a><span> - 4 contributions</span></li></ol>
+                <p align="center">...</p>
             </td>
         </tr>
     </table>
