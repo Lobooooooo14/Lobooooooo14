@@ -17,15 +17,16 @@
 
 <div align="center">
   <h1>👨‍💻 Código do dia 👨‍💻</h1>
-  <p>O código do dia está em: <b>Java</b></p>
+  <p>O código do dia está em: <b>C</b></p>
   
   <div align="left">
 
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
 }
 ```
 
@@ -58,10 +59,10 @@ public class HelloWorld {
         </tr>
         <tr>
             <td width="100px" align="center">
-                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td></tr></table>
+                <table><tr><td width="100px" align="center"><p>:1st_place_medal:</p></td><td width="100px" align="center"><p>:2nd_place_medal:</p></td><td width="100px" align="center"><p>:3rd_place_medal:</p></td></tr><tr><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="100%"/><br><a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a><p>3 contributions</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/115048727?v=4" width="100%"/><br><a href="https://github.com/joao-nery" target="_blank">joao-nery</a><p>1 contribution</p></td><td width="100px" align="center"><img src="https://avatars.githubusercontent.com/u/4248081?v=4" width="100%"/><br><a href="https://github.com/filipedeschamps" target="_blank">filipedeschamps</a><p>0 contribution</p></td></tr></table>
             </td>
             <td width="fit-content" align="left">
-                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 1 contribution</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 1 contribution</span></li></ol>
+                <ol><li><a href="https://github.com/XiaomingX">XiaomingX</a><span> - 3 contributions</span></li><li><a href="https://github.com/joao-nery">joao-nery</a><span> - 1 contribution</span></li></ol>
             </td>
         </tr>
     </table>
