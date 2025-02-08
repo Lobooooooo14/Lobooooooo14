@@ -1,2 +1,6 @@
 .env
+.venv
 assets/auto-readme
+.mypy_cache
+output
+__pycache__

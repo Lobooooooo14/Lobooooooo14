@@ -1,0 +1,22 @@
+query ($cursor: String, $fromDate: DateTime, $toDate: DateTime) {
+  viewer {
+    followers(first: 100, after: $cursor) {
+      totalCount
+      nodes {
+        name
+        login
+        avatarUrl
+        url
+        contributionsCollection(from: $fromDate, to: $toDate) {
+          contributionCalendar {
+            totalContributions
+          }
+        }
+      }
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+    }
+  }
+}

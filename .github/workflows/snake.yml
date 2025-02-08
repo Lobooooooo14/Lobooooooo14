@@ -1,28 +1,30 @@
-name: 🐍 Generate Snake
+name: 🐍 Generate Snakommits
 
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 🐍 Generating Snake
+      - name: 🐍 Generating Snakommits
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Lobooooooo14
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            .github/assets/snakes/snake-light.svg
+            .github/assets/snakes/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        
+
       - name: 📤️ push snakes to the snake-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snake-output
-          build_dir: dist
+          build_dir: .github/assets/snakes
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}

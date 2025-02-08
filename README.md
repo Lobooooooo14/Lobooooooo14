@@ -1,35 +1,32 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Lobo</h1>
+  <h3>👋 Hi, I'm Lobo</h3>
+
+  <p>🐺 Hi, my name is Gabriel Lobo</p>
+  <p>🧔 I'm 18 years oldㅤㅤㅤㅤㅤㅤ</p>
+  <p>🧠 I'm a technology enthusiast</p>
+
+  <br/>
+
+  <img width="600" alt="Skills / cool things" src="https://skills-icons.vercel.app/api/icons?i=python,md,html,css,js,github,git,vscode,linux,node,ts,sass,react,vite,vercel,lottie,ionic,capacitor,zustand,framer,firebase,arduino,godot,tailwind,shadcnui,lucide,zorinos,pnpm,reactnative&perline=14" />
 </div>
 
-> Olá, me chamo Gabriel Lobo, tenho 18 anos e sou um entusiasta de tecnologia. Conheci o mundo da programação em 2016 através do Arduino e desde então venho estudando e aprendendo novas ferramentas até hoje.
-
----
+<hr />
 
 <div align="center">
-  <p>Algumas coisas que eu gosto:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=python,md,html,css,js,github,git,vscode,linux,node,ts,sass,react,vite,vercel,lottie,ionic,capacitor,zustand,framer,firebase,arduino,godot,tailwind,shadcnui,lucide,zorinos,pnpm,reactnative&perline=8" />
-  </a>
+  <h4>👤 Followers 👤</h4>
+  <p><i>Want to participate? just follow me!</i></p>
+  <img width="600" src=".github/assets/top3.svg" alt="Top 3 followers contributors (monthly)" />
 </div>
 
-<br>
-
 <div align="center">
-<h1>📈 Estatísticas 📈</h1>
-  <p>Linguagens mais usadas:</p>
-  <a href="https://github.com/Lobooooooo14" target="_blank">
-    <img src="https://github.com/Lobooooooo14/Lobooooooo14/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h1>🐍 Snakommits 🐍</h1>
+  <h4>🐍 Snakommits 🐍</h4>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/snake-light.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lobooooooo14/Lobooooooo14/snake-output/snake-light.svg">
     </picture>
 </div>
+
+<h6 align="right">
+  This profile is updated every day!
+<h6>
