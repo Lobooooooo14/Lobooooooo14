@@ -13,7 +13,9 @@ class GithubService:
         query = get_query("followers.graphql")
 
         if not query:
-            return []
+            raise ValueError(
+                f"No query found for {self.get_montly_followers_contributions.__name__}"
+            )
 
         from_date, to_date = get_current_month_interval()
 

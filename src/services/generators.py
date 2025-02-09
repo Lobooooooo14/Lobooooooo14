@@ -11,26 +11,52 @@ from textwrap import shorten
 
 
 class Top3ContributorsGenerator:
+    SVG_NS = {"svg": "http://www.w3.org/2000/svg"}
+
     def __init__(self, users: list[User] = []) -> None:
         self.tree = None
         self.users = users
-        self.template_path = get_template_path("top3_controbutions.svg")
+        self.template_path = get_template_path("top3/top3.svg")
+        self.need_users_template = get_template_path(
+            "top3/need-followers-contributions.svg"
+        )
 
     def create(self):
-        if self.template_path is None or len(self.users) < 3:
+        if self.template_path is None:
+            raise ValueError("No template found for top3 contributors generator")
+
+        if (
+            len(self.users) < 3
+            or sum(
+                [
+                    user.contributionsCollection.contributionCalendar.totalContributions
+                    for user in self.users
+                ]
+            )
+            < 1
+        ):
+            self.tree = ET.parse(self.need_users_template)
+            root = self.tree.getroot()
+
+            element = root.find(".//*[@id='message']", self.SVG_NS)
+
+            if element is not None:
+                element.text = (
+                    f"waiting for contributions from followers ({len(self.users)}/3)"
+                )
             return
 
         self.users.sort(
-            key=lambda x: x.contributionsCollection.contributionCalendar.totalContributions,
-            reverse=True,
+            key=lambda x: (
+                -x.contributionsCollection.contributionCalendar.totalContributions,
+                resolve_username(x),
+            )
         )
 
         top3_users = self.users[:3]
 
         self.tree = ET.parse(self.template_path)
         root = self.tree.getroot()
-
-        ns = {"svg": "http://www.w3.org/2000/svg"}
 
         users_contents = {
             "texts": {},
@@ -61,7 +87,7 @@ class Top3ContributorsGenerator:
 
         for content_type in users_contents.keys():
             for key, value in users_contents[content_type].items():
-                element = root.find(".//*[@id='{}']".format(key), ns)
+                element = root.find(".//*[@id='{}']".format(key), self.SVG_NS)
 
                 if element is not None:
                     if content_type == "texts":
@@ -71,8 +97,6 @@ class Top3ContributorsGenerator:
                     if content_type == "images":
                         element.attrib["href"] = ""
                         element.attrib["href"] = str(value)
-
-        ET.register_namespace("", "http://www.w3.org/2000/svg")
 
     def save(self, output: Path | str):
         if self.template_path is None or self.tree is None:
@@ -88,6 +112,8 @@ class Top3ContributorsGenerator:
 
         output.parent.mkdir(parents=True, exist_ok=True)
         output.touch(exist_ok=True)
+
+        ET.register_namespace("", "http://www.w3.org/2000/svg")
 
         self.tree.write(output, encoding="utf-8", xml_declaration=True)
 
