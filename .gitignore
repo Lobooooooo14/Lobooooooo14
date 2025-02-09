@@ -2,5 +2,6 @@
 .venv
 assets/auto-readme
 .mypy_cache
+.ruff_cache
 output
 __pycache__
