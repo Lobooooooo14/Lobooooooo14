@@ -1,6 +1,7 @@
 import requests
-from src.modules import User, Followers
-from src.utils import get_query, get_current_month_interval
+
+from src.modules import Followers, User
+from src.utils import get_current_month_interval, get_query
 
 
 class GithubService:
@@ -14,7 +15,8 @@ class GithubService:
 
         if not query:
             raise ValueError(
-                f"No query found for {self.get_montly_followers_contributions.__name__}"
+                "No query found for "
+                + self.get_montly_followers_contributions.__name__
             )
 
         from_date, to_date = get_current_month_interval()

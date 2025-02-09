@@ -1,5 +1,5 @@
-from datetime import datetime
 import calendar
+from datetime import datetime
 
 
 def get_current_month_interval() -> tuple[str, str]:

@@ -1,5 +1,7 @@
 from dataclasses import dataclass
-from . import PageInfo, User
+
+from src.modules.page_info import PageInfo
+from src.modules.user import User
 
 
 @dataclass

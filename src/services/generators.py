@@ -1,19 +1,19 @@
+import xml.etree.ElementTree as ET
 from pathlib import Path
+from textwrap import shorten
+
 from src.modules import User
 from src.utils import (
-    get_template_path,
-    resolve_username,
-    format_number,
     encode_image_from_url_to_data_image,
+    format_number,
+    get_template_path,
 )
-import xml.etree.ElementTree as ET
-from textwrap import shorten
 
 
 class Top3ContributorsGenerator:
     SVG_NS = {"svg": "http://www.w3.org/2000/svg"}
 
-    def __init__(self, users: list[User] = []) -> None:
+    def __init__(self, users: list[User] | None = None) -> None:
         self.tree = None
         self.users = users
         self.template_path = get_template_path("top3/top3.svg")
@@ -23,17 +23,18 @@ class Top3ContributorsGenerator:
 
     def create(self):
         if self.template_path is None:
-            raise ValueError("No template found for top3 contributors generator")
+            raise ValueError(
+                "No template found for top3 contributors generator"
+            )
+
+        if self.users is None:
+            raise ValueError(
+                "No users provided for top3 contributors generator"
+            )
 
         if (
             len(self.users) < 3
-            or sum(
-                [
-                    user.contributionsCollection.contributionCalendar.totalContributions
-                    for user in self.users
-                ]
-            )
-            < 1
+            or sum([user.get_total_contributions() for user in self.users]) < 1
         ):
             self.tree = ET.parse(self.need_users_template)
             root = self.tree.getroot()
@@ -42,14 +43,15 @@ class Top3ContributorsGenerator:
 
             if element is not None:
                 element.text = (
-                    f"waiting for contributions from followers ({len(self.users)}/3)"
+                    f"waiting for contributions from followers "
+                    f"({len(self.users)}/3)"
                 )
             return
 
         self.users.sort(
-            key=lambda x: (
-                -x.contributionsCollection.contributionCalendar.totalContributions,
-                resolve_username(x),
+            key=lambda user: (
+                -user.get_total_contributions(),
+                user.get_username(),
             )
         )
 
@@ -64,30 +66,32 @@ class Top3ContributorsGenerator:
         }
 
         for index, user in enumerate(top3_users):
-            user_contributions = (
-                user.contributionsCollection.contributionCalendar.totalContributions
-            )
+            user_contributions = user.get_total_contributions()
 
             users_contents["texts"].update(
                 {
                     f"user_{index}_username": shorten(
-                        resolve_username(user), width=19, placeholder="..."
+                        user.get_username(), width=19, placeholder="..."
                     ),
-                    f"user_{index}_contributions": f"{format_number(user_contributions)} Ctr.",
+                    f"user_{index}_contributions": (
+                        f"{format_number(user_contributions)} Ctr."
+                    ),
                 }
             )
 
             users_contents["images"].update(
                 {
-                    f"user_{index}_avatar": encode_image_from_url_to_data_image(
-                        f"{user.avatarUrl}&size=128"
-                    )
+                    f"user_{index}_avatar": (
+                        encode_image_from_url_to_data_image(
+                            f"{user.avatarUrl}&size=128"
+                        )
+                    ),
                 }
             )
 
-        for content_type in users_contents.keys():
+        for content_type in users_contents:
             for key, value in users_contents[content_type].items():
-                element = root.find(".//*[@id='{}']".format(key), self.SVG_NS)
+                element = root.find(f".//*[@id='{key}']", self.SVG_NS)
 
                 if element is not None:
                     if content_type == "texts":
@@ -118,4 +122,7 @@ class Top3ContributorsGenerator:
         self.tree.write(output, encoding="utf-8", xml_declaration=True)
 
     def __repr__(self) -> str:
-        return f"Top3ContributorsGenerator(users={self.users!r}, template={self.template_path!r})"
+        return (
+            f"Top3ContributorsGenerator(users={self.users!r},"
+            f"template={self.template_path!r})"
+        )

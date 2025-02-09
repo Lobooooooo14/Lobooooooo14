@@ -9,9 +9,40 @@ readme = "README.md"
 python = "^3.12"
 requests = "^2.32.3"
 rich = "^13.9.4"
-types-requests = "^2.32.0.20241016"
 python-dotenv = "^1.0.1"
 
+[tool.poetry.group.dev.dependencies]
+types-requests = "^2.32.0.20241016"
+taskipy = "^1.14.1"
+mypy = "^1.15.0"
+ruff = "^0.9.5"
+
+[tool.taskipy.tasks]
+lint = "ruff check"
+format = "ruff format"
+types = 'mypy .'
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.lint]
+select = ["E", "F", "UP", "B", "SIM", "I"]
+ignore = ["D104"]
+
+[tool.ruff.format]
+line-ending = "lf"
+indent-style = "space"
+quote-style = "double"
+docstring-code-format = true
+skip-magic-trailing-comma = false
+
+exclude = [".mypy_cache"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.mypy]
+ignore_missing_imports = true
 
 [build-system]
 requires = ["poetry-core"]

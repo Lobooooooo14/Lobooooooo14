@@ -1,9 +1,10 @@
 import os
-from dotenv import load_dotenv
-from src import GithubService
-from src.services.generators import Top3ContributorsGenerator
-from src.modules import User
 
+from dotenv import load_dotenv
+
+from src import GithubService
+from src.modules import User
+from src.services.generators import Top3ContributorsGenerator
 
 load_dotenv()
 
@@ -11,7 +12,7 @@ load_dotenv()
 def get_blacklisted_users() -> list[str]:
     blacklist = []
 
-    with open("assets/blacklist.txt", "r") as f:
+    with open("assets/blacklist.txt") as f:
         for line in f:
             blacklist.append(line.strip())
 
@@ -33,7 +34,9 @@ def main():
     followers_data = gh_service.get_montly_followers_contributions()
 
     followers = [
-        follower for follower in followers_data if follower.login not in blacklist
+        follower
+        for follower in followers_data
+        if follower.login not in blacklist
     ]
 
     create_top3(followers)
