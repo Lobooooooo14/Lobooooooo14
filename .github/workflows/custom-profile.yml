@@ -56,9 +56,8 @@ jobs:
 
       - name: 📂 Move files
         run: |
-          mkdir -p .github/assets/cards
           mkdir -p output/cards/
-          mv output/cards/* .github/assets/cards
+          mv output/cards/*.svg .github/assets/cards
 
       - name: 📤️ Push cards
         uses: stefanzweifel/git-auto-commit-action@v5
