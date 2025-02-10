@@ -48,7 +48,7 @@ def main():
         if follower.login not in blacklist
     ]
 
-    # create_top3(followers)
+    create_top3(followers)
     update_custom_readme(viewer, followers)
 
 
