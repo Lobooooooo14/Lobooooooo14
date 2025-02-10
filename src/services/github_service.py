@@ -1,6 +1,6 @@
 import requests
 
-from src.modules import Followers, User
+from src.modules import Followers, User, Viewer
 from src.utils import get_current_month_interval, get_query
 
 
@@ -9,6 +9,25 @@ class GithubService:
 
     def __init__(self, token: str):
         self.headers = {"Authorization": f"Bearer {token}"}
+
+    def get_viewer(self) -> Viewer:
+        query = get_query("viewer.graphql")
+
+        if not query:
+            raise ValueError("No query found for " + self.get_viewer.__name__)
+
+        response = requests.post(
+            self.GH_GRAPHQL_ENDPOINT,
+            headers=self.headers,
+            json={"query": query},
+        )
+
+        if response.status_code != 200:
+            raise ValueError("Failed to get viewer")
+
+        data: dict = response.json()
+
+        return Viewer(**data["data"]["viewer"])
 
     def get_montly_followers_contributions(self) -> list[User]:
         query = get_query("followers.graphql")

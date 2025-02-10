@@ -1,0 +1,11 @@
+query {
+  viewer {
+    name
+    login
+    avatarUrl
+    url
+    bio
+    url
+    location
+  }
+}

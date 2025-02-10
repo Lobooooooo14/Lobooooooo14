@@ -56,11 +56,17 @@ jobs:
 
       - name: 📂 Move files
         run: |
-          mkdir -p .github/assets
-          mv output/* .github/assets/
+          mkdir -p .github/assets/cards
+          mv output/cards/* .github/assets/cards
 
-      - name: 📤️ Push files to .github/assets
+      - name: 📤️ Push cards
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(ci): update custom profile"
-          file_pattern: ".github/assets/*"
+          commit_message: "chore(ci/cards): update custom cards"
+          file_pattern: ".github/assets/cards/*"
+      
+      - name: 📤️ Push readme
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(ci/readme): update auto readme"
+          file_pattern: "README.md"
