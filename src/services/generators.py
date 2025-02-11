@@ -1,4 +1,6 @@
+import json
 import xml.etree.ElementTree as ET
+from dataclasses import asdict
 from datetime import datetime, timezone
 from pathlib import Path
 from textwrap import shorten
@@ -7,6 +9,7 @@ from jinja2 import Environment
 
 from src.modules.user import User
 from src.modules.viewer import Viewer
+from src.services.gemini_service import GeminiService
 from src.utils import (
     encode_image_from_url_to_data_image,
     format_number,
@@ -135,7 +138,11 @@ class Top3ContributorsGenerator:
 
 class CustomReadme:
     def __init__(
-        self, readme_path: Path | str, viewer: Viewer, followers: list[User]
+        self,
+        readme_path: Path | str,
+        viewer: Viewer,
+        followers: list[User],
+        gemini_service: GeminiService,
     ) -> None:
         self.readme_path = readme_path
         self.env = Environment(
@@ -145,6 +152,7 @@ class CustomReadme:
         self.rendered_readme: str = ""
         self.viewer = viewer
         self.followers = followers
+        self.gemini_service = gemini_service
 
     def create(self) -> None:
         if self.readme_path is None:
@@ -182,6 +190,27 @@ class CustomReadme:
             for position, user in enumerate(self.followers)
         ]
 
+        json_prompt = json.dumps(
+            {
+                "followers": [
+                    {
+                        "position": position + 1,
+                        "username": user.get_username(),
+                        "bio": user.bio,
+                        "contributions": user.get_total_contributions(),
+                        "recent_activity_repos": [
+                            asdict(repo)
+                            for repo in user.repositoriesContributedTo.nodes
+                        ],
+                    }
+                    for position, user in enumerate(self.followers)
+                    if user.get_total_contributions() > 0 and position < 11
+                ],
+            }
+        )
+
+        ai_response = self.gemini_service.generate_ranking_review(json_prompt)
+
         self.rendered_readme = template.render(
             gh_name=self.viewer.get_username(),
             last_update=datetime.now(timezone.utc).strftime(
@@ -191,6 +220,7 @@ class CustomReadme:
                 [user.get_total_contributions() for user in self.followers]
             ),
             followers=followers_contributions,
+            ai_review=ai_response,
         )
 
     def save(self, output: Path | str):
@@ -225,4 +255,6 @@ class CustomReadme:
             f"CustomReadme(readme_path={self.readme_path!r},"
             f"rendered_readme={self.rendered_readme!r}, "
             f"env={self.env!r}"
+            f"viewer={self.viewer!r}, "
+            f"followers={self.followers!r})"
         )

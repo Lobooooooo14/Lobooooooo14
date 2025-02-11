@@ -50,6 +50,7 @@ jobs:
           poetry run python main.py
         env:
           TOKEN: ${{ secrets.TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: 📂 Move files
         run: |

@@ -1,9 +1,9 @@
 <div align="center">
-  <h3>👋 Hi, I'm {{ gh_name }}</h3>
+  <h3>👋 Olá, eu sou o {{ gh_name }}</h3>
   
-  <p>🐺 Hi, my name is Gabriel Lobo</p>
-  <p>🧔 I'm {{ '2006-07-02' | age }} years oldㅤㅤㅤㅤㅤㅤ</p>
-  <p>🧠 I'm a technology enthusiast</p>
+  <p>🐺 Me chamo Gabriel Loboㅤㅤㅤㅤㅤ</p>
+  <p>🧔 Eu tenho {{ '2006-07-02' | age }} anosㅤㅤㅤㅤㅤㅤㅤㅤ</p>
+  <p>🧠 Sou um entusiasta de tecnologia</p>
 
   <br/>
 
@@ -14,19 +14,19 @@
 
 {% if followers|length > 0 %}
 <div align="center">
-    <h4>👤 Followers 👤</h4>
-    <p><i>Want to participate? just follow me!</i></p>
+    <h4>👤 Seguidores 👤</h4>
+    <p><i>Gostaria de participar? Só me seguir!</i></p>
     <img width="600" src=".github/assets/cards/top3.svg" alt="Top 3 followers contributors (monthly)" />
     {% if followers|length > 2 and total_contributions > 0 %}
     <details>
-    <summary>Leaderboard</summary>
+    <summary>🏅 Classificações 🏅</summary>
     <br/>
     <table>
         <thead>
             <tr align="center">
-                <th>Position</th>
-                <th>Follower</th>
-                <th>Contributions</th>
+                <th>Posição</th>
+                <th>Seguidor</th>
+                <th>Contribuições</th>
             </tr>
         </thead>
         <tbody>
@@ -42,6 +42,11 @@
         </tbody>
     </table>
     </details>
+    <details>
+    <summary>✨ Review da IA ✨</summary>
+    <br/>
+    <div align="justify">{{ ai_review }}</div>
+    </details>
     {% endif %}
 </div>
 {% endif %}
@@ -56,5 +61,5 @@
 </div>
 
 <h6 align="right">
-  This profile is updated every day!<br/> <i>{{ last_update }}</i>
+  Esse perfil é atualizado diariamente!<br/> <i>{{ last_update }}</i>
 <h6>

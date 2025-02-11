@@ -7,6 +7,22 @@ query ($cursor: String, $fromDate: DateTime, $toDate: DateTime) {
         login
         avatarUrl
         url
+        bio
+        repositoriesContributedTo(first: 5, privacy: PUBLIC, includeUserRepositories: true, orderBy: { field: UPDATED_AT, direction: DESC }) {
+          nodes {
+            stargazerCount
+            description
+            nameWithOwner
+            updatedAt
+            createdAt
+            isFork
+            languages(first: 5, orderBy: { field: SIZE , direction: ASC }) {
+              nodes {
+                name
+              }
+            }
+          }
+        }
         contributionsCollection(from: $fromDate, to: $toDate) {
           contributionCalendar {
             totalContributions

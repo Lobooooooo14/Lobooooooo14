@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
 from src.modules.contributions_connection import ContributionsCollection
+from src.modules.repositories_contributed_to import RepositoriesContributedTo
 from src.utils import resolve_username
 
 
@@ -10,12 +11,19 @@ class User:
     login: str
     avatarUrl: str
     url: str
+    bio: str
     contributionsCollection: ContributionsCollection
+    repositoriesContributedTo: RepositoriesContributedTo
 
     def __post_init__(self):
         if isinstance(self.contributionsCollection, dict):
             self.contributionsCollection = ContributionsCollection(
                 **self.contributionsCollection
+            )
+
+        if isinstance(self.repositoriesContributedTo, dict):
+            self.repositoriesContributedTo = RepositoriesContributedTo(
+                **self.repositoriesContributedTo
             )
 
     def get_total_contributions(self):

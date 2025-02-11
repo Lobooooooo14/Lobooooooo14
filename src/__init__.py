@@ -1,3 +1,3 @@
-__all__ = ("GithubService",)
+__all__ = ("GithubService", "GeminiService")
 
-from .services import GithubService
+from .services import GeminiService, GithubService
