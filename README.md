@@ -35,37 +35,47 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>19 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>19 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td>8 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/BrenoGiori">Breno Magri Giori</a></td>
+                <td>7 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/joao-nery">João Nery</a></td>
-                <td>5 ctr.</td>
+                <td>9°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>10°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>4 ctr.</td>
             </tr>
         </tbody>
@@ -83,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  This profile is updated every day!<br/> <i>2025-02-10 at 03:39:22 UTC +0000</i>
+  This profile is updated every day!<br/> <i>2025-02-11 at 00:17:40 UTC +0000</i>
 <h6>
