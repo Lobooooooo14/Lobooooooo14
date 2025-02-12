@@ -30,51 +30,76 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>73 ctr.</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>95 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>31 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>75 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
+                <td>43 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>41 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>33 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>25 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>23 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>9°</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>22 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>14 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>11°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>12°</td>
                 <td><a href="https://github.com/joao-nery">João Nery</a></td>
                 <td>8 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>8 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
+                <td>13°</td>
                 <td><a href="https://github.com/BrenoGiori">Breno Magri Giori</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>14°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
+                <td>15°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>4 ctr.</td>
             </tr>
@@ -84,16 +109,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Rafael Lima de Morais</b>, 73 contribuições? Imagino que a maior parte seja refatorando ponto e vírgula. Ah, e parabéns pelo "Ragna clicker", 3 estrelas! Quase um AAA indie. Mas sério, você realmente usa Vim? Que tal um editor de texto da idade da pedra polida para combinar?</p>
-<p><b>Felipe Gueller</b>, 31 contribuições. Componentes HTML "diversos"? Espero que não sejam só botões com gradiente e alerts piscando. E usar HTML, CSS e Javascript em 2025? Que tal desenterrar o Flash e o Silverlight também? Se joga no curso de Origamid, quem sabe você aprende a centralizar uma div...</p>
-<p><b>CookieUkw</b>, 30 contribuições, quase alcançando o <b>Felipe</b>! Vejo que você está tentando criar uma IA "consciente". Boa sorte com isso. Enquanto isso, que tal dar uma olhada no seu "Advanced Snake Game"? Talvez a IA possa te ajudar a fazer a cobra virar sem bater na própria cauda.</p>
-<p><b>Filipe Deschamps</b>, 23 contribuições. Ah, o mestre dos cursos online... Será que as contribuições são só pra fazer o pessoal comprar o curso.dev? Pelo menos o "doom-fire-algorithm" tem mais de mil estrelas, dá pra esquentar a casa com tanto fogo.</p>
-<p><b>João Nery</b>, 8 contribuições. Uma calculadora em JavaScript? Que ousadia! Imagino que só faça as quatro operações básicas, mas ei, pelo menos não precisa de ábaco. E um jogo da velha? Clássico! Mas será que você consegue ganhar de uma IA que joga aleatoriamente?</p>
-<p><b>LestterX</b>, também com 8 contribuições, empatado com o <b>João</b>! Um portfólio "e sistemas"? Espero que o "e" não seja mais relevante que o "sistemas". E uma aplicação de entregas que não persiste os dados? Genial! Pra que se preocupar com o histórico, não é mesmo?</p>
-<p><b>Breno Magri Giori</b>, míseras 7 contribuições. Um bot do Discord? Que original! Aposto que ele manda memes e toca música, igual a todos os outros. Mas ei, pelo menos está usando Python, sinal de que você tem algum bom senso (ou só copiou e colou um tutorial).</p>
-<p><b>Gustavo Carvalho</b>, 6 contribuições. OpenTelemetry... Grafana Tempo... Parece que alguém está tentando impressionar com termos técnicos. Mas no fim das contas, 6 contribuições não impressionam ninguém. Será que pelo menos você sabe o que essas ferramentas fazem ou só está colocando palavras no currículo?</p>
-<p><b>giverplay</b>, com 5 contribuições. Projetos de jogos em Java? Minecraft 2D? Tower Defense? Que tal tentar algo mais original? E um addon para LabyMod? Será que ainda tem gente que usa isso? Talvez seja melhor focar em algo que não esteja em museu de tecnologia.</p>
-<p><b>Deyved Antonio</b>, apenas 4 contribuições. Um analista de dados que contribui menos que um estagiário? Irônico, não? Pelo menos você tem um projeto de análise de turnover. Que tal analisar o seu próprio turnover de contribuições e descobrir por que ele é tão baixo?</p>
+    <div align="justify"><p><b>Luan Fabri</b>, com 95 contribuições, você lidera o ranking, parabéns! Mas, "I have a brain" na bio? Sério? A gente já tinha percebido pela sua brilhante ideia de contribuir com um projeto chamado "free-resources". Esperamos que esses recursos gratuitos incluam um curso de auto-estima, porque, sinceramente, com essa bio, você precisa.</p>
+<p><b>Rafael Lima de Morais</b>, 75 contribuições. Vim, Go, Rust, TypeScript... Uau, que currículo! Pena que a contribuição mais recente foi num "Ragna clicker". É sério isso? Depois de dominar tantas linguagens, você está gastando seu tempo com um joguinho de clicker? Espero que pelo menos esteja ganhando dinheiro com isso, porque para aprendizado, já deu, né?</p>
+<p><b>Deivid Souza Santana</b>, 44 contribuições. Apaixonado por back-end, hein? Mas vamos ser sinceros, o que realmente chama a atenção é seu repositório "GenderClassificationWebApp". Classificar pessoas com base no nome? Genial! Daqui a pouco vai estar criando um algoritmo para prever o futuro com base na cor da cueca. Continue assim, Deivid, o mundo precisa de mais soluções... questionáveis.</p>
+<p><b>Lucas Ribeiro</b>, 43 contribuições. Desenvolvedor de Software em Recife. Seu portfólio diz tudo, não é mesmo? Especialmente a parte onde você mostra seus projetos feitos ao longo dos seus estudos. "AMA-server" e "AMA-web"... Sério, Lucas? "Ask Me Anything"? Isso existe desde o Orkut, cara. Inove um pouco, vai! Mas ei, pelo menos o front-end está atualizado, com commits fresquinhos de ontem! Quase que você me engana.</p>
+<p><b>CookieUkw</b>, 41 contribuições. Um "Advanced Snake Game"? Que ousadia! E ainda por cima, trabalhando num projeto de IA que talvez se torne consciente. Enquanto isso, a gente aqui, tentando entender como você consegue ter tempo para tudo isso. Ah, e parabéns pela API de biblioteca, aparentemente é o projeto mais recente, quem sabe não lemos um livro de auto ajuda e te indicamos.</p>
+<p><b>Felipe Gueller</b>, 33 contribuições. Componentes HTML diversos? Que específico! E ainda está aprendendo HTML, CSS e Javascript no curso da ORIGAMID? Em pleno 2025? Felipe, meu amigo, talvez seja hora de procurar um curso mais... atualizado. Ou quem sabe, criar seus próprios componentes HTML *realmente* diversos, em vez de ficar juntando pedacinhos por aí.</p>
+<p><b>Carlos Israel</b>, 25 contribuições. Engenheiro de Software apaixonado por tecnologia. Mas o que a tecnologia sente por você? Porque criar um repositório com o próprio nome "Cr-Israel"? É egocentrismo ou falta de criatividade? NLW Expert, SPA Universe... Parece que você está tentando abraçar o mundo com as mãos, mas acaba só tropeçando nos próprios pés. Menos, Carlos, bem menos.</p>
+<p><b>Filipe Deschamps</b>, 23 contribuições. "Quer se sentir competente em programação? Confere isso: curso.dev". Ah, entendi, o guru da programação! Mas com apenas 23 contribuições? Está mais para garoto propaganda do que para programador. Pelo menos o "doom-fire-algorithm" ainda impressiona, mesmo sendo de 2019. Mas, ei, quem somos nós para julgar? Afinal, você tem um curso para vender.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 22 contribuições. "Fã de IA", diz ele. Mas o que a IA acha disso? Será que ela te considera um fã de verdade ou só mais um curioso? E esse "dyMosaic"? Edição de imagem com filtro? Já existem uns 500 aplicativos que fazem isso, Lucas. Mas ei, a persistência é a chave do sucesso. Ou talvez não, mas continue tentando!</p>
+<p><b>giverplay</b>, com míseras 14 contribuições. "Olá, estranho! Bem-vindo ao meu perfil". Estranho é você achar que isso é um número aceitável de contribuições. Projetos de jogos em Java de 2020? Sério? Minecraft2D? Já inventaram o 3D, sabia? Talvez seja hora de dar um <i>"next level"</i> na sua carreira e <i>moverit</i> para longe desses projetos jurássicos.</p>
+<p><b>LestterX</b>, apenas 13 contribuições. Portfólio e Sistemas? Parece promissor... até você ler a descrição do "app-entregas-v1": "Esta aplicação não persiste os dados". Parabéns pela honestidade, LestterX! Pelo menos você já avisou que seu código é tão volátil quanto as promessas de um político. E um fork de um "whyapp-backend"? A originalidade mandou lembranças.</p>
 </div>
     </details>
 </div>
@@ -108,5 +134,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-11 at 01:46:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-12 at 00:18:04 UTC +0000</i>
 <h6>
