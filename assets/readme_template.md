@@ -33,7 +33,7 @@
             {% for position, name, url, contributions in followers %}
             {% if contributions > 0 %}
             <tr align="center">
-                <td>{{ position + 1 }}°</td>
+                <td>{{ position }}°</td>
                 <td><a href="{{ url }}">{{ name }}</a></td>
                 <td>{{ contributions }} ctr.</td>
             </tr>

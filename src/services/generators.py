@@ -182,12 +182,13 @@ class CustomReadme:
 
         followers_contributions = [
             (
-                position,
+                position + 1,
                 user.get_username(),
                 user.url,
                 user.get_total_contributions(),
             )
             for position, user in enumerate(self.followers)
+            if position + 1 < 11
         ]
 
         json_prompt = json.dumps(
