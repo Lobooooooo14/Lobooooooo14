@@ -1,6 +1,6 @@
 query ($cursor: String, $fromDate: DateTime, $toDate: DateTime) {
   viewer {
-    followers(first: 100, after: $cursor) {
+    followers(first: 20, after: $cursor) {
       totalCount
       nodes {
         name
@@ -8,7 +8,7 @@ query ($cursor: String, $fromDate: DateTime, $toDate: DateTime) {
         avatarUrl
         url
         bio
-        repositoriesContributedTo(first: 5, privacy: PUBLIC, includeUserRepositories: true, orderBy: { field: UPDATED_AT, direction: DESC }) {
+        repositoriesContributedTo(first: 4, privacy: PUBLIC, includeUserRepositories: true, orderBy: { field: UPDATED_AT, direction: DESC }) {
           nodes {
             stargazerCount
             description
@@ -16,7 +16,7 @@ query ($cursor: String, $fromDate: DateTime, $toDate: DateTime) {
             updatedAt
             createdAt
             isFork
-            languages(first: 5, orderBy: { field: SIZE , direction: ASC }) {
+            languages(first: 2, orderBy: { field: SIZE , direction: ASC }) {
               nodes {
                 name
               }
