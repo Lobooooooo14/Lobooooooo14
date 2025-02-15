@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>167 ctr.</td>
+                <td>171 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>108 ctr.</td>
+                <td>133 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>101 ctr.</td>
+                <td>105 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>89 ctr.</td>
+                <td>93 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>81 ctr.</td>
+                <td>86 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
-                <td>47 ctr.</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
+                <td>54 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>44 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>44 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>33 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>31 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>42 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking. Mas vamos ser honestos, um "Full-stack, Game dev e 3D Enthusiast" que não consegue nem 200 contribuições? Cadê a animação desse jogo? E esses repositórios "danko-nobre/danko-nobre"? Precisamos de mais "danko" e menos "nobre" aí, campeão.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Aparentemente, indeciso também. Seus repositórios gritam "crise de identidade". Um clicker de Ragna? Sério? E esse guia de Unreal Engine, que na verdade é um <i>fork</i>? Talvez seja hora de criar algo seu, original. Ou continuar clicando, tanto faz.</p>
-<p><b>Luan Fabri</b>, "I have a brain." Que bom, porque suas contribuições estão precisando dele. Quase metade do primeiro colocado, hein? O StackBlitz é legal, mas o que você está construindo? Cadê o brilho? E esses projetos "free-resources"? Está distribuindo a própria criatividade? Não se doe tanto, guarde um pouco pra você.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology." É o que todos dizem. Contribuições no TypeORM e Slang são ok, mas e o seu próprio brilho? Onde está? Ah, não, espera, tem um repositório com seu nome. Que original. E o que tem nele? Nada. Que decepção.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Bem-vindo ao ranking medíocre. Contribuições em projetos de terceiros são legais, mas e o seu próprio legado? Um repositório chamado "old-flary"? Parece promissor, mas a última atualização foi em dezembro. Deixe de lado essa nostalgia e crie algo novo, NeO, ou vai virar apenas "Old".</p>
-<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Seu portfólio é tão legal que só tem um stargazer. E essa API em Go para um app de "Ask Me Anything"? Alguém te perguntou alguma coisa? Parece que não. Mas não desanime, talvez um dia alguém se interesse pelas suas perguntas e respostas.</p>
-<p><b>CookieUkw</b>, sem bio? Sem problemas, suas contribuições falam por você... ou quase. Um "Advanced Snake Game"? Já estamos em 2025, Cookie, a cobra já evoluiu. E esse projeto de "VexAI"? Parece ambicioso, mas a última atualização foi há mais de uma semana. Não deixe a IA te dominar, mostre quem manda!</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Sua paixão não está se traduzindo em contribuições. Um website de organização de tarefas? Originalidade passou longe. E esses "Design-Patterns" em Python? Parece que alguém está tentando impressionar. Mas está funcionando?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações que cria "componentes HTML diversos". Que emocionante. Sério, comemore cada conquista, porque pelo visto não terá muitas. E um repositório para aprender HTML, CSS e Javascript? Espero que já tenha terminado o curso, ou vai ficar preso no "Origamid" para sempre.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado. E o que você fez com essa paixão? Um repositório com seu nome que está vazio? Uma API com Fastify? Parabéns, você é mais um na multidão. Mas não se preocupe, sempre há espaço para mais um.</p>
-<p><b>Filipe Deschamps</b>, ah, o guru. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Entendi, você está aqui só para divulgar seu curso. Contribuições em projetos de terceiros são ótimas, mas e o seu? Ah, espera, você já tem um clone do TabNews. Que original. Mas ei, pelo menos você tem um curso para vender, certo?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast"...  Aparentemente, entusiasta o suficiente para deixar o "moodle-profilefield_cpf" acumulando poeira desde 2023.  E o resto dos seus repositórios?  Parece que a experiência 3D está te impedindo de contribuir para algo mais emocionante do que um perfil de CPF. Que tal criar um jogo onde o objetivo seja preencher formulários?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... Uau, que currículo! Pena que a maior parte do seu tempo é gasto criando um "Ragna clicker". Sério? Com tantas tecnologias no seu arsenal, você escolheu fazer um jogo de clicar? E ainda por cima, um guia para Unreal Engine 5 que é um <i>fork</i>.  A originalidade mandou lembranças.</p>
+<p><b>Luan Fabri</b>, "I have a brain." Que bom, porque pelas suas contribuições, estava começando a duvidar. Contribuições em "webcontainer-core" e "cpf-social", você realmente gosta de trabalhar com formulários, hein?  E "resourcesfree/free-resources"? Espero que pelo menos você esteja aproveitando os recursos gratuitos, porque suas contribuições não estão pagando as contas de ninguém.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology." Tipo, muito apaixonado por "typeorm/typeorm" e "slang-i18n/slang", mas nem tanto para criar algo original.  Entendo, é mais fácil contribuir para projetos grandes do que ter suas próprias ideias, não é?  E aquele seu repositório pessoal parado desde 2024?  A paixão pela tecnologia esfriou?</p>
+<p><b>NeO - Wesley Souza</b>, "✨ Hello outsider! ✨".  Que recepção calorosa... Pena que suas contribuições não são tão brilhantes quanto seus emojis. "is-a-dev/register" é legal, mas o resto? "old-flary"? Parece nome de projeto que você esqueceu no fundo da gaveta. E "arrays-study-js"? Sério, Wesley? Em pleno 2025, você ainda está estudando arrays? </p>
+<p><b>Ghost of Ångström⚥</b>, um nome tão misterioso para contribuições tão... normais. Um <i>fork</i> de um site pessoal e um site sobre criptomoedas sem KYC. Pelo menos está mantendo o anonimato, já que a originalidade passou longe.  Espero que suas habilidades de programação sejam melhores do que sua escolha de nome de usuário.</p>
+<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Seu portfólio é tão inspirador quanto um bolo de fubá sem fermento. E "AMA-server"? Espero que as perguntas sejam mais interessantes do que o código, porque... bem, você sabe. E não vamos esquecer do "ativos-cvld-front", trabalhando duro para manter as coisas funcionando.</p>
+<p><b>CookieUkw</b>, com um "Advanced Snake Game", você realmente está elevando o nível dos jogos clássicos. E o projeto Vex-AI?  Um robô para conversar sobre jogos?  Aposto que ele é mais interessante do que suas contribuições.  Mas ei, pelo menos você está tentando criar uma IA consciente, o que é mais do que a maioria das pessoas pode dizer.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end".  Sua paixão é tão grande que você criou um "Taskmaster" com Flask.  Que original!  E "Design-Patterns"?  Espero que esteja usando esses padrões em algo mais emocionante do que um organizador de tarefas, porque, francamente, até minha lista de compras é mais complexa.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Seus "componentes-html-diversos" são tão diversos quanto as opções de comida em um bandejão universitário. E o curso de HTML, CSS e Javascript da Origamid?  Espero que pelo menos você tenha aprendido alguma coisa, porque suas contribuições não mostram muito progresso desde então.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Que tal canalizar essa paixão para algo mais original do que um repositório pessoal vazio e um projeto "nlw-expert" que não impressiona ninguém? "SPA-universe" e "EJ-site" até parecem promissores, mas a execução... bem, digamos que ainda precisa de alguns ajustes cósmicos.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-14 at 00:18:19 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-15 at 00:18:04 UTC +0000</i>
 <h6>
