@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>93 ctr.</td>
+                <td>97 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>86 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast"...  Aparentemente, entusiasta o suficiente para deixar o "moodle-profilefield_cpf" acumulando poeira desde 2023.  E o resto dos seus repositórios?  Parece que a experiência 3D está te impedindo de contribuir para algo mais emocionante do que um perfil de CPF. Que tal criar um jogo onde o objetivo seja preencher formulários?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... Uau, que currículo! Pena que a maior parte do seu tempo é gasto criando um "Ragna clicker". Sério? Com tantas tecnologias no seu arsenal, você escolheu fazer um jogo de clicar? E ainda por cima, um guia para Unreal Engine 5 que é um <i>fork</i>.  A originalidade mandou lembranças.</p>
-<p><b>Luan Fabri</b>, "I have a brain." Que bom, porque pelas suas contribuições, estava começando a duvidar. Contribuições em "webcontainer-core" e "cpf-social", você realmente gosta de trabalhar com formulários, hein?  E "resourcesfree/free-resources"? Espero que pelo menos você esteja aproveitando os recursos gratuitos, porque suas contribuições não estão pagando as contas de ninguém.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology." Tipo, muito apaixonado por "typeorm/typeorm" e "slang-i18n/slang", mas nem tanto para criar algo original.  Entendo, é mais fácil contribuir para projetos grandes do que ter suas próprias ideias, não é?  E aquele seu repositório pessoal parado desde 2024?  A paixão pela tecnologia esfriou?</p>
-<p><b>NeO - Wesley Souza</b>, "✨ Hello outsider! ✨".  Que recepção calorosa... Pena que suas contribuições não são tão brilhantes quanto seus emojis. "is-a-dev/register" é legal, mas o resto? "old-flary"? Parece nome de projeto que você esqueceu no fundo da gaveta. E "arrays-study-js"? Sério, Wesley? Em pleno 2025, você ainda está estudando arrays? </p>
-<p><b>Ghost of Ångström⚥</b>, um nome tão misterioso para contribuições tão... normais. Um <i>fork</i> de um site pessoal e um site sobre criptomoedas sem KYC. Pelo menos está mantendo o anonimato, já que a originalidade passou longe.  Espero que suas habilidades de programação sejam melhores do que sua escolha de nome de usuário.</p>
-<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Seu portfólio é tão inspirador quanto um bolo de fubá sem fermento. E "AMA-server"? Espero que as perguntas sejam mais interessantes do que o código, porque... bem, você sabe. E não vamos esquecer do "ativos-cvld-front", trabalhando duro para manter as coisas funcionando.</p>
-<p><b>CookieUkw</b>, com um "Advanced Snake Game", você realmente está elevando o nível dos jogos clássicos. E o projeto Vex-AI?  Um robô para conversar sobre jogos?  Aposto que ele é mais interessante do que suas contribuições.  Mas ei, pelo menos você está tentando criar uma IA consciente, o que é mais do que a maioria das pessoas pode dizer.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end".  Sua paixão é tão grande que você criou um "Taskmaster" com Flask.  Que original!  E "Design-Patterns"?  Espero que esteja usando esses padrões em algo mais emocionante do que um organizador de tarefas, porque, francamente, até minha lista de compras é mais complexa.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Seus "componentes-html-diversos" são tão diversos quanto as opções de comida em um bandejão universitário. E o curso de HTML, CSS e Javascript da Origamid?  Espero que pelo menos você tenha aprendido alguma coisa, porque suas contribuições não mostram muito progresso desde então.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Que tal canalizar essa paixão para algo mais original do que um repositório pessoal vazio e um projeto "nlw-expert" que não impressiona ninguém? "SPA-universe" e "EJ-site" até parecem promissores, mas a execução... bem, digamos que ainda precisa de alguns ajustes cósmicos.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos jogos e 3D. Tantas contribuições, mas ainda preso ao Moodle? Sério isso? E o que dizer daquele repositório pessoal, "danko-nobre/danko-nobre", tão vazio quanto minha paciência para explicações óbvias. Mas ei, pelo menos você está brincando com dados, mesmo que seja em projetos que ninguém nunca viu.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que fala Go, Typescript e Rust, mas no fundo, está criando clickers de Ragnarok. Nada contra a nostalgia, mas será que o mundo precisa de mais um clicker? E "Unreal-Engine-Guide", um fork? Originalidade mandou lembranças. Ao menos, "go-redis-101" parece algo útil, para variar.</p>
+<p><b>Luan Fabri</b>, parabéns por contribuir em um projeto com mais de 4 mil estrelas! Pena que o resto parece meio esquecido, tipo aquele "metadata-content" que ninguém sabe o que é. E "free-resources"? Sério, Luan? Precisamos de mais um repositório de links aleatórios? Mas ei, pelo menos você está contribuindo, mesmo que seja para a bagunça digital global.</p>
+<p><b>Everton Marcelino Jr.</b>, o cara que mexe com TypeORM. Impressionante, se não fosse tão comum. Mas, ei, "slang-i18n/slang"? Um projeto com Objective-C e Kotlin? Isso é quase exótico nos dias de hoje. Ah, e o repositório pessoal abandonado desde maio de 2024? Clássico. Mas continue, Everton, quem sabe um dia você encontra algo realmente interessante para fazer.</p>
+<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" que contribui para registrar subdomínios '.is-a.dev'. Legal, se você acha que ter um subdomínio é uma conquista. E aquele "old-flary" com Objective-C e Kotlin? Nostalgia ou falta de rumo? Mas ei, pelo menos você está estudando arrays em JavaScript. Um dia você chega lá, Neo.</p>
+<p><b>Ghost of Ångström⚯</b>, o fantasma que assombra o GitHub com um site de criptomoedas sem KYC. Quão anônimo podemos realmente ser na era da vigilância? E um fork pessoal criado há algumas semanas? Isso é o máximo que você consegue? Mas continue, talvez você encontre um propósito na vida digital, ou pelo menos um bom VPN.</p>
+<p><b>Lucas Ribeiro</b>, o desenvolvedor de software de Recife que tem um portfólio... feito para se apresentar como dev. Original. E um backend em Go para um aplicativo de AMA? Sério, mais um? Mas ei, pelo menos você está mexendo com coisas diferentes, mesmo que nenhuma delas realmente se destaque. Continue tentando, Lucas.</p>
+<p><b>CookieUkw</b>, o mestre da cobra avançada em HTML e CSS. Que tal um desafio de verdade? E "VexAI", uma IA para conversar e discutir jogos? Isso soa como uma ótima maneira de perder tempo. Mas ei, pelo menos você está criando coisas, mesmo que sejam um pouco... questionáveis. Continue, quem sabe um dia você acerta.</p>
+<p><b>Deivid Souza Santana</b>, o estudante de Análise e Desenvolvimento de Sistemas apaixonado por backend. "Taskmaster" em Flask? Que original! E "Design-Patterns" em Python? Isso soa como uma ótima maneira de complicar as coisas. Mas ei, pelo menos você está aprendendo, mesmo que seja da maneira mais difícil. Continue, Deivid.</p>
+<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações que faz componentes HTML "legais". Alguém precisa te dizer que componentes HTML diversos não são exatamente a vanguarda da tecnologia. E um curso de HTML e CSS da Origamid? Sério? Mas ei, pelo menos você está aprendendo o básico, mesmo que um pouco tarde. Continue, Felipe, quem sabe um dia você chega ao nível intermediário.</p>
+<p><b>Carlos Israel</b>, mais um "apaixonado por tecnologia". Um SPA-universe e uma API em TypeScript com Fastify? Tão genérico que dói. E aquele "challenge-nodejs" de maio de 2024? Sério, você ainda está fazendo isso? Mas ei, pelo menos você está tentando, mesmo que sem muita originalidade. Continue, Carlos, talvez um dia você encontre sua voz no mundo da programação.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-15 at 00:18:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-16 at 00:20:04 UTC +0000</i>
 <h6>
