@@ -36,47 +36,47 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>133 ctr.</td>
+                <td>143 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>106 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
                 <td>105 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
                 <td>97 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>92 ctr.</td>
+                <td>6°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
                 <td>71 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
                 <td>54 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>44 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>44 ctr.</td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>42 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>44 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos jogos e 3D. Tantas contribuições, mas ainda preso ao Moodle? Sério isso? E o que dizer daquele repositório pessoal, "danko-nobre/danko-nobre", tão vazio quanto minha paciência para explicações óbvias. Mas ei, pelo menos você está brincando com dados, mesmo que seja em projetos que ninguém nunca viu.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que fala Go, Typescript e Rust, mas no fundo, está criando clickers de Ragnarok. Nada contra a nostalgia, mas será que o mundo precisa de mais um clicker? E "Unreal-Engine-Guide", um fork? Originalidade mandou lembranças. Ao menos, "go-redis-101" parece algo útil, para variar.</p>
-<p><b>Luan Fabri</b>, parabéns por contribuir em um projeto com mais de 4 mil estrelas! Pena que o resto parece meio esquecido, tipo aquele "metadata-content" que ninguém sabe o que é. E "free-resources"? Sério, Luan? Precisamos de mais um repositório de links aleatórios? Mas ei, pelo menos você está contribuindo, mesmo que seja para a bagunça digital global.</p>
-<p><b>Everton Marcelino Jr.</b>, o cara que mexe com TypeORM. Impressionante, se não fosse tão comum. Mas, ei, "slang-i18n/slang"? Um projeto com Objective-C e Kotlin? Isso é quase exótico nos dias de hoje. Ah, e o repositório pessoal abandonado desde maio de 2024? Clássico. Mas continue, Everton, quem sabe um dia você encontra algo realmente interessante para fazer.</p>
-<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" que contribui para registrar subdomínios '.is-a.dev'. Legal, se você acha que ter um subdomínio é uma conquista. E aquele "old-flary" com Objective-C e Kotlin? Nostalgia ou falta de rumo? Mas ei, pelo menos você está estudando arrays em JavaScript. Um dia você chega lá, Neo.</p>
-<p><b>Ghost of Ångström⚯</b>, o fantasma que assombra o GitHub com um site de criptomoedas sem KYC. Quão anônimo podemos realmente ser na era da vigilância? E um fork pessoal criado há algumas semanas? Isso é o máximo que você consegue? Mas continue, talvez você encontre um propósito na vida digital, ou pelo menos um bom VPN.</p>
-<p><b>Lucas Ribeiro</b>, o desenvolvedor de software de Recife que tem um portfólio... feito para se apresentar como dev. Original. E um backend em Go para um aplicativo de AMA? Sério, mais um? Mas ei, pelo menos você está mexendo com coisas diferentes, mesmo que nenhuma delas realmente se destaque. Continue tentando, Lucas.</p>
-<p><b>CookieUkw</b>, o mestre da cobra avançada em HTML e CSS. Que tal um desafio de verdade? E "VexAI", uma IA para conversar e discutir jogos? Isso soa como uma ótima maneira de perder tempo. Mas ei, pelo menos você está criando coisas, mesmo que sejam um pouco... questionáveis. Continue, quem sabe um dia você acerta.</p>
-<p><b>Deivid Souza Santana</b>, o estudante de Análise e Desenvolvimento de Sistemas apaixonado por backend. "Taskmaster" em Flask? Que original! E "Design-Patterns" em Python? Isso soa como uma ótima maneira de complicar as coisas. Mas ei, pelo menos você está aprendendo, mesmo que seja da maneira mais difícil. Continue, Deivid.</p>
-<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações que faz componentes HTML "legais". Alguém precisa te dizer que componentes HTML diversos não são exatamente a vanguarda da tecnologia. E um curso de HTML e CSS da Origamid? Sério? Mas ei, pelo menos você está aprendendo o básico, mesmo que um pouco tarde. Continue, Felipe, quem sabe um dia você chega ao nível intermediário.</p>
-<p><b>Carlos Israel</b>, mais um "apaixonado por tecnologia". Um SPA-universe e uma API em TypeScript com Fastify? Tão genérico que dói. E aquele "challenge-nodejs" de maio de 2024? Sério, você ainda está fazendo isso? Mas ei, pelo menos você está tentando, mesmo que sem muita originalidade. Continue, Carlos, talvez um dia você encontre sua voz no mundo da programação.</p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o multi-artista. Full-stack, game dev, 3D enthusiast... e apenas 171 contribuições? Parece que a criatividade está sendo usada em tudo, menos em contribuir. Pelo menos o <i>moodle-profilefield_cpf</i> do Willianmano está fazendo mais sucesso que seus projetos pessoais. Talvez menos "toque de 3D" e mais "toque de contribuição" ajudasse.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que fala Go, Typescript e Rust, mas pelo visto só contribui para repositórios com 3 estrelas ou menos. Entendo a paixão por Vim, mas talvez um editor de código mais moderno te desse aquele "<i>boost</i>" nas contribuições. E criar um guia para Unreal Engine 5 em Fevereiro de 2024, foi esperto, pena que era um fork. </p>
+<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" que contribui para um projeto com quase 6 mil estrelas. Que tal usar essa energia toda para algo mais original? Se precisar de ajuda com as suas próprias contribuições, já sabe, ele está aqui... para te lembrar que você precisa contribuir mais. Seu portfólio "neopromic/neopromic" é tão vazio quanto minhas esperanças nas suas contribuições este mês.</p>
+<p><b>Luan Fabri</b>, "I have a brain." Que bom, porque com 105 contribuições, está quase alcançando a média. Contribuindo em <i>stackblitz/webcontainer-core</i>, hein? Será que está usando o próprio cérebro para resolver os problemas, ou só para deixar um "<i>me too</i>" nas issues? E o repositório de CPF? Está ajudando a Receita Federal agora? </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Aparentemente, a paixão não se traduz em contribuições significativas. Contribuindo em <i>typeorm/typeorm</i> e <i>slang-i18n/slang</i>, hein? Será que está traduzindo os erros para português? Quase 100 contribuições, quase lá, continue tentando, quem sabe um dia você chega no top 3.</p>
+<p><b>Cézar</b>, o ".NET Developer" que contribui tão pouco que seu perfil é quase um 404. Sua contribuição mais recente foi em Julho de 2024. Espero que você esteja contribuindo mais para projetos .NET fora do GitHub, porque aqui está bem fraco. Que tal usar o poder do .NET para criar um bot que contribui automaticamente?</p>
+<p><b>Ghost of Ångström ⚥</b>, o fantasma das contribuições. Renasceu em Janeiro com um fork, mas ainda está assustando a gente com essa falta de commits. Pelo menos está promovendo a privacidade com o <i>criptolivre</i>. Será que ele usa criptomoedas para comprar contribuições? Precisamos de mais espectros contribuindo, menos assombrações.</p>
+<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Seu portfólio tem 1 estrela, mas suas contribuições... bem, vamos dizer que estão no mesmo nível. Contribuiu no <i>Ativos-Tecnologia/ativos-cvld-front</i> recentemente, espero que esteja usando protetor solar porque o brilho das suas contribuições ainda não chegou por aqui. Mas não desanime, continue tentando, quem sabe um dia você chega lá.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Se a paixão fosse medida em contribuições, estaríamos em um relacionamento frio e distante. Mas ei, pelo menos você está estudando estruturas de dados e design patterns. Quem sabe em 2026 você não chega no top 5? <i>Taskmaster</i> parece interessante, pena que a última atualização foi em Dezembro de 2024.</p>
+<p><b>CookieUkw</b>, contribuindo para projetos de IA, hein? Será que a IA vai contribuir mais do que você este mês? O <i>PocketLibraryAPI</i> parece promissor, mas com poucas atualizações. E o colab para treinar IAs? Espero que a IA esteja aprendendo a contribuir mais do que você. Afinal, para isso que ela foi criada, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, o mestre dos "componentes-html-diversos". Diversos, sim, em quantidade. Em qualidade... bem, deixemos para lá. Pelo menos está aprendendo HTML, CSS e Javascript no curso do ORIGAMID. Quem sabe um dia você não cria um componente que contribui automaticamente para o seu perfil? Mas, ei, 42 contribuições é quase a idade da vida, continue assim!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-16 at 00:20:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-17 at 00:19:31 UTC +0000</i>
 <h6>
