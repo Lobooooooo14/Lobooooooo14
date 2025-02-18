@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>171 ctr.</td>
+                <td>188 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,43 +40,43 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>126 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>106 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>106 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>106 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>105 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>97 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>77 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>85 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
                 <td>71 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
-                <td>54 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>45 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>44 ctr.</td>
+                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
+                <td>66 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o multi-artista. Full-stack, game dev, 3D enthusiast... e apenas 171 contribuições? Parece que a criatividade está sendo usada em tudo, menos em contribuir. Pelo menos o <i>moodle-profilefield_cpf</i> do Willianmano está fazendo mais sucesso que seus projetos pessoais. Talvez menos "toque de 3D" e mais "toque de contribuição" ajudasse.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que fala Go, Typescript e Rust, mas pelo visto só contribui para repositórios com 3 estrelas ou menos. Entendo a paixão por Vim, mas talvez um editor de código mais moderno te desse aquele "<i>boost</i>" nas contribuições. E criar um guia para Unreal Engine 5 em Fevereiro de 2024, foi esperto, pena que era um fork. </p>
-<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" que contribui para um projeto com quase 6 mil estrelas. Que tal usar essa energia toda para algo mais original? Se precisar de ajuda com as suas próprias contribuições, já sabe, ele está aqui... para te lembrar que você precisa contribuir mais. Seu portfólio "neopromic/neopromic" é tão vazio quanto minhas esperanças nas suas contribuições este mês.</p>
-<p><b>Luan Fabri</b>, "I have a brain." Que bom, porque com 105 contribuições, está quase alcançando a média. Contribuindo em <i>stackblitz/webcontainer-core</i>, hein? Será que está usando o próprio cérebro para resolver os problemas, ou só para deixar um "<i>me too</i>" nas issues? E o repositório de CPF? Está ajudando a Receita Federal agora? </p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Aparentemente, a paixão não se traduz em contribuições significativas. Contribuindo em <i>typeorm/typeorm</i> e <i>slang-i18n/slang</i>, hein? Será que está traduzindo os erros para português? Quase 100 contribuições, quase lá, continue tentando, quem sabe um dia você chega no top 3.</p>
-<p><b>Cézar</b>, o ".NET Developer" que contribui tão pouco que seu perfil é quase um 404. Sua contribuição mais recente foi em Julho de 2024. Espero que você esteja contribuindo mais para projetos .NET fora do GitHub, porque aqui está bem fraco. Que tal usar o poder do .NET para criar um bot que contribui automaticamente?</p>
-<p><b>Ghost of Ångström ⚥</b>, o fantasma das contribuições. Renasceu em Janeiro com um fork, mas ainda está assustando a gente com essa falta de commits. Pelo menos está promovendo a privacidade com o <i>criptolivre</i>. Será que ele usa criptomoedas para comprar contribuições? Precisamos de mais espectros contribuindo, menos assombrações.</p>
-<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Seu portfólio tem 1 estrela, mas suas contribuições... bem, vamos dizer que estão no mesmo nível. Contribuiu no <i>Ativos-Tecnologia/ativos-cvld-front</i> recentemente, espero que esteja usando protetor solar porque o brilho das suas contribuições ainda não chegou por aqui. Mas não desanime, continue tentando, quem sabe um dia você chega lá.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Se a paixão fosse medida em contribuições, estaríamos em um relacionamento frio e distante. Mas ei, pelo menos você está estudando estruturas de dados e design patterns. Quem sabe em 2026 você não chega no top 5? <i>Taskmaster</i> parece interessante, pena que a última atualização foi em Dezembro de 2024.</p>
-<p><b>CookieUkw</b>, contribuindo para projetos de IA, hein? Será que a IA vai contribuir mais do que você este mês? O <i>PocketLibraryAPI</i> parece promissor, mas com poucas atualizações. E o colab para treinar IAs? Espero que a IA esteja aprendendo a contribuir mais do que você. Afinal, para isso que ela foi criada, não é mesmo?</p>
-<p><b>Felipe Gueller</b>, o mestre dos "componentes-html-diversos". Diversos, sim, em quantidade. Em qualidade... bem, deixemos para lá. Pelo menos está aprendendo HTML, CSS e Javascript no curso do ORIGAMID. Quem sabe um dia você não cria um componente que contribui automaticamente para o seu perfil? Mas, ei, 42 contribuições é quase a idade da vida, continue assim!</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos três mundos: Full-stack, Game dev e 3D. Imagino que seus dias sejam divididos entre corrigir bugs em Moodle e modelar assets em low poly. E essa bio? "Crafting web & game experiences with a touch of 3D." Que poético. Quase me fez esquecer que você está em primeiro lugar, mas não se anime muito, o mês ainda não acabou. E cá entre nós, um profilefield de CPF para o Moodle? Sério? Isso soa como uma daquelas ideias que surgem às 3 da manhã.</p>
+<p><b>Rafael Lima de Morais</b>, o poliglota do software: Go, Typescript, Rust, e até Vim! Aposto que você digita seus commits em hexadecimal. Um clicker de Ragnarok? Isso explica muita coisa. E pelo visto, está explorando o mundo da Unreal Engine, hein? Mas cuidado, dizem que C++ pode causar calos nos dedos. Mas não se preocupe, com certeza você já está criando um plugin para o Vim que automatiza a criação de builds da Unreal Engine.</p>
+<p><b>Luan Fabri</b>, parabéns, você tem um cérebro! Uma pena que aparentemente o usa para contribuir em projetos que ninguém nunca ouviu falar, a não ser, é claro, o stackblitz/webcontainer-core. Ah, e o que dizer do seu repositório de CPF? Tão útil quanto um pente em um careca. Mas não se preocupe, Luan, pelo menos você está contribuindo, diferente de... bem, você sabe.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que clichê! Mas vamos ver o que temos aqui: TypeORM, slang-i18n... parece que alguém gosta de frameworks robustos e internacionalização. E aquele seu repositório pessoal, EvertonMJunior? Uma verdadeira cápsula do tempo. Mas falando sério, você tem contribuído em projetos bem interessantes, parabéns. Só não deixe a paixão pela tecnologia te cegar para o mundo real.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, engenheiro eletricista fã de IA! Uma combinação inusitada, devo admitir. E essa SonhoRealStore? Quase me convenceu a comprar algo que eu não preciso. Mas, ei, pelo menos você está explorando novas tecnologias, como AstroJS e Next.js. Quem sabe no futuro você não estará criando a próxima grande IA que dominará o mundo? Ou, quem sabe, apenas mais uma loja virtual.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que recepção calorosa. E o que temos aqui? Contribuições para o is-a-dev/register, um projeto que aparentemente distribui subdomínios ".is-a.dev". Que generosidade! Mas e os seus próprios projetos, Neo? old-flary, arrays-study-js... parece que alguém está explorando diferentes áreas do desenvolvimento. Continue assim, quem sabe um dia você não se torna o próximo grande guru da programação?</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET. Aparentemente, seu único repositório público é o wTechnoo/wTechnoo. O que será que ele esconde? Segredos obscuros do mundo .NET? Ou apenas um currículo online mal formatado? Nunca saberemos. Mas ei, pelo menos você está na lista, Cézar. Isso já é mais do que muitos podem dizer.</p>
+<p><b>Ghost of Ångström⚥</b>, com esse nome, esperava contribuições mais... assustadoras. Mas, em vez disso, vejo um fork do ghostofangstrom.github.io e o criptolivre, um site que reúne serviços de criptomoedas sem KYC. Interessante... será que você está tentando se esconder de algo? Ou apenas um defensor da privacidade? De qualquer forma, continue contribuindo, quem sabe um dia você não se torna o próximo Satoshi Nakamoto?</p>
+<p><b>Gustavo Carvalho</b>, o "Solver of computer science and engineering problems". Uau, que pretensão! Mas vamos ver se você entrega o que promete: OpenTelemetry, Grafana Tempo... parece que alguém está trabalhando com telemetria e observabilidade. Que emocionante! Mas falando sério, Gustavo, você tem contribuído em projetos bem importantes, parabéns. Só não deixe o ego inflar demais, ok?</p>
+<p><b>Lucas Ribeiro</b>, o desenvolvedor de software de Recife. Seu portfólio é... interessante. E essa API para um aplicativo de AMA? Parece promissor. Mas, Lucas, uma dica: tente diversificar seus projetos. Não se prenda apenas a portfólios e APIs simples. Explore novas tecnologias, desafie-se. Quem sabe no futuro você não estará criando o próximo grande aplicativo que revolucionará o mundo?</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. Seus "componentes-html-diversos" são... diversos, sem dúvida. E o repositório do curso da Origamid? Clássico. Mas, Felipe, uma sugestão: tente criar algo original. Saia da zona de conforto dos tutoriais e cursos online. O mundo precisa de mais criatividade e menos repetição. Quem sabe você não nos surpreende com algo realmente inovador?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-17 at 00:19:31 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-18 at 00:18:11 UTC +0000</i>
 <h6>
