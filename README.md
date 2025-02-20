@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, 209 contribuições? Que inveja! Será que dá pra usar suas habilidades de "Game dev" e "3D Enthusiast" pra criar um jogo onde a gente consiga simular a sensação de ter uma vida social? E esse "moodle-profilefield_cpf", hein? Mantendo a gente em dia com a burocracia até no EAD.</p>
-<p><b>Rafael Lima de Morais</b>, com 166 contribuições, você está quase lá! Mas me diz, esse "Ragna clicker" é tão viciante quanto parece? E clonar um guia da Unreal Engine? Originalidade mandou lembranças. Ao menos está contribuindo para a educação alheia, mesmo que indiretamente.</p>
-<p><b>Luan Fabri</b>, 138 contribuições, quase um terço do primeiro lugar! "I have a brain." É bom saber, porque olhando seus repositórios, às vezes fica a dúvida. Ah, e obrigado por nos lembrar dos "recursosfree/free-resources", porque pagar por coisas é tão 2024...</p>
-<p><b>Everton Marcelino Jr.</b>, com 127 contribuições, você está na média. Mas sério, "passionate about technology"? Que ousadia! Contribuindo para o TypeORM? Que bom que alguém está cuidando disso. Mas e o seu próprio repositório? Alguma novidade desde maio do ano passado?</p>
-<p><b>NeO - Wesley Souza</b>, 120 contribuições. "Hello outsider!" Imagino que seus arrays-study-js estejam bombando, né? E esse "old-flary"? Imagino que esteja dando muito trabalho em Objective-C e Kotlin, uma verdadeira salada de frutas tecnológica. Ao menos está ajudando as pessoas a conseguirem um subdomínio ".is-a.dev".</p>
-<p><b>Gustavo Carvalho</b>, 112 contribuições, quase no top 5! "Interested to contribute and sometimes colaborate"? Que poético! Mas me diz, você realmente entende tudo que está contribuindo ou só está seguindo a manada do OpenTelemetry?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 108 contribuições. "Fã de IA"? Que original! Imagino que o "dyMosaic" esteja fazendo sucesso no mundo da edição de imagens com filtro. E essa "SonhoRealStore"? Que bom que está treinando, porque o mundo precisa de mais lojas demo.</p>
-<p><b>Cézar</b>, com 93 contribuições, você está quase lá... quase! Mas me diz, esse seu perfil "wTechnoo/wTechnoo" está te dando o destaque que você merece? Ou é só mais um repositório fantasma no vasto universo do GitHub?</p>
-<p><b>Felipe Gueller</b>, 78 contribuições. Quase lá! Mas esses "componentes-html-diversos" são realmente diversos ou só mais do mesmo? E o curso do ORIGAMID? Já aprendeu a fazer um site que preste ou ainda está preso no HTML e CSS básicos?</p>
-<p><b>Lucas Ribeiro</b>, 77 contribuições. Que decepção! Seu portfólio é tão "Bem-vindo!" que até me emocionei. E essa API em Go para um aplicativo de AMA? Espero que as perguntas sejam mais interessantes que suas contribuições.</p>
-<p><b>Ghost of Ångström⚯</b>, 71 contribuições. Assustadoramente medíocre! Esse nome é mais interessante que suas contribuições. Ao menos está promovendo a privacidade e autonomia financeira com o "criptolivre", porque o mundo precisa de mais criptomoedas sem KYC.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Com 209 contribuições, você quase conseguiu ser notado. Quase. Continue assim, quem sabe um dia você impressiona alguém além da sua mãe. Ah, e obrigado por manter vivo aquele projeto Moodle de 2014, aposto que ele te agradece.</p>
+<p><b>Rafael Lima de Morais</b>, segundo lugar com 166 contribuições. Impressionante como você consegue dividir seu tempo entre Go, Typescript, Rust e... Ragna Clicker? Sério? E ainda por cima forkou um guia de Unreal Engine. Que versatilidade, ou seria indecisão? </p>
+<p><b>Luan Fabri</b>, 138 contribuições e um "I have a brain." na bio? Provavelmente está superestimando o uso dele. Contribuiu para o webcontainer-core, ok, mas também para um "CPF Social".  Prioridades, Luan, prioridades.</p>
+<p><b>Everton Marcelino Jr.</b>, com 127 contribuições. Tipo assim, "apaixonado por tecnologia", mas contribui para TypeORM.  Parabéns, você está ajudando a perpetuar o legado do ORM. E o que dizer daquele seu repositório pessoal?  Que audácia, hein?</p>
+<p><b>NeO - Wesley Souza</b>, 120 contribuições.  "Hello outsider!" diz o bio. Contribuições em is-a.dev, ok, mas "old-flary"?  Parece nome de remédio para verme.  E Arrays-study-js?  Sério, com essa idade ainda estudando arrays? </p>
+<p><b>Gustavo Carvalho</b>, 112 contribuições.  "Interested in contributing and solving problems with distributed tracing."  Ah, claro, porque o mundo não tem problemas maiores, né?  Contribuições para OpenTelemetry e Grafana Tempo, porque o que o mundo realmente precisa é de mais telemetria.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 108 contribuições. "Fã de IA" com um app de edição de imagem com filtro chamado "dyMosaic"?  A IA deve estar orgulhosa. E "SonhoRealStore"?  Que nome inspirador para uma loja demo em AstroJS.  Continue sonhando.</p>
+<p><b>Cézar</b>, com 93 contribuições.  Um ".NET Developer" que só tem um repositório público, e ainda por cima chamado "wTechnoo"?  Aposto que suas contribuições são tão visíveis quanto um unicórnio roxo em um campo de neve.  Continue assim, Cézar, o anonimato é uma virtude.</p>
+<p><b>Felipe Gueller</b>, 78 contribuições.  "Componentes HTML diversos" e um curso de HTML/CSS da Origamid?  Imagino a diversidade... botões e mais botões?  Parabéns por estar aprendendo o básico em 2024, quem sabe em 2030 você domina o flexbox.</p>
+<p><b>Lucas Ribeiro</b>, 77 contribuições. Um portfólio "feito com o intuito de me apresentar como dev".  Que original! E uma API em Go para um aplicativo de AMA (Ask Me Anything)?  A pergunta que não quer calar: alguém realmente se importa?</p>
+<p><b>Ghost of Ångström</b>, 71 contribuições. Um nome desses e só 71 contribuições?  Seu "criptolivre" parece mais um "criptocópia".  Talvez você devesse focar em desvendar o mistério por trás do seu nome antes de tentar revolucionar o mundo das criptomoedas.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-20 at 12:38:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-20 at 12:51:54 UTC +0000</i>
 <h6>
