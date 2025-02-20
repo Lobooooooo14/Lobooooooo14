@@ -60,13 +60,13 @@ jobs:
       - name: 📤️ Push cards
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_author: Author <actions@github.com>
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           commit_message: "chore(ci/cards): update custom cards"
           file_pattern: ".github/assets/cards/*"
-          
+      
       - name: 📤️ Push readme
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_author: Author <actions@github.com>
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           commit_message: "chore(ci/readme): update auto readme"
           file_pattern: "README.md"
