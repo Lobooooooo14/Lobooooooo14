@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>202 ctr.</td>
+                <td>209 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>165 ctr.</td>
+                <td>166 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -50,18 +50,18 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>108 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>106 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>99 ctr.</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 202 contribuições, liderando o ranking. Impressionante! Quase me convenço de que você faz algo além de fuçar em campos de CPF para Moodle. E "Space-Wizard-Studios/sw-game-dice-rolling" hein? Que nome... Que tal um jogo de verdade ao invés de rolar dados no terminal?</p>
-<p><b>Rafael Lima de Morais</b>, em segundo lugar com 165 contribuições. "Ragna clicker"? Sério? Você está usando seu conhecimento em Go, Typescript e Rust para isso? E clonar um guia de Unreal Engine? Originalidade mandou lembranças. Mas ei, pelo menos você usa Vim, então nem tudo está perdido.</p>
-<p><b>Luan Fabri</b>, o terceiro colocado com 138 contribuições. Contribuindo para o "stackblitz/webcontainer-core"? Ok, isso é respeitável. Mas criar uma ferramenta de CPF social? É para isso que você usa seu cérebro? E "resourcesfree/free-resources"? Ajudando a galera a não gastar? Que altruísta... ou será que está sem grana também?</p>
-<p><b>Everton Marcelino Jr.</b>, em quarto com 127 contribuições. Envolvido com o TypeORM, um projeto gigante. Parabéns por contribuir com algo que já está quase perfeito. E o resto? Ah, só uns ajustes aqui e ali em projetos menores. Mas ei, pelo menos você está "passionate about technology", como diz sua bio.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, o quinto da lista com 108 contribuições. "Fã de IA", mas pelo visto a IA não te ajuda a criar um portfólio mais chamativo. "SonhoRealStore"? Parece mais um pesadelo... Mas ei, pelo menos você está tentando. Ou não?</p>
-<p><b>NeO - Wesley Souza</b>, o sexto com 106 contribuições. "Hello outsider!" Já sabemos que você gosta de ser diferente. Contribuir para um projeto de subdomínio ".is-a.dev" é a sua forma de gritar "eu sou único!". Mas e o resto? Projetos esquecidos e estudos de array? Talvez seja hora de focar em algo mais... relevante?</p>
-<p><b>Gustavo Carvalho</b>, o sétimo com 99 contribuições. Envolvido com OpenTelemetry e Grafana Tempo. Ok, isso impressiona... um pouco. Mas será que você realmente entende o que está fazendo ou só está seguindo a manada? "Passionate about connecting everything and everyone." Que poético... demais até.</p>
-<p><b>Cézar</b>, o oitavo com 93 contribuições. Desenvolvedor .NET, mas seu repositório "wTechnoo/wTechnoo" está mais vazio que promessa de político. Cadê o código? Cadê a paixão? Ou será que você está escondendo o jogo?</p>
-<p><b>Felipe Gueller</b>, o nono com 78 contribuições. Criando "componentes-html-diversos"? Que legal... para 2005. E um curso de HTML e CSS da Origamid? Sério? Espero que você esteja pelo menos aprendendo alguma coisa, porque o mundo já avançou um pouco desde então.</p>
-<p><b>Lucas Ribeiro</b>, o décimo com 77 contribuições. Um portfólio feito com o intuito de se apresentar? Que original! E uma API em Go para um app de "Ask Me Anything"? Parece interessante... se alguém realmente se importasse com o que você tem a dizer. Mas ei, continue tentando!</p>
-<p><b>Ghost of Ångström⚀</b>, o lanterninha com 71 contribuições. Um "ghost" mesmo, sumido. Clonou um site de criptomoedas? Isso é tudo o que você tem para mostrar? Talvez seja hora de ressuscitar e fazer algo de útil.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 209 contribuições? Que inveja! Será que dá pra usar suas habilidades de "Game dev" e "3D Enthusiast" pra criar um jogo onde a gente consiga simular a sensação de ter uma vida social? E esse "moodle-profilefield_cpf", hein? Mantendo a gente em dia com a burocracia até no EAD.</p>
+<p><b>Rafael Lima de Morais</b>, com 166 contribuições, você está quase lá! Mas me diz, esse "Ragna clicker" é tão viciante quanto parece? E clonar um guia da Unreal Engine? Originalidade mandou lembranças. Ao menos está contribuindo para a educação alheia, mesmo que indiretamente.</p>
+<p><b>Luan Fabri</b>, 138 contribuições, quase um terço do primeiro lugar! "I have a brain." É bom saber, porque olhando seus repositórios, às vezes fica a dúvida. Ah, e obrigado por nos lembrar dos "recursosfree/free-resources", porque pagar por coisas é tão 2024...</p>
+<p><b>Everton Marcelino Jr.</b>, com 127 contribuições, você está na média. Mas sério, "passionate about technology"? Que ousadia! Contribuindo para o TypeORM? Que bom que alguém está cuidando disso. Mas e o seu próprio repositório? Alguma novidade desde maio do ano passado?</p>
+<p><b>NeO - Wesley Souza</b>, 120 contribuições. "Hello outsider!" Imagino que seus arrays-study-js estejam bombando, né? E esse "old-flary"? Imagino que esteja dando muito trabalho em Objective-C e Kotlin, uma verdadeira salada de frutas tecnológica. Ao menos está ajudando as pessoas a conseguirem um subdomínio ".is-a.dev".</p>
+<p><b>Gustavo Carvalho</b>, 112 contribuições, quase no top 5! "Interested to contribute and sometimes colaborate"? Que poético! Mas me diz, você realmente entende tudo que está contribuindo ou só está seguindo a manada do OpenTelemetry?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 108 contribuições. "Fã de IA"? Que original! Imagino que o "dyMosaic" esteja fazendo sucesso no mundo da edição de imagens com filtro. E essa "SonhoRealStore"? Que bom que está treinando, porque o mundo precisa de mais lojas demo.</p>
+<p><b>Cézar</b>, com 93 contribuições, você está quase lá... quase! Mas me diz, esse seu perfil "wTechnoo/wTechnoo" está te dando o destaque que você merece? Ou é só mais um repositório fantasma no vasto universo do GitHub?</p>
+<p><b>Felipe Gueller</b>, 78 contribuições. Quase lá! Mas esses "componentes-html-diversos" são realmente diversos ou só mais do mesmo? E o curso do ORIGAMID? Já aprendeu a fazer um site que preste ou ainda está preso no HTML e CSS básicos?</p>
+<p><b>Lucas Ribeiro</b>, 77 contribuições. Que decepção! Seu portfólio é tão "Bem-vindo!" que até me emocionei. E essa API em Go para um aplicativo de AMA? Espero que as perguntas sejam mais interessantes que suas contribuições.</p>
+<p><b>Ghost of Ångström⚯</b>, 71 contribuições. Assustadoramente medíocre! Esse nome é mais interessante que suas contribuições. Ao menos está promovendo a privacidade e autonomia financeira com o "criptolivre", porque o mundo precisa de mais criptomoedas sem KYC.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-20 at 00:18:26 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-20 at 12:38:16 UTC +0000</i>
 <h6>
