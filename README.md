@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>209 ctr.</td>
+                <td>214 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,17 +41,17 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>138 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>127 ctr.</td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>120 ctr.</td>
+                <td>127 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
-                <td>77 ctr.</td>
+                <td>78 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Com 209 contribuições, você quase conseguiu ser notado. Quase. Continue assim, quem sabe um dia você impressiona alguém além da sua mãe. Ah, e obrigado por manter vivo aquele projeto Moodle de 2014, aposto que ele te agradece.</p>
-<p><b>Rafael Lima de Morais</b>, segundo lugar com 166 contribuições. Impressionante como você consegue dividir seu tempo entre Go, Typescript, Rust e... Ragna Clicker? Sério? E ainda por cima forkou um guia de Unreal Engine. Que versatilidade, ou seria indecisão? </p>
-<p><b>Luan Fabri</b>, 138 contribuições e um "I have a brain." na bio? Provavelmente está superestimando o uso dele. Contribuiu para o webcontainer-core, ok, mas também para um "CPF Social".  Prioridades, Luan, prioridades.</p>
-<p><b>Everton Marcelino Jr.</b>, com 127 contribuições. Tipo assim, "apaixonado por tecnologia", mas contribui para TypeORM.  Parabéns, você está ajudando a perpetuar o legado do ORM. E o que dizer daquele seu repositório pessoal?  Que audácia, hein?</p>
-<p><b>NeO - Wesley Souza</b>, 120 contribuições.  "Hello outsider!" diz o bio. Contribuições em is-a.dev, ok, mas "old-flary"?  Parece nome de remédio para verme.  E Arrays-study-js?  Sério, com essa idade ainda estudando arrays? </p>
-<p><b>Gustavo Carvalho</b>, 112 contribuições.  "Interested in contributing and solving problems with distributed tracing."  Ah, claro, porque o mundo não tem problemas maiores, né?  Contribuições para OpenTelemetry e Grafana Tempo, porque o que o mundo realmente precisa é de mais telemetria.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 108 contribuições. "Fã de IA" com um app de edição de imagem com filtro chamado "dyMosaic"?  A IA deve estar orgulhosa. E "SonhoRealStore"?  Que nome inspirador para uma loja demo em AstroJS.  Continue sonhando.</p>
-<p><b>Cézar</b>, com 93 contribuições.  Um ".NET Developer" que só tem um repositório público, e ainda por cima chamado "wTechnoo"?  Aposto que suas contribuições são tão visíveis quanto um unicórnio roxo em um campo de neve.  Continue assim, Cézar, o anonimato é uma virtude.</p>
-<p><b>Felipe Gueller</b>, 78 contribuições.  "Componentes HTML diversos" e um curso de HTML/CSS da Origamid?  Imagino a diversidade... botões e mais botões?  Parabéns por estar aprendendo o básico em 2024, quem sabe em 2030 você domina o flexbox.</p>
-<p><b>Lucas Ribeiro</b>, 77 contribuições. Um portfólio "feito com o intuito de me apresentar como dev".  Que original! E uma API em Go para um aplicativo de AMA (Ask Me Anything)?  A pergunta que não quer calar: alguém realmente se importa?</p>
-<p><b>Ghost of Ångström</b>, 71 contribuições. Um nome desses e só 71 contribuições?  Seu "criptolivre" parece mais um "criptocópia".  Talvez você devesse focar em desvendar o mistério por trás do seu nome antes de tentar revolucionar o mundo das criptomoedas.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos "Full-stack, Game dev e 3D Enthusiast".  Com 214 contribuições, quase podemos sentir o cheiro do café queimado e das noites mal dormidas.  E o que dizer daquele seu repositório de 2014 para "moodle-profilefield_cpf"?  Nove anos pensando em CPF...  Espero que pelo menos tenha te dado uns trocados.  E parabéns pelo seu site "danko-nobre/danko-nobre", a internet precisava disso.  Sério.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que programa em Go, Typescript, Rust e Vim.  Com 166 contribuições, quase me convenço de que você não está apenas colecionando tecnologias.  "Ragna clicker"?  Sério?  Você realmente usou suas habilidades de engenharia para criar um <i>clicker game</i>?  E clonar um guia de Unreal Engine?  Inovador!  Continue assim e talvez um dia você consiga fazer algo que não seja um tutorial.</p>
+<p><b>Luan Fabri</b>, "I have a brain."  Com 147 contribuições, essa é a afirmação mais corajosa que vi hoje.  Contribuindo para o "stackblitz/webcontainer-core", você deve estar se sentindo importante.  Mas não se esqueça do seu repositório "cpf-social", porque aparentemente, no Brasil, tudo gira em torno do CPF.  E esse "resourcesfree/free-resources"?  A julgar pela data da última atualização, imagino que esses recursos já não sejam tão "free" assim.  Ou "resources".</p>
+<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" que conseguiu 132 contribuições.  Impressionante como você encontrou tempo para contribuir com o TypeORM no meio de tanta paixão.  E middleware de autenticação?  Que original!  Mas vamos ser sinceros, todos sabemos que a verdadeira razão para você estar aqui é o "EvertonMJunior/EvertonMJunior".  Afinal, quem não quer um repositório com o próprio nome?  Só não se esqueça de atualizar ele algum dia.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider! ✨". Com 127 contribuições, você parece ser o cara legal que ajuda todo mundo. Mas vamos falar do "old-flary". Um projeto Objective-C e Kotlin? Que combinação exótica! É tipo misturar água e óleo, mas quem sou eu para julgar suas escolhas? E o que dizer do "arrays-study-js"?  Ainda estudando arrays?  Em pleno 2025?  Relaxe, todos nós temos nossas dificuldades.</p>
+<p><b>Gustavo Carvalho</b>, o "Interested to contribute and solve problems". Com 112 contribuições, você está aí, contribuindo para o OpenTelemetry e Grafana Tempo.  Impressionante.  Mas será que você realmente está "solving problems" ou apenas seguindo a manada?  E será que essa sua paixão por telemetria não é só uma forma de espionar os outros?  Só estou perguntando.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, o "Dev de Sistemas | Engenheiro Eletricista | Fã de IA".  Com 108 contribuições, você parece estar em uma crise de identidade.  Mas vamos falar do "dyMosaic".  Um app de edição de imagem com filtro?  Que inovador!  E a "SonhoRealStore"?  Uma loja demo em AstroJS?  Seus sonhos realmente parecem ser...  reais.  Só não se esqueça de decidir o que você quer ser quando crescer.</p>
+<p><b>Cézar</b>, o ".NET Developer" misterioso.  Com 93 contribuições e apenas um repositório público, você é a definição de "low profile".  "wTechnoo/wTechnoo"...  O que será que se esconde por trás desse nome enigmático?  Será que é um projeto secreto para dominar o mundo?  Ou apenas um currículo online mal feito?  Nunca saberemos.</p>
+<p><b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações". Com 78 contribuições, você está quase lá! Quase relevante. Mas vamos falar sobre esses "componentes-html-diversos". Sério? Componentes HTML diversos? Que nome original! E o repositório do curso de HTML, CSS e Javascript? Espero que você tenha aprendido alguma coisa nesse curso, porque até agora, não parece.</p>
+<p><b>Lucas Ribeiro</b>, "Desenvolvedor de Software | Recife - Brazil". Com 78 contribuições, você está na média.  O "AMA-server" em Go?  Interessante...  Mas será que alguém realmente se importa com o que você tem a dizer?  E o portfólio?  Já pensou em adicionar um pouco de design, ou está esperando um milagre?  Só uma sugestão.</p>
+<p><b>Ghost of Ångström⚳⃰</b>, o fantasma com 71 contribuições.  Seu repositório "criptolivre" parece interessante, mas confesso que estou mais curioso sobre o seu nome de usuário.  Você realmente se identifica com uma unidade de medida?  E por que o "ghostofangstrom.github.io" é um fork?  Está com medo de criar o seu próprio?  Assuma sua identidade, fantasma!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-20 at 12:51:54 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-21 at 00:18:27 UTC +0000</i>
 <h6>
