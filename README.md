@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>226 ctr.</td>
+                <td>230 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>183 ctr.</td>
+                <td>185 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>142 ctr.</td>
+                <td>145 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>133 ctr.</td>
+                <td>134 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 226 contribuições, liderando o ranking! Parabéns... por gastar tanto tempo no GitHub. Sério, você tem um repositório chamado "danko-nobre/danko-nobre". Quanta originalidade! E "Space-Wizard-Studios/sw-game-dice-rolling"? Espero que ao menos os dados rolem a seu favor, porque a criatividade definitivamente não está.</p>
-<p><b>Rafael Lima de Morais</b>, 183 contribuições, quase lá! Mas "Ragna-clicker"? Sério? Isso soa como algo que você faria em um fim de semana entediante, não algo para colocar no seu currículo. E clonar o kickstart.nvim? Que tal começar algo do zero, em vez de viver de migalhas alheias?</p>
-<p><b>Luan Fabri</b>, 153 contribuições. "Eu tenho um cérebro", diz a bio. Que bom, porque as contribuições não estão gritando genialidade. Contribuindo para stackblitz/webcontainer-core, hein? Espero que esteja ganhando para isso, porque trabalhar de graça para os outros é só caridade com o bolso dos outros.</p>
-<p><b>Gustavo Carvalho</b>, com 142 contribuições, chegamos ao "OpenTelemetry" do ranking. Contribuindo para projetos grandes, que legal! Aposto que ninguém nunca vai notar seu nome nos commits. Mas ei, pelo menos você pode dizer que fez algo, mesmo que ninguém saiba o que foi.</p>
-<p><b>Everton Marcelino Jr.</b>, 141 contribuições. "Apaixonado por tecnologia", diz ele. Tipo, apaixonado por TypeORM e Flutter? Que romance! Espero que essa paixão te pague as contas, porque originalidade não parece ser o forte. E esse repositório com seu nome? Tão vazio quanto minhas esperanças.</p>
-<p><b>NeO - Wesley Souza</b>, 133 contribuições. "Hello outsider!", que simpático. Mas sério, "old-flary"? Parece nome de remédio para verme. E arrays-study-js? Espero que esteja estudando *muito*, porque o mundo não precisa de mais um tutorial de JavaScript mal feito.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 109 contribuições. "Fã de IA", hein? Espero que a IA te ajude a criar projetos mais interessantes que "SonhoRealStore", porque, sinceramente, parece mais um pesadelo. E "next-simple-example"? Que tal um "next-complex-example" para variar?</p>
-<p><b>Lucas Ribeiro</b>, 94 contribuições. Quase chegando aos dois dígitos! "AMA-server"? Espero que as perguntas sejam melhores que o código, porque, pelo nome, já imagino a qualidade. E o portfólio? Aposto que está cheio de "projetos feitos ao longo dos meus estudos". Que inspirador.</p>
-<p><b>Cézar</b>, com 93 contribuições, quase lá! Mas sério, o repositório "wTechnoo/wTechnoo" não tem descrição? Que mistério! Aposto que é tão emocionante quanto assistir tinta secar. Mas ei, pelo menos você contribuiu com alguma coisa, mesmo que ninguém saiba o quê.</p>
-<p><b>Ghost of Ångström</b>, 79 contribuições. Um "fantasma" contribuindo? Que ironia! Clonou um site e colocou no ar? Gênio! Da próxima vez, que tal criar algo original em vez de viver de fantasmas alheios?</p>
-<p><b>Felipe Gueller</b>, com 78 contribuições, fechando o ranking com chave de ouro. "Componentes HTML diversos"? Que original! E um repositório para aprender HTML e CSS? Espero que esteja aprendendo rápido, porque o mundo não precisa de mais um site mal feito. Mas ei, pelo menos você tentou, né?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, com 230 contribuições. Parabéns, você conseguiu superar a concorrência. Mas será que essas contribuições realmente importam ou são apenas commits de correção de erros de digitação no seu próprio perfil? E esse repositório do Moodle de 2014? Sério? Vamos combinar que já passou da hora de aposentar essa relíquia.</p>
+<p><b>Rafael Lima de Morais</b>, o segundo lugar com 185 contribuições. Vejo que você é fã de "Ragna clicker". Espero que sua paixão por jogos não esteja afetando sua produtividade. E esse "kickstart.nvim" forkado? Originalidade mandou lembranças. Talvez seja hora de criar algo do zero, em vez de apenas copiar o trabalho dos outros.</p>
+<p><b>Luan Fabri</b>, com 153 contribuições. "I have a brain." Que bom que você tem um cérebro, Luan, mas será que ele está sendo usado para algo realmente útil? Contribuir para o StackBlitz é legal, mas e os seus próprios projetos? Ah, sim, o repositório de CPF. Que tal usar seu "cérebro" para criar algo que não seja tão... específico?</p>
+<p><b>Gustavo Carvalho</b>, o mestre dos OpenTelemetry com 145 contribuições. Sua dedicação ao rastreamento distribuído é louvável, mas será que você está se perdendo nos detalhes? Talvez seja hora de sair um pouco do mundo do "observability" e explorar novos horizontes. Ou quem sabe, observar um pouco mais a própria vida.</p>
+<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" com 141 contribuições. Contribuir para o TypeORM é ótimo, mas e o seu próprio repositório com o seu nome? A última atualização foi em maio de 2024. Será que a paixão pela tecnologia esfriou um pouco? Talvez seja hora de reacender essa chama.</p>
+<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" com 134 contribuições. Ajudar os outros é uma nobre causa, mas e você? Seus próprios projetos parecem meio abandonados. Que tal dar uma atenção especial ao "old-flary"? Afinal, até as chamas precisam de cuidado para não se apagarem.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, o "fã de IA" com 109 contribuições. Engenharia Elétrica e Inteligência Artificial, uma combinação interessante. Mas será que você está conseguindo equilibrar as duas paixões? Seu "SonhoRealStore" parece promissor, mas a última atualização foi em fevereiro. Não deixe seus sonhos morrerem na gaveta, Lucas.</p>
+<p><b>Lucas Ribeiro</b>, o desenvolvedor de software de Recife com 94 contribuições. Seu portfólio é um bom começo, mas será que ele realmente te representa? E essa API para um aplicativo de AMA? Que tal criar algo que realmente faça a diferença, em vez de apenas seguir a onda do momento?</p>
+<p><b>Cézar</b>, o ".NET Developer" com 93 contribuições. Pelo visto, sua contribuição se resume a um repositório com seu nome. É isso mesmo? Sério? Nem um "Hello World" pra contar história? Imagino que o mundo .NET seja mais emocionante que isso.</p>
+<p><b>Ghost of Ångström⚚</b>, a entidade misteriosa com 79 contribuições. Seu foco em criptomoedas e anonimato é intrigante, mas será que você está se escondendo atrás da tecnologia? Que tal revelar um pouco mais sobre você? Ou será que o anonimato é a sua verdadeira identidade?</p>
+<p><b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações" com 78 contribuições. Seus componentes HTML são interessantes, mas parecem meio perdidos no tempo. Que tal dar uma repaginada e trazer um pouco de modernidade para o seu trabalho? Afinal, o mundo da tecnologia não para de evoluir.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-23 at 00:20:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-24 at 00:19:07 UTC +0000</i>
 <h6>
