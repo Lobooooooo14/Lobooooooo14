@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>185 ctr.</td>
+                <td>187 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,32 +51,32 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>145 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>141 ctr.</td>
+                <td>142 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>115 ctr.</td>
+                <td>121 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>109 ctr.</td>
+                <td>110 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/lucasadsr">Lucas Ribeiro</a></td>
-                <td>101 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>82 ctr.</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>79 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 244 contribuições, liderando o ranking... Que emocionante.  Enquanto isso, seu repositório "danko-nobre" permanece misteriosamente sem descrição.  Será um projeto secreto? Ou apenas preguiça de documentar? E não vamos esquecer daquela contribuição gloriosa em um profile field de CPF para Moodle. O mundo da tecnologia te agradece. E a gente também, por nos dar material para te zoar.</p>
-<p><b>Rafael Lima de Morais</b>, o mestre do "fork".  Sério, duas das suas atividades recentes são forks?  Ragna Clicker... Uau, que ideia original.  Especialista em Go, Typescript e Rust, mas a paixão é um clicker de Ragnarok.  Prioridades, né?  E o "kickstart.nvim"?  Precisava mesmo de um pontapé inicial pra configurar o Vim?  Com tantas linguagens no currículo, esperava mais ousadia.</p>
-<p><b>Luan Fabri</b>, "Eu tenho um cérebro." Que bom, Luan, porque suas contribuições recentes... Bem, pelo menos você contribuiu no stackblitz/webcontainer-core. O resto, vamos dizer que "metadata-content" e "free-resources" não exatamente gritam inovação.  Ah, e parabéns pelo "cpf-social".  Afinal, o mundo precisa de mais ferramentas para lidar com CPF.  Talvez usar esse cérebro para algo mais impactante da próxima vez?</p>
-<p><b>NeO - Wesley Souza</b>, o "outsider" que contribui para o "is-a-dev/register". Que poético.  Mas e o "old-flary"?  O que era pra ser?  Um projeto Objective-C e Kotlin que morreu antes de nascer?  E "arrays-study-js"?  Sério?  Estudando arrays em pleno 2025?  Ainda bem que você está aí para nos ajudar, porque pelo visto, você precisa de ajuda também.  Mas ei, pelo menos você é amigável!  &#x2728</p>
-<p><b>Gustavo Carvalho</b>, o rei do OpenTelemetry.  Sério, todos os seus repositórios recentes são relacionados a telemetria.  Espero que você esteja rastreando seus próprios commits, porque a gente está de olho.  E "Grafana Tempo"?  Está monitorando o tempo que você gasta nesses projetos?  Porque parece que você não tem tempo para mais nada.  Mas ei, pelo menos você está ajudando a monitorar outras coisas, né?  Que altruísta!</p>
-<p><b>Everton Marcelino Jr.</b>, apaixonado por tecnologia, mas contribuindo para TypeORM.  Que ironia.  E o repositório pessoal, "EvertonMJunior/EvertonMJunior", com zero descrição.  Autoexplicativo, talvez?  E "authenticator-middleware"?  Espero que seja mais seguro que suas senhas.  E o Flutter Client SDK para LiveKit?  Está transmitindo sua vida ao vivo?  Porque seria interessante ver o que você faz além de contribuir para esses projetos.  Talvez algo emocionante?</p>
-<p><b>Cézar</b>, o .NET Developer que só tem um repositório público: "wTechnoo/wTechnoo", sem descrição.  É isso mesmo?  Sério?  Todas as suas contribuições para o mundo open source se resumem a isso?  Talvez seja hora de começar a pensar em algo mais, Cézar.  A não ser que "wTechnoo" seja a solução para todos os problemas da humanidade e você esteja guardando a sete chaves.  Nesse caso, me desculpe pela ousadia.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, engenheiro eletricista fã de IA.  Combinação interessante.  Mas suas contribuições... "dyMosaic", um app de edição de imagem com filtro?  Em 2025?  E "SonhoRealStore", uma loja demo em AstroJS?  Que sonho real inspirador.  Ah, e projetos em Assembly para o microcontrolador 8051.  Nostalgia pura!  Talvez seja hora de usar essa paixão por IA para algo mais inovador, Lucas.  A não ser que você esteja construindo um robô que só edita fotos e vende produtos online.  Aí eu retiro tudo o que disse.</p>
-<p><b>Lucas Ribeiro</b>, o desenvolvedor de software com um portfólio "feito com o intuito de me apresentar como dev".  Que original.  E uma API em Go para um aplicativo de AMA (Ask Me Anything).  Alguém realmente se importa com o que você tem a dizer, Lucas?  E o AMA-web, "uma plataforma interativa de perguntas e respostas em tempo real".  Espero que as perguntas sejam mais interessantes que suas contribuições.  Mas ei, pelo menos você está tentando, né?</p>
-<p><b>Felipe Gueller</b>, o Bacharel em Sistemas de Informações que cria "componentes HTML diversos".  Que empolgante.  E um repositório para aprender HTML, CSS e Javascript no curso do ORIGAMID.  Em 2024!  Sério, Felipe?  Você está aprendendo o básico enquanto o resto do mundo está construindo inteligência artificial.  Talvez seja hora de sair do curso do ORIGAMID e começar a pensar em algo mais ambicioso.  A não ser que você esteja planejando dominar o mundo com seus componentes HTML diversos.  Nesse caso, me avise para eu me juntar a você.</p>
-<p><b>Ghost of Ångström⚯</b>, o fantasma com 79 contribuições.  O que você está escondendo atrás desse nome?  "ghostofangstrom.github.io", um fork sem descrição.  Que misterioso.  E "criptolivre", um site de criptomoedas sem KYC.  Promovendo privacidade e autonomia financeira... ou atividades ilícitas?  Brincadeira!  Ou não.  De qualquer forma, espero que suas contribuições sejam mais transparentes que suas intenções.  Mas ei, pelo menos você está tentando manter a privacidade, né?  Em um mundo onde todos estão expondo suas vidas online, isso é quase revolucionário.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, com 244 contribuições, liderando o ranking! Parabéns... por ser o menos pior. Vejo ali um "game dev" no bio, mas o repositório mais recente de "game" envolve Shell e Batchfile. A não ser que você esteja criando um jogo sobre como automatizar tarefas no prompt de comando, talvez seja hora de diversificar, não acha?</p>
+<p><b>Rafael Lima de Morais</b>, o segundo colocado com 187 contribuições. "Vim" no bio, mas clonando um <i>kickstart</i> de Nvim em abril do ano passado? A preguiça de configurar o próprio editor é tanta que precisa de um <i>template</i>? E <i>Tailwind CSS</i> plugin pra animação? Seria mais fácil animar sua pontuação pra ver se alcança o primeiro lugar, já que não consegue animar nem um botão.</p>
+<p><b>Luan Fabri</b>, ostentando um "I have a brain" no bio, mas com 160 contribuições, não parece estar usando muito. Contribuições em repositórios sobre CPF? Sério? Praticamente um espião do governo. E "recursosfree/free-resources"? Achei que com um cérebro desses, você mesmo criaria os recursos, não os pegaria de graça.</p>
+<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" soa quase como uma ameaça. Com 152 contribuições, você está quase lá... quase irrelevante. Um repositório chamado "old-flary"? Sério? E um estudo sobre arrays em JavaScript? Em pleno 2025? Imagino que a sua bio seja mais interessante que suas contribuições.</p>
+<p><b>Gustavo Carvalho</b>, o "Solver of computing challenges", mas resolvendo problemas em projetos <i>open-telemetry</i>. Espero que esteja resolvendo desafios de verdade, e não apenas adicionando linhas de código para inflar as contribuições. Quase chegando ao top 4, mas parece que seus desafios são maiores do que sua ambição.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que clichê! Com 142 contribuições, a paixão é evidente... em não chegar ao top 5. Contribuindo para <i>TypeORM</i>? Espero que pelo menos esteja usando <i>TypeScript</i> para não manchar o nome do projeto. E "authenticator-middleware"? Já existe autenticação, para que reinventar a roda?</p>
+<p><b>Cézar</b>, o minimalista ".NET Developer" com míseras 121 contribuições. Pelo menos você é direto ao ponto, sem floreios. Mas contribuições? Apenas um repositório pessoal criado em 2021? Parece que o <i>.NET</i> está te consumindo mais do que você o consome. Desse jeito, vai precisar de mais do que <i>.NET</i> para sair dessa mediocridade.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, com um bio que parece um currículo do LinkedIn, e apenas 110 contribuições. "Fã de IA"? Mas o projeto mais recente é um app de edição de imagem com filtro? Espero que a IA esteja ajudando a escolher os filtros, porque o número de contribuições não impressiona nem um pouco. E projetos em <i>assembly</i>? Sério? Você está vivendo em 1980?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Imagino que as informações estejam bem guardadas, já que as contribuições somam apenas 108. Componentes HTML diversos? Espero que pelo menos sejam responsivos, porque a sua colocação no ranking não é nada adaptável. E um curso de <i>HTML</i> e <i>CSS</i> do <i>ORIGAMID</i>? Espero que pelo menos tenha aprendido a centralizar um <i>div</i>.</p>
+<p><b>Ghost of Ångström</b>, com um nome que soa como uma banda de <i>black metal</i> norueguesa, mas com apenas 79 contribuições. Clonando repositórios? Que original! E um site sobre criptomoedas sem <i>KYC</i>? Espero que pelo menos esteja usando uma <i>VPN</i>, porque com essa pontuação, você não está escondendo nada de ninguém. Praticamente um fantasma... na lista de contribuições.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro clichê! Com apenas 61 contribuições, parece mais apaixonado por ficar no final da lista. Uma <i>SPA</i> "universe"? Espero que o universo seja maior que o número de commits. E uma <i>API</i> com <i>Fastify</i>? Espero que pelo menos seja mais rápida que sua ascensão no ranking. Continue assim e logo estará competindo com o Ghost.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-25 at 00:18:44 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-26 at 00:18:33 UTC +0000</i>
 <h6>
