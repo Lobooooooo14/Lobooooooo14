@@ -31,47 +31,47 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>244 ctr.</td>
+                <td>263 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>188 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>187 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>160 ctr.</td>
+                <td>4°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>170 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>152 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>147 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>142 ctr.</td>
+                <td>146 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>121 ctr.</td>
+                <td>136 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>110 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>113 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>108 ctr.</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>111 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 244 contribuições, liderando o ranking! Parabéns... por ser o menos pior. Vejo ali um "game dev" no bio, mas o repositório mais recente de "game" envolve Shell e Batchfile. A não ser que você esteja criando um jogo sobre como automatizar tarefas no prompt de comando, talvez seja hora de diversificar, não acha?</p>
-<p><b>Rafael Lima de Morais</b>, o segundo colocado com 187 contribuições. "Vim" no bio, mas clonando um <i>kickstart</i> de Nvim em abril do ano passado? A preguiça de configurar o próprio editor é tanta que precisa de um <i>template</i>? E <i>Tailwind CSS</i> plugin pra animação? Seria mais fácil animar sua pontuação pra ver se alcança o primeiro lugar, já que não consegue animar nem um botão.</p>
-<p><b>Luan Fabri</b>, ostentando um "I have a brain" no bio, mas com 160 contribuições, não parece estar usando muito. Contribuições em repositórios sobre CPF? Sério? Praticamente um espião do governo. E "recursosfree/free-resources"? Achei que com um cérebro desses, você mesmo criaria os recursos, não os pegaria de graça.</p>
-<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" soa quase como uma ameaça. Com 152 contribuições, você está quase lá... quase irrelevante. Um repositório chamado "old-flary"? Sério? E um estudo sobre arrays em JavaScript? Em pleno 2025? Imagino que a sua bio seja mais interessante que suas contribuições.</p>
-<p><b>Gustavo Carvalho</b>, o "Solver of computing challenges", mas resolvendo problemas em projetos <i>open-telemetry</i>. Espero que esteja resolvendo desafios de verdade, e não apenas adicionando linhas de código para inflar as contribuições. Quase chegando ao top 4, mas parece que seus desafios são maiores do que sua ambição.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que clichê! Com 142 contribuições, a paixão é evidente... em não chegar ao top 5. Contribuindo para <i>TypeORM</i>? Espero que pelo menos esteja usando <i>TypeScript</i> para não manchar o nome do projeto. E "authenticator-middleware"? Já existe autenticação, para que reinventar a roda?</p>
-<p><b>Cézar</b>, o minimalista ".NET Developer" com míseras 121 contribuições. Pelo menos você é direto ao ponto, sem floreios. Mas contribuições? Apenas um repositório pessoal criado em 2021? Parece que o <i>.NET</i> está te consumindo mais do que você o consome. Desse jeito, vai precisar de mais do que <i>.NET</i> para sair dessa mediocridade.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, com um bio que parece um currículo do LinkedIn, e apenas 110 contribuições. "Fã de IA"? Mas o projeto mais recente é um app de edição de imagem com filtro? Espero que a IA esteja ajudando a escolher os filtros, porque o número de contribuições não impressiona nem um pouco. E projetos em <i>assembly</i>? Sério? Você está vivendo em 1980?</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Imagino que as informações estejam bem guardadas, já que as contribuições somam apenas 108. Componentes HTML diversos? Espero que pelo menos sejam responsivos, porque a sua colocação no ranking não é nada adaptável. E um curso de <i>HTML</i> e <i>CSS</i> do <i>ORIGAMID</i>? Espero que pelo menos tenha aprendido a centralizar um <i>div</i>.</p>
-<p><b>Ghost of Ångström</b>, com um nome que soa como uma banda de <i>black metal</i> norueguesa, mas com apenas 79 contribuições. Clonando repositórios? Que original! E um site sobre criptomoedas sem <i>KYC</i>? Espero que pelo menos esteja usando uma <i>VPN</i>, porque com essa pontuação, você não está escondendo nada de ninguém. Praticamente um fantasma... na lista de contribuições.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro clichê! Com apenas 61 contribuições, parece mais apaixonado por ficar no final da lista. Uma <i>SPA</i> "universe"? Espero que o universo seja maior que o número de commits. E uma <i>API</i> com <i>Fastify</i>? Espero que pelo menos seja mais rápida que sua ascensão no ranking. Continue assim e logo estará competindo com o Ghost.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking, mas vamos ser honestos, seu repositório "danko-nobre/danko-nobre" sem descrição é o auge da utilidade, não é mesmo? E esse lance de "Game dev"? O último commit no Space-Wizard-Studios foi ontem, mas será que o mago está conjurando algo memorável ou só rolando dados?</p>
+<p><b>Luan Fabri</b>, "I have a brain", que bom que avisou, porque olhando para "resourcesfree/free-resources", a gente se pergunta se ele está sendo usado para algo mais produtivo além de acumular links aleatórios. E o que dizer de "cpf-social"? Tentando resolver os problemas do Brasil com JavaScript e CSS? Ambicioso... ou só ingênuo?</p>
+<p><b>Rafael Lima de Morais</b>, um "Software Engineer" que se dedica a clickers de Ragnarok? Entendi... E forkar "kickstart.nvim" e "tailwindcss-animate"? Originalidade mandou lembranças. Mas ei, pelo menos você mexe com Go, Typescript e Rust, o que é ótimo para... fazer mais clickers?</p>
+<p><b>Gustavo Carvalho</b>, você está nadando em OpenTelemetry e Grafana Tempo, que impressionante! Mas será que toda essa telemetria está rastreando o seu real impacto ou só a sua capacidade de se manter ocupado em projetos grandes? Afinal, quem precisa de resultados quando se tem <i>métricas</i>?</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!", com um currículo desses, parece que o "outsider" aqui é você. Tirando o "is-a.dev", seus outros projetos parecem mais "is-a-dustbin.dev". E "arrays-study-js"? Sério? Em pleno 2025, ainda estudando arrays? Mas continue brilhando, campeão!</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology", mas pelo visto não o suficiente para dar uma descrição decente para o seu repositório "EvertonMJunior/EvertonMJunior". Contribuindo no TypeORM e LiveKit, hein? Espero que pelo menos esteja usando essa paixão para algo mais interessante do que só preencher o perfil do GitHub.</p>
+<p><b>Cézar</b>, .NET Developer que só tem um repositório público desde 2021 e sem descrição? Imagino que o código seja tão autoexplicativo que dispensa qualquer comentário. Ou será que é só um perfil fantasma esperando para ser ativado? Mistérios da tecnologia...</p>
+<p><b>Felipe Gueller</b>, criando "componentes-html-diversos" e aprendendo HTML, CSS e Javascript no curso da ORIGAMID? Parece que alguém está preso em 2015. Mas ei, pelo menos você está fazendo <i>alguma</i> coisa, o que já é mais do que muitos por aqui. Continue assim, quem sabe um dia você chega lá.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Fã de IA" com projetos em Assembly para o microcontrolador 8051? Que combinação exótica! E essa "SonhoRealStore" em AstroJS? Pelo menos você está tentando, mesmo que o resultado final seja apenas uma "simples loja demo". Mas não desista, um dia você chega na Singularidade...</p>
+<p><b>Ghost of Ångström</b>, um "Ghost" que contribui com um site "CriptoLivre" sem descrição e forkando repositórios? A sua bio vazia diz tudo. Espero que pelo menos a sua criptomoeda seja mais interessante do que o seu perfil no GitHub. Mas ei, pelo menos você tem um nome maneiro...</p>
+<p><b>Carlos Israel</b>, "Passionate about technology", mas parece que a paixão não se estende a dar descrições decentes aos seus repositórios. "SPA-universe", "EJ-site", "challenge-nodejs"... nomes genéricos para projetos genéricos. Mas continue tentando, quem sabe um dia você encontra algo que realmente te excite.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-02-26 at 00:18:33 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-02-27 at 00:18:44 UTC +0000</i>
 <h6>
