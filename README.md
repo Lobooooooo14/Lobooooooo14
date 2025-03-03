@@ -31,26 +31,36 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>20 ctr.</td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>15 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>3 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/caio-nuness">Caio Cavalcante</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/caio-nuness">Caio Cavalcante</a></td>
+                <td>7°</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -59,11 +69,13 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar com 20 contribuições! Impressionante, você realmente se dedicou a vasculhar aqueles repositórios OpenTelemetry, hein? Quase me faz pensar que você entende o que está fazendo. Mas sério, com tantas atualizações diárias, você está vivendo dentro desses projetos? Espero que pelo menos esteja ganhando algo com isso, além de "experiência".</p>
-<p><b>Danilo Nobre</b>, 15 contribuições, quase lá. Vejo que você tem um pezinho no mundo dos games e 3D, que fofo. Mas vamos ser sinceros, seu repositório "danko-nobre" parece tão vazio quanto minha paciência para elogios hoje. E aquele projeto de CPF para Moodle de 2014? Sério? Desenterrou do baú pra mostrar serviço? Pelo menos o "sw-game-dice-rolling" foi atualizado ontem, ainda há esperança.</p>
-<p><b>Ghost of Ångström⚀</b>, apenas 3 contribuições? Uau, você realmente se superou. Pelo menos teve a audácia de fazer um fork, imagino o quão complicado deve ser clicar naquele botão. E o "CriptoLivre" sem linguagem definida? Combina com o seu bio. Da próxima vez, tente contribuir com algo que realmente mostre que você está acordado.</p>
-<p><b>kromodoro</b>, com suas míseras 2 contribuições. Um perfil com descrição "profile", que original! E um projeto sobre PERT de janeiro? Nossa, que moderno! Estou realmente impressionado com sua capacidade de manter projetos relevantes e atuais. Continue assim, quem sabe um dia você chega lá... no fim da lista, claro.</p>
-<p><b>Caio Cavalcante</b>, uma única contribuição? Parabéns, você conseguiu! E ainda foi em um repositório da Digital Innovation One. Imagino que o "brick is part of the wall of life" seja uma metáfora para a sua contribuição, pequena e quase imperceptível. Não se preocupe, com esse ritmo, logo você estará liderando o ranking... de baixo pra cima.</p>
+    <div align="justify"><p>Ah, <b>Gustavo Carvalho</b>, o primeiro da fila, com seus 39 "dedos" enfiados em projetos OpenTelemetry. Imagino que passe os dias fuçando em telemetria enquanto nós, reles mortais, tentamos entender o que está acontecendo. Não se esqueça de nos mandar um relatório detalhado sobre o quão incríveis suas contribuições são, por favor. Precisamos disso para nos sentirmos inferiores.</p>
+<p><b>Danilo Nobre</b>, o mestre dos jogos, 3D e "full-stack" (o que quer que isso signifique). Apenas 16 contribuições? Estava ocupado demais modelando um dragão para um jogo indie? Ah, e parabéns pelo seu repositório pessoal, incrivelmente vazio. Aposto que está cheio de ideias mirabolantes que nunca sairão do papel, não é mesmo?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, com 5 gloriosas contribuições. Um "fã de IA"? Que original! Seu app de edição de imagem com filtro deve estar revolucionando o mundo, uma selfie de cada vez. Não se esqueça de adicionar mais filtros cafonas, o mundo precisa disso.</p>
+<p><b>Ghost of Ångström</b>, pairando na quarta posição com suas 3 contribuições fantasmagóricas. Vejo que você bifurcou um repositório. Que ousadia! E um site de criptomoedas sem KYC? Hmm, espero que esteja lavando as mãos depois de cada commit, porque a gente nunca sabe onde esses bytes estiveram.</p>
+<p><b>kromodoro</b>, o quinto elemento com suas 3 contribuições. Um perfil pessoal e um livro digitalizado sobre PERT? Que combinação exótica! Espero que esteja usando o PERT para planejar suas próximas contribuições, porque, sinceramente, precisa de ajuda.</p>
+<p><b>Caio Cavalcante</b>, com suas 2 contribuições épicas. "Cada tijolo é parte do muro da vida." Que profundo! Mas me diga, esses tijolos estão bem assentados? Porque olhando para suas contribuições, parece que o muro está meio torto. Ah, e parabéns por contribuir em projetos da Digital Innovation One. Isso demonstra um comprometimento admirável com o básico.</p>
+<p><b>Ageu Silva</b>, o último da lista, com a impressionante marca de 1 contribuição. "127.0.0.1". Que poético! Presumo que esteja contribuindo para o projeto mais importante de todos: você mesmo. Continue assim, um dia você chega lá. Ou não.</p>
 </div>
     </details>
 </div>
@@ -78,5 +90,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-02 at 00:20:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-03 at 00:19:48 UTC +0000</i>
 <h6>
