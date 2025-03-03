@@ -1,6 +1,9 @@
 from dataclasses import dataclass
 
-from src.modules.contributions_calendar import ContributionsCalendar
+
+@dataclass
+class ContributionsCalendar:
+    totalContributions: int
 
 
 @dataclass

@@ -1,7 +1,12 @@
 from dataclasses import dataclass
 
-from src.modules.page_info import PageInfo
 from src.modules.user import User
+
+
+@dataclass
+class PageInfo:
+    endCursor: str
+    hasNextPage: bool
 
 
 @dataclass

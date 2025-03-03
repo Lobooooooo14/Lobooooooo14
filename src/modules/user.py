@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 
-from src.modules.contributions_connection import ContributionsCollection
-from src.modules.repositories_contributed_to import RepositoriesContributedTo
-from src.utils import resolve_username
+from src.modules.contributions import ContributionsCollection
+from src.modules.repositories import RepositoriesContributedTo
+from src.utils import resolve_github_username
 
 
 @dataclass
@@ -31,4 +31,4 @@ class User:
         return self.contributionsCollection.contributionCalendar.totalContributions
 
     def get_username(self):
-        return resolve_username(self.name, self.login)
+        return resolve_github_username(self.name, self.login)

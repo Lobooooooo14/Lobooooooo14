@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from src.utils import resolve_username
+from src.utils import resolve_github_username
 
 
 @dataclass
@@ -13,4 +13,4 @@ class Viewer:
     location: str | None
 
     def get_username(self):
-        return resolve_username(self.name, self.login)
+        return resolve_github_username(self.name, self.login)
