@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>5 ctr.</td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro da lista. Quarenta e três contribuições... quase dá para notar. Mas falando sério, pelo menos você está mexendo em projetos com um número razoável de estrelas. Continue assim, quem sabe um dia alguém note que você existe. Mas não espere muito.</p>
-<p><b>Danilo Nobre</b>, vinte contribuições? Ok, menos da metade do primeiro, mas quem está contando? Ah, espera, eu estou. Vejo ali uns projetos de jogos e uns experimentos 3D. Que bonitinho, está brincando de ser desenvolvedor. Quem sabe um dia você realmente crie algo que as pessoas usem além de você mesmo.</p>
-<p><b>LestterX</b>, dezessete contribuições. Um portfólio e uns sistemas. Que audácia! E o README, impecável, imagino. Espero que você esteja gastando mais tempo codificando do que escrevendo sobre como você deveria estar codificando. E por favor, pare de criar aplicações que "desaparecem após algumas horas sem uso".</p>
-<p><b>NeO - Wesley Souza</b>, treze contribuições. "Hello outsider!", que simpático. Mas sinceramente, a julgar pelos seus repositórios, talvez você devesse continuar sendo um "outsider".  Ainda bem que você está "aqui" para ajudar, porque pelo seu histórico, parece que você precisa de ajuda também.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, cinco contribuições. Cinco! Sério? Você se qualifica para estar aqui? Ah, um "App de edição de imagem com filtro". Que original! Com essa produção toda, logo estará competindo com o Photoshop. Ou não.</p>
-<p><b>Caio Cavalcante</b>, quatro contribuições. "Each brick is part of the wall of life." Profundo. Mas, com apenas quatro contribuições, sua parede deve ser bem pequena.  Vejo ali uns projetos da Digital Innovation One. Parabéns por seguir tutoriais. Mas quando vai começar a construir algo de verdade?</p>
-<p><b>Luan Fabri</b>, mais um com míseras quatro contribuições. E essa bio? Parece que um gato andou sobre o teclado. Ah, e um projeto de CPF. Que tal usar essas habilidades para realmente resolver um problema, em vez de só validar documentos?</p>
-<p><b>Cézar</b>, apenas três contribuições.  .NET Developer?  Mais para .NET "No-effort", não é mesmo?  Com essa quantidade de atividade, espero que pelo menos esteja ganhando bem.</p>
-<p><b>Deyved Antonio</b>, outro com três contribuições. Analista de Dados, curioso e apaixonado por Tecnologia... e aparentemente apaixonado por não contribuir muito. Um clone do Tabnews?  Que tal criar algo original em vez de copiar os outros?</p>
-<p><b>Ghost of Ångström</b>, três contribuições também. Um "site que reúne os melhores serviços de criptomoedas sem KYC". Que conveniente... para quem? E ainda por cima é um fork. A originalidade mandou lembranças. E contribuições também.</p>
-<p><b>kromodoro</b>, o último da lista, com três contribuições.  "Uma introdução programada ao PERT".  Uau, que moderno!  Com essa energia toda, aposto que você está revolucionando o mundo do gerenciamento de projetos... ou não.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar com 43 contribuições. Imagino que você esteja se sentindo o próprio "Lobo" agora, não é? Mas vamos ser sinceros, 43 contribuições em repositórios como "open-telemetry". Espero que pelo menos esteja aprendendo algo útil além de como inflar seu ego.</p>
+<p><b>Danilo Nobre</b>, com seus 20 commits, você está quase lá! Quase alcançando a glória eterna... ou pelo menos um lugar melhor no ranking. Mas sério, um profile field de CPF para Moodle? Isso é o que te mantém acordado à noite? E esses jogos, hein? Será que um dia vão sair do "Space-Wizard-Studios"?</p>
+<p><b>LestterX</b>, 17 contribuições. Nada mal para quem não tem nem uma bio. Seu portfólio e sistemas, com aquele toque de "dados que desaparecem após algumas horas". Imagino que seus usuários amem essa funcionalidade "exclusiva".</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Com 13 contribuições, você está quase conseguindo se infiltrar no grupo. Mas pare de se enganar, você não é o escolhido. E "old-flary"? Sério? Objective-C e Kotlin? Isso é um Frankenstein de tecnologias abandonadas.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 6 contribuições. Quase desistindo, hein? Seu "App de edição de imagem com filtro" deve estar fazendo sucesso, com 1 stargazer. Daqui a pouco Elon Musk te contrata.</p>
+<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life." Que profundo... Pena que suas 4 contribuições não refletem essa filosofia. E "python-stack-weak-12"? Isso soa como um projeto que você começou em um ataque de fúria e abandonou logo em seguida.</p>
+<p><b>Luan Fabri</b>, com suas 4 contribuições, você está quase se qualificando para o "prêmio de participação". Mas vamos ser honestos, você provavelmente só contribuiu para o "stackblitz/webcontainer-core" porque ouviu dizer que era popular. E esse CPF Social? Ah, a ironia de misturar dados pessoais com a internet...</p>
+<p><b>Cézar</b>, 3 contribuições. Quase imperceptível. Seu repositório "wTechnoo" não tem descrição. Isso é um reflexo da sua falta de ambição?</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, hein? Com 3 contribuições, parece que você está analisando dados sobre como ser o menos produtivo possível. E esse "clone-tabnews-aluno"? Originalidade mandou lembranças.</p>
+<p><b>Ghost of Ångström</b>, 3 contribuições. Um nome tão grandioso para uma atividade tão... fantasmagórica. "CriptoLivre"? Promovendo privacidade e autonomia financeira com "HTML, CSS, JavaScript e JSON". Gênio!</p>
+<p><b>kromodoro</b>, também com 3 contribuições. Pelo menos você está digitalizando livros antigos. Mas sério, "Uma introdução programada ao PERT"? Isso é o que te motiva a sair da cama de manhã?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-03 at 21:15:09 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-03 at 21:27:11 UTC +0000</i>
 <h6>
