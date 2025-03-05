@@ -46,37 +46,37 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>17 ctr.</td>
+                <td>20 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/caio-nuness">Caio Cavalcante</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
                 <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
-                <td>3 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 43 contribuições. É bom ver alguém se dedicando a projetos OpenTelemetry.  Só espero que, entre tantas linhas de código, você ainda encontre tempo para respirar ar puro e lembrar que existe um mundo fora dos servidores. Mas, ei, quem precisa de vida social quando se tem telemetria, certo?</p>
-<p><b>NeO - Wesley Souza</b>, ah, o "outsider" que está sempre "aqui se precisar de ajuda". Que gentil da sua parte. Com 22 contribuições, você quase alcançou o topo. Quase.  Continue se esforçando para manter seu próprio flary antigo brilhando, quem sabe um dia ele não ofusca o brilho dos outros. E obrigado por nos lembrar que você está "aqui". Era exatamente o que precisávamos ouvir.</p>
-<p><b>Danilo Nobre</b>, o mestre dos três Ds: full-stack, game dev e 3D. Com 20 contribuições, você está quase conseguindo equilibrar tudo isso.  Só não se esqueça de que, no mundo real, nem tudo é um jogo ou uma renderização 3D. Mas continue sonhando, quem sabe um dia você não cria o metaverso perfeito onde todos nós possamos escapar da realidade. Boa sorte com isso.</p>
-<p><b>LestterX</b>, com 17 contribuições, você está na média. Nada de mais, nada de menos.  Seu portfólio e sistemas parecem promissores, mas lembre-se: a persistência é a chave. E, por favor, não deixe seus dados desaparecerem após algumas horas sem uso. A menos que essa seja a sua forma de protesto contra a obsolescência programada. Nesse caso, bravo!</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 6 contribuições...  Engenheiro Eletricista fã de IA? Interessante. Mas, com apenas 6 contribuições, parece que a IA ainda não te ajudou a dominar o mundo do desenvolvimento.  Continue tentando, quem sabe um dia você não cria a Skynet e nos salva de nós mesmos. Ou pelo menos um filtro de imagem melhor para o seu aplicativo.</p>
-<p><b>Caio Cavalcante</b>, "Cada tijolo é parte do muro da vida". Que poético. Mas, com apenas 4 contribuições, parece que você está mais para pedreiro amador do que para mestre de obras.  Ainda bem que você está contribuindo em projetos open source da DIO, pelo menos garante um portfólio, já que os seus próprios projetos parecem meio parados. Mas não desanime, continue empilhando tijolos, quem sabe um dia você não constrói algo grandioso.</p>
-<p><b>Luan Fabri</b>, sua bio é... intrigante. Com 4 contribuições, você parece estar mais preocupado em expressar sua angústia existencial do que em realmente contribuir para a comunidade.  Seus projetos parecem promissores, mas talvez você devesse focar em algo mais concreto do que em "aproveitar melhor o que pudermos". Mas ei, quem sou eu para julgar? Talvez a chave para a iluminação esteja em um repositório de CPF. Vai saber.</p>
-<p><b>Cézar</b>, .NET Developer com 3 contribuições.  Seu repositório "wTechnoo" está lá, existindo.  Continue assim, Cézar, a consistência é a chave. E quem sabe um dia você não transforma seu repositório em algo realmente "wTechnoo".</p>
-<p><b>Deyved Antonio</b>, Analista de Dados, pai, marido e... 3 contribuições.  Parece que você está ocupado demais analisando dados para realmente contribuir.  Seu projeto de análise de turnover de colaboradores é interessante, mas talvez você devesse analisar seus próprios hábitos de contribuição. Mas não se preocupe, Deyved, a vida é mais do que apenas números e linhas de código. Aproveite sua família e deixe que os outros se preocupem em dominar o mundo da tecnologia.</p>
-<p><b>Ghost of Ångström⚳︎</b>, um fantasma com apenas 3 contribuições.  Seu repositório "criptolivre" parece interessante, mas talvez você devesse se concentrar em assustar as pessoas em vez de tentar libertá-las financeiramente.  Afinal, você é um fantasma, não um guru financeiro. Mas continue tentando, quem sabe um dia você não encontra a fórmula para assustar os ricos e redistribuir a riqueza. Boa sorte com isso.</p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack e... 3 contribuições.  Com tantos talentos, é surpreendente que você não esteja liderando o ranking.  Seus projetos parecem promissores, mas talvez você devesse se concentrar em um deles em vez de tentar fazer tudo ao mesmo tempo. Mas não se preocupe, Luídi, a vida é uma maratona, não uma corrida de 100 metros. E quem sabe um dia você não domina todas as áreas do desenvolvimento e se torna o rei do Full Stack. Continue sonhando.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar. Imagino que você passe tanto tempo no <i>open-telemetry</i> que já deve estar começando a falar em métricas e spans no café da manhã. Mas não se anime muito, liderar um ranking desses não significa muita coisa, não é como se estivesse resolvendo a crise climática. E esses seus commits, hein? Espero que pelo menos estejam bem comentados, porque ninguém quer herdar um código que só você entende.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!", que simpático. Mas será que essa simpatia se traduz em código realmente útil? Tirando aquele seu repositório de subdomínio '.is-a.dev', que é legalzinho, o resto parece mais um amontoado de "projetinhos" do que algo realmente impactante. E esse "old-flary" em Objective-C e Kotlin? Tá tentando ressuscitar tecnologias do século passado? Acorda pra 2025, Wesley!</p>
+<p><b>Danilo Nobre</b>, "Crafting web & game experiences with a touch of 3D", que pretensioso. Mas vamos ser sinceros, olhando seus repositórios, parece mais um toque de "vou tentar fazer alguma coisa em 3D, mas não prometo nada". E essa contribuição em um projeto Moodle de 2014? Sério? Moodle? Daqui a pouco vai dizer que programa em COBOL. E esses seus projetos de "Space-Wizard-Studios", espero que pelo menos o nome seja mais criativo que o código.</p>
+<p><b>LestterX</b>, um nome desses e só 20 contribuições? Com essa descrição genérica de "Portifólio e Sistemas", eu esperava mais. E essa aplicação de entregas que some com os dados depois de algumas horas? Que ideia genial! Ideal para quem quer perder os dados dos clientes. E o que dizer do repositório "Readme o' mine"? Que original! Aposto que passou horas pensando nesse nome.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados "apaixonado por Tecnologia", que clichê! Mas vamos ver o que você anda aprontando. Um clone do Tabnews? Que legal, mais um clone na internet. E esse projeto de análise de turnover em Excel? Imagino que as empresas estejam desesperadas para contratar alguém que saiba usar... Excel. E "Estoque" em Python? Uau, que inovador! Daqui a pouco vai criar uma calculadora e achar que revolucionou a matemática.</p>
+<p><b>Deivid Souza Santana</b>, estudante de Análise e Desenvolvimento de Sistemas "apaixonado por back-end". Imagino que esteja passando as noites em claro estudando, certo? Ah, não, espera, você tem um repositório chamado "Data-Structures" que não é atualizado desde maio do ano passado. E esse "Taskmaster" com Flask? Que bonitinho, um projeto para praticar. Espero que pelo menos tenha aprendido alguma coisa.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA", que combo! Mas será que consegue fazer alguma coisa além de acender e apagar uma lâmpada com IA? E esse app de edição de imagem com filtro, o "dyMosaic"? Imagino que tenha revolucionado o mundo da fotografia. Aposto que o pessoal do Instagram está morrendo de inveja.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology", que genérico. Contribuiu no TypeORM, ok, legal. Mas e o resto? Ah, um repositório com seu nome que não é atualizado há anos. E esse "authenticator-middleware"? Imagino que tenha reinventado a roda da autenticação. E contribuiu no Flutter Client SDK for LiveKit, ao menos parece que você tentou fazer alguma coisa útil, mas 5 contribuições? Cadê o resto?</p>
+<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life", que profundo. Mas será que essa profundidade se reflete no seu código? Contribuiu em projetos da Digital Innovation One? Que legal, está aprendendo a programar. E esse projeto "python-stack-weak-12"? Espero que o nome não seja um reflexo das suas habilidades em Python. Mas relaxa, Caio, pelo menos você está tentando.</p>
+<p><b>Luan Fabri</b>, com essa bio toda rabiscada, eu já imagino o caos que deve ser o seu código. Contribuiu no StackBlitz, ok, até aí tudo bem. Mas e esse repositório de "recursosfree"? Tá tentando juntar links aleatórios da internet e chamar de contribuição? E o "cpf-social"? Sério? Tá tentando criar um Tinder para CPFs? Alguém precisa de umas férias, e talvez umas aulas de organização.</p>
+<p><b>Cézar</b>, ".NET Developer", que direto ao ponto. Mas e as contribuições? Ah, só um repositório com seu nome que não é atualizado desde 2021. Imagino que esteja ocupado demais assistindo tutoriais do Balta.io. Mas não se preocupe, Cézar, o importante é ter um perfil no GitHub, mesmo que ele esteja acumulando poeira digital.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-04 at 00:18:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-05 at 00:18:53 UTC +0000</i>
 <h6>
