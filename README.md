@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>45 ctr.</td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,42 +41,42 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>26 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>27 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>18 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>13 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>11 ctr.</td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>11 ctr.</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>15 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 45 contribuições! Imagino que a bio "Interessado em computadores e comunidades de conhecimento" seja um eufemismo para "viciado em OpenTelemetry". Mas falando sério, impressionante o seu envolvimento com projetos de grande porte. Continue assim, quem sabe um dia você não terá que trabalhar de verdade.</p>
-<p><b>LestterX</b>, com 40 contribuições, você quase chegou lá! Olhando seus repositórios, vejo um portfólio, um app de entregas que perde os dados após algumas horas (ótimo para quem odeia compromisso) e um "Readme o' mine". É bom ter hobbies, mas talvez seja hora de focar em algo que não desapareça magicamente. </p>
-<p><b>Everton Marcelino Jr.</b>, 26 contribuições, nada mal. Vejo que você contribuiu para o TypeORM, um projeto com mais de 34 mil estrelas. Será que alguma dessas estrelas foi um pedido de socorro? Brincadeira! Continue assim, quem sabe um dia você não precisará mais procurar emprego.</p>
-<p><b>Danilo Nobre</b>, 22 contribuições, a mesma quantidade que o próximo da lista, hein? Sua bio diz "Full-stack, Game dev e 3D Enthusiast". É tipo um unicórnio que sabe fazer tudo, mas no fim das contas, não faz nada muito bem. Mas ei, pelo menos você tem um projeto de dados rolando, literalmente. </p>
-<p><b>NeO - Wesley Souza</b>, parece que você e o Danilo estão competindo para ver quem chega mais perto do topo sem realmente chegar lá. Sua bio diz "Hello outsider! If you need help with something, I'm here!". Que simpático da sua parte! Mas será que você consegue ajudar a si mesmo a subir no ranking? </p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 21 contribuições. "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". É tanta coisa que fico imaginando se você realmente tem tempo para dormir. Mas falando sério, seu app de edição de imagem com filtro é um começo. Quem sabe um dia você não cria o próximo Instagram? </p>
-<p><b>Deivid Souza Santana</b>, com 18 contribuições, você está quase lá! "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Ok, já entendemos que você gosta de ficar nos bastidores. Mas se quiser subir no ranking, talvez precise aparecer um pouco mais. </p>
-<p><b>Deyved Antonio</b>, 13 contribuições. "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido". Ufa, quanta coisa! Mas será que você está analisando os dados certos? Talvez devesse analisar o ranking e ver como subir algumas posições. </p>
-<p><b>Cézar</b>, 11 contribuições. ".NET Developer". Direto ao ponto, sem enrolação. Mas será que essa objetividade se reflete nas suas contribuições? Talvez precise de um pouco mais de "tempero" para se destacar. </p>
-<p><b>Felipe Gueller</b>, também com 11 contribuições. "Bacharel em Sistemas de Informações". Parabéns pelo diploma! Mas será que está usando todo esse conhecimento para subir no ranking? Seus "componentes HTML diversos" são um começo, mas talvez precise de algo mais ambicioso. </p>
-<p><b>Luan Fabri</b>, fechando o ranking com 10 contribuições. Sua bio é um monte de caracteres aleatórios, o que me faz pensar se você está tentando se esconder de algo. Mas ei, pelo menos você contribuiu para o StackBlitz, um projeto interessante. Quem sabe um dia você não decifra sua própria bio? </p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar... com 51 contribuições. Imagino que esteja se sentindo o próprio "Lobo" agora, não é? Mas não se anime muito, metade dessas contribuições foram em repositórios com nomes que parecem ter saído de um gerador aleatório de palavras-chave para SEO. E a outra metade, bem, vamos apenas dizer que "open-telemetry" parece ser um hobby interessante. Mas será que impressiona alguém além de robôs de telemetria?</p>
+<p><b>LestterX</b>, com 40 contribuições. Vejo que você tem um portfólio e sistemas, que bom! Pena que a última atualização foi em julho de 2023. Seu Readme também parece estar precisando de uma repaginada, desde agosto de 2023? Sério? Mas ei, pelo menos você contribuiu com um projeto chamado "whyapp-backend". O nome já diz tudo: por que alguém faria isso? Parabéns pela... honestidade?</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio. E com 38 contribuições, até que parece verdade. Mas vamos ser sinceros, metade disso foi em TypeORM, um projeto que parece ter sido criado para dar dor de cabeça aos desenvolvedores. E a outra metade? Ah, sim, seu repositório pessoal, intocado desde maio de 2024. Mas não se preocupe, Everton, a paixão pela tecnologia é o que importa, certo? Não os resultados.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Mais um apaixonado por tecnologia! Que original! Com 30 contribuições, você está quase lá... quase lá para me fazer acreditar que você realmente faz algo além de criar APIs TypeScript com Fastify. Ah, e seu repositório pessoal, "Cr-Israel", não tem descrição. Que tal adicionar algo como "Aqui jazem meus sonhos de grandeza"?</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast". Uau, que currículo! Mas com apenas 27 contribuições, parece que você está mais para "faz-tudo, nada bem feito". E metade disso foi em projetos com nomes como "sw-game-dice-rolling". Sério? Dados? Em pleno 2025? Danilo, você está vivendo no passado!</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático... demais até. Com 22 contribuições, você está quase me convencendo de que realmente ajuda as pessoas. Mas vamos dar uma olhada... "is-a-dev/register"? Registrar subdomínios? É isso que te faz dormir à noite? E "old-flary"? Sério? Nomes mais criativos, por favor!</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Que combinação inusitada! Com 21 contribuições, você está quase conseguindo equilibrar todas essas paixões. Mas vamos ver... "dyMosaic"? Um app de edição de imagem com filtro? Isso existe desde 2010, Lucas! Acorda!</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Ah, a paixão juvenil... Com 18 contribuições, você está trilhando seu caminho. "Taskmaster"? Um website de organização de tarefas? Que original! Mas ei, pelo menos você está praticando Python. Continue assim, quem sabe um dia você chega lá... ou não.</p>
+<p><b>Cézar</b>, ".NET Developer". Direto ao ponto, sem rodeios. Com 17 contribuições, você está quase me convencendo de que o .NET ainda é relevante. Mas vamos ser sinceros, metade disso foi em "wTechnoo/wTechnoo", um repositório sem descrição. Que tal adicionar algo como "Aqui jazem meus sonhos de grandeza no mundo .NET"?</p>
+<p><b>Luan Fabri</b>, "**I\u0334\u033d\u0315 \u0336\u0351\u0346h\u0336\u0344\u0305a\u0334\u0344\u033ev\u0335\u0351\u034be\u0336\u030b\u0341 \u0337\u030e\u0344a\u0338\u0360\u030e \u0338\u0312\u0344b\u0336\u030f\u0360r\u0337\u0342\u0344a\u0334\u0305\u034ci\u0334\u0307\u0360n\u0338\u0351\u033e.\u0335\u0351\u033d**". Ok, isso é... interessante. Com 15 contribuições, você está quase me convencendo de que não está tendo um colapso nervoso. Mas vamos ver... "cpf-social"? Ferramentas para CPF? Sério? Luan, você está usando seus poderes para o mal!</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Parabéns pelo diploma! Com 14 contribuições, você está quase me convencendo de que aprendeu alguma coisa. Mas vamos ver... "componentes-html-diversos"? Componentes HTML diversos? Que original! E "html-css-origamid"? Um curso de HTML e CSS? Felipe, você está preso em 2010!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-07 at 00:18:46 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-08 at 00:15:16 UTC +0000</i>
 <h6>
