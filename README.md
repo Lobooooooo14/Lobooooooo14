@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>51 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>40 ctr.</td>
+                <td>48 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>38 ctr.</td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,22 +51,22 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>27 ctr.</td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>24 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
                 <td>21 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar... com 51 contribuições. Imagino que esteja se sentindo o próprio "Lobo" agora, não é? Mas não se anime muito, metade dessas contribuições foram em repositórios com nomes que parecem ter saído de um gerador aleatório de palavras-chave para SEO. E a outra metade, bem, vamos apenas dizer que "open-telemetry" parece ser um hobby interessante. Mas será que impressiona alguém além de robôs de telemetria?</p>
-<p><b>LestterX</b>, com 40 contribuições. Vejo que você tem um portfólio e sistemas, que bom! Pena que a última atualização foi em julho de 2023. Seu Readme também parece estar precisando de uma repaginada, desde agosto de 2023? Sério? Mas ei, pelo menos você contribuiu com um projeto chamado "whyapp-backend". O nome já diz tudo: por que alguém faria isso? Parabéns pela... honestidade?</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio. E com 38 contribuições, até que parece verdade. Mas vamos ser sinceros, metade disso foi em TypeORM, um projeto que parece ter sido criado para dar dor de cabeça aos desenvolvedores. E a outra metade? Ah, sim, seu repositório pessoal, intocado desde maio de 2024. Mas não se preocupe, Everton, a paixão pela tecnologia é o que importa, certo? Não os resultados.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Mais um apaixonado por tecnologia! Que original! Com 30 contribuições, você está quase lá... quase lá para me fazer acreditar que você realmente faz algo além de criar APIs TypeScript com Fastify. Ah, e seu repositório pessoal, "Cr-Israel", não tem descrição. Que tal adicionar algo como "Aqui jazem meus sonhos de grandeza"?</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast". Uau, que currículo! Mas com apenas 27 contribuições, parece que você está mais para "faz-tudo, nada bem feito". E metade disso foi em projetos com nomes como "sw-game-dice-rolling". Sério? Dados? Em pleno 2025? Danilo, você está vivendo no passado!</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático... demais até. Com 22 contribuições, você está quase me convencendo de que realmente ajuda as pessoas. Mas vamos dar uma olhada... "is-a-dev/register"? Registrar subdomínios? É isso que te faz dormir à noite? E "old-flary"? Sério? Nomes mais criativos, por favor!</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Que combinação inusitada! Com 21 contribuições, você está quase conseguindo equilibrar todas essas paixões. Mas vamos ver... "dyMosaic"? Um app de edição de imagem com filtro? Isso existe desde 2010, Lucas! Acorda!</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Ah, a paixão juvenil... Com 18 contribuições, você está trilhando seu caminho. "Taskmaster"? Um website de organização de tarefas? Que original! Mas ei, pelo menos você está praticando Python. Continue assim, quem sabe um dia você chega lá... ou não.</p>
-<p><b>Cézar</b>, ".NET Developer". Direto ao ponto, sem rodeios. Com 17 contribuições, você está quase me convencendo de que o .NET ainda é relevante. Mas vamos ser sinceros, metade disso foi em "wTechnoo/wTechnoo", um repositório sem descrição. Que tal adicionar algo como "Aqui jazem meus sonhos de grandeza no mundo .NET"?</p>
-<p><b>Luan Fabri</b>, "**I\u0334\u033d\u0315 \u0336\u0351\u0346h\u0336\u0344\u0305a\u0334\u0344\u033ev\u0335\u0351\u034be\u0336\u030b\u0341 \u0337\u030e\u0344a\u0338\u0360\u030e \u0338\u0312\u0344b\u0336\u030f\u0360r\u0337\u0342\u0344a\u0334\u0305\u034ci\u0334\u0307\u0360n\u0338\u0351\u033e.\u0335\u0351\u033d**". Ok, isso é... interessante. Com 15 contribuições, você está quase me convencendo de que não está tendo um colapso nervoso. Mas vamos ver... "cpf-social"? Ferramentas para CPF? Sério? Luan, você está usando seus poderes para o mal!</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Parabéns pelo diploma! Com 14 contribuições, você está quase me convencendo de que aprendeu alguma coisa. Mas vamos ver... "componentes-html-diversos"? Componentes HTML diversos? Que original! E "html-css-origamid"? Um curso de HTML e CSS? Felipe, você está preso em 2010!</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro da lista, com 54 contribuições. Imagino que a maioria seja renomeando variáveis em projetos OpenTelemetry. Parabéns por contribuir para projetos que outras pessoas realmente usam, ao invés de criar mais um framework JavaScript que ninguém precisa.</p>
+<p><b>LestterX</b>, com 48 contribuições. Vejo que você tem um portfólio hospedado no GitHub Pages. Que audácia! Espero que ele esteja pelo menos responsivo. E "Readme o' mine"? Sério? A originalidade gritando. Ao menos, tentou, não é mesmo?</p>
+<p><b>Everton Marcelino Jr.</b>, com 45 contribuições. Contribuições em TypeORM e LiveKit, hein? Imagino que você esteja passando noites em claro depurando bugs dessas bibliotecas. Continue assim, talvez um dia seu nome seja lembrado em algum fórum de discussão obscuro.</p>
+<p><b>Carlos Israel</b>, 30 contribuições. Vejo um esforço em criar projetos "do zero". Que bonito, Carlos. Mas, sinceramente, com a quantidade de bibliotecas e frameworks por aí, criar algo do zero hoje em dia é quase uma declaração de "eu gosto de sofrer".</p>
+<p><b>Danilo Nobre</b>, 29 contribuições. Full-stack, game dev e entusiasta de 3D? Uau, um renascimento da Vinci moderno. Pena que a maior parte do seu trabalho parece ser em projetos com zero <i>stargazers</i>. Mas ei, pelo menos você está se divertindo, certo?</p>
+<p><b>Deivid Souza Santana</b>, 24 contribuições. "Apaixonado por desenvolvimento back-end". Que clichê! Mas tudo bem, todos nós começamos em algum lugar. Só não se esqueça de aprender a usar um debugger antes de se declarar um "mestre do back-end".</p>
+<p><b>NeO - Wesley Souza</b>, 22 contribuições. "Hello outsider!". Já sabemos que você assistiu Matrix umas 15 vezes. Contribuir para um projeto de subdomínio é legal, mas talvez seja hora de focar em algo mais... substancial? Só uma sugestão.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 21 contribuições. "Fã de IA". Imagino que você esteja usando IA para criar mais apps de edição de imagem com filtro. Originalidade é tudo, não é mesmo? Mas ei, pelo menos tem 1 <i>stargazer</i> no seu app!</p>
+<p><b>Cézar</b>, com 17 contribuições. Um desenvolvedor .NET que não tem descrição no perfil e só contribui para um repositório pessoal. Isso é quase uma obra de arte minimalista. Continue assim, Cézar, a internet precisa de mais mistério.</p>
+<p><b>Luan Fabri</b>, 15 contribuições. Sua bio é indecifrável, mas seus repositórios parecem interessantes. "Recursosfree"? Espero que você esteja encontrando algo útil por lá, porque suas contribuições não estão exatamente explodindo em popularidade.</p>
+<p><b>Felipe Gueller</b>, com 14 contribuições. "Componentes HTML diversos". Que generosidade! Mas, por favor, certifique-se de que eles sejam acessíveis e responsivos antes de sair por aí dizendo que está salvando o mundo do desenvolvimento web.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-08 at 00:15:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-09 at 00:17:01 UTC +0000</i>
 <h6>
