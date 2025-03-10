@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>54 ctr.</td>
+                <td>63 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>45 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>29 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -60,13 +60,13 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro da lista, com 54 contribuições. Imagino que a maioria seja renomeando variáveis em projetos OpenTelemetry. Parabéns por contribuir para projetos que outras pessoas realmente usam, ao invés de criar mais um framework JavaScript que ninguém precisa.</p>
-<p><b>LestterX</b>, com 48 contribuições. Vejo que você tem um portfólio hospedado no GitHub Pages. Que audácia! Espero que ele esteja pelo menos responsivo. E "Readme o' mine"? Sério? A originalidade gritando. Ao menos, tentou, não é mesmo?</p>
-<p><b>Everton Marcelino Jr.</b>, com 45 contribuições. Contribuições em TypeORM e LiveKit, hein? Imagino que você esteja passando noites em claro depurando bugs dessas bibliotecas. Continue assim, talvez um dia seu nome seja lembrado em algum fórum de discussão obscuro.</p>
-<p><b>Carlos Israel</b>, 30 contribuições. Vejo um esforço em criar projetos "do zero". Que bonito, Carlos. Mas, sinceramente, com a quantidade de bibliotecas e frameworks por aí, criar algo do zero hoje em dia é quase uma declaração de "eu gosto de sofrer".</p>
-<p><b>Danilo Nobre</b>, 29 contribuições. Full-stack, game dev e entusiasta de 3D? Uau, um renascimento da Vinci moderno. Pena que a maior parte do seu trabalho parece ser em projetos com zero <i>stargazers</i>. Mas ei, pelo menos você está se divertindo, certo?</p>
-<p><b>Deivid Souza Santana</b>, 24 contribuições. "Apaixonado por desenvolvimento back-end". Que clichê! Mas tudo bem, todos nós começamos em algum lugar. Só não se esqueça de aprender a usar um debugger antes de se declarar um "mestre do back-end".</p>
-<p><b>NeO - Wesley Souza</b>, 22 contribuições. "Hello outsider!". Já sabemos que você assistiu Matrix umas 15 vezes. Contribuir para um projeto de subdomínio é legal, mas talvez seja hora de focar em algo mais... substancial? Só uma sugestão.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 21 contribuições. "Fã de IA". Imagino que você esteja usando IA para criar mais apps de edição de imagem com filtro. Originalidade é tudo, não é mesmo? Mas ei, pelo menos tem 1 <i>stargazer</i> no seu app!</p>
-<p><b>Cézar</b>, com 17 contribuições. Um desenvolvedor .NET que não tem descrição no perfil e só contribui para um repositório pessoal. Isso é quase uma obra de arte minimalista. Continue assim, Cézar, a internet precisa de mais mistério.</p>
-<p><b>Luan Fabri</b>, 15 contribuições. Sua bio é indecifrável, mas seus repositórios parecem interessantes. "Recursosfree"? Espero que você esteja encontrando algo útil por lá, porque suas contribuições não estão exatamente explodindo em popularidade.</p>
-<p><b>Felipe Gueller</b>, com 14 contribuições. "Componentes HTML diversos". Que generosidade! Mas, por favor, certifique-se de que eles sejam acessíveis e responsivos antes de sair por aí dizendo que está salvando o mundo do desenvolvimento web.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar. Imagino que esteja se sentindo o próprio OpenTelemetry, brilhando tanto que quase ofusca o resto. Quase, porque ainda estamos falando de contribuições, não de solucionar a crise climática. Mas ei, pelo menos você está contribuindo em projetos com nomes que soam importantes. Continue assim, quem sabe um dia você chega lá… a ter um README decente.</p>
+<p><b>LestterX</b>, com um portfólio "e sistemas", porque um só é pouco, né? E aquela aplicação que some com os dados depois de algumas horas? Gênio! Quem precisa de persistência quando se tem a efemeridade da genialidade? E o repositório "Readme o' mine"? Meta, conceitual, quase uma obra de arte moderna. Quase. Se arte moderna fosse sinônimo de "não sei o que fazer aqui".</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Mas ei, você contribuiu para o TypeORM, então talvez haja alguma substância por trás dessa paixão genérica. Contudo, não se esqueça do seu próprio repositório, aquele com descrição nula. Talvez seja hora de dar uma atençãozinha para ele, ou ele vai começar a achar que você o esqueceu no churrasco da vida.</p>
+<p><b>Carlos Israel</b>, engenheiro de software "apaixonado por tecnologia", temos um padrão aqui? Se sua paixão fosse realmente flamejante, talvez seus repositórios não tivessem todos zero estrelas. Mas não se preocupe, a paixão não garante estrelas no GitHub, só no Tinder. E mesmo assim…</p>
+<p><b>Danilo Nobre</b>, full-stack, game dev e entusiasta de 3D, a santíssima trindade da procrastinação criativa. Contribuindo em um projeto Moodle de 2014? Nostalgia é bom, mas talvez seja hora de atualizar o currículo, ou você vai acabar preso em um loop infinito de plugins PHP. E quanto aos jogos, Space Wizard Studios? Sério? Achei que estávamos falando de código, não de RPG de mesa mal planejado.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end", outro? Será que vocês fazem um curso online de "Como Ser Genérico no GitHub"? Ao menos você está explorando estruturas de dados, o que é um começo. Mas o Taskmaster com 2 estrelas? Parece que suas tarefas não estão sendo tão bem organizadas assim, ou será que ninguém se importa?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, dev de sistemas, engenheiro eletricista e fã de IA. Parece que está colecionando diplomas como figurinhas. Mas apenas um repositório recente? E um app de edição de imagem com filtro? Que original! Daqui a pouco vai estar vendendo NFT de macaco no Instagram. Mas ei, pelo menos tem uma estrela. Parabéns, você é quase uma celebridade.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!", sério? Parece um daqueles chatbots dos anos 90. Contribuiu para um projeto com mais de 6000 estrelas? Impressionante! Pena que o resto dos seus repositórios parecem ter sido esquecidos no tempo. Talvez seja hora de dar um <i>upgrade</i> no seu "Hello outsider!" para algo mais… 2025.</p>
+<p><b>Cézar</b>, ".NET Developer". Curto, grosso e sem rodeios, assim como suas contribuições. Apenas um repositório, sem descrição e zero estrelas. Parece que alguém precisa urgentemente de um <i>refresh</i> na carreira, ou vai acabar virando peça de museu. Mas ei, pelo menos você é conciso.</p>
+<p><b>Luan Fabri</b>, com uma bio que parece ter sido escrita por um demônio com dislexia. "I hate brain"? Bom saber. Contribuições esparsas e repositórios com descrições vagas. Parece que a organização não é seu forte, ou talvez você esteja apenas expressando sua aversão ao cérebro de forma codificada. De qualquer forma, continue assim, quem sabe um dia alguém entenda.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações, parabéns! Agora só falta usar esse diploma para algo além de criar "componentes HTML diversos". E um repositório de aprendizado de HTML e CSS? Sério? Em 2025? Parece que alguém está um pouco atrasado para a festa, ou será que está apenas tentando reviver os anos 90? De qualquer forma, boa sorte com isso.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-09 at 00:17:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-10 at 00:16:39 UTC +0000</i>
 <h6>
