@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>63 ctr.</td>
+                <td>67 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>49 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>48 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>47 ctr.</td>
+                <td>4°</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>30 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>30 ctr.</td>
+                <td>6°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>24 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>22 ctr.</td>
+                <td>24 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>17 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>15 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>18 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar. Imagino que esteja se sentindo o próprio OpenTelemetry, brilhando tanto que quase ofusca o resto. Quase, porque ainda estamos falando de contribuições, não de solucionar a crise climática. Mas ei, pelo menos você está contribuindo em projetos com nomes que soam importantes. Continue assim, quem sabe um dia você chega lá… a ter um README decente.</p>
-<p><b>LestterX</b>, com um portfólio "e sistemas", porque um só é pouco, né? E aquela aplicação que some com os dados depois de algumas horas? Gênio! Quem precisa de persistência quando se tem a efemeridade da genialidade? E o repositório "Readme o' mine"? Meta, conceitual, quase uma obra de arte moderna. Quase. Se arte moderna fosse sinônimo de "não sei o que fazer aqui".</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Mas ei, você contribuiu para o TypeORM, então talvez haja alguma substância por trás dessa paixão genérica. Contudo, não se esqueça do seu próprio repositório, aquele com descrição nula. Talvez seja hora de dar uma atençãozinha para ele, ou ele vai começar a achar que você o esqueceu no churrasco da vida.</p>
-<p><b>Carlos Israel</b>, engenheiro de software "apaixonado por tecnologia", temos um padrão aqui? Se sua paixão fosse realmente flamejante, talvez seus repositórios não tivessem todos zero estrelas. Mas não se preocupe, a paixão não garante estrelas no GitHub, só no Tinder. E mesmo assim…</p>
-<p><b>Danilo Nobre</b>, full-stack, game dev e entusiasta de 3D, a santíssima trindade da procrastinação criativa. Contribuindo em um projeto Moodle de 2014? Nostalgia é bom, mas talvez seja hora de atualizar o currículo, ou você vai acabar preso em um loop infinito de plugins PHP. E quanto aos jogos, Space Wizard Studios? Sério? Achei que estávamos falando de código, não de RPG de mesa mal planejado.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end", outro? Será que vocês fazem um curso online de "Como Ser Genérico no GitHub"? Ao menos você está explorando estruturas de dados, o que é um começo. Mas o Taskmaster com 2 estrelas? Parece que suas tarefas não estão sendo tão bem organizadas assim, ou será que ninguém se importa?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, dev de sistemas, engenheiro eletricista e fã de IA. Parece que está colecionando diplomas como figurinhas. Mas apenas um repositório recente? E um app de edição de imagem com filtro? Que original! Daqui a pouco vai estar vendendo NFT de macaco no Instagram. Mas ei, pelo menos tem uma estrela. Parabéns, você é quase uma celebridade.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!", sério? Parece um daqueles chatbots dos anos 90. Contribuiu para um projeto com mais de 6000 estrelas? Impressionante! Pena que o resto dos seus repositórios parecem ter sido esquecidos no tempo. Talvez seja hora de dar um <i>upgrade</i> no seu "Hello outsider!" para algo mais… 2025.</p>
-<p><b>Cézar</b>, ".NET Developer". Curto, grosso e sem rodeios, assim como suas contribuições. Apenas um repositório, sem descrição e zero estrelas. Parece que alguém precisa urgentemente de um <i>refresh</i> na carreira, ou vai acabar virando peça de museu. Mas ei, pelo menos você é conciso.</p>
-<p><b>Luan Fabri</b>, com uma bio que parece ter sido escrita por um demônio com dislexia. "I hate brain"? Bom saber. Contribuições esparsas e repositórios com descrições vagas. Parece que a organização não é seu forte, ou talvez você esteja apenas expressando sua aversão ao cérebro de forma codificada. De qualquer forma, continue assim, quem sabe um dia alguém entenda.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações, parabéns! Agora só falta usar esse diploma para algo além de criar "componentes HTML diversos". E um repositório de aprendizado de HTML e CSS? Sério? Em 2025? Parece que alguém está um pouco atrasado para a festa, ou será que está apenas tentando reviver os anos 90? De qualquer forma, boa sorte com isso.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro da lista, que maravilha! 67 contribuições... quase lá. Pelo menos você está contribuindo em projetos *open-telemetry* que parecem ser maiores que a sua vontade de realmente impressionar. Mas ei, quem precisa de originalidade quando se pode nadar na piscina dos outros, certo? Continue assim, quem sabe um dia você chega lá... ou não.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz o bio. Mas a paixão é tanta que seus commits estão mais para "fogo de palha". Quase 50 contribuições, e um dos seus repositórios não tem descrição desde maio do ano passado. *Parabéns pela consistência*... em não fazer nada. Mas não se preocupe, a gente entende, manter um perfil no GitHub é difícil, quase tão difícil quanto admitir que você está mais para "observador de tecnologia" do que para "apaixonado".</p>
+<p><b>LestterX</b>, com 48 contribuições, você quase alcançou o segundo lugar. Quase. Mas "quase" não enche currículo, nem impressiona ninguém. Seus repositórios? Bem, digamos que são como aqueles sites dos anos 90 que a gente achava que nunca mais ia ver. Mas ei, pelo menos você está tentando, né? Ou está só fingindo para não ficar para trás? A verdade, só você sabe.</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo, hein? Pena que as 34 contribuições não refletem essa grandiosidade toda. Parece que o entusiasmo 3D não se traduz em commits, e seus jogos devem estar mais para "conceito" do que para "jogável". Mas não desanime, um dia você chega lá... ou vira *youtuber* de tutorial, o que vier primeiro.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Será que é contagioso? 30 contribuições e um monte de repositórios sem descrição. Aparentemente, a paixão pela tecnologia não inclui a paixão por documentar o próprio código. Mas ei, quem precisa de documentação quando se tem a "paixão", certo? Continue assim, talvez um dia alguém adivinhe o que você está fazendo.</p>
+<p><b>Cézar</b>, um ".NET Developer" com míseras 25 contribuições. Imagino que esteja muito ocupado escrevendo código que só roda em Windows para se preocupar com open source. Mas não se preocupe, a gente entende, o mundo .NET é um lugar à parte, onde a inovação acontece a passos de tartaruga. Continue assim, quem sabe um dia você descobre que existe vida fora da Microsoft.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Mais um! Será que estão dando desconto para quem se declara apaixonado? 24 contribuições e repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns". A originalidade definitivamente não é o seu forte. Mas não se preocupe, a gente entende, ser "apaixonado" não significa ser criativo. Continue assim, quem sabe um dia você encontra um projeto que te inspire de verdade... ou não.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenhario Eletricista | Fã de IA". Que combinação inusitada! Pena que as 24 contribuições não mostram essa versatilidade toda. Um app de edição de imagem com filtro... que original! Mas não desanime, a gente entende, ser fã de IA não significa saber usá-la. Continue assim, quem sabe um dia você cria algo que realmente impressione... ou vira *influencer* de tecnologia, o que vier primeiro.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático! Pena que as 22 contribuições não mostram essa hospitalidade toda. Mas ei, pelo menos você contribuiu para um projeto que ajuda as pessoas a terem um subdomínio ".is-a.dev". *Que generosidade!* Continue assim, quem sabe um dia você salva o mundo... ou vira *coach* motivacional, o que vier primeiro.</p>
+<p><b>Felipe Gueller</b>, com apenas 18 contribuições, você está quase lá... no fim da lista. Mas não se preocupe, a gente entende, a vida de "Bacharel em Sistemas de Informações" é corrida, cheia de boletos e prazos. Pelo menos você tem um repositório com "componentes HTML diversos". Que original! Continue assim, quem sabe um dia você vira *expert* em HTML... ou desiste e vira *youtuber* de tutorial, o que vier primeiro.</p>
+<p><b>Luan Fabri</b>, parabéns pelas 15 contribuições. Parece que você está mais interessado em enfeitar seu bio com letras aleatórias do que em realmente contribuir para projetos relevantes. Mas não se preocupe, a gente entende, a vida é muito curta para ser levada a sério. Continue assim, quem sabe um dia você descobre o significado de tudo isso... ou vira *meme* na internet, o que vier primeiro.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-10 at 00:16:39 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-11 at 00:18:56 UTC +0000</i>
 <h6>
