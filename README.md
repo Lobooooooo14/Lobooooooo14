@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>67 ctr.</td>
+                <td>68 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>49 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>34 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>25 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>18 ctr.</td>
+                <td>20 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro da lista, que maravilha! 67 contribuições... quase lá. Pelo menos você está contribuindo em projetos *open-telemetry* que parecem ser maiores que a sua vontade de realmente impressionar. Mas ei, quem precisa de originalidade quando se pode nadar na piscina dos outros, certo? Continue assim, quem sabe um dia você chega lá... ou não.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz o bio. Mas a paixão é tanta que seus commits estão mais para "fogo de palha". Quase 50 contribuições, e um dos seus repositórios não tem descrição desde maio do ano passado. *Parabéns pela consistência*... em não fazer nada. Mas não se preocupe, a gente entende, manter um perfil no GitHub é difícil, quase tão difícil quanto admitir que você está mais para "observador de tecnologia" do que para "apaixonado".</p>
-<p><b>LestterX</b>, com 48 contribuições, você quase alcançou o segundo lugar. Quase. Mas "quase" não enche currículo, nem impressiona ninguém. Seus repositórios? Bem, digamos que são como aqueles sites dos anos 90 que a gente achava que nunca mais ia ver. Mas ei, pelo menos você está tentando, né? Ou está só fingindo para não ficar para trás? A verdade, só você sabe.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo, hein? Pena que as 34 contribuições não refletem essa grandiosidade toda. Parece que o entusiasmo 3D não se traduz em commits, e seus jogos devem estar mais para "conceito" do que para "jogável". Mas não desanime, um dia você chega lá... ou vira *youtuber* de tutorial, o que vier primeiro.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Será que é contagioso? 30 contribuições e um monte de repositórios sem descrição. Aparentemente, a paixão pela tecnologia não inclui a paixão por documentar o próprio código. Mas ei, quem precisa de documentação quando se tem a "paixão", certo? Continue assim, talvez um dia alguém adivinhe o que você está fazendo.</p>
-<p><b>Cézar</b>, um ".NET Developer" com míseras 25 contribuições. Imagino que esteja muito ocupado escrevendo código que só roda em Windows para se preocupar com open source. Mas não se preocupe, a gente entende, o mundo .NET é um lugar à parte, onde a inovação acontece a passos de tartaruga. Continue assim, quem sabe um dia você descobre que existe vida fora da Microsoft.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Mais um! Será que estão dando desconto para quem se declara apaixonado? 24 contribuições e repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns". A originalidade definitivamente não é o seu forte. Mas não se preocupe, a gente entende, ser "apaixonado" não significa ser criativo. Continue assim, quem sabe um dia você encontra um projeto que te inspire de verdade... ou não.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenhario Eletricista | Fã de IA". Que combinação inusitada! Pena que as 24 contribuições não mostram essa versatilidade toda. Um app de edição de imagem com filtro... que original! Mas não desanime, a gente entende, ser fã de IA não significa saber usá-la. Continue assim, quem sabe um dia você cria algo que realmente impressione... ou vira *influencer* de tecnologia, o que vier primeiro.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático! Pena que as 22 contribuições não mostram essa hospitalidade toda. Mas ei, pelo menos você contribuiu para um projeto que ajuda as pessoas a terem um subdomínio ".is-a.dev". *Que generosidade!* Continue assim, quem sabe um dia você salva o mundo... ou vira *coach* motivacional, o que vier primeiro.</p>
-<p><b>Felipe Gueller</b>, com apenas 18 contribuições, você está quase lá... no fim da lista. Mas não se preocupe, a gente entende, a vida de "Bacharel em Sistemas de Informações" é corrida, cheia de boletos e prazos. Pelo menos você tem um repositório com "componentes HTML diversos". Que original! Continue assim, quem sabe um dia você vira *expert* em HTML... ou desiste e vira *youtuber* de tutorial, o que vier primeiro.</p>
-<p><b>Luan Fabri</b>, parabéns pelas 15 contribuições. Parece que você está mais interessado em enfeitar seu bio com letras aleatórias do que em realmente contribuir para projetos relevantes. Mas não se preocupe, a gente entende, a vida é muito curta para ser levada a sério. Continue assim, quem sabe um dia você descobre o significado de tudo isso... ou vira *meme* na internet, o que vier primeiro.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 68 contribuições! Quase dá para notar sua presença no meio de tantos projetos OpenTelemetry. Será que você está realmente contribuindo ou só adicionando uns comentários aqui e ali? E esses repositórios com nomes tão longos, será que você consegue soletrar todos eles de cabeça?</p>
+<p><b>Everton Marcelino Jr.</b>, 55 contribuições, nada mal. Mas me diga, esse seu próprio repositório com nome repetido, "EvertonMJunior/EvertonMJunior", qual a utilidade além de inflar seu ego? E a última atualização foi em maio do ano passado? Espero que você esteja mais ativo agora do que cuidando do seu espelho digital.</p>
+<p><b>LestterX</b>, 48 contribuições, ok. Mas "Portifólio e Sistemas" com a última atualização em julho de 2023? Parece que alguém precisa dar um tapa no visual. E essa aplicação que some com os dados depois de algumas horas, é tipo um Tamagotchi digital? Pelo menos o "Readme o' mine" está atualizado, né?</p>
+<p><b>Danilo Nobre</b>, 41 contribuições, uhn. Vejo ali um "Game dev" no seu bio. Mas o que temos aqui? Um profile field de CPF para Moodle? Isso me parece ser a definição de "Full-stack" que o mundo precisa. E esses projetos de jogos com nomes genéricos, "sw-game-dice-rolling"? Criatividade mandou lembranças.</p>
+<p><b>Carlos Israel</b>, 30 contribuições, empatado com o próximo. "Software Engineer. Passionate about technology." Que original! E o repositório "Cr-Israel/Cr-Israel", mais um espelho? O SPA-universe, EJ-site e challenge-nodejs parecem interessantes, mas com nomes assim, fica difícil levar a sério.</p>
+<p><b>Cézar</b>, também com 30 contribuições. Parabéns pelo esforço, mas seu repositório "wTechnoo/wTechnoo" não tem descrição e a última atualização foi em julho do ano passado. Talvez seja hora de dar uma polida no seu trabalho, ou pelo menos adicionar um README decente.</p>
+<p><b>Deivid Souza Santana</b>, 24 contribuições. Estudante de Análise e Desenvolvimento de Sistemas, que fofo. "Taskmaster" parece promissor, mas usar Flask para organizar tarefas? Meio overkill, não acha? E esses Design Patterns em Python, espero que esteja realmente aprendendo e não só copiando e colando.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, também com 24 contribuições. "App de edição de imagem com filtro"? Sério? Em pleno 2025? Imagino que a concorrência esteja tremendo. Mas ei, pelo menos está usando IA, então deve ser algo super inovador, certo?</p>
+<p><b>NeO - Wesley Souza</b>, 22 contribuições. "Hello outsider!" Que simpático. Mas tirando o projeto com mais de 6 mil estrelas, o resto parece meio esquecido. "old-flary" e "arrays-study-js" não recebem um carinho há tempos. Bora atualizar isso aí, Neo, ou vai virar Matrix de coisa velha.</p>
+<p><b>Felipe Gueller</b>, 20 contribuições. "Componentes HTML diversos"? Isso soa como "gaveta de bugigangas digitais". E o curso de HTML, CSS e Javascript do ORIGAMID? Espero que você já tenha saído das fraldas, porque estamos em 2025, Felipe. </p>
+<p><b>Luan Fabri</b>, 16 contribuições. "i have a brain." Que bom, porque com apenas 16 contribuições, seria preocupante se não tivesse. "cpf-social" é um projeto interessante, mas "resourcesfree/free-resources" sem descrição? Parece que até você esqueceu o que tem lá dentro. Use esse cérebro, Luan!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-11 at 00:18:56 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-12 at 00:18:49 UTC +0000</i>
 <h6>
