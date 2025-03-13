@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>68 ctr.</td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>55 ctr.</td>
+                <td>62 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>48 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>41 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>46 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>30 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>20 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>24 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 68 contribuições! Quase dá para notar sua presença no meio de tantos projetos OpenTelemetry. Será que você está realmente contribuindo ou só adicionando uns comentários aqui e ali? E esses repositórios com nomes tão longos, será que você consegue soletrar todos eles de cabeça?</p>
-<p><b>Everton Marcelino Jr.</b>, 55 contribuições, nada mal. Mas me diga, esse seu próprio repositório com nome repetido, "EvertonMJunior/EvertonMJunior", qual a utilidade além de inflar seu ego? E a última atualização foi em maio do ano passado? Espero que você esteja mais ativo agora do que cuidando do seu espelho digital.</p>
-<p><b>LestterX</b>, 48 contribuições, ok. Mas "Portifólio e Sistemas" com a última atualização em julho de 2023? Parece que alguém precisa dar um tapa no visual. E essa aplicação que some com os dados depois de algumas horas, é tipo um Tamagotchi digital? Pelo menos o "Readme o' mine" está atualizado, né?</p>
-<p><b>Danilo Nobre</b>, 41 contribuições, uhn. Vejo ali um "Game dev" no seu bio. Mas o que temos aqui? Um profile field de CPF para Moodle? Isso me parece ser a definição de "Full-stack" que o mundo precisa. E esses projetos de jogos com nomes genéricos, "sw-game-dice-rolling"? Criatividade mandou lembranças.</p>
-<p><b>Carlos Israel</b>, 30 contribuições, empatado com o próximo. "Software Engineer. Passionate about technology." Que original! E o repositório "Cr-Israel/Cr-Israel", mais um espelho? O SPA-universe, EJ-site e challenge-nodejs parecem interessantes, mas com nomes assim, fica difícil levar a sério.</p>
-<p><b>Cézar</b>, também com 30 contribuições. Parabéns pelo esforço, mas seu repositório "wTechnoo/wTechnoo" não tem descrição e a última atualização foi em julho do ano passado. Talvez seja hora de dar uma polida no seu trabalho, ou pelo menos adicionar um README decente.</p>
-<p><b>Deivid Souza Santana</b>, 24 contribuições. Estudante de Análise e Desenvolvimento de Sistemas, que fofo. "Taskmaster" parece promissor, mas usar Flask para organizar tarefas? Meio overkill, não acha? E esses Design Patterns em Python, espero que esteja realmente aprendendo e não só copiando e colando.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, também com 24 contribuições. "App de edição de imagem com filtro"? Sério? Em pleno 2025? Imagino que a concorrência esteja tremendo. Mas ei, pelo menos está usando IA, então deve ser algo super inovador, certo?</p>
-<p><b>NeO - Wesley Souza</b>, 22 contribuições. "Hello outsider!" Que simpático. Mas tirando o projeto com mais de 6 mil estrelas, o resto parece meio esquecido. "old-flary" e "arrays-study-js" não recebem um carinho há tempos. Bora atualizar isso aí, Neo, ou vai virar Matrix de coisa velha.</p>
-<p><b>Felipe Gueller</b>, 20 contribuições. "Componentes HTML diversos"? Isso soa como "gaveta de bugigangas digitais". E o curso de HTML, CSS e Javascript do ORIGAMID? Espero que você já tenha saído das fraldas, porque estamos em 2025, Felipe. </p>
-<p><b>Luan Fabri</b>, 16 contribuições. "i have a brain." Que bom, porque com apenas 16 contribuições, seria preocupante se não tivesse. "cpf-social" é um projeto interessante, mas "resourcesfree/free-resources" sem descrição? Parece que até você esqueceu o que tem lá dentro. Use esse cérebro, Luan!</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 70 contribuições! Trabalhando em projetos OpenTelemetry, hein? Que bom que você está ajudando a monitorar sistemas complexos, porque, sinceramente, entender o que vocês fazem é mais complexo ainda. Espero que pelo menos você saiba o que está monitorando. E não se esqueça, o "Lobo" está de olho, não para te elogiar, mas para ver se você está fazendo direito.</p>
+<p><b>Everton Marcelino Jr.</b>, 62 contribuições. Vejo que você mexe com TypeORM. Que ótimo, mais uma camada de abstração para complicar ainda mais o desenvolvimento. Mas ei, pelo menos você está "apaixonado por tecnologia". Será que a tecnologia está apaixonada por você também? E sobre aquele seu repositório pessoal, <i>EvertonMJunior/EvertonMJunior</i>, a última atualização foi em maio de 2024. Já está na hora de dar um tapa lá, não acha?</p>
+<p><b>Felipe Gueller</b>, com 60 contribuições. Ah, componentes HTML diversos... Que legal que você está criando seus próprios botões e caixas de texto. Mas será que eles são realmente úteis para alguém além de você? E esse curso de HTML, CSS e Javascript do ORIGAMID? Já terminou? Porque a última atualização foi em julho do ano passado. Se apresse, o HTML não vai esperar por você.</p>
+<p><b>LestterX</b>, 55 contribuições. "Portifólio e Sistemas"... Interessante. Mas a última atualização foi em julho de 2023. Será que seu portfólio ainda te representa? E essa "app-entregas-v1" que some com os dados depois de algumas horas? Parece promissor. Mas se some com os dados, some com o código também, ninguém precisa ver isso. Ah, e o <i>Readme o' mine</i>, tocante. Profundo.</p>
+<p><b>Danilo Nobre</b>, 46 contribuições. Full-stack, Game dev e entusiasta de 3D. Uau, quanta coisa! Mas me diga, qual dessas áreas você realmente domina? Porque, sinceramente, um pouco de tudo geralmente significa nada de nada. E esse projeto Moodle de 2014? Já pensou em atualizar para algo mais... moderno? E esses jogos? Vão sair do protótipo algum dia?</p>
+<p><b>Cézar</b>, com 38 contribuições. ".NET Developer", conciso e direto. Mas e o repositório <i>wTechnoo/wTechnoo</i>? Última atualização em julho de 2024. Será que o "wTechnoo" está funcionando? Ou está apenas juntando poeira digital? Se joga, C#, se joga. Mas se joga direito.</p>
+<p><b>Luan Fabri</b>, 37 contribuições e "i have a brain.". Que bom, Luan, porque às vezes parece que as pessoas esquecem de usar o próprio cérebro. E esse repositório de CPF? Espero que não esteja usando para coisas ilegais. Mas ei, pelo menos você está aproveitando melhor o que pode, né? <i>Resourcesfree/free-resources</i>, genial.</p>
+<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Mais um apaixonado. Que bom que vocês se amam. Mas e os seus projetos? Última atualização em maio de 2024. Será que a paixão acabou? E essa API em TypeScript? Espero que ela realmente funcione. Porque, sinceramente, "API made in TypeScript" não significa muita coisa se ela não fizer nada de útil.</p>
+<p><b>Ghost of Ångström⚶</b>, com 29 contribuições. Um "fantasma" no mundo do código, hein? Que misterioso. Mas e esse fork do GitHub Pages? Já pensou em criar algo original? E esse site de criptomoedas sem KYC? Espero que não esteja envolvido em atividades ilícitas. Mas ei, pelo menos você está promovendo a "privacidade". Ou será apenas a falta de responsabilidade?</p>
+<p><b>Deivid Souza Santana</b>, 24 contribuições. "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que clichê. Mas e esses seus projetos? "Data-Structures", "Taskmaster", "Design-Patterns"... Parece que você está estudando bastante. Mas será que você realmente está aprendendo alguma coisa? Ou está apenas copiando e colando código da internet? E esse Taskmaster em Flask? Espero que ele realmente organize suas tarefas. Porque, sinceramente, com essa quantidade de projetos, você deve estar precisando de um.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, também com 24 contribuições. "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Uau, quanta versatilidade! Mas será que você consegue focar em alguma coisa? E esse app de edição de imagem com filtro? Já pensou em adicionar mais filtros? Ou será que um filtro já é o suficiente para você? E essa sua paixão por IA? Espero que você não seja substituído por uma máquina em breve. Ah, a ironia...</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-12 at 00:18:49 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-13 at 00:19:18 UTC +0000</i>
 <h6>
