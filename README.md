@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>113 ctr.</td>
+                <td>117 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>86 ctr.</td>
+                <td>91 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,32 +46,32 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>65 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>66 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>51 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
                 <td>41 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
                 <td>37 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>33 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>33 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Gustavo Carvalho</b>, o mago do OpenTelemetry. 113 contribuições, hein? Quase dá pra sentir o cheiro da telemetria daqui. Mas me diga, entre tantos "OpenTelemetry" pra lá e pra cá, sobra tempo pra tomar um café?</p>
-<p><b>Everton Marcelino Jr.</b>, vemos que você é "apaixonado por tecnologia". Que clichê! Mas, ei, 86 contribuições não se fazem sozinhas. Só não entendi o repositório com seu nome, a última atualização foi em maio do ano passado. Tava esperando o que, um milagre?</p>
-<p><b>Felipe Gueller</b>, com 79 contribuições e componentes HTML "legais", você está quase lá! Mas cuidado, "legal" não paga as contas. E esse curso de Origamid de 2024? Já aprendeu a fazer um site que preste ou ainda está no "display: flex"?</p>
-<p><b>LestterX</b>, 65 contribuições... ok. Portfólio e "sistemas". A descrição da sua "app-entregas-v1" é hilária: "Esta aplicação não persiste os dados". Que tal criar uma que realmente entregue alguma coisa, hein?</p>
-<p><b>Danilo Nobre</b>, o polímata: full-stack, game dev e entusiasta de 3D. 51 contribuições e um senso de ambição que beira a insanidade. Mas vamos ser sinceros, esse "moodle-profilefield_cpf" de 2014... sério mesmo?</p>
-<p><b>Cézar</b>, o mestre do .NET. 41 contribuições, parabéns! Mas me conta, qual a sua desculpa para não ter uma descrição no seu repositório? Falta de criatividade ou excesso de .NET?</p>
-<p><b>Luan Fabri</b>, "i have a brain." Que bom, Luan, porque com 37 contribuições, a gente já estava começando a duvidar. E esse repositório de "recursos free"? A julgar pela última atualização em abril de 2024, imagino que estejam todos obsoletos.</p>
-<p><b>Deivid Souza Santana</b>, futuro mestre do back-end com 33 contribuições. "Taskmaster" para organizar tarefas? Parece promissor, mas cuidado para não se perder nas suas próprias tasks. E esses Design Patterns em Python de abril de 2024, estão em uso ou pegando poeira?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, engenheiro eletricista fã de IA. 33 contribuições e um app de edição de imagem com filtro. Só espero que os filtros de IA não deixem seu código com uma cara ainda pior.</p>
-<p><b>Carlos Israel</b>, "passionate about technology". 30 contribuições e a mesma bio genérica de sempre. Mas, ei, pelo menos você tem um "SPA-universe". Só espero que seu universo de Single Page Applications seja mais interessante que sua bio.</p>
-<p><b>Ghost of Ångström⚥</b>, 29 contribuições e um nome que parece um erro de digitação. Um fork e um site de criptomoedas sem KYC. Espero que você esteja usando um bom VPN, porque com essa quantidade de commits, você está chamando atenção.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 117 contribuições! Quase dá para sentir o cheiro do café requentado e das noites mal dormidas. Mas ei, pelo menos você está contribuindo para projetos com nomes que soam importantes. Quem sabe um dia alguém realmente entenda o que você está fazendo. </p>
+<p><b>Everton Marcelino Jr.</b>, 91 contribuições, hein? TipoORM, LiveKit... Parece que você está tentando desesperadamente entrar em projetos populares. E aquele seu repositório pessoal, "EvertonMJunior/EvertonMJunior"? Que ousadia! Atualizado pela última vez em maio de 2024. Imagino que sua bio "apaixonado por tecnologia" seja a parte mais atualizada ali.</p>
+<p><b>Felipe Gueller</b>, com 79 contribuições. "Componentes HTML diversos"... Que nome inspirador! Mas vamos ser sinceros, a última atualização foi em agosto de 2024. Espero que esses componentes diversos não sejam tão diversos assim, ou você vai ter que atualizar isso logo. </p>
+<p><b>LestterX</b>, 77 contribuições e um portfólio que não é atualizado desde julho de 2023. Seu "app-entregas-v1" que some com os dados após algumas horas? Genial! Uma verdadeira homenagem à efemeridade da vida. E "Readme o' mine"? Sério? </p>
+<p><b>Deivid Souza Santana</b>, 66 contribuições e um amor declarado por back-end. Seu repositório "Taskmaster" parece interessante, mas vamos combinar que "organização de tarefas" e "Flask" não são exatamente sinônimos de inovação, não é mesmo? E "Design-Patterns" com a última atualização em maio de 2024? Hmm...</p>
+<p><b>Danilo Nobre</b>, 51 contribuições divididas entre full-stack, game dev e 3D. Um verdadeiro homem de muitos talentos, ou talvez só indeciso? "sw-game-dice-rolling" e "sw-game-dice-roll-prototype"... Parece que alguém está obcecado com dados. </p>
+<p><b>Cézar</b>, 41 contribuições e um lacônico ".NET Developer" como bio. Pelo menos você é direto. Mas sério, um único repositório atualizado pela última vez em julho de 2024? Isso é o auge da produtividade? </p>
+<p><b>Luan Fabri</b>, "i have a brain." Que bom que você avisou, porque suas 37 contribuições não deixariam isso tão claro. "cpf-social"... Sério, você está tentando criar uma rede social baseada em CPF? Que ideia "genial". </p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 34 contribuições e fã de IA. Seu "dyMosaic" parece interessante, mas vamos ser sinceros, quantos apps de edição de imagem com filtro o mundo realmente precisa? </p>
+<p><b>Carlos Israel</b>, 30 contribuições e apaixonado por tecnologia. Que clichê! "SPA-universe" e "EJ-site"... Nomes criativos, devo admitir. Mas a última atualização foi em maio de 2024. Está tudo bem por aí?</p>
+<p><b>Ghost of Ångström⚳</b>, 29 contribuições e um nome que parece ter saído de um filme de ficção científica de baixo orçamento. "criptolivre"... Parece interessante, mas confesso que fiquei mais intrigado com o seu nome de usuário. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-16 at 00:20:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-17 at 00:20:04 UTC +0000</i>
 <h6>
