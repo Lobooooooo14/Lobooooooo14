@@ -31,27 +31,27 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>129 ctr.</td>
+                <td>140 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>127 ctr.</td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>90 ctr.</td>
+                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
+                <td>93 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>89 ctr.</td>
+                <td>90 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>89 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>90 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -61,17 +61,17 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>55 ctr.</td>
+                <td>72 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>52 ctr.</td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>36 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, em primeiro lugar com 129 contribuições. Imagino que "<i>passionate about technology</i>" seja o eufemismo do século.  Enquanto isso, o resto de nós está aqui, tentando entender como você consegue tempo para respirar entre um commit e outro no typeorm. Ah, e parabéns pelo seu repositório pessoal, espero que um dia ele tenha tanta atenção quanto o TypeORM.</p>
-<p><b>Gustavo Carvalho</b>, quase alcançando o topo com 127 contribuições.  Vejo que você anda ocupado com OpenTelemetry.  Será que um dia você vai telemetrar sua própria produtividade pra gente entender como faz?  E, por favor, me diga que você não passa mais tempo configurando do que realmente contribuindo. Porque senão, a piada é outra.</p>
-<p><b>LestterX</b>, com suas 90 contribuições.  Seu portfólio e sistemas são tão misteriosos quanto sua bio.  E essa aplicação de entregas que some depois de algumas horas?  É tipo o Snapchat do mundo do desenvolvimento?  Espero que pelo menos as entregas sejam mais confiáveis que o código.</p>
-<p><b>Felipe Gueller</b>, empatado em quarto lugar com 89 contribuições. Componentes HTML diversos, hein? Espero que pelo menos um deles seja um botão de "voltar no tempo" para apagar alguns commits menos inspirados. E parabéns pelo curso de HTML, CSS e Javascript do ORIGAMID, mas cuidado, o mundo real não é tão bonitinho quanto os tutoriais.</p>
-<p><b>Luan Fabri</b>, também com 89 contribuições, ostentando um "<i>i have a brain</i>" na bio.  É bom saber que você tem um cérebro, porque olhando seus repositórios, a gente se pergunta se ele está realmente sendo usado.  "Recursos grátis"?  Sério?  Estamos no século 21, Luan, a gente quer revolução, não esmola.</p>
-<p><b>Deivid Souza Santana</b>, com 73 contribuições.  "<i>Apaixonado por desenvolvimento back-end</i>"?  Que clichê!  Pelo menos você está praticando estruturas de dados.  Quem sabe um dia você constrói algo que realmente impressione, além de um website de organização de tarefas que parece ter saído dos anos 90.</p>
-<p><b>Danilo Nobre</b>, marcando presença com 55 contribuições. Full-stack, game dev e entusiasta de 3D?  Uau, que currículo!  Só falta tempo pra fazer tudo isso, né?  E um perfil de CPF para Moodle?  Sério?  Isso existe?  Parabéns, você acaba de atingir o ápice da bizarrice no mundo do desenvolvimento.</p>
-<p><b>Cézar</b>, com 52 contribuições.  .NET Developer, direto ao ponto.  Seu repositório "wTechnoo" é tão misterioso que me faz questionar a existência da tecnologia.  É um portal para outra dimensão?  Um código secreto?  Ou só um monte de arquivos esquecidos?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, com 36 contribuições.  "<i>Fã de IA</i>"?  Que original!  Seu app de edição de imagem com filtro é a prova de que a IA ainda não dominou o mundo, porque, sinceramente, precisa de uns bons ajustes.  Mas não desanime, um dia você chega lá.  Ou não.</p>
-<p><b>Carlos Israel</b>, fechando o top 10 com 30 contribuições.  "<i>Apaixonado por tecnologia</i>"?  Outro!  Seu SPA-universe parece mais um buraco negro do que um universo.  E essa API em TypeScript com Fastify?  Espero que seja mais rápida que suas contribuições, porque senão, estamos perdidos.</p>
-<p><b>Ghost of Ångström</b>, com 29 contribuições, o fantasma que assombra o ranking.  Um fork e um site de criptomoedas sem KYC?  Parece que alguém está tentando sumir do mapa.  Mas não se preocupe, com essa quantidade de contribuições, você continua sendo só um borrão na paisagem.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns por liderar o ranking com 140 contribuições! Aposto que metade delas foram correções de ponto e vírgula no TypeORM. E que belo portfólio, hein? Atualizado pela última vez em maio de 2024. Sinal de que está super ocupado contribuindo, e não se promovendo, claro.</p>
+<p><b>Gustavo Carvalho</b>, 132 contribuições! Quase alcançando o Everton. Vejo que você está mergulhado no mundo OpenTelemetry. Espero que pelo menos esteja usando tudo isso para monitorar sua própria produtividade, porque senão, qual o sentido, não é mesmo?</p>
+<p><b>Luan Fabri</b>, "i have a brain." Que bom, Luan, porque com apenas 93 contribuições, está precisando usar mais. Ah, e "resourcesfree/free-resources", atualizado em abril de 2024? Espero que você esteja usando esses recursos gratuitos para aumentar suas contribuições, porque, francamente...</p>
+<p><b>Felipe Gueller</b>, 90 contribuições! Empatado com o LestterX. "componentes-html-diversos"... Espero que "diversos" signifique mais de dois, porque a última atualização foi em agosto de 2024. E o curso de HTML e CSS da Origamid? Já virou mestre Jedi ou ainda está aprendendo a alinhar um div?</p>
+<p><b>LestterX</b>, também com 90 contribuições. "Portifólio e Sistemas" atualizado em julho de 2023? Imagino que seus sistemas sejam tão inovadores que não precisam de manutenção. E o "Readme o' mine"? Tão original que nem merece ser atualizado desde agosto de 2023. Gênio!</p>
+<p><b>Deivid Souza Santana</b>, 73 contribuições. "apaixonado por desenvolvimento back-end". Que paixão é essa que não se manifesta em mais contribuições? "Taskmaster" com Flask? Espero que esteja te ajudando a organizar suas tarefas, porque pelo visto, a lista de contribuições precisa de uma boa organizada.</p>
+<p><b>Danilo Nobre</b>, 72 contribuições. Full-stack, Game dev e 3D Enthusiast... Uau, que currículo! Mas as contribuições não estão exatamente gritando "gênio multifacetado", estão? E esse "sw-game-dice-rolling"... Será que os dados favorecem um aumento nas suas contribuições?</p>
+<p><b>Cézar</b>, 56 contribuições. ".NET Developer". wTechnoo atualizado em julho de 2024. Espero que o .NET esteja te pagando as contas, porque as contribuições não estão exatamente pagando o aluguel, não é mesmo?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 38 contribuições. "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Tantas habilidades e tão poucas contribuições. "dyMosaic"... Espero que esse app de edição de imagem com filtro pelo menos te ajude a filtrar a realidade e te motivar a contribuir mais.</p>
+<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Mas a tecnologia não parece tão apaixonada por você, não é mesmo? "EJ-site" com TypeScript e Fastify... Rápido como suas contribuições sumindo no horizonte.</p>
+<p><b>Ghost of Ångström⚥</b>, 29 contribuições. Um nome desses e só 29 contribuições? O GitHub parece mais assustador que você. E esse "criptolivre"... Espero que pelo menos esteja usando criptografia forte para esconder a vergonha dessas contribuições.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-19 at 00:19:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-20 at 00:18:49 UTC +0000</i>
 <h6>
