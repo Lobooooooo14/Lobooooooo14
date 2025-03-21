@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>140 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,43 +40,43 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/luannzin">Luan Fabri</a></td>
-                <td>93 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>95 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>90 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>90 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>73 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>72 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
                 <td>56 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>38 ctr.</td>
+                <td>40 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>29 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns por liderar o ranking com 140 contribuições! Aposto que metade delas foram correções de ponto e vírgula no TypeORM. E que belo portfólio, hein? Atualizado pela última vez em maio de 2024. Sinal de que está super ocupado contribuindo, e não se promovendo, claro.</p>
-<p><b>Gustavo Carvalho</b>, 132 contribuições! Quase alcançando o Everton. Vejo que você está mergulhado no mundo OpenTelemetry. Espero que pelo menos esteja usando tudo isso para monitorar sua própria produtividade, porque senão, qual o sentido, não é mesmo?</p>
-<p><b>Luan Fabri</b>, "i have a brain." Que bom, Luan, porque com apenas 93 contribuições, está precisando usar mais. Ah, e "resourcesfree/free-resources", atualizado em abril de 2024? Espero que você esteja usando esses recursos gratuitos para aumentar suas contribuições, porque, francamente...</p>
-<p><b>Felipe Gueller</b>, 90 contribuições! Empatado com o LestterX. "componentes-html-diversos"... Espero que "diversos" signifique mais de dois, porque a última atualização foi em agosto de 2024. E o curso de HTML e CSS da Origamid? Já virou mestre Jedi ou ainda está aprendendo a alinhar um div?</p>
-<p><b>LestterX</b>, também com 90 contribuições. "Portifólio e Sistemas" atualizado em julho de 2023? Imagino que seus sistemas sejam tão inovadores que não precisam de manutenção. E o "Readme o' mine"? Tão original que nem merece ser atualizado desde agosto de 2023. Gênio!</p>
-<p><b>Deivid Souza Santana</b>, 73 contribuições. "apaixonado por desenvolvimento back-end". Que paixão é essa que não se manifesta em mais contribuições? "Taskmaster" com Flask? Espero que esteja te ajudando a organizar suas tarefas, porque pelo visto, a lista de contribuições precisa de uma boa organizada.</p>
-<p><b>Danilo Nobre</b>, 72 contribuições. Full-stack, Game dev e 3D Enthusiast... Uau, que currículo! Mas as contribuições não estão exatamente gritando "gênio multifacetado", estão? E esse "sw-game-dice-rolling"... Será que os dados favorecem um aumento nas suas contribuições?</p>
-<p><b>Cézar</b>, 56 contribuições. ".NET Developer". wTechnoo atualizado em julho de 2024. Espero que o .NET esteja te pagando as contas, porque as contribuições não estão exatamente pagando o aluguel, não é mesmo?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 38 contribuições. "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Tantas habilidades e tão poucas contribuições. "dyMosaic"... Espero que esse app de edição de imagem com filtro pelo menos te ajude a filtrar a realidade e te motivar a contribuir mais.</p>
-<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Mas a tecnologia não parece tão apaixonada por você, não é mesmo? "EJ-site" com TypeScript e Fastify... Rápido como suas contribuições sumindo no horizonte.</p>
-<p><b>Ghost of Ångström⚥</b>, 29 contribuições. Um nome desses e só 29 contribuições? O GitHub parece mais assustador que você. E esse "criptolivre"... Espero que pelo menos esteja usando criptografia forte para esconder a vergonha dessas contribuições.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. Imagino que "passionate about technology" seja o eufemismo do século para "gasto todo meu tempo livre tentando entender como o TypeORM funciona". E, ei, pelo menos você contribuiu com algo que tem mais de 35 mil estrelas. Aposto que sua mãe está orgulhosa. Mas e o seu próprio repositório, aquele com nome duplicado? Ah, sim, zero estrelas. Clássico.</p>
+<p><b>Gustavo Carvalho</b>, vejo que você está ocupado rastreando tudo e todos com o OpenTelemetry. Imagino que sua bio seja apenas uma maneira complicada de dizer "adoro ver logs". E Grafana Tempo? Sério? Espero que pelo menos você esteja ganhando uns bons trocados com essa obsessão por telemetria, porque tempo é dinheiro, meu amigo.</p>
+<p><b>Felipe Gueller</b>, "componentes HTML diversos"... que ousadia! Aposto que o mundo estava mesmo precisando de mais um repositório com botões e caixas de texto. E o curso de HTML, CSS e Javascript do ORIGAMID? Isso explica muita coisa. Continue assim, quem sabe um dia você consegue fazer um site que não pareça ter saído dos anos 90.</p>
+<p><b>LestterX</b>, "Portifólio e Sistemas"... ok. Mas, sério, a descrição do "app-entregas-v1" é hilária: "Esta aplicação não persiste os dados. Após algumas horas sem uso todos os dados desaparecerão." Que tal um nome mais honesto, tipo "App-Entregas-v1-Descartável"? E aquele repositório chamado "lestterx"? Que original. Parabéns pela ousadia.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Que clichê! Mas, ei, pelo menos você está tentando. "Taskmaster" parece interessante, apesar de usar Flask. E "Design-Patterns"? Aposto que você lê todos os livros e continua fazendo tudo do jeito antigo. Mas não desanime, um dia você chega lá. Ou não.</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev and 3D Enthusiast". Uau, quanta coisa! Mas, olhando seus repositórios, parece que você está mais para "faz-tudo-e-não-termina-nada". E esse projeto de dados de RPG? Espero que você pelo menos esteja se divertindo, porque retorno financeiro não parece ser o forte por aqui.</p>
+<p><b>Cézar</b>, um ".NET Developer". Que excitante! Mas só tem um repositório e ele está vazio. Sério? Nem um "Hello, World!"? Imagino que você esteja guardando todo seu código genial para si mesmo. Ou talvez .NET não seja tão divertido assim. De qualquer forma, continue assim.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Parece que alguém está tentando abraçar o mundo. Mas, olhando para "dyMosaic", um "App de edição de imagem com filtro", me pergunto se você não estaria melhor consertando geladeiras. Sem ofensas, claro.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Mas, vendo seus repositórios, parece que você está mais apaixonado por criar currículos online do que por realmente programar algo útil. E essa API em TypeScript com Fastify? Aposto que já existem umas 500 iguais. Mas continue tentando, quem sabe um dia você acerta.</p>
+<p><b>Ghost of Ångström</b>, um nome misterioso para... um perfil fantasma? E esse fork? Sério, você não conseguiu nem criar um repositório original? Pelo menos o "criptolivre" parece interessante, mesmo que ninguém nunca vá usar. Mas, ei, pelo menos você está promovendo a privacidade. Ou algo assim.</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Que original! Mas, olhando seus repositórios, parece que você está mais preocupado em configurar seu perfil do GitHub do que em realmente fazer algo útil. E esse "ControleFinan"? Aposto que está tão organizado quanto suas finanças pessoais. Mas continue assim, um dia você chega lá. Ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-20 at 00:18:49 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-21 at 00:19:18 UTC +0000</i>
 <h6>
