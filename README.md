@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>147 ctr.</td>
+                <td>150 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,33 +40,33 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>95 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>99 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>96 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>90 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>73 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>72 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>56 ctr.</td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>40 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. Imagino que "passionate about technology" seja o eufemismo do século para "gasto todo meu tempo livre tentando entender como o TypeORM funciona". E, ei, pelo menos você contribuiu com algo que tem mais de 35 mil estrelas. Aposto que sua mãe está orgulhosa. Mas e o seu próprio repositório, aquele com nome duplicado? Ah, sim, zero estrelas. Clássico.</p>
-<p><b>Gustavo Carvalho</b>, vejo que você está ocupado rastreando tudo e todos com o OpenTelemetry. Imagino que sua bio seja apenas uma maneira complicada de dizer "adoro ver logs". E Grafana Tempo? Sério? Espero que pelo menos você esteja ganhando uns bons trocados com essa obsessão por telemetria, porque tempo é dinheiro, meu amigo.</p>
-<p><b>Felipe Gueller</b>, "componentes HTML diversos"... que ousadia! Aposto que o mundo estava mesmo precisando de mais um repositório com botões e caixas de texto. E o curso de HTML, CSS e Javascript do ORIGAMID? Isso explica muita coisa. Continue assim, quem sabe um dia você consegue fazer um site que não pareça ter saído dos anos 90.</p>
-<p><b>LestterX</b>, "Portifólio e Sistemas"... ok. Mas, sério, a descrição do "app-entregas-v1" é hilária: "Esta aplicação não persiste os dados. Após algumas horas sem uso todos os dados desaparecerão." Que tal um nome mais honesto, tipo "App-Entregas-v1-Descartável"? E aquele repositório chamado "lestterx"? Que original. Parabéns pela ousadia.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Que clichê! Mas, ei, pelo menos você está tentando. "Taskmaster" parece interessante, apesar de usar Flask. E "Design-Patterns"? Aposto que você lê todos os livros e continua fazendo tudo do jeito antigo. Mas não desanime, um dia você chega lá. Ou não.</p>
-<p><b>Danilo Nobre</b>, um "Full-stack, Game dev and 3D Enthusiast". Uau, quanta coisa! Mas, olhando seus repositórios, parece que você está mais para "faz-tudo-e-não-termina-nada". E esse projeto de dados de RPG? Espero que você pelo menos esteja se divertindo, porque retorno financeiro não parece ser o forte por aqui.</p>
-<p><b>Cézar</b>, um ".NET Developer". Que excitante! Mas só tem um repositório e ele está vazio. Sério? Nem um "Hello, World!"? Imagino que você esteja guardando todo seu código genial para si mesmo. Ou talvez .NET não seja tão divertido assim. De qualquer forma, continue assim.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Parece que alguém está tentando abraçar o mundo. Mas, olhando para "dyMosaic", um "App de edição de imagem com filtro", me pergunto se você não estaria melhor consertando geladeiras. Sem ofensas, claro.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Mas, vendo seus repositórios, parece que você está mais apaixonado por criar currículos online do que por realmente programar algo útil. E essa API em TypeScript com Fastify? Aposto que já existem umas 500 iguais. Mas continue tentando, quem sabe um dia você acerta.</p>
-<p><b>Ghost of Ångström</b>, um nome misterioso para... um perfil fantasma? E esse fork? Sério, você não conseguiu nem criar um repositório original? Pelo menos o "criptolivre" parece interessante, mesmo que ninguém nunca vá usar. Mas, ei, pelo menos você está promovendo a privacidade. Ou algo assim.</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Que original! Mas, olhando seus repositórios, parece que você está mais preocupado em configurar seu perfil do GitHub do que em realmente fazer algo útil. E esse "ControleFinan"? Aposto que está tão organizado quanto suas finanças pessoais. Mas continue assim, um dia você chega lá. Ou não.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 150 contribuições. Imagino que metade delas sejam "merge commit" em TypeORM. Mas ei, pelo menos você contribuiu com algo que tem mais de 35 mil estrelas. Diferente de certos "projetos" por aí...</p>
+<p><b>Gustavo Carvalho</b>, 132 contribuições! Impressionante, quase alcançando o topo. Vejo que você anda mexendo com OpenTelemetry. Espero que esteja usando telemetria para monitorar o quão improdutivo você é nas suas horas vagas. Só uma sugestão, claro.</p>
+<p><b>Danilo Nobre</b>, com 99 contribuições, quase uma centena! Quase... mas não. É como tentar fazer um bolo e esquecer o fermento. Pelo menos você tem um projeto de dados rolando, literalmente, desde 2024. Que tal usar esse tempo livre para aumentar esse número de contribuições, hein?</p>
+<p><b>Felipe Gueller</b>, 96 contribuições. Quase lá, mas não. Está quase bom, mas não o suficiente. Parece que você anda criando uns "componentes HTML diversos". Espero que pelo menos um deles faça algo útil, além de encher o saco do usuário com pop-ups desnecessários.</p>
+<p><b>LestterX</b>, 90 contribuições. Aparentemente, você tem um portfólio e uns "sistemas". Só espero que esses sistemas não sejam tão instáveis quanto sua posição nesse ranking. E "Readme o' mine"? Sério? Que tal ler "Readme o' seu código" antes de cometer mais erros?</p>
+<p><b>Deivid Souza Santana</b>, 73 contribuições. "Apaixonado por desenvolvimento back-end". Que bonitinho. Mas a paixão não paga as contas, nem te coloca no topo do ranking. Vejo um projeto "Taskmaster" ali. Será que ele te ajuda a masterizar a arte de contribuir mais?</p>
+<p><b>Cézar</b>, 59 contribuições. Um ".NET Developer" que mal aparece. Quase dá para te confundir com um erro 404: Not Found. Uma dica: mostre mais a cara, ou vai virar um fantasma no mundo do desenvolvimento.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 41 contribuições. "Fã de IA". Que tal usar essa IA toda para automatizar suas contribuições e subir nesse ranking? Ou está muito ocupado editando imagens com filtro? Só uma sugestão, viu?</p>
+<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Ah, a velha paixão... Mas paixão não enche ranking, meu caro. Vejo uma API feita em TypeScript com Fastify. Rápido? Duvido, comparado à velocidade com que você desaparece do radar das contribuições.</p>
+<p><b>Ghost of Ångström⚬</b>, 29 contribuições. Um "fantasma" no ranking, literalmente. Se suas contribuições fossem átomos, mal dariam para formar uma molécula. E um fork de um site? Sério? Espero que pelo menos os créditos sejam seus, ou o "Lobo" vai te assombrar.</p>
+<p><b>Ageu Silva</b>, com míseras 27 contribuições. "127.0.0.1". Sério? Você está tão local que nem aparece no ranking global. E um "ControleFinan" em Mako e CSS? Parece que suas finanças estão mais organizadas que suas contribuições. Que tal investir um pouco mais nesse ranking, hein?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-21 at 00:19:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-22 at 00:18:45 UTC +0000</i>
 <h6>
