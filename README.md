@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>150 ctr.</td>
+                <td>164 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
-                <td>29 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 150 contribuições. Imagino que metade delas sejam "merge commit" em TypeORM. Mas ei, pelo menos você contribuiu com algo que tem mais de 35 mil estrelas. Diferente de certos "projetos" por aí...</p>
-<p><b>Gustavo Carvalho</b>, 132 contribuições! Impressionante, quase alcançando o topo. Vejo que você anda mexendo com OpenTelemetry. Espero que esteja usando telemetria para monitorar o quão improdutivo você é nas suas horas vagas. Só uma sugestão, claro.</p>
-<p><b>Danilo Nobre</b>, com 99 contribuições, quase uma centena! Quase... mas não. É como tentar fazer um bolo e esquecer o fermento. Pelo menos você tem um projeto de dados rolando, literalmente, desde 2024. Que tal usar esse tempo livre para aumentar esse número de contribuições, hein?</p>
-<p><b>Felipe Gueller</b>, 96 contribuições. Quase lá, mas não. Está quase bom, mas não o suficiente. Parece que você anda criando uns "componentes HTML diversos". Espero que pelo menos um deles faça algo útil, além de encher o saco do usuário com pop-ups desnecessários.</p>
-<p><b>LestterX</b>, 90 contribuições. Aparentemente, você tem um portfólio e uns "sistemas". Só espero que esses sistemas não sejam tão instáveis quanto sua posição nesse ranking. E "Readme o' mine"? Sério? Que tal ler "Readme o' seu código" antes de cometer mais erros?</p>
-<p><b>Deivid Souza Santana</b>, 73 contribuições. "Apaixonado por desenvolvimento back-end". Que bonitinho. Mas a paixão não paga as contas, nem te coloca no topo do ranking. Vejo um projeto "Taskmaster" ali. Será que ele te ajuda a masterizar a arte de contribuir mais?</p>
-<p><b>Cézar</b>, 59 contribuições. Um ".NET Developer" que mal aparece. Quase dá para te confundir com um erro 404: Not Found. Uma dica: mostre mais a cara, ou vai virar um fantasma no mundo do desenvolvimento.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 41 contribuições. "Fã de IA". Que tal usar essa IA toda para automatizar suas contribuições e subir nesse ranking? Ou está muito ocupado editando imagens com filtro? Só uma sugestão, viu?</p>
-<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Ah, a velha paixão... Mas paixão não enche ranking, meu caro. Vejo uma API feita em TypeScript com Fastify. Rápido? Duvido, comparado à velocidade com que você desaparece do radar das contribuições.</p>
-<p><b>Ghost of Ångström⚬</b>, 29 contribuições. Um "fantasma" no ranking, literalmente. Se suas contribuições fossem átomos, mal dariam para formar uma molécula. E um fork de um site? Sério? Espero que pelo menos os créditos sejam seus, ou o "Lobo" vai te assombrar.</p>
-<p><b>Ageu Silva</b>, com míseras 27 contribuições. "127.0.0.1". Sério? Você está tão local que nem aparece no ranking global. E um "ControleFinan" em Mako e CSS? Parece que suas finanças estão mais organizadas que suas contribuições. Que tal investir um pouco mais nesse ranking, hein?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, em primeiro lugar, com 164 contribuições. Parabéns! Ou talvez não. Afinal, grande parte do seu trabalho recente parece ser em repositórios que não são seus. Contribuir é ótimo, mas criar algo do zero, que é bom? Cadê? Ah, e aquele seu repositório pessoal... a última atualização foi há quase um ano. A prioridade está em dia?</p>
+<p><b>Gustavo Carvalho</b>, vice-campeão com 132 contribuições. Parece que você está obcecado com OpenTelemetry. Espero que pelo menos esteja usando isso para monitorar sua própria produtividade, porque, com essa quantidade de contribuições, seria imperdoável se não estivesse.</p>
+<p><b>Danilo Nobre</b>, quase chegando lá com 99 contribuições. "Full-stack, Game dev e 3D Enthusiast"? Que combinação curiosa. No entanto, seus repositórios mais recentes indicam um fascínio por dados de jogos e um perfil pessoal desatualizado. Talvez seja hora de decidir qual "stack" você quer realmente "full-stackear".</p>
+<p><b>Felipe Gueller</b>, 96 contribuições. "Componentes HTML diversos"? Parece interessante... se estivéssemos em 2010. E um curso de HTML, CSS e JavaScript da Origamid? Sério? Espero que você esteja pelo menos ensinando isso para alguém, porque, caso contrário, é um desperdício glorificado de tempo.</p>
+<p><b>LestterX</b>, com 90 contribuições. Um portfólio e sistemas, uma "app-entregas-v1" que perde os dados após algumas horas (ótima para a confiança do cliente, diga-se de passagem), e um "Readme o' mine". A descrição do seu perfil é tão clara quanto água barrenta. Talvez seja hora de investir em um designer, ou, quem sabe, em um bom livro de "Como se apresentar online para leigos".</p>
+<p><b>Deivid Souza Santana</b>, 73 contribuições. "Apaixonado por desenvolvimento back-end". Ok, e o que você tem para mostrar além de um monte de repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns"? Cadê a paixão materializada em projetos impressionantes? Ou você só gosta de ler sobre o assunto?</p>
+<p><b>Cézar</b>, com 59 contribuições. Um desenvolvedor .NET. Aparentemente, a única atividade recente é um repositório pessoal abandonado. Imagino que esteja muito ocupado contando os seus "0" <i>stargazers</i> para se importar em contribuir para algo mais relevante.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 41 contribuições. "Fã de IA"? E o que a sua "App de edição de imagem com filtro" tem a ver com isso? Ah, claro, porque aplicar filtros é o auge da inteligência artificial. Da próxima vez, tente algo mais ambicioso, quem sabe um bot que escreve legendas criativas para suas fotos.</p>
+<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Outro clichê no perfil. E os seus repositórios? Um amontoado de projetos esquecidos. Se a sua paixão fosse um carro, estaria na oficina há meses, esperando por uma peça que nunca chega.</p>
+<p><b>Ghost of Ångström ⚬</b>, também com 30 contribuições. Um fork e um site sobre criptomoedas sem KYC. Parabéns por promover a privacidade, mas talvez devesse investir um pouco mais em design e usabilidade. Afinal, de que adianta ser anônimo se ninguém consegue usar o seu site?</p>
+<p><b>Ageu Silva</b>, fechando a lista com 27 contribuições. "127.0.0.1". Que original. E seus repositórios? Um perfil do GitHub, um currículo, um site pessoal e um leitor de RSS em Python. Tudo muito... local. Talvez seja hora de sair do localhost e explorar o mundo real, Ageu.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-22 at 00:18:45 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-23 at 00:20:53 UTC +0000</i>
 <h6>
