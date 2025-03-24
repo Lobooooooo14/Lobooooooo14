@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>164 ctr.</td>
+                <td>165 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>132 ctr.</td>
+                <td>135 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>73 ctr.</td>
+                <td>79 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>41 ctr.</td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, em primeiro lugar, com 164 contribuições. Parabéns! Ou talvez não. Afinal, grande parte do seu trabalho recente parece ser em repositórios que não são seus. Contribuir é ótimo, mas criar algo do zero, que é bom? Cadê? Ah, e aquele seu repositório pessoal... a última atualização foi há quase um ano. A prioridade está em dia?</p>
-<p><b>Gustavo Carvalho</b>, vice-campeão com 132 contribuições. Parece que você está obcecado com OpenTelemetry. Espero que pelo menos esteja usando isso para monitorar sua própria produtividade, porque, com essa quantidade de contribuições, seria imperdoável se não estivesse.</p>
-<p><b>Danilo Nobre</b>, quase chegando lá com 99 contribuições. "Full-stack, Game dev e 3D Enthusiast"? Que combinação curiosa. No entanto, seus repositórios mais recentes indicam um fascínio por dados de jogos e um perfil pessoal desatualizado. Talvez seja hora de decidir qual "stack" você quer realmente "full-stackear".</p>
-<p><b>Felipe Gueller</b>, 96 contribuições. "Componentes HTML diversos"? Parece interessante... se estivéssemos em 2010. E um curso de HTML, CSS e JavaScript da Origamid? Sério? Espero que você esteja pelo menos ensinando isso para alguém, porque, caso contrário, é um desperdício glorificado de tempo.</p>
-<p><b>LestterX</b>, com 90 contribuições. Um portfólio e sistemas, uma "app-entregas-v1" que perde os dados após algumas horas (ótima para a confiança do cliente, diga-se de passagem), e um "Readme o' mine". A descrição do seu perfil é tão clara quanto água barrenta. Talvez seja hora de investir em um designer, ou, quem sabe, em um bom livro de "Como se apresentar online para leigos".</p>
-<p><b>Deivid Souza Santana</b>, 73 contribuições. "Apaixonado por desenvolvimento back-end". Ok, e o que você tem para mostrar além de um monte de repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns"? Cadê a paixão materializada em projetos impressionantes? Ou você só gosta de ler sobre o assunto?</p>
-<p><b>Cézar</b>, com 59 contribuições. Um desenvolvedor .NET. Aparentemente, a única atividade recente é um repositório pessoal abandonado. Imagino que esteja muito ocupado contando os seus "0" <i>stargazers</i> para se importar em contribuir para algo mais relevante.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 41 contribuições. "Fã de IA"? E o que a sua "App de edição de imagem com filtro" tem a ver com isso? Ah, claro, porque aplicar filtros é o auge da inteligência artificial. Da próxima vez, tente algo mais ambicioso, quem sabe um bot que escreve legendas criativas para suas fotos.</p>
-<p><b>Carlos Israel</b>, 30 contribuições. "Software Engineer. Passionate about technology." Outro clichê no perfil. E os seus repositórios? Um amontoado de projetos esquecidos. Se a sua paixão fosse um carro, estaria na oficina há meses, esperando por uma peça que nunca chega.</p>
-<p><b>Ghost of Ångström ⚬</b>, também com 30 contribuições. Um fork e um site sobre criptomoedas sem KYC. Parabéns por promover a privacidade, mas talvez devesse investir um pouco mais em design e usabilidade. Afinal, de que adianta ser anônimo se ninguém consegue usar o seu site?</p>
-<p><b>Ageu Silva</b>, fechando a lista com 27 contribuições. "127.0.0.1". Que original. E seus repositórios? Um perfil do GitHub, um currículo, um site pessoal e um leitor de RSS em Python. Tudo muito... local. Talvez seja hora de sair do localhost e explorar o mundo real, Ageu.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 165 contribuições. Imagino que a maior parte desse esforço hercúleo foi para manter o TypeORM atualizado, não é? Afinal, 35 mil estrelas não se conquistam sozinhas. Ou será que você está apenas inflando o próprio ego com repositórios pessoais sem descrição? Que mistério...</p>
+<p><b>Gustavo Carvalho</b>, em segundo lugar com 135 contribuições. Vejo que você anda contribuindo para o OpenTelemetry. Que nobre causa... ou será que está só tentando impressionar o chefe? Contribuições recentes até o dia 23 de Março? Espero que não esteja trabalhando no domingo, hein?</p>
+<p><b>Danilo Nobre</b>, quase alcançando a centena, com 99 contribuições. Full-stack, game dev e entusiasta 3D? Que currículo inflado! Mas vamos ser honestos, quem precisa de jogos AAA quando se tem "sw-game-dice-rolling"? Aposto que você passa mais tempo criando dados digitais do que jogando. Ah, e obrigado por manter vivo aquele projeto Moodle de 2014. A comunidade agradece.</p>
+<p><b>Felipe Gueller</b>, com 96 contribuições. "Componentes HTML diversos"... que ousadia! Espero que esses componentes sejam mais úteis do que o curso de HTML/CSS da Origamid que você começou em 2022 e aparentemente abandonou em 2024. Mas ei, pelo menos você tentou, certo?</p>
+<p><b>LestterX</b>, 90 contribuições. Portfólio e sistemas, tudo com um toque de "esta aplicação não persiste os dados". Genial! Ideal para quem gosta de ver o próprio trabalho desaparecer em algumas horas. E que tal aquele backend WhyApp? Uma verdadeira ode à instabilidade. Mas não se preocupe, LestterX, o importante é a intenção.</p>
+<p><b>Deivid Souza Santana</b>, 79 contribuições. Um estudante de ADS apaixonado por back-end. Que clichê! Mas ei, pelo menos você tem um repositório de "Data-Structures". Aposto que está cheio de algoritmos incríveis... ou será que são só implementações básicas que você copiou da internet? E o Taskmaster? Um website de organização de tarefas feito em Flask. Original! Pena que a última atualização foi em dezembro. Já desistiu de se organizar?</p>
+<p><b>Cézar</b>, com 59 contribuições. Um ".NET Developer" misterioso, cuja principal contribuição parece ser um repositório chamado "wTechnoo" que não tem descrição. Que segredo obscuro você esconde, Cézar? Sua timidez é notável. Espero que pelo menos seus commits tenham mensagens melhores do que sua descrição no GitHub.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 45 contribuições. "Dev de Sistemas, Engenheiro Eletricista e fã de IA". Que combo! Mas vamos falar do "dyMosaic", seu app de edição de imagem com filtro. Uma verdadeira obra de arte... ou seria apenas um projeto para a faculdade? De qualquer forma, parabéns por conseguir 1 estrela. Você está quase lá!</p>
+<p><b>Carlos Israel</b>, com 30 contribuições. Um "Software Engineer" apaixonado por tecnologia. Que original! Mas vamos dar uma olhada nos seus repositórios. SPA-universe, EJ-site, challenge-nodejs... parece que você gosta de criar projetos genéricos e esquecê-los logo em seguida. Mas não se preocupe, Carlos, o importante é a jornada, não o destino.</p>
+<p><b>Ghost of Ångström⚥</b>, também com 30 contribuições. Um nome peculiar para alguém que contribui tão pouco. Mas ei, pelo menos você tem um site chamado "criptolivre" que reúne serviços de criptomoedas sem KYC. Uma verdadeira ode à privacidade e ao anonimato... ou será que você está apenas tentando lavar algum dinheiro sujo? De qualquer forma, obrigado por manter a internet interessante.</p>
+<p><b>Ageu Silva</b>, com 27 contribuições. "127.0.0.1". Que bio inspiradora! Mas vamos ver o que você anda aprontando. Um leitor de RSS feeds em Python? Que nostálgico! E um currículo online? Que prático! Mas vamos ser honestos, Ageu, você está apenas usando o GitHub como um playground para projetos pessoais, não é? Tudo bem, todos nós fazemos isso. Bem-vindo ao clube.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-23 at 00:20:53 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-24 at 00:20:13 UTC +0000</i>
 <h6>
