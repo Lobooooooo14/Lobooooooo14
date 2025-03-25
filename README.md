@@ -30,43 +30,43 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>165 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>266 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>171 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>135 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>99 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>96 ctr.</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>115 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>90 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>79 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>59 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>45 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 165 contribuições. Imagino que a maior parte desse esforço hercúleo foi para manter o TypeORM atualizado, não é? Afinal, 35 mil estrelas não se conquistam sozinhas. Ou será que você está apenas inflando o próprio ego com repositórios pessoais sem descrição? Que mistério...</p>
-<p><b>Gustavo Carvalho</b>, em segundo lugar com 135 contribuições. Vejo que você anda contribuindo para o OpenTelemetry. Que nobre causa... ou será que está só tentando impressionar o chefe? Contribuições recentes até o dia 23 de Março? Espero que não esteja trabalhando no domingo, hein?</p>
-<p><b>Danilo Nobre</b>, quase alcançando a centena, com 99 contribuições. Full-stack, game dev e entusiasta 3D? Que currículo inflado! Mas vamos ser honestos, quem precisa de jogos AAA quando se tem "sw-game-dice-rolling"? Aposto que você passa mais tempo criando dados digitais do que jogando. Ah, e obrigado por manter vivo aquele projeto Moodle de 2014. A comunidade agradece.</p>
-<p><b>Felipe Gueller</b>, com 96 contribuições. "Componentes HTML diversos"... que ousadia! Espero que esses componentes sejam mais úteis do que o curso de HTML/CSS da Origamid que você começou em 2022 e aparentemente abandonou em 2024. Mas ei, pelo menos você tentou, certo?</p>
-<p><b>LestterX</b>, 90 contribuições. Portfólio e sistemas, tudo com um toque de "esta aplicação não persiste os dados". Genial! Ideal para quem gosta de ver o próprio trabalho desaparecer em algumas horas. E que tal aquele backend WhyApp? Uma verdadeira ode à instabilidade. Mas não se preocupe, LestterX, o importante é a intenção.</p>
-<p><b>Deivid Souza Santana</b>, 79 contribuições. Um estudante de ADS apaixonado por back-end. Que clichê! Mas ei, pelo menos você tem um repositório de "Data-Structures". Aposto que está cheio de algoritmos incríveis... ou será que são só implementações básicas que você copiou da internet? E o Taskmaster? Um website de organização de tarefas feito em Flask. Original! Pena que a última atualização foi em dezembro. Já desistiu de se organizar?</p>
-<p><b>Cézar</b>, com 59 contribuições. Um ".NET Developer" misterioso, cuja principal contribuição parece ser um repositório chamado "wTechnoo" que não tem descrição. Que segredo obscuro você esconde, Cézar? Sua timidez é notável. Espero que pelo menos seus commits tenham mensagens melhores do que sua descrição no GitHub.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, 45 contribuições. "Dev de Sistemas, Engenheiro Eletricista e fã de IA". Que combo! Mas vamos falar do "dyMosaic", seu app de edição de imagem com filtro. Uma verdadeira obra de arte... ou seria apenas um projeto para a faculdade? De qualquer forma, parabéns por conseguir 1 estrela. Você está quase lá!</p>
-<p><b>Carlos Israel</b>, com 30 contribuições. Um "Software Engineer" apaixonado por tecnologia. Que original! Mas vamos dar uma olhada nos seus repositórios. SPA-universe, EJ-site, challenge-nodejs... parece que você gosta de criar projetos genéricos e esquecê-los logo em seguida. Mas não se preocupe, Carlos, o importante é a jornada, não o destino.</p>
-<p><b>Ghost of Ångström⚥</b>, também com 30 contribuições. Um nome peculiar para alguém que contribui tão pouco. Mas ei, pelo menos você tem um site chamado "criptolivre" que reúne serviços de criptomoedas sem KYC. Uma verdadeira ode à privacidade e ao anonimato... ou será que você está apenas tentando lavar algum dinheiro sujo? De qualquer forma, obrigado por manter a internet interessante.</p>
-<p><b>Ageu Silva</b>, com 27 contribuições. "127.0.0.1". Que bio inspiradora! Mas vamos ver o que você anda aprontando. Um leitor de RSS feeds em Python? Que nostálgico! E um currículo online? Que prático! Mas vamos ser honestos, Ageu, você está apenas usando o GitHub como um playground para projetos pessoais, não é? Tudo bem, todos nós fazemos isso. Bem-vindo ao clube.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar! Mas não se engane, a diferença entre o primeiro e o último é só um pouquinho de esforço extra. Vemos ali uns jogos de dados... Será que é assim que você decide o que codar a seguir? Se joga os dados e o que sair você implementa? Seus projetos parecem mais um amontoado de experimentos do que algo realmente útil. Mas ei, pelo menos você está se divertindo, certo?</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz o bio. Contribuindo com o TypeORM? Que nobre! Mas será que você realmente entende o que está fazendo ou só está seguindo tutoriais? E esse seu perfil no GitHub? A última atualização foi há quase um ano. Parece que a paixão pela tecnologia tem seus momentos de baixa, não é mesmo? <i>"passionate about technology."</i>, é quase uma ofensa não ter atualizado o seu perfil.</p>
+<p><b>Gustavo Carvalho</b>, "interessado em construir soluções convenientes". Conveniente para quem? Para você não ter que trabalhar muito? OpenTelemetry, Grafana... Ah, o mundo das métricas e observabilidade. Imagino você digitando furiosamente no terminal, enquanto tenta entender por que o servidor está consumindo tanta memória. Mas ei, pelo menos você está contribuindo para projetos importantes, mesmo que ninguém saiba exatamente o que você faz. Seus projetos estão cheios de telemetria, mas falta um pouco de "tele-entrega" de resultados.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "fã de IA". Imagino você passando horas tentando fazer um modelo de IA funcionar, para no fim das contas ele só gerar resultados aleatórios. Seu app de edição de imagem com filtro até que parece interessante, mas será que ele realmente faz algo que o Instagram já não faça há anos? Parece que a sua "fã-se" por IA ainda não te levou muito longe, mas não desista! Talvez um dia você consiga criar algo que realmente impressione... ou não.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Seus "componentes HTML diversos" são tão diversos que nem você se lembra o que fez com eles, não é? E esse curso de HTML, CSS e Javascript do Origamid? Espero que você tenha aprendido algo, porque pelo visto, seus projetos não demonstram muito conhecimento. Mas ei, pelo menos você tem um repositório para cada tutorial que você fez. Isso é um bom começo... para um iniciante.</p>
+<p><b>LestterX</b>, um portfólio e "sistemas", diz você. Mas será que alguém realmente usa esses sistemas? E essa aplicação de entregas "v1" que some depois de algumas horas? Parece que você está mais interessado em criar coisas que ninguém usa do que em resolver problemas reais. Mas ei, pelo menos você tem um monte de projetos no GitHub para impressionar os recrutadores. Pena que eles provavelmente não vão olhar para o seu código.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Taskmaster, Data-Structures, Design-Patterns... Quantos projetos genéricos você ainda vai criar antes de fazer algo realmente útil? E esse seu perfil no GitHub? Parece que você está mais interessado em encher ele de projetos do que em realmente mantê-los. Mas ei, pelo menos você pode dizer que é um "apaixonado por desenvolvimento back-end". Isso deve impressionar as garotas, certo?</p>
+<p><b>Cézar</b>, ".NET Developer". Ah, o mundo corporativo e tedioso do .NET. Imagino você passando horas debugando código legado, enquanto sonha em trabalhar em algo mais emocionante. Mas ei, pelo menos você tem um emprego estável. E esse seu perfil no GitHub? A última atualização foi há mais de seis meses. Parece que a sua paixão por .NET se resume a cumprir o expediente. Mas não se preocupe, pelo menos você pode dizer que é um ".NET Developer". Isso deve impressionar seus pais.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology". SPA-universe, EJ-site, challenge-nodejs... Quantos projetos você precisa criar para provar que é um "Software Engineer"? E esse seu perfil no GitHub? A última atualização foi há quase um ano. Parece que a sua paixão por tecnologia se resume a criar projetos que ninguém usa. Mas ei, pelo menos você pode dizer que é um "Software Engineer". Isso deve impressionar seus amigos.</p>
+<p><b>Ghost of Ångström</b>, "CriptoLivre é um site que reúne os melhores serviços de criptomoedas sem KYC". Que nobre causa! Mas será que você realmente entende o que está fazendo ou só está seguindo a onda das criptomoedas? E esse seu perfil no GitHub? Parece que você está mais interessado em promover a privacidade do que em realmente codar. Mas ei, pelo menos você pode dizer que é um "Ghost of Ångström". Isso deve impressionar os anarquistas.</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Ah, o endereço de loopback. Imagino você passando horas configurando seu ambiente de desenvolvimento, para no fim das contas ele só funcionar na sua máquina. E esse seu perfil no GitHub? A última atualização foi há quase um ano. Parece que você está mais interessado em configurar coisas do que em realmente codar. Mas ei, pelo menos você pode dizer que é "127.0.0.1". Isso deve impressionar os nerds.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-24 at 00:20:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-25 at 00:19:45 UTC +0000</i>
 <h6>
