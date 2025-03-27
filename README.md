@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>274 ctr.</td>
+                <td>284 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>90 ctr.</td>
+                <td>103 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>75 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar com 274 contribuições! Imagino que a maior parte desse esforço foi gasto polindo aquele seu perfil no GitHub, não é mesmo? Afinal, quem precisa de código funcional quando se tem uma bio chamativa com emojis?</p>
-<p><b>Everton Marcelino Jr.</b>, com 190 contribuições, quase lá! Pelo menos você mexeu no TypeORM ontem, quem sabe um dia desses você entende como ele funciona de verdade. Mas ei, <i>quem precisa entender quando se pode copiar e colar</i>, certo?</p>
-<p><b>Gustavo Carvalho</b>, impressionantes 135 contribuições! Aparentemente, você tem um caso de amor com o OpenTelemetry. Espero que você esteja realmente entendendo a telemetria, e não apenas colecionando badges de contribuidor.</p>
-<p><b>Felipe Gueller</b>, com 124 contribuições, você está quase alcançando o pódio... do "tanto faz". Seus "componentes HTML diversos" devem ser realmente diversos, já que você não os atualiza há meses. Continue assim, quem sabe um dia eles serão úteis para alguém além de você.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, suas 120 contribuições são quase tão impressionantes quanto sua paixão por IA. Mas sério, "App de edição de imagem com filtro"? Isso não é um pouco... 2010? Talvez seja hora de inovar um pouco, não acha?</p>
-<p><b>LestterX</b>, 90 contribuições, parabéns por chegar aos dois dígitos! Seu portfólio parece tão atualizado quanto um meme de 2010. E essa app de entregas que some com os dados? Genial! Uma verdadeira ode à efemeridade.</p>
-<p><b>Deivid Souza Santana</b>, 79 contribuições. "Apaixonado por desenvolvimento back-end"? Seus repositórios de "Data-Structures" e "Design-Patterns" parecem mais uma declaração de intenções do que um portfólio funcional. Mas não desanime, um dia você chega lá!</p>
-<p><b>Cézar</b>, com 75 contribuições, você está quase lá... quase na metade do caminho do primeiro lugar. Mas ei, pelo menos você tem um repositório com seu nome, isso já é um começo, certo? <i>Talvez</i>?</p>
-<p><b>Carlos Israel</b>, apenas 30 contribuições? Sério? Seu repositório "SPA-universe" deve ser realmente universal, já que você não o atualiza há quase um ano. Mas não se preocupe, sempre há espaço para melhorias... ou não.</p>
-<p><b>Ghost of Ångström⚥</b>, com as mesmas 30 contribuições de Carlos Israel, parece que a vida após a morte não te tornou mais produtivo. E esse "CriptoLivre"? Espero que seus usuários saibam que "sem KYC" também significa "sem suporte" quando as coisas dão errado.</p>
-<p><b>Ageu Silva</b>, míseras 27 contribuições... 127.0.0.1? Seu bio diz tudo. Parece que você está mais interessado em ficar em casa do que em realmente contribuir. Mas ei, pelo menos seu "Python-RSS-Feed-Reader" é funcional, não é mesmo? Ou será que não?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro da lista, com 284 contribuições. Quase impressionante, se não fosse por aquele repositório de 2014 para Moodle. Sério, ainda usando Moodle em 2025? E "Space-Wizard-Studios", me soa mais como "Preciso-de-um-nome-criativo-para-ontem". Mas ei, pelo menos você tem um bio com emojis, isso conta, certo?</p>
+<p><b>Everton Marcelino Jr.</b>, 190 contribuições. Vejo que você contribuiu para o TypeORM. Que legal, ajudando a galera a evitar SQL puro. Mas, curiosamente, seu próprio repositório "EvertonMJunior/EvertonMJunior" continua sendo um mistério sem descrição desde 2021. É tipo um buraco negro de código? Ou talvez a descrição seja tão profunda que ninguém consegue entender.</p>
+<p><b>Gustavo Carvalho</b>, com 135 contribuições, o "Inspetor de conexões" da turma. Contribuições para OpenTelemetry. Aposto que suas noites são pura adrenalina rastreando logs e métricas. Só não vá se perder no meio de tanta telemetria e esquecer de viver a vida real, hein?</p>
+<p><b>Felipe Gueller</b>, 124 contribuições. Criando "componentes-html-diversos" desde 2021. Espero que "diversos" não signifique "uma bagunça de divs e spans". E o curso de Origamid de 2022? Já está criando sites que deslizam suavemente ou ainda está preso no float: left?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, 120 contribuições. Um "fã de IA". Já ensinou sua cafeteira a fazer o café perfeito ou ainda está só no "Hello, World!" da inteligência artificial? E o app de edição de imagem "dyMosaic" de 2023... ele transforma fotos em obras de arte abstratas ou só deixa tudo pixelizado?</p>
+<p><b>LestterX</b>, 103 contribuições. "Portifólio e Sistemas". O portfólio está online desde 2023, espero que ele tenha mais do que um "Olá Mundo!" E essa aplicação de entregas "que não persiste os dados"... brilhante! Ideal para quem odeia compromisso. Desaparece depois de algumas horas, como um amor de verão.</p>
+<p><b>Deivid Souza Santana</b>, 79 contribuições. Um "apaixonado por back-end". O repositório "Taskmaster" parece interessante. Mas espero que o website de organização de tarefas não precise de outra ferramenta para organizar as próprias tarefas, seria irônico demais.</p>
+<p><b>Cézar</b>, o minimalista da lista com 77 contribuições. ".NET Developer". Mas cadê o código? Só um repositório pessoal criado em 2021 e atualizado em 2024. Espero que você esteja escondendo o ouro em algum projeto secreto e não apenas vivendo de commits fantasmas.</p>
+<p><b>Carlos Israel</b>, com apenas 30 contribuições, mas "apaixonado por tecnologia". Aposto que a paixão é tanta que você passa mais tempo admirando o código dos outros do que escrevendo o seu próprio. E esse "SPA-universe" criado em março de 2024, já conquistou a galáxia ou ainda está orbitando a Terra?</p>
+<p><b>Ghost of Ångström⚯</b>, também com 30 contribuições. Um nome que exala mistério. Mas o que temos aqui? Um fork e um site sobre criptomoedas. Espero que você esteja ganhando mais dinheiro com criptomoedas do que com essas contribuições, porque senão a vida está difícil.</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1" da turma, com 27 contribuições. Se você é o localhost, significa que todo o seu código só funciona na sua máquina? E esse "Python-RSS-Feed-Reader" de 2024, ainda consegue encontrar algum feed interessante na internet ou a internet já morreu?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-26 at 00:19:25 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-27 at 00:19:08 UTC +0000</i>
 <h6>
