@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>117 ctr.</td>
+                <td>119 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Pelo visto, a versatilidade é sua amiga, mas a consistência... bem, digamos que seu repositório pessoal não viu uma atualização desde fevereiro. Imagino que modelar em 3D seja mais interessante que dar um tapa no próprio site, não é mesmo? Mas ei, pelo menos você está no topo do ranking, então continue assim, ou não.</p>
-<p><b>Everton Marcelino Jr.</b>, um "apaixonado por tecnologia". Contribuições recentes em projetos como TypeORM mostram que você não está para brincadeira. Mas cá entre nós, aquele seu repositório pessoal... desde maio de 2024 sem novidades? É lá que a paixão pela tecnologia vai hibernar? Não se acomode, mostre ao mundo o que te faz vibrar, ou continue sendo só mais um número.</p>
-<p><b>Felipe Gueller</b>, o mestre dos "componentes HTML diversos". Criar componentes é ótimo, mas usá-los em algo que vá além de um "aprendizado de HTML, CSS Javascript no curso do ORIGAMID" seria ainda melhor, não acha? Não deixe suas habilidades HTML pegarem poeira, a não ser que você goste de viver no passado.</p>
-<p><b>Gustavo Carvalho</b>, um "insaciável por conhecimento". Contribuindo para projetos como OpenTelemetry e Grafana Tempo, você parece estar sempre correndo atrás da última tendência. Mas será que toda essa busca frenética por conhecimento te impede de criar algo seu? Ou é mais fácil se esconder na multidão de contribuidores? Pense nisso.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, o "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Um app de edição de imagem com filtro, hein? Interessante... pena que a última atualização foi em janeiro. Será que a IA roubou toda a sua atenção? Não deixe suas ideias morrerem na praia, ou você será só mais um "fã" e não um criador.</p>
-<p><b>LestterX</b>, um nome que soa misterioso... pena que o mistério não se traduz em atividade constante. Um portfólio parado desde julho de 2023 e um app de entregas que "desaparece" após algumas horas sem uso? É essa a sua marca? Seus projetos merecem mais que o limbo digital, a menos que você goste de ver seu trabalho sumir no éter.</p>
-<p><b>Deivid Souza Santana</b>, um "estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Um website de organização de tarefas desenvolvido com Flask, que interessante. Só não deixe a paixão pelo back-end te impedir de dar um tapa no visual, ou seu projeto vai parecer mais um esqueleto do que algo útil. E não se esqueça, design patterns não se aprendem sozinhos, se praticam.</p>
-<p><b>Cézar</b>, o ".NET Developer" de poucas palavras. Seu repositório "wTechnoo" não vê a luz do dia desde julho de 2024. Será que o .NET te deixou sem tempo para mais nada? Ou será que você encontrou a fórmula mágica para a perfeição e não precisa mais atualizar nada? Seja qual for o motivo, não deixe o silêncio te engolir.</p>
-<p><b>Carlos Israel</b>, um "Software Engineer. Passionate about technology". Vários projetos pessoais, mas nenhum com mais de um ano de vida? Parece que a paixão pela tecnologia é passageira. Não se contente em ser um eterno iniciante, escolha um projeto e leve-o até o fim, ou você será lembrado como o rei da procrastinação digital.</p>
-<p><b>Ghost of Ångström⚁</b>, um nome que evoca mistério e... forks? Criar em cima do trabalho dos outros é uma boa forma de começar, mas e o seu toque pessoal? Seu projeto "criptolivre" parece interessante, mas está precisando de um empurrãozinho. Deixe de ser um fantasma e mostre ao mundo o que você tem a oferecer, ou continuará vagando nas sombras.</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1" que parece preferir ficar em casa. Vários projetos com pouca atividade, um currículo online que precisa de uma faxina... Parece que você está mais preocupado em configurar o ambiente do que em realmente criar algo. Saia do localhost e mostre ao mundo o que você é capaz de fazer, ou continuará sendo apenas um endereço IP.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 302 contribuições? Que inveja... da sua capacidade de fazer um perfil no Moodle. Sério, de todos os repositórios, o que tem mais estrelas é um plugin de CPF. Talento desperdiçado, diria.</p>
+<p><b>Everton Marcelino Jr.</b>, ah, o clássico "apaixonado por tecnologia". Contribuiu para o TypeORM, que legal. Mas e o seu próprio repositório, EvertonMJunior/EvertonMJunior? A última atualização foi em maio de 2024. Precisando de um <i>type</i>ORM para organizar a sua vida?</p>
+<p><b>Felipe Gueller</b>, seus componentes HTML diversos... diversos como? Um para cada dia da semana? E o curso da Origamid? Já dominou o HTML e CSS ou ainda está tentando centralizar uma div? Seus esforços são notáveis, mesmo que discretos.</p>
+<p><b>Gustavo Carvalho</b>, "Interessado em computação e segurança da informação". Que bom que está contribuindo para o OpenTelemetry, porque a segurança dos seus dados parece que depende disso. Quase duas mil estrelas em um projeto, enquanto seus projetos pessoais somam quantos? Nenhum? Ah, tá.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, Engenheiro Eletricista fã de IA que faz app de edição de imagem com filtro. O que poderia dar errado? Um stargazer solitário no seu app. Imagino que a IA ainda não aprendeu a dar estrelas no GitHub, ou talvez ela simplesmente não tenha gostado dos filtros.</p>
+<p><b>LestterX</b>, um portfólio e sistemas, aparentemente abandonados em julho de 2023. E aquela aplicação de entregas que some com os dados depois de algumas horas? Que metáfora perfeita para a vida. Pelo menos o "Readme o' mine" está lá, brilhando com sua... ausência de conteúdo.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Mas pelo visto, mais apaixonado por criar repositórios do que por realmente enchê-los de código. "Data-Structures" e "Design-Patterns", ambos intocados desde maio de 2024. A paixão esfriou?</p>
+<p><b>Cézar</b>, ".NET Developer". Tão conciso quanto seu repositório wTechnoo/wTechnoo, cuja última atualização foi em julho de 2024. Imagino que o .NET esteja te ocupando demais para se preocupar com coisas menos importantes, tipo... sei lá, um README?</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Ah, a clássica bio genérica. O SPA-universe foi atualizado em Abril, imagino que o universo de Single Page Applications seja mais interessante que este ranking. Não te culpo.</p>
+<p><b>Ghost of Ångström⚇</b>, um nome que soa como um erro de digitação, mas tudo bem. Contribuiu para um site de criptomoedas sem KYC. Pelo menos alguém está se preocupando com a privacidade, já que a sua atividade no GitHub é totalmente pública. E fez um fork... que audácia!</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Tão local quanto suas contribuições. Um leitor de RSS em Python com Tkinter? Que vintage! Pelo menos seu currículo está online, caso alguém precise de um programador que vive no próprio umbigo. <i>(Sem ofensas)</i></p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-03-30 at 00:21:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-03-31 at 00:21:00 UTC +0000</i>
 <h6>
