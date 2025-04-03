@@ -30,46 +30,51 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>19 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>12 ctr.</td>
+                <td>4°</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/junglivre">jung</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>8°</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>1 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>1 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>1 ctr.</td>
             </tr>
@@ -79,15 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>LestterX</b>, 13 contribuições? Parabéns, você quase conseguiu sair do zero! Mas, ei, pelo menos seu portfólio "e Sistemas" (note o plural, ambicioso você) foi atualizado em 2023. Espero que os sistemas tenham tido mais atenção que o portfólio.</p>
-<p><b>Felipe Gueller</b>, 12 contribuições, quase alcançando o LestterX, impressionante! Vejo que você está criando "componentes HTML diversos". Que bom que você está se divertindo, porque o mundo precisa desesperadamente de mais componentes HTML "legais".</p>
-<p><b>Jung</b>, ah, você está no terceiro lugar com 9 contribuições. Trabalhando em WireGuard e 2FA, hein? Que nobre causa. Mas não se esqueça do seu "Dev Web - Bixos 1F". Afinal, é importante equilibrar segurança de ponta com projetos de calouros.</p>
-<p><b>Cézar</b>, com suas incríveis 4 contribuições, você está quase alcançando o pódio... de quem menos contribui. Mas ei, pelo menos seu repositório "wTechnoo/wTechnoo" existe desde 2021. Imagino que ele esteja mudando o mundo, uma linha de código de cada vez.</p>
-<p><b>Everton Marcelino Jr.</b>, 3 contribuições... Uau! Pelo menos você contribuiu com o TypeORM, que tem mais de 35 mil estrelas. Imagino que suas 3 contribuições foram essenciais para o sucesso do projeto. Não se esqueça de mencionar isso na próxima entrevista.</p>
-<p><b>Rafael Lima de Morais</b>, apenas 2 contribuições? Vejo que você tem um "Ragna clicker". Espero que esteja se divertindo mais clicando do que contribuindo. E "csj-start-game-dev"... parece promissor. Talvez um dia você contribua mais para seus jogos do que para este ranking.</p>
-<p><b>Danilo Nobre</b>, uma única contribuição? Sério? Mas você é "Full-stack, Game dev e 3D Enthusiast". Talvez você esteja tão ocupado sendo tudo isso que não sobra tempo para contribuir. Ou talvez essa única contribuição tenha sido tão monumental que compensa por todas as outras.</p>
-<p><b>Felipe</b>, parabéns pela sua solitária contribuição! Vejo que você tem um repositório chamado "Adamas". Espero que ele seja tão valioso quanto o nome sugere, porque suas contribuições para este ranking são... modestas.</p>
-<p><b>Filipe Deschamps</b>, uma contribuição, hein? Para alguém que se preocupa em fazer as pessoas se sentirem competentes em programação, você não está dando um bom exemplo. Mas ei, pelo menos você tem um clone do TabNews. Talvez você devesse se concentrar em clonar mais contribuições.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar! Seus 23 commits para "componentes-html-diversos" e "html-css-origamid" realmente impressionam. Mas sério, "componentes HTML diversos"? Parece nome de pasta que a gente cria no desespero e nunca mais olha. E o curso da Origamid, hein? Já dominou o HTML e CSS ou ainda tá sofrendo com o Flexbox?</p>
+<p>Ah, <b>Cézar</b>, o misterioso .NET Developer. 19 contribuições, hein? Quase alcançando o primeiro lugar. Mas cadê os repositórios? Tá tudo trancado a sete chaves? Ou será que você contribui tanto que não sobra tempo pra mostrar o que faz? 🤔</p>
+<p><b>LestterX</b>, 13 contribuições, quase um número de azar. Vejo que você tem um portfólio online, que bom, e um app de entregas que some depois de algumas horas. Genial! Ideal para quem gosta de trabalhar com dados efêmeros. E aquele "Readme o' mine"? Poético, quase um Drummond da programação.</p>
+<p><b>Danilo Nobre</b>, o Full-stack Game Dev 3D Enthusiast. 10 contribuições e um repositório de 2014 ainda dando o que falar? Parabéns pela consistência! E o jogo de dados, hein? Já dá pra largar o emprego e viver de cassino online? E aquele perfil "danko-nobre" com README vazio? Minimalista, quase um zen master do GitHub.</p>
+<p><b>Rafael Lima de Morais</b>, também com 10 contribuições. Ragna Clicker? Sério? Pelo menos você é sincero sobre suas prioridades. E clonando o kickstart.nvim? Falta de criatividade ou preguiça de configurar o próprio? E Tailwind CSS plugin para animações? Isso sim é que é otimizar o tempo! Já pode vender curso de "Como usar o trabalho dos outros e lucrar com isso".</p>
+<p><b>jung</b>, quase no top 5 com suas 9 contribuições. Mas o que é isso? FurGTOW? Prefiro nem perguntar. Contribuiu para o Tailscale, legal, mas também tem um "Dev Web - Bixos 1F". Imagino o nível... E clonando repositório de quiropraxia? Tá precisando de uns ajustes na coluna depois de tanto código?</p>
+<p><b>Everton Marcelino Jr.</b>, apenas 3 contribuições? Tá de férias? Mas pelo menos contribuiu para o TypeORM e o Flutter Client SDK. Um tapa na cara da sociedade! Mas aquele seu repositório pessoal parado desde 2024? Tá esperando o que pra atualizar? A inspiração divina?</p>
+<p><b>Ageu Silva</b>, 2 contribuições? Sério isso? Pelo menos você tem um perfil no GitHub, já é mais do que muita gente. E um leitor de RSS em Python? Nostálgico, quase um revival dos anos 2000. Mas e o currículo? Já tá pronto pra próxima vaga ou ainda tá "em construção"?</p>
+<p><b>Felipe</b>, UMA contribuição? Tá de sacanagem? Mas calma, pelo menos você tem um repositório chamado "Felipe-Takayuki/Felipe-Takayuki". Meta, quase filosófico. E um curso de SQL? Tá aprendendo a usar o SELECT * FROM users WHERE id = 'Lobo' ?</p>
+<p><b>Filipe Deschamps</b>, também com UMA contribuição, mas pelo menos o seu "curso.dev" parece ser mais produtivo do que ficar mendigando estrelinhas no GitHub. Ah, e o efeito de fogo do DOOM? Clássico! Mas e o Tabnews? Já tá rendendo mais que o seu canal no YouTube?</p>
 </div>
     </details>
 </div>
@@ -102,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-02 at 00:19:55 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-03 at 00:19:24 UTC +0000</i>
 <h6>
