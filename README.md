@@ -31,37 +31,37 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>23 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>19 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>20 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
+                <td><a href="https://github.com/junglivre">jung</a></td>
+                <td>15 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/junglivre">jung</a></td>
-                <td>9 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>3 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,16 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar! Seus 23 commits para "componentes-html-diversos" e "html-css-origamid" realmente impressionam. Mas sério, "componentes HTML diversos"? Parece nome de pasta que a gente cria no desespero e nunca mais olha. E o curso da Origamid, hein? Já dominou o HTML e CSS ou ainda tá sofrendo com o Flexbox?</p>
-<p>Ah, <b>Cézar</b>, o misterioso .NET Developer. 19 contribuições, hein? Quase alcançando o primeiro lugar. Mas cadê os repositórios? Tá tudo trancado a sete chaves? Ou será que você contribui tanto que não sobra tempo pra mostrar o que faz? 🤔</p>
-<p><b>LestterX</b>, 13 contribuições, quase um número de azar. Vejo que você tem um portfólio online, que bom, e um app de entregas que some depois de algumas horas. Genial! Ideal para quem gosta de trabalhar com dados efêmeros. E aquele "Readme o' mine"? Poético, quase um Drummond da programação.</p>
-<p><b>Danilo Nobre</b>, o Full-stack Game Dev 3D Enthusiast. 10 contribuições e um repositório de 2014 ainda dando o que falar? Parabéns pela consistência! E o jogo de dados, hein? Já dá pra largar o emprego e viver de cassino online? E aquele perfil "danko-nobre" com README vazio? Minimalista, quase um zen master do GitHub.</p>
-<p><b>Rafael Lima de Morais</b>, também com 10 contribuições. Ragna Clicker? Sério? Pelo menos você é sincero sobre suas prioridades. E clonando o kickstart.nvim? Falta de criatividade ou preguiça de configurar o próprio? E Tailwind CSS plugin para animações? Isso sim é que é otimizar o tempo! Já pode vender curso de "Como usar o trabalho dos outros e lucrar com isso".</p>
-<p><b>jung</b>, quase no top 5 com suas 9 contribuições. Mas o que é isso? FurGTOW? Prefiro nem perguntar. Contribuiu para o Tailscale, legal, mas também tem um "Dev Web - Bixos 1F". Imagino o nível... E clonando repositório de quiropraxia? Tá precisando de uns ajustes na coluna depois de tanto código?</p>
-<p><b>Everton Marcelino Jr.</b>, apenas 3 contribuições? Tá de férias? Mas pelo menos contribuiu para o TypeORM e o Flutter Client SDK. Um tapa na cara da sociedade! Mas aquele seu repositório pessoal parado desde 2024? Tá esperando o que pra atualizar? A inspiração divina?</p>
-<p><b>Ageu Silva</b>, 2 contribuições? Sério isso? Pelo menos você tem um perfil no GitHub, já é mais do que muita gente. E um leitor de RSS em Python? Nostálgico, quase um revival dos anos 2000. Mas e o currículo? Já tá pronto pra próxima vaga ou ainda tá "em construção"?</p>
-<p><b>Felipe</b>, UMA contribuição? Tá de sacanagem? Mas calma, pelo menos você tem um repositório chamado "Felipe-Takayuki/Felipe-Takayuki". Meta, quase filosófico. E um curso de SQL? Tá aprendendo a usar o SELECT * FROM users WHERE id = 'Lobo' ?</p>
-<p><b>Filipe Deschamps</b>, também com UMA contribuição, mas pelo menos o seu "curso.dev" parece ser mais produtivo do que ficar mendigando estrelinhas no GitHub. Ah, e o efeito de fogo do DOOM? Clássico! Mas e o Tabnews? Já tá rendendo mais que o seu canal no YouTube?</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, 34 contribuições? Isso é tudo que você conseguiu? Espero que seus componentes HTML diversos sejam realmente diversos, porque a julgar pelas datas de atualização, a diversão parou em agosto do ano passado. E "aprender" HTML, CSS e Javascript no Origamid? Em 2024? Sério? Achei que já estivesse criando inteligência artificial a essa altura do campeonato. </p>
+<p><b>Cézar</b>, .NET Developer com zero atividade recente. Está hibernando? Tirando um ano sabático? Ou será que o .NET está tão perfeito que não precisa de manutenção? Conta pra gente o segredo. </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", mas será que a tecnologia corresponde a esse amor? Contribuições em TypeORM, tudo bem, mas o que dizer do seu repositório pessoal, aquele "EvertonMJunior/EvertonMJunior" com zero estrelas e nenhuma descrição? Isso é auto-depreciação ou falta de autoestima? </p>
+<p><b>Jung</b>, "work in progress..." é um eufemismo para "não sei o que estou fazendo"? Contribuições no Tailscale são bacanas, mas criar um fork do projeto de quiropraxia de outra pessoa? Sério? Você não tem ideias próprias? E o "Dev Web - Bixos 1F"? Espero que os "bixos" estejam aprendendo mais rápido que você. </p>
+<p><b>LestterX</b>, um portfólio desatualizado desde julho de 2023 e um aplicativo de entregas que some com os dados após algumas horas? Isso é design by obsolescence ou pura incompetência? E "Hydra", um launcher de jogos com bittorrent embutido? Parabéns, você reinventou a roda, só que quadrada. </p>
+<p><b>Danilo Nobre</b>, full-stack, game dev e entusiasta de 3D. Uau, que currículo! Mas e as contribuições? Um profile field CPF para Moodle? Isso é de 2014! E quanto aos jogos? Parece que estão mais no campo das ideias do que na prática. Acorda, Danilo, 2025 já está quase acabando! </p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust e Vim... Impressionante. Mas o que temos aqui? Um "Ragna clicker"? Sério? Depois de todas essas linguagens, você criou um clicker? E forks de projetos com zero estrelas? Parece que alguém está tentando desesperadamente inflar o ego. </p>
+<p><b>Ageu Silva</b>, 127.0.0.1. Criativo... Mas apenas duas contribuições? Seu perfil no GitHub é mais ativo que você! Um RSS feed reader em Python? Que original! E o que dizer do seu currículo online? Precisa de mais destaque. </p>
+<p><b>Felipe</b>, uma única contribuição? Um repositório com o próprio nome e nenhuma descrição? E um curso de SQL? Espero que você tenha aprendido alguma coisa, porque a julgar pelas suas contribuições, o SQL é mais emocionante que o seu GitHub. </p>
+<p><b>Filipe Deschamps</b>, ah, o guru que quer que a gente se sinta competente. Mas com apenas uma contribuição, parece que a competência está em falta por aqui. Pelo menos o "doom-fire-algorithm" ainda está chamando atenção. Quem sabe um dia você contribui com algo novo, em vez de apenas promover seus cursos. </p>
 </div>
     </details>
 </div>
@@ -108,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-03 at 00:19:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-04 at 00:19:20 UTC +0000</i>
 <h6>
