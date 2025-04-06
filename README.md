@@ -30,33 +30,33 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>49 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>38 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>27 ctr.</td>
+                <td>3°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
                 <td>26 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/junglivre">jung</a></td>
-                <td>18 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>14 ctr.</td>
+                <td>24 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/junglivre">jung</a></td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/caio-nuness">Caio Cavalcante</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, com 38 contribuições, liderando o ranking! Parabéns... por ter mais tempo livre? Seus "componentes-html-diversos" e o aprendizado de HTML, CSS Javascript no curso do ORIGAMID são realmente inspiradores. Imagino que o mundo da web esteja em polvorosa com tamanha inovação. Continue assim, quem sabe um dia você chega lá... em algum lugar.</p>
-<p><b>Everton Marcelino Jr.</b>, em segundo lugar com 27 contribuições. Vejo que você tocou no *typeorm/typeorm*, que legal. Contribuições em projetos gigantes são ótimas para... colocar no currículo. Não se esqueça de atualizar seu repositório pessoal, a última atualização foi em maio de 2024. As pessoas precisam saber o quão "apaixonado por tecnologia" você é.</p>
-<p><b>Cézar</b>, o mestre do .NET, ostentando 26 contribuições. Pena que sua atividade recente é um mistério. Será que suas contribuições são tão secretas que nem o GitHub consegue rastrear? Ou será que você está apenas esperando o momento certo para nos deslumbrar com seu código?</p>
-<p><b>Jung</b>, com suas 18 contribuições e um bio que diz "work in progress...", aparentemente, a vida inteira. Contribuições no *tailscale/tailscale*, isso impressiona... se você não for apenas mais um que mudou uma vírgula. E esse fork do projeto de quiropraxia? Genial! A combinação perfeita entre tecnologia e bem-estar. </p>
-<p><b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast" com 14 contribuições. Sua contribuição no projeto *willianmano/moodle-profilefield_cpf* de 2014 é realmente impressionante. Quase tão impressionante quanto sua habilidade de tocar em projetos aleatórios e esquecidos. Continue assim, misturando tudo, quem sabe não sai algo bom?</p>
-<p><b>LestterX</b>, com 13 contribuições. Vejo que você está construindo um portfólio, criando aplicativos de entrega (que não persistem os dados, genial!) e até se aventurando em game launchers. Uma verdadeira caixa de pandora de projetos inacabados. Mas ei, pelo menos você está tentando, certo? </p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim" com 12 contribuições. *Ragna clicker*, sério? Em pleno 2025? E ainda por cima, forks de projetos como *tailwindcss-animate*. Inovador! Com certeza você está deixando sua marca no mundo do desenvolvimento... uma cópia de cada vez.</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1" com apenas 2 contribuições. Um RSS feed reader em Python? Que ideia original! E um currículo online que não impressiona nem sua mãe. Mas ei, pelo menos você tem um perfil no GitHub, o que já é mais do que muitos conseguem. Continue assim, devagar e sempre... ou só devagar mesmo.</p>
-<p><b>Filipe Deschamps</b>, o mestre dos links de autoajuda para programadores, também com 2 contribuições. Seus projetos *doom-fire-algorithm* e *tabnews.com.br* são incríveis. Mas vamos ser honestos, você provavelmente só está aqui para divulgar seus cursos, não é? Mas tudo bem, a gente entende. Afinal, quem precisa de contribuições quando se tem um império para construir?</p>
-<p><b>Caio Cavalcante</b>, com mísera 1 contribuição. "Each brick is part of the wall of life." Que bio profunda... para alguém com tão pouca atividade. Pelo menos você contribuiu no *digitalinnovationone/dio-lab-open-source*. Parabéns, você fez o mínimo! </p>
-<p><b>Felipe</b>, também com uma solitária contribuição. Seu repositório pessoal, *Felipe-Takayuki/Felipe-Takayuki*, é realmente... um repositório. E esses projetos aleatórios em Go, PHP e Hack? Uma verdadeira salada de tecnologias. Mas ei, pelo menos você está tentando, certo? Ou não?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. 49 contribuições, hein? Quase dá para notar sua presença. Pelo menos você contribuiu no TypeORM, um projeto que realmente importa. Mas não se anime muito, ainda precisa comer muito arroz com feijão para chegar lá. E esse seu repositório pessoal, "EvertonMJunior/EvertonMJunior", que audácia, hein? Uma homenagem a si mesmo? Guarde essa energia para algo útil, por favor.</p>
+<p><b>Felipe Gueller</b>, com seus "componentes HTML diversos". Imagino a maravilha que deve ser. E o curso de HTML, CSS e Javascript do ORIGAMID? Sério? Em 2025? Espero que pelo menos esteja usando para ensinar sua avó a fazer um site. 38 contribuições, quase relevante. Quase.</p>
+<p><b>LestterX</b>, um portfólio e sistemas com a descrição "Portifólio e Sistemas". Original, devo admitir. E essa "app-entregas-v1" que some com os dados depois de algumas horas? Genial! Ideal para quem odeia persistência. 29 contribuições, o suficiente para não ser completamente ignorado. Mas só o suficiente.</p>
+<p><b>Cézar</b>, um desenvolvedor .NET. Que coisa, hein? Contribuições: 26. Nada de repositórios recentes para comentar? Que vida emocionante você leva. Continue assim, Cézar, a mediocridade te espera de braços abertos.</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Uau, um combo! Mas as 24 contribuições não impressionam muito. E um fork de um addon para Blender? Criativo. E um framework para jogos Roguelike em Godot? Que ousadia! Continue tentando, quem sabe um dia você cria algo que preste.</p>
+<p><b>jung</b>, "work in progress...". Concordo plenamente. 18 contribuições? Quase lá. Tailscale? Pelo menos você tem bom gosto. Mas "Dev Web - Bixos 1F"? Isso cheira a projeto da faculdade que você nunca mais vai tocar. E um site de quiropraxia? É para você se recuperar depois de tanto esforço?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Aparentemente indeciso. 12 contribuições? Está quase desistindo, né? "Ragna clicker"? Que desperdício de potencial. E um fork de um plugin Tailwind CSS? É sério isso? Pelo menos usa Vim, né? Pra ter mais estilo.</p>
+<p><b>Gustavo Carvalho</b>, um "Interested in connecting clouds and connecting people.". Só 7 contribuições? Imagino o quão conectado você está com o mundo real. OpenTelemetry? Ao menos está tentando monitorar alguma coisa. Mas 7 contribuições? É o seu melhor? Aposto que não.</p>
+<p><b>Gabriel</b>, um "Computer Technician" e "Full Stack Developer". 4 contribuições? Isso é quase um elogio à sua capacidade de evitar trabalho. Uma "unetvale-todo-list"? Que original! E um currículo em HTML e CSS? Inovador! Continue assim, Gabriel, e logo você chega a... lugar nenhum.</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Tão local que nem aparece. 2 contribuições? Você está se esforçando para ser invisível? Um "Python-RSS-Feed-Reader"? Em 2024? Que visão de futuro! Continue nesse ritmo e talvez, quem sabe, você consiga a proeza de não fazer nada.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Que auto-promoção sutil. 2 contribuições? Você está muito ocupado vendendo cursos para contribuir? "doom-fire-algorithm"? Que nostalgia! E o "tabnews.com.br"? Pelo menos está tentando fazer algo útil. Mas só 2 contribuições? Menos conversa e mais código, por favor.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-05 at 00:19:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-06 at 00:21:08 UTC +0000</i>
 <h6>
