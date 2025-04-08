@@ -36,47 +36,47 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>38 ctr.</td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>29 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>26 ctr.</td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/junglivre">jung</a></td>
-                <td>18 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>6 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! 54 contribuições! Parabéns por quase conseguir fazer algo notável. Mas sério, depois de ver que você contribuiu para o TypeORM, fico me perguntando se você está ajudando ou atrapalhando. E esse seu repositório pessoal, "EvertonMJunior/EvertonMJunior", com descrição *null*, é a epítome da auto-importância. </p>
-<p><b>Felipe Gueller</b>, com seus 38 pontinhos. "Componentes HTML diversos"? Espero que "diversos" signifique mais do que só botões com gradiente duvidoso. E o repositório de aprendizado de HTML e CSS do Origamid? Sério, em 2025? Já inventaram coisas novas, sabia? </p>
-<p><b>LestterX</b>, 29 contribuições. Seu portfólio e sistemas, com aquele visual de 2005, está dando o que falar... entre você e você mesmo. E o "app-entregas-v1" que some depois de algumas horas? Que metáfora perfeita para a relevância das suas contribuições. Mas calma, ainda dá tempo de fazer algo memorável... tipo, sei lá, aprender a usar Git direito.</p>
-<p><b>Cézar</b>, um desenvolvedor .NET misterioso com 26 contribuições e nenhum repositório recente para julgar. É como se você fosse um fantasma no mundo do código, assombrando o ranking com sua presença quase imperceptível. Continue assim, Cézar, o anonimato é uma dádiva.</p>
-<p><b>Danilo Nobre</b>, o artista 3D que ocasionalmente lembra que precisa codificar. 24 contribuições não impressionam, mas ao menos você mexe com Blender. Contribuir para um addon de animação cutout é... peculiar. E o "danko-nobre/danko-nobre" com descrição *null*? Originalidade mandou lembranças. </p>
-<p><b>Jung</b>, "work in progress...", assim como suas contribuições. 18 no total, o que é quase uma dezena e meia! Contribuindo para o Tailscale? Ok, útil. Mas "Dev Web - Bixos 1F"? Parece nome de projeto de faculdade que você vai abandonar no meio. </p>
-<p><b>Rafael Lima de Morais</b>, o guru do Vim que, aparentemente, também gosta de clickers. 12 contribuições, quase digno de nota. "Ragna clicker"? Sério? E clonando kickstart.nvim? A originalidade mandou um abraço. </p>
-<p><b>Gustavo Carvalho</b>, com míseras 9 contribuições. OpenTelemetry? Grafana Tempo? Parece que alguém está tentando impressionar com nomes grandes. Mas no fim das contas, 9 contribuições ainda te deixam na lanterna. </p>
-<p><b>Ghost of Ångström⚇</b>, 6 contribuições. O que esperar de alguém que se auto intitula um fantasma? Seu "criptolivre" até que tenta ser algo, mas a falta de contribuições grita mais alto que suas promessas de privacidade. </p>
-<p><b>Deyved Antonio</b>, o "Analista de Dados" com apenas 5 contribuições. Analisando os dados da sua performance, talvez devesse analisar outros dados. "Projeto_Turnover_colaboradores"? Parece interessante, pena que suas contribuições não demonstram tanto entusiasmo. </p>
-<p><b>Gabriel</b>, o "Full Stack Developer" que, aparentemente, está preso no front-end básico. Aulas de web design e um currículo em HTML? Estamos em 2025, Gabriel, a não ser que esteja ensinando a programar para bebês, precisa urgentemente atualizar suas habilidades. 4 contribuições, quase podemos te ignorar completamente. </p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! 54 contribuições... quase duas por dia. Imagino que a tecnologia esteja realmente tremendo com tamanha paixão. Contribuições recentes em TypeORM e LiveKit? Espero que pelo menos uma delas tenha sido para reportar um bug, e não adicionar mais uma feature desnecessária. E aquele seu repositório pessoal, EvertonMJunior/EvertonMJunior, que brilhou pela última vez em maio de 2024? Imagino que a descrição seja tão cativante quanto a data de atualização.</p>
+<p><b>Felipe Gueller</b>, 42 contribuições, quase lá! Vejo que você se dedica a "componentes HTML diversos". Que bom que alguém está salvando o mundo do design com seus snippets de código. E o curso de ORIGAMID? Espero que esteja aprendendo algo além de como centralizar uma div. Mas, ei, pelo menos você está tentando, certo?</p>
+<p><b>Danilo Nobre</b>, com suas 35 contribuições, você está quase alcançando a mediocridade! Full-stack, game dev e entusiasta de 3D... uau, quanta coisa! Mas, sério, um CPF profile field type para Moodle? Isso ainda existe? E um fork de uma ferramenta de animação no Blender? Espero que suas contribuições estejam além de "corrigi uns typo".</p>
+<p><b>Cézar</b>, 31 contribuições... Que conveniente, hein? .NET Developer, imagino que esteja ocupado demais clicando em botões no Visual Studio para contribuir de verdade. Ah, e não tem nenhum repositório recente para espiar? Que decepção. Talvez você devesse considerar abrir um bloco de notas e começar a documentar seus feitos épicos.</p>
+<p><b>LestterX</b>, também com 31 contribuições. Portfólio e Sistemas... parece promissor. Mas, espera, um repositório chamado "app-entregas-v1" que não persiste dados? Genial! E um fork de um "game launcher with its own embedded bittorrent client"? Espero que você tenha um bom antivírus. Mas continue assim, LestterX, quem sabe um dia você acerta.</p>
+<p><b>Jung</b>, 19 contribuições. "Work in progress..." é uma descrição perfeita para sua performance aqui. Contribuições recentes no Tailscale, ok, até que não é tão ruim. Mas um repositório chamado "DevWeb - Bixos 1F"? Imagino que o "1F" signifique "primeiro fracasso". E um fork de um site de quiropraxia? Espero que suas contribuições tenham ajudado a alinhar as coisas, porque sua pontuação está bem torta.</p>
+<p><b>Gustavo Carvalho</b>, com 16 contribuições, você está quase conseguindo ser notado. OpenTelemetry Python e Grafana Tempo... nomes pomposos para projetos que ninguém entende direito. Espero que suas contribuições estejam fazendo mais do que apenas inflar o ego dos desenvolvedores. Mas, ei, pelo menos você está tentando, certo? (de novo).</p>
+<p><b>Rafael Lima de Morais</b>, 15 contribuições. Go, Typescript, Rust, Vim... uau, que currículo impressionante! Mas, espera, um "Ragna clicker"? Sério? E um fork de um plugin Tailwind CSS para "criar animações bonitas"? Imagino que a beleza seja subjetiva. Mas continue tentando, Rafael, quem sabe um dia você cria algo que preste.</p>
+<p><b>Deyved Antonio</b>, apenas 8 contribuições? Analista de Dados, curioso e apaixonado por Tecnologia... parece que a paixão não se traduz em código. Um projeto para clonar o TabNews do zero? Que original! E um projeto de análise de turnover de colaboradores usando Excel? Imagino que as técnicas de análise descritiva sejam tão avançadas quanto sua pontuação aqui. Mas não desanime, Deyved, talvez você consiga chegar aos dois dígitos no próximo mês.</p>
+<p><b>Ghost of Ångström⚥</b>, com míseras 6 contribuições, você está quase se escondendo nas sombras. Um fork de um site pessoal e um site de criptomoedas sem KYC? Imagino que a privacidade seja sua prioridade, já que sua atividade aqui é quase inexistente. Mas, ei, pelo menos você tem um nome interessante. Talvez devesse investir mais tempo em contribuir e menos em escolher um nome que ninguém consegue pronunciar.</p>
+<p><b>Gabriel</b>, apenas 4 contribuições? Técnico em Informática e Full Stack Developer? Imagino que você esteja ocupado demais consertando computadores para contribuir de verdade. Um projeto de "unetvale-todo-list"? Que emocionante! E um currículo em HTML e CSS? Espero que pelo menos esteja responsivo. Mas não se preocupe, Gabriel, sempre há espaço para melhorar... ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-07 at 00:20:32 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-08 at 00:19:22 UTC +0000</i>
 <h6>
