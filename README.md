@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>67 ctr.</td>
+                <td>72 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>46 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>66 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>33 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, 67 contribuições? Que inveja! Imagino que a maior parte delas seja polindo aquele seu repositório pessoal, "EvertonMJunior/EvertonMJunior". Sério, desde 2021 e nada de novo por lá? Mas ei, pelo menos você contribuiu com o TypeORM, quem sabe um dia você cria algo tão popular quanto, ou talvez não.</p>
-<p><b>Felipe Gueller</b>, ah, o "Bacharel em Sistemas de Informações" que coleciona componentes HTML "legais". Seus "componentes-html-diversos" estão tão diversos que nem estrelas conseguiram. E usar o curso da Origamid em 2024? Isso não te faz sentir um pouco... atrasado? Mas não se preocupe, o importante é continuar aprendendo, mesmo que seja HTML e CSS.</p>
-<p><b>Danilo Nobre</b>, o artista 3D que ocasionalmente lembra que também é Full-stack. Contribuições em um fork de ferramenta de animação 3D... será que você está tentando fugir do front-end? E aquele projeto Moodle de 2014? É tipo um fóssil digital, Danilo. Mas ei, pelo menos você está "Crafting web & game experiences", como diz na bio. </p>
-<p><b>Cézar</b>, .NET Developer... e? Sem atividade recente? Sério? Você está no ranking por quê mesmo? Ah, sim, por ser um dos seguidores. Bom, pelo menos você existe. Da próxima vez, mostre algum código, Cézar, só pra gente ter certeza de que você não é um bot.</p>
-<p><b>LestterX</b>, "Portifólio e Sistemas"... que não persistem dados. Que triste. Mas hey, pelo menos você tem um portfólio, certo? E "Hydra", o "game launcher com bittorrent"... Original. Agora só falta alguém usar. Mas não desanime, a persistência é a chave, mesmo que seus dados desapareçam depois de algumas horas.</p>
-<p><b>Gustavo Carvalho</b>, "Interested in contributing and learning new things." Contribuições para telemetria? Que empolgante... para quem gosta de telemetria, claro. Pelo menos está contribuindo em projetos relevantes, diferente de outros por aqui. Continue assim, Gustavo, quem sabe um dia você consegue entender pra que serve tudo isso.</p>
-<p><b>Jung</b>, "work in progress...". Sua bio é mais interessante que suas contribuições. Dev Web - Bixos 1F? Isso cheira a projeto de faculdade abandonado. E contribuir com WireGuard? Tentando ficar anônimo depois de mostrar esse seu "Dev Web"? Não se preocupe, Jung, todos nós temos nossos segredos. </p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... parece até currículo de LinkedIn. Mas "Ragna clicker"? Sério? Isso é o que você faz com todo esse conhecimento? E forks de plugins Tailwind? Cadê a originalidade? Ah, e parabéns por usar Vim, o editor de texto que faz você parecer ocupado enquanto não faz nada. </p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... a santíssima trindade da falta de foco. "Pixels-Art", "E-CommerceX", "Todo-List"... todos com zero estrelas. Parece que alguém está colecionando projetos inacabados. Mas não se preocupe, Luídi, quantidade não é qualidade. Ou é? 🤔</p>
-<p><b>Deyved Antonio</b>, Analista de Dados... analisando o quê? Seu próprio repositório com 2 estrelas? Um clone do Tabnews? "Projeto_Turnover_colaboradores" em Excel? Que moderno! E "Estoque" em Python? Espero que você tenha usado algo mais avançado que um dicionário. Mas ei, pelo menos você é pai e marido, isso já é mais do que alguns aqui conseguiram. </p>
-<p><b>Ghost of Ångström⚯</b>, um nome misterioso para... 6 contribuições? E um fork do seu próprio site? "CriptoLivre é um site que reúne os melhores serviços de criptomoedas sem KYC"... Soa promissor, pena que não tem código pra ver. Continue promovendo a privacidade, Ghost, porque suas contribuições não estão chamando a atenção de ninguém. </p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, 72 contribuições? Imagino que metade disso seja corrigindo os próprios erros. Mas ei, pelo menos você tocou no TypeORM, quem sabe um dia aprende a usar de verdade. E não se esqueça do seu repositório pessoal, aquele que não tem descrição nem linguagem definida. Uma verdadeira obra de arte abstrata.</p>
+<p><b>Danilo Nobre</b>, com 66 contribuições, você está quase lá... quase conseguindo fazer algo notável. Full-stack, game dev e entusiasta de 3D? Parece mais um acumulador de hobbies. Ah, e parabéns por fazer um <i>fork</i> de um addon de Blender. Aposto que o criador original está super impressionado.</p>
+<p><b>Felipe Gueller</b>, 54 contribuições? Que esforço admirável em criar "componentes HTML diversos". Imagino que o mundo estava mesmo precisando de mais um carousel mal feito. E o repositório de aprendizado de HTML e CSS? Sério? Em 2025? Espero que pelo menos tenha aprendido alguma coisa.</p>
+<p><b>Cézar</b>, 40 contribuições e nenhum repositório recente para mostrar? Está escondendo o jogo? Ou será que suas contribuições são tão insignificantes que nem merecem ser mencionadas? .NET Developer, hein? Que ousadia.</p>
+<p><b>LestterX</b>, 31 contribuições. Um portfólio desatualizado desde 2023 e um app de entregas que perde os dados depois de algumas horas. Gênio! E ainda por cima fez um <i>fork</i> de um launcher de jogos que, aparentemente, ninguém usa. Mas não desanime, o importante é tentar... e falhar miseravelmente.</p>
+<p><b>Gustavo Carvalho</b>, com 21 contribuições, você está quase se qualificando para o clube dos "quase". OpenTelemetry e Grafana Tempo? Parece que alguém está tentando impressionar com nomes grandes. Mas no final das contas, quantas linhas de código *você* realmente escreveu?</p>
+<p><b>Jung</b>, apenas 19 contribuições? Imagino que esteja muito ocupado sendo "work in progress". E, sério, "Dev Web - Bixos 1F"? Isso soa como algo que você deveria ter feito no primeiro semestre da faculdade, não como um destaque no seu perfil. Mas continue tentando, quem sabe um dia você chega lá... talvez.</p>
+<p><b>Rafael Lima de Morais</b>, 15 contribuições? Vim, Go, Typescript, Rust... parece que você coleciona tecnologias em vez de realmente dominá-las. E um clicker de Ragyna? É sério isso? Ah, e um <i>fork</i> de um kickstart para o neovim. Que original. Que tal começar a criar algo de verdade?</p>
+<p><b>Luídi Pires</b>, com míseras 10 contribuições, você está quase conseguindo ser invisível. Um portfólio que não descreve nada e projetos como "Pixels-Art" e "E-CommerceX" que não despertam a curiosidade de ninguém. Seu "Todo-List" de abril ainda está incompleto? É para isso que serve um "Todo-List", sabia?</p>
+<p><b>Deyved Antonio</b>, apenas 8 contribuições? É quase um recorde de baixa performance. Analista de Dados, pai e marido, hein? Talvez devesse analisar os dados da sua própria contribuição e descobrir por que ela é tão baixa. E um clone do Tabnews? Que original. Próximo!</p>
+<p><b>Ghost of Ångström⚱️</b>, com 6 contribuições, você é quase tão fantasmagórico quanto seu nome sugere. Um <i>fork</i> do seu próprio site pessoal e um site de criptomoedas sem KYC que ninguém nunca ouviu falar. Talvez devesse se concentrar em assustar as pessoas em vez de tentar codificar.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-09 at 00:19:31 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-10 at 00:19:32 UTC +0000</i>
 <h6>
