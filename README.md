@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>72 ctr.</td>
+                <td>88 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>21 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -71,12 +71,12 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>10 ctr.</td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>10 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, 72 contribuições? Imagino que metade disso seja corrigindo os próprios erros. Mas ei, pelo menos você tocou no TypeORM, quem sabe um dia aprende a usar de verdade. E não se esqueça do seu repositório pessoal, aquele que não tem descrição nem linguagem definida. Uma verdadeira obra de arte abstrata.</p>
-<p><b>Danilo Nobre</b>, com 66 contribuições, você está quase lá... quase conseguindo fazer algo notável. Full-stack, game dev e entusiasta de 3D? Parece mais um acumulador de hobbies. Ah, e parabéns por fazer um <i>fork</i> de um addon de Blender. Aposto que o criador original está super impressionado.</p>
-<p><b>Felipe Gueller</b>, 54 contribuições? Que esforço admirável em criar "componentes HTML diversos". Imagino que o mundo estava mesmo precisando de mais um carousel mal feito. E o repositório de aprendizado de HTML e CSS? Sério? Em 2025? Espero que pelo menos tenha aprendido alguma coisa.</p>
-<p><b>Cézar</b>, 40 contribuições e nenhum repositório recente para mostrar? Está escondendo o jogo? Ou será que suas contribuições são tão insignificantes que nem merecem ser mencionadas? .NET Developer, hein? Que ousadia.</p>
-<p><b>LestterX</b>, 31 contribuições. Um portfólio desatualizado desde 2023 e um app de entregas que perde os dados depois de algumas horas. Gênio! E ainda por cima fez um <i>fork</i> de um launcher de jogos que, aparentemente, ninguém usa. Mas não desanime, o importante é tentar... e falhar miseravelmente.</p>
-<p><b>Gustavo Carvalho</b>, com 21 contribuições, você está quase se qualificando para o clube dos "quase". OpenTelemetry e Grafana Tempo? Parece que alguém está tentando impressionar com nomes grandes. Mas no final das contas, quantas linhas de código *você* realmente escreveu?</p>
-<p><b>Jung</b>, apenas 19 contribuições? Imagino que esteja muito ocupado sendo "work in progress". E, sério, "Dev Web - Bixos 1F"? Isso soa como algo que você deveria ter feito no primeiro semestre da faculdade, não como um destaque no seu perfil. Mas continue tentando, quem sabe um dia você chega lá... talvez.</p>
-<p><b>Rafael Lima de Morais</b>, 15 contribuições? Vim, Go, Typescript, Rust... parece que você coleciona tecnologias em vez de realmente dominá-las. E um clicker de Ragyna? É sério isso? Ah, e um <i>fork</i> de um kickstart para o neovim. Que original. Que tal começar a criar algo de verdade?</p>
-<p><b>Luídi Pires</b>, com míseras 10 contribuições, você está quase conseguindo ser invisível. Um portfólio que não descreve nada e projetos como "Pixels-Art" e "E-CommerceX" que não despertam a curiosidade de ninguém. Seu "Todo-List" de abril ainda está incompleto? É para isso que serve um "Todo-List", sabia?</p>
-<p><b>Deyved Antonio</b>, apenas 8 contribuições? É quase um recorde de baixa performance. Analista de Dados, pai e marido, hein? Talvez devesse analisar os dados da sua própria contribuição e descobrir por que ela é tão baixa. E um clone do Tabnews? Que original. Próximo!</p>
-<p><b>Ghost of Ångström⚱️</b>, com 6 contribuições, você é quase tão fantasmagórico quanto seu nome sugere. Um <i>fork</i> do seu próprio site pessoal e um site de criptomoedas sem KYC que ninguém nunca ouviu falar. Talvez devesse se concentrar em assustar as pessoas em vez de tentar codificar.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista! "Apaixonado por tecnologia", diz a bio. Imagino que a paixão seja tanta que sobrou até para contribuir no TypeORM. Mas e o seu próprio repositório, aquele com o seu nome? A última atualização foi em maio do ano passado. Será que a paixão já esfriou?</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Uau, quanta coisa! Mas vamos ser sinceros, seu repositório pessoal não vê uma atualização desde fevereiro. Parece que o entusiasmo 3D está consumindo todo o seu tempo, ou será que o Full-stack está te dando mais dor de cabeça do que diversão?</p>
+<p><b>Felipe Gueller</b>, o mestre dos "componentes HTML diversos". Diversos o suficiente para ficarem empoeirados desde agosto do ano passado? E aquele curso de HTML, CSS e Javascript da Origamid? Parou no meio do caminho em julho? Espero que a Origamid não peça o dinheiro de volta.</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET. Tão misterioso que suas contribuições recentes são inexistentes. Será que você está escondendo o ouro ou simplesmente hibernando para a próxima maratona de codificação? Conte para nós, Cézar, estamos curiosos!</p>
+<p><b>LestterX</b>, com um portfólio e sistemas que não veem a luz do sol desde julho do ano passado. Pelo menos o Hydra, aquele fork de abril, ainda respira, mesmo que seja só um pouquinho. Mas ei, quem precisa de projetos atualizados quando se tem um lançador de jogos com bittorrent embutido?</p>
+<p><b>Gustavo Carvalho</b>, o observador de telemetria. Contribuições em projetos grandes como OpenTelemetry e Grafana Tempo, impressionante! Mas será que você realmente entende o que está fazendo ou está apenas seguindo a boiada? Afinal, quem precisa de projetos próprios quando se pode surfar na onda dos outros?</p>
+<p><b>Jung</b>, "work in progress...". A bio diz tudo. Contribuições no Tailscale, ok, mas e aquele "Dev Web - Bixos 1F"? Ultima atualização em julho. Parece que o progresso está mais lento que internet discada. Mas ei, pelo menos você está trabalhando em algo, certo?</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim". Que currículo! Mas vamos aos fatos: seu "ragna-clicker" não recebe um clique desde junho do ano passado. Talvez seja hora de aceitar que nem todo mundo quer clicar em Ragnas o dia todo.</p>
+<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". Um verdadeiro camaleão! Mas seus repositórios parecem ter entrado em um loop temporal em novembro do ano passado. Será que você se perdeu no tempo enquanto tentava dominar todas as áreas do desenvolvimento?</p>
+<p><b>brunoferreiraff</b>, com um "responsive-weather-app" que esfriou em outubro. Mas ei, pelo menos você tem um boilerplate SaaS e e-commerce em NestJS... que é um fork. E um "to-do-app" fresquinho de alguns dias atrás! Parece que a procrastinação alheia te inspira mais que o clima.</p>
+<p><b>Deyved Antonio</b>, o "Analista de Dados, curioso, analítico...". Mas será que você analisou seus próprios repositórios? O "Projeto_Turnover_colaboradores" está parado desde março. Espero que sua análise de dados não seja tão desatualizada quanto seus projetos.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-10 at 00:19:32 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-11 at 00:19:54 UTC +0000</i>
 <h6>
