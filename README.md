@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>88 ctr.</td>
+                <td>97 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>40 ctr.</td>
+                <td>48 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>23 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>11 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>11 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista! "Apaixonado por tecnologia", diz a bio. Imagino que a paixão seja tanta que sobrou até para contribuir no TypeORM. Mas e o seu próprio repositório, aquele com o seu nome? A última atualização foi em maio do ano passado. Será que a paixão já esfriou?</p>
-<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Uau, quanta coisa! Mas vamos ser sinceros, seu repositório pessoal não vê uma atualização desde fevereiro. Parece que o entusiasmo 3D está consumindo todo o seu tempo, ou será que o Full-stack está te dando mais dor de cabeça do que diversão?</p>
-<p><b>Felipe Gueller</b>, o mestre dos "componentes HTML diversos". Diversos o suficiente para ficarem empoeirados desde agosto do ano passado? E aquele curso de HTML, CSS e Javascript da Origamid? Parou no meio do caminho em julho? Espero que a Origamid não peça o dinheiro de volta.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET. Tão misterioso que suas contribuições recentes são inexistentes. Será que você está escondendo o ouro ou simplesmente hibernando para a próxima maratona de codificação? Conte para nós, Cézar, estamos curiosos!</p>
-<p><b>LestterX</b>, com um portfólio e sistemas que não veem a luz do sol desde julho do ano passado. Pelo menos o Hydra, aquele fork de abril, ainda respira, mesmo que seja só um pouquinho. Mas ei, quem precisa de projetos atualizados quando se tem um lançador de jogos com bittorrent embutido?</p>
-<p><b>Gustavo Carvalho</b>, o observador de telemetria. Contribuições em projetos grandes como OpenTelemetry e Grafana Tempo, impressionante! Mas será que você realmente entende o que está fazendo ou está apenas seguindo a boiada? Afinal, quem precisa de projetos próprios quando se pode surfar na onda dos outros?</p>
-<p><b>Jung</b>, "work in progress...". A bio diz tudo. Contribuições no Tailscale, ok, mas e aquele "Dev Web - Bixos 1F"? Ultima atualização em julho. Parece que o progresso está mais lento que internet discada. Mas ei, pelo menos você está trabalhando em algo, certo?</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim". Que currículo! Mas vamos aos fatos: seu "ragna-clicker" não recebe um clique desde junho do ano passado. Talvez seja hora de aceitar que nem todo mundo quer clicar em Ragnas o dia todo.</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". Um verdadeiro camaleão! Mas seus repositórios parecem ter entrado em um loop temporal em novembro do ano passado. Será que você se perdeu no tempo enquanto tentava dominar todas as áreas do desenvolvimento?</p>
-<p><b>brunoferreiraff</b>, com um "responsive-weather-app" que esfriou em outubro. Mas ei, pelo menos você tem um boilerplate SaaS e e-commerce em NestJS... que é um fork. E um "to-do-app" fresquinho de alguns dias atrás! Parece que a procrastinação alheia te inspira mais que o clima.</p>
-<p><b>Deyved Antonio</b>, o "Analista de Dados, curioso, analítico...". Mas será que você analisou seus próprios repositórios? O "Projeto_Turnover_colaboradores" está parado desde março. Espero que sua análise de dados não seja tão desatualizada quanto seus projetos.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. Quase 100 contribuições! Mas vamos ser sinceros, passar a tarde inteira no TypeORM não te faz o próximo Linus Torvalds. E aquele seu repositório pessoal, "EvertonMJunior/EvertonMJunior"? Que ousadia, um repositório com seu nome, vazio! A audácia de não ter nada para mostrar... Quase tão impressionante quanto suas contribuições no Flutter Client SDK para LiveKit. Quase.</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Que currículo! Mas me diga, quantas dimensões tem aquele seu commit no <i>moodle-profilefield_cpf</i> de 2023? Aposto que a modelagem 3D está tão boa quanto a performance desse projeto. E o fork do <i>coa_tools2</i>? Sério, um fork? Achei que você criava jogos incríveis do zero, não que dependia da bondade alheia. E <i>firebound</i>? Um jogo roguelike em Godot? Originalidade passou longe, hein?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Uau, um diploma! E o que você faz com ele? "Componentes HTML diversos" e um curso de HTML, CSS e Javascript da ORIGAMID? Espero que pelo menos tenha aprendido a centralizar uma div. Mas não se preocupe, um dia você chega lá. Quem sabe, em 2030, você estará fazendo um "Hello, World" em React.</p>
+<p><b>Cézar</b>, ".NET Developer". Que descritivo... Contribuições? Quase 50! Repositórios recentes? Nenhum. Parabéns, você é o ninja silencioso do código. Ninguém sabe o que você faz, mas aparentemente você faz alguma coisa. Ou talvez você só esteja contando as linhas de código que excluiu. De qualquer forma, continue assim, Cézar. A invisibilidade é uma arte.</p>
+<p><b>LestterX</b>, sem bio, sem drama. Um portfólio que não é atualizado desde julho de 2023 e um app de entregas que "desaparece após algumas horas". Parece até a minha motivação para ir à academia. E o fork do <i>hydra</i>? Imagino que você esteja esperando um milagre para transformar esse projeto em algo útil. Boa sorte, LestterX, você vai precisar.</p>
+<p><b>Gustavo Carvalho</b>, "Interested in continuous and secure learning". Ah, a ladainha de sempre. Mas, ei, pelo menos você está envolvido em projetos OpenTelemetry e Grafana Tempo. Deve ser emocionante monitorar o tempo de resposta de um servidor enquanto a sua própria produtividade fica em tempo de espera. Mas não se preocupe, Gustavo, o importante é estar ocupado, certo?</p>
+<p><b>jung</b>, "work in progress...". Que conveniente. Contribuições no <i>tailscale/tailscale</i>, ok, impressionante. Mas o resto? <i>DevWeb</i>, <i>quiropraxia-paulista</i>? Parece que você está mais perdido que estagiário no primeiro dia. E aquele fork do <i>quiropraxia-paulista</i>? Sério? Você não consegue nem copiar um site de quiropraxia direito? Mas não se preocupe, "work in progress..." é uma ótima desculpa para tudo.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que combo! Mas vamos ver... <i>ragna-clicker</i>? Um clicker de Ragnarok? Que visão! E aquele <i>kickstart.nvim</i>? Imagino que você passe mais tempo configurando o Vim do que programando de verdade. E o fork do <i>tailwindcss-animate</i>? Espero que pelo menos as animações do seu currículo sejam melhores que isso.</p>
+<p><b>brunoferreiraff</b>, sem bio, mas com projetos. Um "responsive-weather-app" que não é atualizado desde outubro de 2024. Deve ser tão preciso quanto a previsão do tempo para amanhã. E aquele fork do <i>saas-and-ecommerce-boilerplate-nestjs</i>? Aposto que você vai reinventar a roda, só que quadrada. Mas não se preocupe, o importante é ter um "to-do-app" funcional, certo?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Aquele que faz tudo, mas não faz nada direito. <i>LuidiPiresHub/LuidiPiresHub</i>, um repositório com o próprio nome. Que original! <i>Pixels-Art</i>, <i>E-CommerceX</i>, <i>Todo-List</i>... Quantos projetos genéricos você consegue empilhar? Mas não se preocupe, Luídi, um dia você encontra um nicho. Ou não.</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido". Que homem de família! Mas vamos aos fatos: <i>DeyvedAntonio/DeyvedAntonio</i>, mais um repositório com o próprio nome. Que novidade! Um clone do TabNews e um projeto de análise de turnover em Excel. Imagino que você passe mais tempo no Excel do que com a sua família. E aquele projeto de "Estoque" em Python? Espero que pelo menos o estoque de fraldas esteja em dia.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-11 at 00:19:54 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-12 at 00:19:23 UTC +0000</i>
 <h6>
