@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>102 ctr.</td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>66 ctr.</td>
+                <td>67 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>48 ctr.</td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>11 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,28 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 102 contribuições, liderando o ranking. Parabéns, você conseguiu fazer mais que os outros. Mas não se anime muito, liderar um grupo desses não é exatamente um título de nobreza. Ah, e obrigado por contribuir com o TypeORM, pelo menos você não está só criando "mais um" framework JavaScript.</p>
-<p><b>Danilo Nobre</b>, em segundo lugar com 66 contribuições. Vejo que você gosta de Blender. Que bom que alguém está cuidando para que tenhamos animações 3D interessantes no futuro, já que o resto de vocês está ocupado demais com "web".</p>
-<p><b>Felipe Gueller</b>, com 54 contribuições. Componentes HTML diversos? Sério? O mundo estava mesmo precisando de mais disso. E um curso de Origamid? Espero que pelo menos tenha aprendido alguma coisa útil, tipo como não criar outro "componente HTML diverso".</p>
-<p><b>Cézar</b>, com 48 contribuições. Um ".NET Developer" sem atividade recente. Que conveniente, deve estar contribuindo em algum projeto secreto da Microsoft. Ou talvez só esteja esperando o mês acabar para ver se consegue alcançar alguém nessa lista.</p>
-<p><b>LestterX</b>, com 32 contribuições. "Portifólio e Sistemas"? Parece promissor, até ver que o último commit foi em Julho de 2023. E essa aplicação de entregas que some com os dados? Genial! Ideal para quem quer esquecer que fez algo.</p>
-<p><b>Gustavo Carvalho</b>, com 28 contribuições. OpenTelemetry? Que nobre causa. Pelo menos você está contribuindo para algo que pode ser usado para rastrear o quão improdutivos os outros estão sendo. Mas não se esqueça de rastrear a si mesmo também.</p>
-<p><b>Rafael Lima de Morais</b>, com 15 contribuições. "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias e tão pouco a mostrar. Um clicker de Ragnarok? Sério? E um "kickstart" para o Neovim? Originalidade mandou lembranças.</p>
-<p><b>brunoferreiraff</b>, também com 15 contribuições. Uma "responsive-weather-app"? Nossa, que inovador! Um boilerplate SaaS e e-commerce? Original! Pelo menos o "projetosJS" e o "to-do-app" mostram que você está ocupado com o básico. Mas, ei, todos nós temos que começar de algum lugar, certo?</p>
-<p><b>Lúidi Pires</b>, com 11 contribuições. Um portfólio que não é atualizado desde Novembro de 2024. Um "E-CommerceX"? Espero que o "X" seja de "eXemplo" e não de "eXecrável". Ao menos a "Todo-List" foi atualizada recentemente, mostrando que você tem tarefas a fazer... como atualizar o resto dos seus projetos.</p>
-<p><b>CookieUkw</b>, com 10 contribuições. Um chat de simulação para histórias interativas e uma IA que discute jogos? Interessante... para quem gosta de conversar com robôs sobre assuntos irrelevantes. Pelo menos você está tentando criar algo diferente, mesmo que o resultado seja questionável.</p>
-<p><b>Deyved Antonio</b>, com apenas 8 contribuições. "Analista de Dados". Sério? Analisando o quê? A poeira na sua conta do GitHub? Um clone do Tabnews? Espero que tenha pelo menos aprendido a não clonar ideias ruins. E um projeto de turnover? Talvez seja hora de analisar o seu próprio turnover de contribuições.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista com 108 contribuições. Imagino que <i>typeorm/typeorm</i> esteja te pagando bem para compensar todo esse "esforço". Mas e o seu próprio repositório? Aquele <i>EvertonMJunior/EvertonMJunior</i>, atualizado pela última vez em maio de 2024? Alguma novidade ou ainda está esperando um milagre tecnológico?
+</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Interessante... Mas suas contribuições estão mais para "Full-stack de gambiarra", não é mesmo? E esse fork do <i>coa_tools2</i>? A última atualização foi em 6 de abril, mas aposto que a animação de recorte ainda está mais travada que o trânsito em dia de chuva.
+</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Que belo título para... criar componentes HTML "diversos"? Seu repositório de aprendizado de HTML e CSS do curso da ORIGAMID foi atualizado pela última vez em julho de 2024. Já dominou o "básico" ou ainda está tentando centralizar uma div?
+</p>
+<p><b>Cézar</b>, um misterioso ".NET Developer" com 53 contribuições e nenhum repositório recente para espiar. Cézar, meu caro, você é como um fantasma no mundo do código. Existe, mas ninguém sabe o que faz.
+</p>
+<p><b>LestterX</b>, com seus 32 contribuições, parece que você está mais interessado em launchers de jogos do que em desenvolvimento sério. E esse <i>app-entregas-v1</i> que some com os dados após algumas horas? Genial! Ideal para quem quer evitar responsabilidades.
+</p>
+<p><b>Gustavo Carvalho</b>, "Interested to contribute and solving problems". Ah, claro, porque contribuir com <i>open-telemetry</i> e <i>grafana/tempo</i> é o auge da resolução de problemas, não é? Espero que pelo menos esteja entendendo o que está fazendo, e que não seja apenas mais um macaco digitando.
+</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que currículo impressionante para... um clicker de Ragnarok? E esse <i>kickstart.nvim</i>? Sério, mais um plugin para o Vim? O mundo realmente precisava disso?
+</p>
+<p><b>brunoferreiraff</b>, com um "responsive-weather-app" que provavelmente só funciona em um navegador específico e um "saas-and-ecommerce-boilerplate-nestjs" que é mais boilerplate do que SaaS. E esse "to-do-app" criado em 8 de abril? Uau, que original!
+</p>
+<p><b>CookieUkw</b>, "A sample chat simulation for interactive stories". Que ideia inovadora! Aposto que está revolucionando a indústria do entretenimento. E esse projeto de "Vex-AI" que pretende criar uma IA consciente? Boa sorte com isso.
+</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Ah, o famoso "faz tudo". Mas seus projetos parecem mais "faz nada direito". Um "E-CommerceX" que não vende nada, um "Pixels-Art" que não tem arte e um "Todo-List" criado em 15 de abril. Que timing perfeito!
+</p>
+<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life". Profundo... demais para quem contribui em projetos da Digital Innovation One. Mas ei, pelo menos você está "contribuindo", mesmo que seja apenas para inflar o ego.
+</p>
 </div>
     </details>
 </div>
@@ -109,5 +120,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-14 at 00:21:02 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-15 at 00:20:25 UTC +0000</i>
 <h6>
