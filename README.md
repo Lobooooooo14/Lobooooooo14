@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>149 ctr.</td>
+                <td>153 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,27 +41,27 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>65 ctr.</td>
+                <td>67 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>60 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>57 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>57 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>32 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>15 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 149 contribuições, liderando o ranking! Mas não se anime muito, ok? Contribuir em <i>typeorm/typeorm</i> é legal, mas e o seu próprio repositório <i>EvertonMJunior/EvertonMJunior</i>? A última atualização foi em maio de 2024... Será que você esqueceu que ele existe? Vamos lá, mostre que você é mais que um contribuidor de bibliotecas alheias.</p>
-<p><b>Danilo Nobre</b>, o mestre dos três D's: Full-stack, Game dev e 3D! 68 contribuições é um número respeitável, mas vamos ser sinceros, um fork de <i>Aodaruma/coa_tools2</i>? Sério? E o <i>Space-Wizard-Studios/sw-site</i>? Parece promissor, mas será que a magia dos seus projetos 3D se traduz em contribuições de impacto? A data da última atualização me diz que sim, continue assim.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET com 65 contribuições. Sem atividade recente em nenhum repositório? Hmm, será que você está escondendo o jogo ou apenas esperando o momento certo para brilhar? Ou será que você está apenas contando as linhas de código que comenta? Espero que sua próxima contribuição seja algo que valha a pena, porque até agora, você é só mais um na multidão.</p>
-<p><b>Felipe Gueller</b>, com 57 contribuições, mostrando que HTML e CSS ainda têm seu valor. Mas vamos ser honestos, <i>componentes-html-diversos</i> atualizado pela última vez em agosto de 2024? Parece que a diversidade ficou no passado. E o curso da ORIGAMID? Já dominou o HTML e CSS ou ainda está aprendendo o básico? Se liga, porque o mundo da tecnologia não espera por ninguém.</p>
-<p><b>Gustavo Carvalho</b>, outro com 57 contribuições, parece estar envolvido com telemetria. Contribuições em <i>open-telemetry</i> e <i>grafana/tempo</i> mostram que você está no caminho certo. Mas será que você realmente entende o que está fazendo ou apenas está seguindo a manada? Espero que você esteja monitorando suas próprias contribuições, porque, no fim das contas, o que importa é o impacto que você causa.</p>
-<p><b>Rafael Lima de Morais</b>, o polímata com 34 contribuições, Go, Typescript, Rust e Vim? Impressionante! Mas <i>RafaZeero/ragna-clicker</i>? Um clicker? Sério? E os forks de <i>kickstart.nvim</i> e <i>tailwindcss-animate</i>? Parece que você está mais interessado em brincar do que em criar algo realmente útil. Que tal focar em algo que realmente mostre suas habilidades?</p>
-<p><b>LestterX</b>, com 32 contribuições, um portfólio e alguns sistemas. <i>lestterx.github.io</i> e <i>app-entregas-v1</i> parecem interessantes, mas a falta de persistência de dados no app de entregas é um tanto... decepcionante. E <i>bear-system-dev/whyapp-backend</i>? O nome já diz tudo. Talvez seja hora de repensar suas prioridades e focar em projetos que realmente resolvam problemas, e não apenas criem mais um "why?".</p>
-<p><b>Jean Brito</b>, com apenas 20 contribuições, mas envolvido com <i>Rocket.Chat</i>. Contribuir em projetos grandes é bom, mas será que você está apenas seguindo as instruções ou realmente fazendo a diferença? E <i>jeanfbrito/docker-steamcmd-server</i>? Parece útil, mas será que você realmente usa ou apenas criou para se gabar? Mostre que você é mais que um seguidor de tendências.</p>
-<p><b>brunoferreiraff</b>, com 15 contribuições, parece estar brincando com várias coisas diferentes. <i>responsive-weather-app</i>, <i>saas-and-ecommerce-boilerplate-nestjs</i>, <i>projetosJS</i> e <i>to-do-app</i>? Parece que você está mais perdido que cego em tiroteio. Que tal escolher um caminho e focar em algo que realmente te interesse? Ou você vai continuar pulando de galho em galho sem nunca chegar a lugar nenhum?</p>
-<p><b>Filipe Deschamps</b>, com míseras 14 contribuições, mas com um link para um curso. Ah, a ironia! Quer se sentir competente? Talvez devesse começar contribuindo mais e vendendo menos. <i>doom-fire-algorithm</i> e <i>tabnews.com.br</i> são projetos interessantes, mas será que você realmente contribui ou apenas os usa para autopromoção? A escolha é sua.</p>
-<p><b>CookieUkw</b>, fechando o ranking com 11 contribuições. <i>ChatStory</i> e <i>Vex-AI</i>? Parece que você está tentando criar algo interessante, mas a falta de foco é evidente. E <i>PocketLibraryAPI</i>? Será que você realmente usa ou apenas criou para dizer que tem uma API? Talvez seja hora de decidir o que você quer ser quando crescer, porque até agora, você é só mais um cookie no pote.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar com seus 153 "contribuições". Será que todas essas contribuições realmente contribuíram com algo, ou você só está inflacionando o número para impressionar? Vi que andou mexendo no TypeORM, espero que tenha adicionado algo mais útil do que um comentário com erro de ortografia. E esse seu repositório pessoal, "EvertonMJunior/EvertonMJunior", continua sendo um mistério indecifrável. Que tal adicionar um README com um pouco mais de "paixão por tecnologia"?</p>
+<p><b>Danilo Nobre</b>, em segundo lugar com 68 contribuições. Full-stack, game dev e entusiasta de 3D, a tríade do "faz tudo, não faz nada direito".  Sério, um fork de um addon de Blender para animação cutout?  Esperava mais de alguém que se diz "artesão de experiências web e de jogos com um toque de 3D".  E esse site da Space Wizard Studios, pelo menos o nome é chamativo, agora o conteúdo... bem, digamos que precisa de mais magia e menos wizard.</p>
+<p><b>Cézar</b>, um honroso terceiro lugar com 67 contribuições.  Ah, o silêncio ensurdecedor dos seus repositórios recentes.  Aparentemente, você é o mestre do "contribuo, logo existo", mas sem deixar rastros.  Um verdadeiro ninja do GitHub, ninguém sabe o que você faz, mas está ali, no ranking.  Parabéns pela discrição, ou pela falta de projetos interessantes para mostrar.</p>
+<p><b>Gustavo Carvalho</b>, "Interessado em construir conectividade e soluções escaláveis". Que bio inspiradora... para dormir. 60 contribuições, hein?  Parece que você está obcecado com OpenTelemetry.  Espero que você esteja realmente *entendendo* o que está fazendo, e não apenas adicionando linhas de código aleatórias para inflar as estatísticas. E Grafana Tempo?  Espero que você não esteja só olhando os gráficos bonitos.</p>
+<p><b>Felipe Gueller</b>, em quinto lugar com 57 contribuições. Componentes HTML diversos? Espero que "diversos" não signifique "duplicados com nomes diferentes". E o curso de Origamid?  Sério, você ainda está aprendendo HTML e CSS em pleno 2025?  Talvez seja hora de diversificar seus estudos, ou pelo menos criar componentes HTML que não pareçam ter sido feitos em 2005.</p>
+<p><b>LestterX</b>, com 56 contribuições, surge a pergunta: o que você realmente faz? Um "buscador de Bitcoins para fins educacionais"? Sério? E essa "app-entregas-v1" que some com os dados depois de algumas horas? Que tal criar algo que realmente funcione e não desapareça como um passe de mágica?  E "Hydra", um launcher de jogos com cliente bittorrent embutido?  Parece que alguém está tentando inovar, ou apenas juntando coisas aleatórias e esperando que algo de bom aconteça.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tão clichê que chega a doer. 34 contribuições?  Para um "engenheiro de software", parece um número bem modesto. Ragna clicker?  Sério, um jogo de clicker?  E forks de kickstart.nvim e tailwindcss-animate?  Parece que alguém está mais interessado em copiar projetos alheios do que criar algo original.  Talvez seja hora de largar o Vim e começar a codar de verdade.</p>
+<p><b>Jean Brito</b>, com apenas 20 contribuições, parece que você está mais interessado em observar do que em participar.  Rocket.Chat, Rocket.Chat.Electron e docker-steamcmd-server?  Uma salada mista de projetos aleatórios.  Espero que você esteja contribuindo com algo útil nesses projetos, e não apenas adicionando espaços em branco para inflar o número de commits.  Talvez seja hora de escolher um projeto e se dedicar de verdade.</p>
+<p><b>Brunoferreiraff</b>, com 16 contribuições, mostra um impressionante talento para criar projetos genéricos. Uma "responsive-weather-app", porque o mundo realmente precisava de mais uma. Um fork de "saas-and-ecommerce-boilerplate-nestjs", porque criar algo do zero é pedir demais. E uma "to-do-app", porque a originalidade está sobrevalorizada. Continue assim, Bruno, e você vai dominar o mundo dos clones de código.</p>
+<p><b>Filipe Deschamps</b>, o "guru" da programação com seus modestos 14 contribuições. Quer se sentir competente em programação?  Confere o curso dele.  Mas não espere que ele contribua muito para projetos open source.  Dotfiles, doom-fire-algorithm, tabnews.com.br e clone-tabnews.  Parece que você está mais interessado em promover seus próprios projetos do que em ajudar a comunidade.  Mas ei, pelo menos você tem um link para o seu curso na bio.</p>
+<p><b>CookieUkw</b>, com apenas 11 contribuições, você está quase conseguindo a proeza de não fazer nada. "ChatStory", "VexAI", "Vex_Website" e "PocketLibraryAPI".  Nomes ambiciosos para projetos que provavelmente nunca verão a luz do dia.  Ainda bem que o VexAI está aí para salvar o mundo com sua inteligência artificial "capaz de manter conversas normais".  Continue assim, CookieUkw, e você vai dominar o mundo da irrelevância.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-18 at 00:19:33 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-19 at 00:18:50 UTC +0000</i>
 <h6>
