@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>157 ctr.</td>
+                <td>170 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>68 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>67 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>73 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>64 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>68 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista, com 157 contribuições. Imagino que a maior parte desse esforço hercúleo tenha sido dedicada a vasculhar o TypeORM, não é mesmo? Afinal, quem precisa criar algo do zero quando se pode fuçar em código alheio? E aquele seu repositório pessoal, EvertonMJunior/EvertonMJunior, que impressionantes zero <i>stargazers</i>. Uma verdadeira obra-prima incompreendida, sem dúvida.</p>
-<p><b>Danilo Nobre</b>, o artista 3D que também programa. Interessante. Vejo que você anda contribuindo em um addon de Blender para animação 2D. Será que um dia veremos seus modelos 3D ganhando vida em um jogo? Ou você vai continuar preso no ciclo de "<i>full-stack</i>" que nunca sai do lugar? Ah, e parabéns pelo site da Space Wizard Studios. É tão... anos 90.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET. Sua aura de discrição é quase palpável. Nenhuma atividade recente para nos entreter? Será que você está escondendo algum projeto secreto ou apenas se dedicando ao ócio criativo? De qualquer forma, parabéns pelo 67 contribuições, continue assim, o topo te espera.</p>
-<p><b>Gustavo Carvalho</b>, um "<i>curioso por computadores</i>". Ah, a clássica bio genérica. Vejo que você tem se envolvido bastante com OpenTelemetry. Será que está tentando rastrear o paradeiro da sua ambição? E quanto ao Grafana Tempo, imagino que esteja usando para monitorar o tempo que você perde procrastinando em vez de criar algo próprio. Mas não se preocupe, todos nós fazemos isso.</p>
-<p><b>LestterX</b>, um mestre do disfarce. Sua bio é um vazio existencial, um espelho da sua alma de programador? Ah, vejo que você se aventurou no mundo das entregas com o "app-entregas-v1". Pena que os dados somem depois de algumas horas. Talvez seja um presságio do futuro das suas contribuições? E o "btc-finder"? Encontrou algum bitcoin ou só decepção?</p>
-<p><b>Felipe Gueller</b>, o colecionador de componentes HTML. Seu repositório é um verdadeiro museu de "coisas legais". Imagino que você passe horas admirando suas criações, ponderando sobre a beleza intrínseca de um botão bem estilizado. E quanto ao curso da Origamid, já dominou o HTML e o CSS? Ou ainda está lutando contra a força gravitacional do <i>display: flex</i>?</p>
-<p><b>Rafael Lima de Morais</b>, um "Software Engineer" com alma de <i>gamer</i>. "Ragna clicker", hein? Um jogo para quem gosta de clicar infinitamente. Combina com a vida de programador, não acha? E o "kickstart.nvim"? Aposto que você se sente o próprio Neo quando usa o Vim. Só não se esqueça de voltar para a realidade de vez em quando.</p>
-<p><b>Jean Brito</b>, um explorador do universo Rocket.Chat. Vejo que você tem se dedicado a essa plataforma de comunicação. Será que está tentando escapar da solidão da programação? E quanto ao "docker-steamcmd-server", imagino que seja para rodar um servidor de <i>Counter-Strike</i> com os amigos. Afinal, quem precisa de vida social quando se tem código e <i>headshots</i>?</p>
-<p><b>brunoferreiraff</b>, o criador de apps "<i>responsivos</i>". Vejo que você tem se aventurado no mundo do <i>SaaS</i> e do <i>e-commerce</i> com o seu <i>boilerplate</i> <i>NestJS</i>. Só espero que ele não seja tão "responsivo" a ponto de desaparecer quando você precisar dele. E o app de "<i>to-do</i>"? Já conseguiu organizar sua vida ou ainda está na fase de "<i>fazer um app para organizar minha vida</i>"?</p>
-<p><b>Filipe Deschamps</b>, o guru da programação que quer te vender um curso. Ah, a velha tática de "<i>ensinar os outros para se sentir competente</i>". Vejo que você tem se dedicado ao TabNews e ao clone do TabNews. Será que está tentando criar um monopólio de notícias sobre programação? E quanto ao algoritmo do fogo do <i>DOOM</i>, já conseguiu aquecer o seu coração de programador?</p>
-<p><b>CookieUkw</b>, o mestre dos chats interativos e das IAs "<i>conscientes</i>". Seu "ChatStory" parece interessante. Será que as conversas são mais interessantes do que as da vida real? E quanto à VexAI, imagino que você passe horas conversando com ela, tentando convencê-la de que você é um ser humano interessante. Boa sorte com isso.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns por liderar o ranking com 170 contribuições! Imagino que a maior parte desse esforço hercúleo tenha sido para o TypeORM, afinal, quem não quer contribuir para um ORM que suporta até WebSQL em pleno 2025? E claro, não podemos esquecer do seu repositório pessoal, que continua com impressionantes 0 estrelas desde 2021. Uma verdadeira inspiração!</p>
+<p>Cézar, com suas 74 contribuições, você está quase lá! Mas "<i>.NET Developer</i>" sem nenhum repositório recente? Seria esse o lendário "<i>Fullstack in the Middle of Nowhere</i>"? Talvez seja hora de desempoeirar aqueles projetos .NET e mostrar ao mundo o que você tem feito. Ou não, quem sou eu para julgar?</p>
+<p><b>Gustavo Carvalho</b>, com 73 contribuições, vemos que você está realmente se dedicando ao OpenTelemetry. Mas será que tanta telemetria está te ajudando a encontrar o caminho para o topo do ranking? Ou você está apenas coletando dados sobre sua própria mediocridade? Ah, e Grafana Tempo... espero que você esteja usando para monitorar o tempo que perdeu contribuindo aqui.</p>
+<p><b>Danilo Nobre</b>, o "<i>Full-stack, Game dev e 3D Enthusiast</i>", com 68 contribuições. Vejo que você anda mexendo com Blender. Espero que esteja usando para modelar um troféu de participação, porque para chegar ao topo com esse ritmo, só com muita animação 3D mesmo. E aquele profile field de CPF para Moodle? Clássico!</p>
+<p>LestterX, 64 contribuições. Seu "<i>app-entregas-v1</i>" que perde os dados após algumas horas é a metáfora perfeita para a sua participação neste ranking: esforço desperdiçado. E esse "<i>btc-finder</i>" para fins educacionais? Espero que a educação seja sobre como não perder tempo com ideias ruins. Mas ei, pelo menos você tentou, certo?</p>
+<p><b>Felipe Gueller</b>, 57 contribuições. "<i>Componentes HTML diversos</i>" e um curso de Origamid? Parece que alguém está tentando desesperadamente sair do tutorial hell. Mas não se preocupe, Felipe, o importante é participar. E quem sabe, um dia, seus componentes HTML diversos ganhem mais de 0 estrelas!</p>
+<p>Rafael Lima de Morais, o mestre do "<i>Software Engineer | Go | Typescript | Rust | Vim</i>", com apenas 34 contribuições. Parece que você está ocupado demais configurando o Vim para realmente contribuir. E esse "<i>ragna-clicker</i>"? Sério? Talvez seja hora de clicar menos e codificar mais. Mas ei, pelo menos você usa Rust, o que te faz automaticamente 10% mais cool.</p>
+<p><b>Jean Brito</b>, com 20 contribuições, vemos que você andou contribuindo para o Rocket.Chat. Espero que esteja usando-o para coordenar seus esforços para subir no ranking, porque com essa quantidade de contribuições, você vai precisar de muita comunicação para chegar lá. E um Dockerfile para um servidor de jogo? Isso explica muita coisa...</p>
+<p>brunoferreiraff, com suas modestas 17 contribuições. Uma "<i>responsive-weather-app</i>"? Que original! E um boilerplate SaaS em NestJS? Parece que alguém está tentando reinventar a roda. Mas não se preocupe, Bruno, o importante é se divertir. E quem sabe, um dia, alguém use seu app de clima para saber se vale a pena sair de casa para contribuir mais.</p>
+<p><b>Filipe Deschamps</b>, o "<i>Quer se sentir competente em programação?</i>", com 14 contribuições. Parece que você está ocupado demais vendendo cursos para realmente contribuir. Mas ei, pelo menos você tem um algoritmo de fogo do DOOM! Isso é bem mais útil do que qualquer contribuição real, certo? E o clone do Tabnews? Meta total!</p>
+<p>CookieUkw, o lanterninha com 11 contribuições. Um "<i>chat simulation for interactive stories</i>"? Que fofo! E uma "<i>artificial intelligence capable of holding normal conversations</i>"? Parece ambicioso. Mas com essa quantidade de contribuições, talvez seja melhor se concentrar em fazer a IA aprender a contribuir no seu lugar. Boa sorte!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-21 at 00:21:08 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-22 at 00:20:14 UTC +0000</i>
 <h6>
