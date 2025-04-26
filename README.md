@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>187 ctr.</td>
+                <td>200 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>160 ctr.</td>
+                <td>164 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>110 ctr.</td>
+                <td>124 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>83 ctr.</td>
+                <td>89 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>71 ctr.</td>
+                <td>87 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>38 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o número 1, hein? "Apaixonado por tecnologia", diz a bio. Que nem todo mundo, né? Ainda bem que você contribuiu com TypeORM, porque o seu próprio repositório... bem, digamos que a paixão não se traduziu em estrelas. Mas ei, pelo menos você mexeu no middleware de autenticação em janeiro. Sinal de que a segurança ainda te preocupa. Ou será que é só para manter o emprego?</p>
-<p><b>TopTrenDev</b>, especialista em blockchain, Solana e NFTs. Que original! Vejo que você está criando bots de negociação e "bundlers" para PumpFun. Espero que você esteja do lado certo dessas transações, porque se depender da sua descrição no GitHub, a gente já sabe que você está de olho em cada pump e dump. E "AI Agents" para Solana? Sério? Pelo menos está mantendo a blockchain aquecida, mesmo que seja com esquemas duvidosos.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informação, parabéns! Mas seus "componentes HTML diversos" não parecem impressionar muita gente, a julgar pelas estrelas. E um curso de HTML, CSS e JavaScript do Origamid? Em 2024? Espero que você já tenha passado dessa fase, a não ser que esteja planejando construir um site com frames e tabelas. Sem ofensas.</p>
-<p><b>Cézar</b>, .NET Developer. Sua bio é concisa, assim como suas contribuições este mês. Mas hey, .NET ainda paga as contas, certo? Ou será que você está só esperando a IA dominar tudo para poder finalmente tirar umas férias? A gente entende, a vida de dev não é fácil.</p>
-<p><b>Gustavo Carvalho</b>, "Interessado no conhecimento e soluções". Que frase inspiradora! E contribuições para OpenTelemetry e Grafana Tempo? Impressionante! Parece que alguém está realmente se importando com a observabilidade e o rastreamento distribuído. Ou será que você só está tentando impressionar o chefe para conseguir uma promoção? Não que a gente te julgue, todos nós temos contas para pagar.</p>
-<p><b>LestterX</b>, sem bio, sem problemas! Vejo que você tem uma "app-entregas-v1" que some depois de algumas horas. Que nem a maioria das startups, aliás. E um "btc-finder" para fins educacionais? Espero que você não esteja gastando muita eletricidade com isso. Mas ei, pelo menos você está explorando diferentes áreas, desde gerenciamento de entregas até a busca por bitcoins. Diversificação é a chave, certo?</p>
-<p><b>Danilo Nobre</b>, full-stack, game dev e entusiasta de 3D. Um verdadeiro artista! Mas vamos ser sinceros, um addon para Blender para animação cutout? Isso existe? E um site para Space Wizard Studios? Espero que eles estejam pagando bem, porque a concorrência no mundo dos jogos é cruel. Mas ei, pelo menos você está tentando unir suas paixões. Quem sabe um dia você não cria o próximo grande sucesso indie?</p>
-<p><b>Felipe</b>, "REPOSITÓRIO". Que nome original! Vejo que você tem um repositório chamado "Adamas". Soou bem genérico, hein? E um curso de SQL? Em 2024? Sério? Espero que você já esteja dominando pelo menos o básico, a não ser que esteja planejando uma carreira como digitador de dados. Mas ei, pelo menos você está aprendendo coisas novas. Ou tentando.</p>
-<p><b>Rafael Lima de Morais</b>, engenheiro de software, Go, Typescript, Rust e Vim. Um verdadeiro poliglota! Mas um "ragna-clicker"? Sério? E um "kickstart.nvim" que é um fork? Parece que alguém está tentando reinventar a roda. Mas ei, pelo menos você está se divertindo. Ou tentando justificar o tempo gasto com Vim.</p>
-<p><b>Jean Brito</b>, sem bio, sem julgamentos. Contribuições para Rocket.Chat? Legal, imagino que você goste de conversar. Mas um "docker-steamcmd-server" que é um fork? Espero que você esteja usando para algo produtivo, como hospedar um servidor de Minecraft para seus amigos. Mas ei, pelo menos você está usando Docker. Ou tentando.</p>
-<p><b>Luidi Pires</b>, Front-End, Back-End, Full Stack. O famoso "faz tudo". Um portfólio? Que bom, todo mundo precisa de um. Mas "Pixels-Art" e "E-CommerceX"? Os nomes podiam ser um pouco mais criativos, hein? Mas ei, pelo menos você está mostrando suas habilidades. Ou tentando.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, "apaixonado por tecnologia", que contribui para TypeORM. Que romântico. Imagino que passar horas configurando ORM's complexos te deixa *realmente* realizado. E seu próprio repositório com seu nome? Tão... original. Quase tão original quanto a descrição "passionate about technology."</p>
+<p><b>TopTrenDev</b>, o especialista em blockchain que nos salva com seus bots de negociação em Solana. Ainda bem que temos você para criar mais ferramentas para especulação desenfreada, porque o mundo realmente precisava disso. E com nomes tão criativos como "pumpfun-bundler", fica claro o nível de sofisticação aqui.</p>
+<p><b>Felipe Gueller</b>, o mestre dos "componentes HTML diversos". Que generosidade a sua em compartilhar esses tesouros conosco. E ainda está aprendendo HTML, CSS e Javascript no curso do ORIGAMID. Daqui a pouco você chega lá, Felipe, continue praticando. Talvez um dia você crie algo que vá além de "legal".</p>
+<p><b>Cézar</b>, um desenvolvedor .NET. Parabéns. Suas contribuições são tão... inexistentes que mal consigo comentar. Espero que esteja se divertindo no limbo das estatísticas.</p>
+<p><b>Gustavo Carvalho</b>, o intrépido explorador do OpenTelemetry. É tão inspirador ver alguém se dedicar tanto a telemetria. E 4412 estrelas no Grafana Tempo? Impressionante! Aposto que você adora rastrear cada milissegundo da sua existência, só para ter certeza de que está otimizando seu tempo... ou não.</p>
+<p><b>LestterX</b>, o misterioso. Um bocado de repositórios com dados não persistentes e buscadores de bitcoin "para fins educacionais". Quanta filantropia! Mas não se preocupe, LestterX, ninguém espera que você encontre a próxima grande inovação. Afinal, "hydra" é um fork, não é mesmo?</p>
+<p><b>Danilo Nobre</b>, o mago do full-stack, game dev e entusiasta de 3D. Que combinação peculiar. Contribuindo em um addon para Blender, isso sim é diversão. Mas, sério, um site de apresentação da Space Wizard Studios? Espero que os jogos sejam mais impressionantes que o site, porque o nome já eleva as expectativas.</p>
+<p><b>Felipe</b>, o repositório "REPOSITÓRIO" é a epítome da auto-descoberta. "Adamas" com Dockerfile e Go... intrigante. E "calamidade" é um fork com Objective-C e Kotlin. Um verdadeiro mestre das gambiarras. Mas não se preocupe, Felipe, pelo menos você tem um repositório com seu nome. Isso é algo, certo?</p>
+<p><b>Rafael Lima de Morais</b>, o guru do Go, Typescript, Rust e Vim. "Ragna clicker"? Sério? E ainda por cima contribui para um plugin Tailwind CSS para animações. Imagino que sua vida seja uma montanha-russa de emoções. Espero que você encontre um propósito maior do que "Ragna clicker" algum dia.</p>
+<p><b>Jean Brito</b>, um colaborador do Rocket.Chat. Que nobre causa. Mas, ei, pelo menos você tem um Dockerfile para instalar servidores de jogos. Prioridades, certo? Contanto que você esteja se divertindo, Jean, quem se importa com o resto?</p>
+<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". Seu repositório com seu nome é... um clássico. E-CommerceX? Tão original quanto o nome. Mas ei, pelo menos você tem um portfólio. Continue assim, quem sabe um dia você chega lá.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-25 at 00:20:30 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-26 at 00:19:23 UTC +0000</i>
 <h6>
