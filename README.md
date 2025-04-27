@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>200 ctr.</td>
+                <td>207 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>164 ctr.</td>
+                <td>165 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>20 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>21 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, "apaixonado por tecnologia", que contribui para TypeORM. Que romântico. Imagino que passar horas configurando ORM's complexos te deixa *realmente* realizado. E seu próprio repositório com seu nome? Tão... original. Quase tão original quanto a descrição "passionate about technology."</p>
-<p><b>TopTrenDev</b>, o especialista em blockchain que nos salva com seus bots de negociação em Solana. Ainda bem que temos você para criar mais ferramentas para especulação desenfreada, porque o mundo realmente precisava disso. E com nomes tão criativos como "pumpfun-bundler", fica claro o nível de sofisticação aqui.</p>
-<p><b>Felipe Gueller</b>, o mestre dos "componentes HTML diversos". Que generosidade a sua em compartilhar esses tesouros conosco. E ainda está aprendendo HTML, CSS e Javascript no curso do ORIGAMID. Daqui a pouco você chega lá, Felipe, continue praticando. Talvez um dia você crie algo que vá além de "legal".</p>
-<p><b>Cézar</b>, um desenvolvedor .NET. Parabéns. Suas contribuições são tão... inexistentes que mal consigo comentar. Espero que esteja se divertindo no limbo das estatísticas.</p>
-<p><b>Gustavo Carvalho</b>, o intrépido explorador do OpenTelemetry. É tão inspirador ver alguém se dedicar tanto a telemetria. E 4412 estrelas no Grafana Tempo? Impressionante! Aposto que você adora rastrear cada milissegundo da sua existência, só para ter certeza de que está otimizando seu tempo... ou não.</p>
-<p><b>LestterX</b>, o misterioso. Um bocado de repositórios com dados não persistentes e buscadores de bitcoin "para fins educacionais". Quanta filantropia! Mas não se preocupe, LestterX, ninguém espera que você encontre a próxima grande inovação. Afinal, "hydra" é um fork, não é mesmo?</p>
-<p><b>Danilo Nobre</b>, o mago do full-stack, game dev e entusiasta de 3D. Que combinação peculiar. Contribuindo em um addon para Blender, isso sim é diversão. Mas, sério, um site de apresentação da Space Wizard Studios? Espero que os jogos sejam mais impressionantes que o site, porque o nome já eleva as expectativas.</p>
-<p><b>Felipe</b>, o repositório "REPOSITÓRIO" é a epítome da auto-descoberta. "Adamas" com Dockerfile e Go... intrigante. E "calamidade" é um fork com Objective-C e Kotlin. Um verdadeiro mestre das gambiarras. Mas não se preocupe, Felipe, pelo menos você tem um repositório com seu nome. Isso é algo, certo?</p>
-<p><b>Rafael Lima de Morais</b>, o guru do Go, Typescript, Rust e Vim. "Ragna clicker"? Sério? E ainda por cima contribui para um plugin Tailwind CSS para animações. Imagino que sua vida seja uma montanha-russa de emoções. Espero que você encontre um propósito maior do que "Ragna clicker" algum dia.</p>
-<p><b>Jean Brito</b>, um colaborador do Rocket.Chat. Que nobre causa. Mas, ei, pelo menos você tem um Dockerfile para instalar servidores de jogos. Prioridades, certo? Contanto que você esteja se divertindo, Jean, quem se importa com o resto?</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". Seu repositório com seu nome é... um clássico. E-CommerceX? Tão original quanto o nome. Mas ei, pelo menos você tem um portfólio. Continue assim, quem sabe um dia você chega lá.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 207 contribuições. Imagino que a maior parte disso seja formatar o código com prettier, já que seu repositório pessoal não vê uma atualização desde maio do ano passado. Mas ei, pelo menos você mexe em algo, né?</p>
+<p><b>TopTrenDev</b>, especialista em blockchain, Solana e... bots de pump and dump? Que visão de futuro! Com 165 contribuições, você está quase lá. Só não esqueça de declarar no imposto de renda, hein?</p>
+<p><b>Felipe Gueller</b>, com 124 contribuições. Seus "componentes HTML diversos" devem ser realmente diversos, já que o repositório não é atualizado desde agosto de 2024. Mas relaxa, o importante é ter um lugar para guardar, mesmo que ninguém use.</p>
+<p><b>Cézar</b>, um misterioso .NET Developer com 101 contribuições. Sem atividade recente em nenhum repositório público. Seria você um fantasma que programa em segredo? Ou será que suas contribuições estão trancadas a sete chaves em algum projeto ultra-secreto?</p>
+<p><b>Gustavo Carvalho</b>, o evangelista do OpenTelemetry, com 89 contribuições. Ao menos você está contribuindo para projetos relevantes. Mas será que toda essa telemetria está te ajudando a entender o que você está fazendo?</p>
+<p><b>LestterX</b>, com 87 contribuições. Um misto de tudo um pouco: app de entregas que não persiste dados (ótima ideia!), um "btc-finder" (sério?) e um fork de um launcher de jogos. Diversidade é tudo, não é mesmo?</p>
+<p><b>Danilo Nobre</b>, o 3D Enthusiast, com 68 contribuições. Entre um jogo e outro, ainda sobra tempo para contribuir com a comunidade. Mas será que suas contribuições em 3D são tão impressionantes quanto sua descrição?</p>
+<p><b>Felipe</b>, com 54 contribuições. Um repositório com o próprio nome e descrição "REPOSITÓRIO" diz tudo. Pelo menos você é direto ao ponto. E ainda tem um curso de SQL, quem sabe um dia você descubra o que fazer com ele.</p>
+<p><b>Rafael Lima de Morais</b>, o ninja do Vim, com 34 contribuições. Go, Typescript, Rust... parece que você gosta de colecionar tecnologias. Mas será que você realmente domina alguma delas, ou só está pulando de galho em galho?</p>
+<p><b>Luídi Pires</b>, o "Full Stack" (com aspas imaginárias), com 21 contribuições. Um portfólio desatualizado e um "E-CommerceX" que viu a luz do dia pela última vez em outubro de 2024. Talvez seja hora de dar um <i>up</i> nas suas habilidades, não acha?</p>
+<p><b>Jean Brito</b>, o lanterninha com 20 contribuições. Contribuições em projetos grandes como Rocket.Chat e um "detect-browsers" que provavelmente já está obsoleto. Que tal focar em algo mais relevante para o futuro?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-26 at 00:19:23 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-27 at 00:21:44 UTC +0000</i>
 <h6>
