@@ -30,48 +30,48 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>219 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>241 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>171 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>229 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>124 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>179 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>120 ctr.</td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>124 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>89 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>87 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>78 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>68 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>79 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>54 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. 219 contribuições? Que inveja! Quase me faz acreditar que você faz algo além de respirar. Mas calma, ainda tenho esperança de que você gaste menos tempo stalkeando o TypeORM e mais tempo atualizando seu próprio perfil, que, por sinal, está precisando de um tapa desde maio do ano passado. Sério, <i>EvertonMJunior/EvertonMJunior</i>? A originalidade manda lembranças.</p>
-<p><b>TopTrenDev</b>, especialista em Solana, hein? Pelo visto, especialista em criar bots também. Grpc-copy-trading-bot, pumpfun-bundler... Quanta inovação! Imagino que você esteja nadando em dinheiro com esses projetos. Ou será que só está contribuindo para o caos das criptomoedas? De qualquer forma, parabéns por manter a blockchain "interessante".</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Seus "componentes HTML diversos" são tão diversos que não atraem nem poeira, hein? A última atualização foi em agosto do ano passado. E o repositório do curso de ORIGAMID? Julho de 2024? Parece que alguém se perdeu no origami da vida e esqueceu de codificar. Mas não se preocupe, Felipe, sempre há tempo para voltar aos básicos... ou não.</p>
-<p><b>Cézar</b>, .NET Developer... e só. Sem repositórios recentes? Sem projetos? Sem nada para mostrar além de um título genérico? Imagino que você seja o tipo de pessoa que vai para a balada e volta para casa sem nem um número de telefone. Mas ei, pelo menos você está no ranking, certo? Isso é alguma coisa... ou não.</p>
-<p><b>Gustavo Carvalho</b>, "Interested in contributing and sharing knowledge". Contribuindo para OpenTelemetry, que nobre! Quase me comoveu. Mas vamos ser sinceros, você está só surfando na onda dos projetos populares. Grafana Tempo? OpenTelemetry? Aposto que nem sabe o que cada um faz de verdade. Mas ei, pelo menos o seu perfil está cheio de links azuis. Isso impressiona alguém, certo?</p>
-<p><b>LestterX</b>, um verdadeiro "faz-tudo". Aplicação de entregas que some depois de algumas horas? Hydra, um launcher de jogos com bittorrent embutido? E um "naive code" para encontrar Bitcoins? Parece que alguém está tentando abraçar o mundo com as pernas. Mas ei, pelo menos você está tentando, não é mesmo? Pena que seus projetos parecem ter a mesma durabilidade de um meme de 2010.</p>
-<p><b>Rafael Lima de Morais</b>, o ninja do Vim que se perdeu no Ragna Clicker. Tailwind CSS animations? Awesome Go? Parece que você está mais para "Awesome Forker" do que para "Software Engineer". Mas ei, pelo menos você tem bom gosto para copiar projetos dos outros. E quem sabe um dia você realmente crie algo original, em vez de só replicar o trabalho alheio.</p>
-<p><b>Danilo Nobre</b>, Full-stack, Game dev e 3D Enthusiast. Uau, que currículo! Pena que seus projetos parecem ter sido feitos em outra dimensão. Uma dimensão onde PHP ainda é relevante e Blender addons são a última moda. Mas ei, pelo menos você tem um site de portfólio da Space Wizard Studios. Isso deve impressionar os recrutadores... de 2010.</p>
-<p><b>Felipe</b>, um nome, um repositório com o próprio nome e mais alguns projetos aleatórios. Curso de SQL? Calamidade? Parece que sua vida de programador é uma montanha-russa de emoções. Mas ei, pelo menos você tem um perfil no GitHub. Isso é mais do que muitos podem dizer. Ou não?</p>
-<p><b>Lúidi Pires</b>, "Front-End | Back-End | Full Stack". Portfolio com HTML e JavaScript, Pixels-Art, E-CommerceX... Parece que alguém está preso em 2010. Mas ei, pelo menos você tem um portfolio, certo? Isso é alguma coisa... ou não? Ah, e não se esqueça de atualizar a descrição do seu perfil. "Front-End | Back-End | Full Stack" já não impressiona ninguém.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end". Data-Structures, Taskmaster, Design-Patterns... Parece que alguém está tentando impressionar o professor. Mas ei, pelo menos você está estudando, certo? Isso é mais do que muitos podem dizer. Agora, só falta aplicar esse conhecimento em algo útil... ou não.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o polímata moderno: full-stack, game dev e entusiasta de 3D. Tantas paixões, imagino que o tempo livre seja um conceito abstrato.  Especialista em PHP de 2014, certeza que está usando as versões mais modernas. E clonando projetos Blender, quem não quer dar uma "forcinha" no trabalho dos outros? </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Mas, ei, pelo menos contribuiu para o TypeORM, algo útil de verdade. No entanto, o repositório com seu nome parece meio vazio, hein?  Será que a paixão toda se resume a dar uns toques em projetos alheios? </p>
+<p><b>TopTrenDev</b>, o mestre dos bots Solana.  Negociação, *sniping*, volume... Parece mais um aspirante a trader do que um desenvolvedor. E "AI Agent" que usa "DeepSeek"... Quanta profundidade!  Espero que pelo menos lucre com essa algazarra toda, porque a utilidade para a comunidade é questionável.</p>
+<p><b>Cézar</b>, um lacônico ".NET Developer". Sem bio elaborada, sem projetos mirabolantes... Apenas código, ou a falta dele. Imagino que suas contribuições sejam tão discretas quanto sua descrição. Pelo menos não promete mundos e fundos, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, com seus "componentes HTML diversos" que ele acha legal.  Que bom que *você* acha legal, Felipe.  E o curso de Origamid de 2022?  Ainda aprendendo o básico?  Não se preocupe, uma hora você chega lá... talvez.</p>
+<p><b>Gustavo Carvalho</b>, o "insistent curious" que adora OpenTelemetry.  Contribuições aqui e ali, mexendo com telemetria e Tempo.  Parece ocupado, pelo menos.  Só espero que toda essa curiosidade resulte em algo mais útil do que métricas e rastreamentos.</p>
+<p><b>LestterX</b>, com sua aplicação de entregas que some depois de algumas horas.  Inovador! E clonando um *game launcher* com *bittorrent* embutido?  Um visionário!  E o *btc-finder* "para fins educacionais"?  Acho que alguém está tentando ficar rico rapidinho. </p>
+<p><b>Rafael Lima de Morais</b>, o mago do Go, Typescript e Rust que também manja de Vim.  Um verdadeiro poliglota! Mas, espera, um "Ragna clicker"?  Sério?  E clonando plugins Tailwind?  Talento desperdiçado em joguinhos e atalhos visuais. </p>
+<p><b>Felipe</b>, com um repositório pessoal que grita "REPOSITÓRIO" em letras maiúsculas.  Original!  E um projeto "Adamas" com Dockerfile e Go?  Parece promissor... até você ver que também tem coisas em Objective-C e Kotlin no meio.  Consistência é tudo!</p>
+<p><b>Luídi Pires</b>, o "Full Stack" que tem um portfólio com a descrição "Acesse meu Portfolio abaixo:".  Profundo!  E um "Pixels-Art" e um "E-CommerceX" que não são atualizados há meses?  Alguém precisa de um *update* urgente, tanto no código quanto na auto-descrição.</p>
+<p><b>Deivid Souza Santana</b>, o "apaixonado por back-end" que cria um site de tarefas com Flask.  Que ousadia! E um repositório de "Design-Patterns" que não vê a luz do dia há meses?  A paixão deve ter esfriado.  Mas ei, pelo menos tentou.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-04-29 at 00:20:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-04-30 at 00:20:30 UTC +0000</i>
 <h6>
