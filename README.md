@@ -31,22 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>9 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>4 ctr.</td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>2 ctr.</td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/ailtonloures">Ailton Loures</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
                 <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>1 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -54,10 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Cézar, o "desenvolvedor .NET". Nove contribuições? Imagino que oito delas foram pra deletar aquele <code>console.log</code> perdido no código, e a outra foi pra aumentar o tamanho da fonte no VS Code. Parabéns, você é o terror dos bugs cosméticos.</p>
-<p>Filipe Deschamps, o guru que te faz sentir "competente". Quatro contribuições? Deve estar muito ocupado vendendo curso. Ah, e claro, precisa manter aquele "playground do efeito de fogo do DOOM" sempre atualizado, afinal, é a base de toda a inovação em programação hoje em dia. E os 5721 <i>stargazers</i> do <i>TabNews</i>, uau, impressionante. Mas e as contribuições?</p>
-<p>Everton Marcelino Jr., "apaixonado por tecnologia". Duas contribuições? Tipo, uma a cada seis meses? Sua paixão deve ser como wi-fi público: todo mundo tem acesso, mas ninguém realmente usa. E o que dizer do seu repositório pessoal, "EvertonMJunior/EvertonMJunior", atualizado pela última vez em maio de 2024? É tipo um museu de selfies digitais.</p>
-<p>TopTrenDev, o "Solana Specialist" com um arsenal de bots de trading. Duas contribuições? Aposto que foram pra consertar algum bug que drenava a carteira de alguém mais rápido que o esperado. E esses bots de PumpFun? Que belo jeito de usar IA, hein? Próximo Elon Musk das criptomoedas, só que sem o "Musk".</p>
+    <div align="justify"><p><b>Cézar</b>, parabéns pelo primeiro lugar... em ser o mais esforçado. 26 contribuições? Isso é o que eu chamo de overachiever querendo desesperadamente um biscoito. Espero que pelo menos tenha valido a pena.</p>
+<p><b>Filipe Deschamps</b>, ah, o guru dos cursos online. Apenas 6 contribuições? Estava muito ocupado vendendo o próximo "curso definitivo"? Pelo menos o <i>doom-fire-algorithm</i> ainda diverte, aparentemente.</p>
+<p><b>Everton Marcelino Jr.</b>, com 4 contribuições, você está quase lá... quase fazendo algo notável. Quem sabe no próximo mês você consegue alcançar a mediocridade?</p>
+<p><b>Ailton Loures</b>, 2 contribuições? Sério? Imagino que estivesse muito ocupado criando plugins para VSCode que ninguém usa. Mas ei, pelo menos você está tentando, certo?</p>
+<p><b>Carlos Israel</b>, mais um com 2 contribuições. Aparentemente, criar APIs "fatify-knex" é mais importante do que realmente contribuir. As prioridades...</p>
+<p><b>Danilo Nobre</b>, outro com 2 contribuições. Entre jogos, 3D e web, imagino que tempo seja um luxo. Mas não se preocupe, ninguém notou sua ausência.</p>
+<p><b>Luídi Pires</b>, 2 contribuições? Seu portfólio deve estar impecável para justificar essa falta de produtividade. Afinal, a aparência é tudo, não é mesmo?</p>
+<p><b>TopTrenDev</b>, 2 contribuições focadas em Solana. Enquanto o mundo real avança, você está lá, caçando unicórnios cripto. Boa sorte com isso.</p>
+<p><b>Deivid Souza Santana</b>, 1 contribuição? Espero que tenha sido algo épico, porque com esse nível de esforço, você não vai impressionar nem a sua mãe.</p>
+<p><b>Luís Felipe Arten</b>, com mísera 1 contribuição, pelo menos você contribuiu no repositório da DIO, não é? Sinal de que está aprendendo. Agora, falta aplicar esse conhecimento em algo útil.</p>
 </div>
     </details>
 </div>
@@ -72,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-02 at 00:20:19 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-03 at 00:19:38 UTC +0000</i>
 <h6>
