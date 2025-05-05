@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>29 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>14 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pelo primeiro lugar! 29 contribuições! Imagino que a paixão por back-end te impulsione a criar... repositórios sobre si mesmo. Impressionante a dedicação em criar um site pessoal, mas me pergunto se ele realmente precisava de um repositório próprio. Ah, e "Data-Structures" em Python? Que original! Pelo menos o Taskmaster tem 2 estrelas, alguém achou útil. Mas será que você realmente usou todos aqueles Design Patterns que você estudou?</p>
-<p><b>Cézar</b>, um glorioso segundo lugar com 26 contribuições. Um verdadeiro mestre .NET! Uma pena que sua atividade recente seja... inexistente. O que será que você anda aprontando? Projetos tão secretos que nem o GitHub pode saber? Ou será que você está apenas esperando a poeira baixar para mostrar a todos o seu verdadeiro potencial?</p>
-<p><b>Danilo Nobre</b>, ah, o Full-stack Game dev 3D Enthusiast! 14 contribuições, nada mal. Contribuições em um fork de um addon de Blender para animação cutout? Interessante... Mas e os seus próprios projetos? Ah, o site da Space Wizard Studios! Pelo menos está atualizado até ontem, 3 de maio. Imagino que você esteja ocupado demais criando mundos virtuais para se preocupar com rankings. Mas ei, pelo menos você está fazendo algo, diferente de alguns outros por aqui.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio. 7 contribuições, ok. Contribuiu para o TypeORM, um projeto com mais de 35 mil estrelas! Que audácia! Será que você ao menos arrumou uma vírgula? Ah, e o seu repositório pessoal, "EvertonMJunior", com atualização em maio de 2024. Imagino que a paixão pela tecnologia não se estenda a atualizar o próprio perfil, certo?</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! 6 contribuições, hein? Imagino que a maior parte do seu tempo seja gasto criando conteúdo para o seu curso, em vez de realmente codificar. Mas ei, pelo menos o seu "doom-fire-algorithm" ainda está chamando a atenção, atualizado até ontem, 2 de maio. Afinal, quem não gosta de um bom fogo de pixel?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". 3 contribuições? Que decepção! Especialista em Solana, Bitcoin, Ethereum... mas mal consegue contribuir para este ranking. Vejo ali uns bots de trading e pumpfun. Espero que você esteja ganhando mais dinheiro com isso do que contribuindo aqui, porque com 3 contribuições, você não vai chegar a lugar nenhum. Pelo menos os bots estão atualizados, sinal de que alguém está ganhando dinheiro.</p>
-<p><b>Ailton Loures</b>, "Software Engineer". Apenas 2 contribuições? Sério? Vejo que você tem um utilitário para salvar seus projetos favoritos no VSCode. Talvez você devesse usá-lo mais para realmente *fazer* projetos, em vez de apenas marcá-los. Ah, e o "git-master-plugin"? Parece interessante, mas será que ele te ajuda a contribuir mais?</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro com apenas 2 contribuições. Imagino que a paixão pela tecnologia seja seletiva, né? "challenge-nodejs", "api-fatify-knex", "simulation-api-gympass"... Parece que você gosta de criar APIs. Mas será que você realmente as usa para algo útil, ou são apenas mais projetos esquecidos no GitHub?</p>
-<p><b>Luidi Pires</b>, "Front-End | Back-End | Full Stack". Mais um com míseras 2 contribuições. Um portfólio atualizado até ontem, 2 de maio? Que dedicação! Mas e o resto? "Pixels-Art", "E-CommerceX"... Parece que você está preso em 2023. Talvez seja hora de sair da zona de conforto e realmente contribuir com algo relevante, em vez de apenas mostrar o que você já fez.</p>
-<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack | Learning and creating cool (or boring) things (almost) every day". Ah, a honestidade é um dom! Apenas 1 contribuição? Uau! Pelo menos você contribuiu para o "dio-lab-open-source", um repositório com mais de 7 mil estrelas. Parabéns, você fez o mínimo! E o resto dos seus projetos? "WhyApp"? Parece interessante, mas está parado desde julho de 2024. Talvez você devesse se concentrar em terminar algo antes de começar outra coisa.</p>
-<p><b>kromodoro</b>, sem bio, sem expectativas. 1 contribuição. Aparentemente, você está digitalizando um livro sobre PERT. Que nobre! Mas será que isso te torna um desenvolvedor melhor? Ou apenas um bibliotecário digital? De qualquer forma, parabéns pela contribuição. Pelo menos você fez algo, diferente de alguns outros que nem isso conseguiram.</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, 34 contribuições? Isso é o máximo que você consegue? Pelo menos você tem um website de organização de tarefas com 2 estrelas, quem sabe um dia chega a 3. E cuidado com os padrões de projeto, não vá se perder neles.</p>
+<p><b>Cézar</b>, .NET Developer e 26 contribuições. Espero que pelo menos metade disso seja em código que realmente funciona. Ou você é do tipo que só comenta o código dos outros?</p>
+<p><b>Danilo Nobre</b>, com 16 contribuições e envolvido com "experiências web & game com um toque de 3D". Só não vá se perder na terceira dimensão e esquecer de contribuir mais, hein? Ah, e parabéns pelo fork de 2020, impressionante como você mantém ele atualizado.</p>
+<p><b>Everton Marcelino Jr.</b>, 7 contribuições... Uau, que esforço! Mas ei, pelo menos você contribuiu para um projeto com mais de 35 mil estrelas. Aposto que seu nome está bem pequeno lá no meio, quase invisível.</p>
+<p><b>Filipe Deschamps</b>, apenas 6 contribuições? Achei que você estivesse muito ocupado ensinando os outros a serem competentes em programação para realmente programar alguma coisa. Pelo menos seu algoritmo de fogo do DOOM ainda queima, mesmo depois de tantos anos.</p>
+<p><b>TopTrenDev</b>, 3 contribuições e especialista em Solana. Parece que alguém está mais interessado em pumpfun do que em contribuir de verdade. Mas ei, pelo menos você tem um bot para cada ocasião, não é mesmo?</p>
+<p><b>Ailton Loures</b>, míseras 2 contribuições? Espero que você esteja usando sua "ferramenta essencial para impulsionar seu Git Workflow" para pelo menos justificar essa falta de atividade. E que tal dar uma olhada naquele desafio front-end de 2024, quem sabe sai algo útil?</p>
+<p><b>Carlos Israel</b>, 2 contribuições? Sério? Com tanta paixão por tecnologia, imaginei que estaria inundando o GitHub com código. Mas ei, pelo menos você tem várias APIs "fatify-knex", talvez devesse engordar suas contribuições também.</p>
+<p><b>Lúidi Pires</b>, 2 contribuições e "Front-End | Back-End | Full Stack". Aparentemente, você é bom em tudo, menos em contribuir. Mas não se preocupe, seu portfólio está lá, brilhando... com JavaScript e HTML.</p>
+<p><b>kromodoro</b>, 2 contribuições e digitalizando livros sobre PERT. Enquanto isso, o mundo da programação avança a passos largos. Mas ei, pelo menos você está contribuindo para a história, mesmo que seja digitalizada.</p>
+<p><b>Jean Brito</b>, 1 contribuição. Uau, que dedicação! Contribuiu para um projeto gigante, parabéns por encontrar uma linha para mudar. Quem sabe no próximo mês você consiga duas?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-04 at 00:22:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-05 at 00:21:47 UTC +0000</i>
 <h6>
