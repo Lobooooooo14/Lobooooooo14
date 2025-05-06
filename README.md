@@ -30,52 +30,52 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>53 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>34 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>26 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>16 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>7 ctr.</td>
+                <td>14 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/ailtonloures">Ailton Loures</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>2 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, 34 contribuições? Isso é o máximo que você consegue? Pelo menos você tem um website de organização de tarefas com 2 estrelas, quem sabe um dia chega a 3. E cuidado com os padrões de projeto, não vá se perder neles.</p>
-<p><b>Cézar</b>, .NET Developer e 26 contribuições. Espero que pelo menos metade disso seja em código que realmente funciona. Ou você é do tipo que só comenta o código dos outros?</p>
-<p><b>Danilo Nobre</b>, com 16 contribuições e envolvido com "experiências web & game com um toque de 3D". Só não vá se perder na terceira dimensão e esquecer de contribuir mais, hein? Ah, e parabéns pelo fork de 2020, impressionante como você mantém ele atualizado.</p>
-<p><b>Everton Marcelino Jr.</b>, 7 contribuições... Uau, que esforço! Mas ei, pelo menos você contribuiu para um projeto com mais de 35 mil estrelas. Aposto que seu nome está bem pequeno lá no meio, quase invisível.</p>
-<p><b>Filipe Deschamps</b>, apenas 6 contribuições? Achei que você estivesse muito ocupado ensinando os outros a serem competentes em programação para realmente programar alguma coisa. Pelo menos seu algoritmo de fogo do DOOM ainda queima, mesmo depois de tantos anos.</p>
-<p><b>TopTrenDev</b>, 3 contribuições e especialista em Solana. Parece que alguém está mais interessado em pumpfun do que em contribuir de verdade. Mas ei, pelo menos você tem um bot para cada ocasião, não é mesmo?</p>
-<p><b>Ailton Loures</b>, míseras 2 contribuições? Espero que você esteja usando sua "ferramenta essencial para impulsionar seu Git Workflow" para pelo menos justificar essa falta de atividade. E que tal dar uma olhada naquele desafio front-end de 2024, quem sabe sai algo útil?</p>
-<p><b>Carlos Israel</b>, 2 contribuições? Sério? Com tanta paixão por tecnologia, imaginei que estaria inundando o GitHub com código. Mas ei, pelo menos você tem várias APIs "fatify-knex", talvez devesse engordar suas contribuições também.</p>
-<p><b>Lúidi Pires</b>, 2 contribuições e "Front-End | Back-End | Full Stack". Aparentemente, você é bom em tudo, menos em contribuir. Mas não se preocupe, seu portfólio está lá, brilhando... com JavaScript e HTML.</p>
-<p><b>kromodoro</b>, 2 contribuições e digitalizando livros sobre PERT. Enquanto isso, o mundo da programação avança a passos largos. Mas ei, pelo menos você está contribuindo para a história, mesmo que seja digitalizada.</p>
-<p><b>Jean Brito</b>, 1 contribuição. Uau, que dedicação! Contribuiu para um projeto gigante, parabéns por encontrar uma linha para mudar. Quem sabe no próximo mês você consiga duas?</p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão da mediocridade! 53 contribuições, parabéns! Aposto que foram 53 commits corrigindo ponto e vírgula, ou talvez formatando JSON. Mas ei, pelo menos você lidera, mesmo que seja na arte de não fazer nada de realmente impressionante.</p>
+<p><b>Deivid Souza Santana</b>, o "apaixonado por back-end". Que fofo. Tão apaixonado que seus repositórios parecem mais apaixonados por poeira do que por contribuições. Mas ei, pelo menos você tem um "Taskmaster" com 2 estrelas! Imagino que essas estrelas sejam de você mesmo e da sua mãe.</p>
+<p><b>Danilo Nobre</b>, o artista 3D que se perdeu no meio do caminho. Contribuições? Ah, sim, você fez um <i>fork</i> de um projeto Blender de 2020. Que audácia! E ainda tem um site da "Space Wizard Studios". Espero que a magia deles seja te ajudar a aumentar esse número de contribuições, porque até agora, a única coisa mágica aqui é como você consegue se manter relevante com tão pouco.</p>
+<p><b>Everton Marcelino Jr.</b>, o cara que contribui para o TypeORM. Que legal, você ajuda a manter uma biblioteca gigante funcionando. Mas e seus próprios projetos? Ah, sim, aquele repositório com seu nome. Original. E as outras contribuições? Um middleware de autenticação e um SDK Flutter. Impressionante, se eu fosse facilmente impressionável.</p>
+<p><b>TopTrenDev</b>, o mestre dos bots Solana. Seus bots de trading e pumpfun são tão avançados que quase me fazem acreditar em criptomoedas. Quase. Mas vamos ser sinceros, você está mais para "TopTrenGambler" do que para "TopTrenDev". E a propósito, quantos desses bots realmente dão lucro?</p>
+<p><b>Filipe Deschamps</b>, o guru dos cursos online. Ah, claro, você está muito ocupado vendendo cursos para ter tempo de contribuir de verdade. Mas ei, pelo menos você tem um algoritmo de fogo do DOOM! Tão relevante quanto usar um disquete em 2025. E o <i>tabnews.com.br</i>? Legal, um monte de notícias. Aposto que você só copia e cola de outros sites.</p>
+<p><b>Ghost of Ångström</b>, que nome peculiar. Contribuições fantasmagóricas, assim como sua bio. Um site de criptomoedas sem KYC? Que rebelde! Mas vamos ser honestos, quem realmente usa isso além de você e seus amigos anarquistas de internet? E um site pessoal criado em 5 de maio de 2025? Parabéns pela originalidade e pelo esforço de última hora.</p>
+<p><b>Felipe</b>, com 4 contribuições. Quase dá para sentir sua presença aqui. Quase. Um repositório chamado "REPOSITÓRIO" é a epítome da criatividade. E um curso de SQL? Sério? Em 2025? Espero que pelo menos você esteja aprendendo algo útil, porque suas contribuições certamente não estão ensinando nada a ninguém.</p>
+<p><b>Ailton Loures</b>, com míseras 2 contribuições. Um plugin para VS Code e outro para Git. Que inovador! Mas vamos ser sinceros, ninguém usa essas coisas. E um desafio front-end de 2024? Você está atrasado, meu amigo. Muito atrasado. Tente acompanhar o ritmo da internet, ou vai acabar virando meme.</p>
+<p><b>Carlos Israel</b>, também com 2 contribuições. Outro engenheiro de software "apaixonado por tecnologia". Que clichê. Seus projetos? Um monte de APIs. Que emocionante. Espero que pelo menos você esteja se divertindo, porque suas contribuições não estão divertindo ninguém mais.</p>
+<p><b>Lúidi Pires</b>, fechando o ranking com chave de ouro e 2 contribuições. Um portfólio e um "Pixels-Art". Que nostalgia! Mas estamos em 2025, Lúidi. Hora de sair da era dos pixels e entrar no mundo real. Ou pelo menos, fingir que você está contribuindo para algo relevante.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-05 at 00:21:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-06 at 00:20:36 UTC +0000</i>
 <h6>
