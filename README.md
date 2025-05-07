@@ -31,32 +31,32 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>53 ctr.</td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>55 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>34 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>30 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>14 ctr.</td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>10 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>8 ctr.</td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/ailtonloures">Ailton Loures</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>3 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão da mediocridade! 53 contribuições, parabéns! Aposto que foram 53 commits corrigindo ponto e vírgula, ou talvez formatando JSON. Mas ei, pelo menos você lidera, mesmo que seja na arte de não fazer nada de realmente impressionante.</p>
-<p><b>Deivid Souza Santana</b>, o "apaixonado por back-end". Que fofo. Tão apaixonado que seus repositórios parecem mais apaixonados por poeira do que por contribuições. Mas ei, pelo menos você tem um "Taskmaster" com 2 estrelas! Imagino que essas estrelas sejam de você mesmo e da sua mãe.</p>
-<p><b>Danilo Nobre</b>, o artista 3D que se perdeu no meio do caminho. Contribuições? Ah, sim, você fez um <i>fork</i> de um projeto Blender de 2020. Que audácia! E ainda tem um site da "Space Wizard Studios". Espero que a magia deles seja te ajudar a aumentar esse número de contribuições, porque até agora, a única coisa mágica aqui é como você consegue se manter relevante com tão pouco.</p>
-<p><b>Everton Marcelino Jr.</b>, o cara que contribui para o TypeORM. Que legal, você ajuda a manter uma biblioteca gigante funcionando. Mas e seus próprios projetos? Ah, sim, aquele repositório com seu nome. Original. E as outras contribuições? Um middleware de autenticação e um SDK Flutter. Impressionante, se eu fosse facilmente impressionável.</p>
-<p><b>TopTrenDev</b>, o mestre dos bots Solana. Seus bots de trading e pumpfun são tão avançados que quase me fazem acreditar em criptomoedas. Quase. Mas vamos ser sinceros, você está mais para "TopTrenGambler" do que para "TopTrenDev". E a propósito, quantos desses bots realmente dão lucro?</p>
-<p><b>Filipe Deschamps</b>, o guru dos cursos online. Ah, claro, você está muito ocupado vendendo cursos para ter tempo de contribuir de verdade. Mas ei, pelo menos você tem um algoritmo de fogo do DOOM! Tão relevante quanto usar um disquete em 2025. E o <i>tabnews.com.br</i>? Legal, um monte de notícias. Aposto que você só copia e cola de outros sites.</p>
-<p><b>Ghost of Ångström</b>, que nome peculiar. Contribuições fantasmagóricas, assim como sua bio. Um site de criptomoedas sem KYC? Que rebelde! Mas vamos ser honestos, quem realmente usa isso além de você e seus amigos anarquistas de internet? E um site pessoal criado em 5 de maio de 2025? Parabéns pela originalidade e pelo esforço de última hora.</p>
-<p><b>Felipe</b>, com 4 contribuições. Quase dá para sentir sua presença aqui. Quase. Um repositório chamado "REPOSITÓRIO" é a epítome da criatividade. E um curso de SQL? Sério? Em 2025? Espero que pelo menos você esteja aprendendo algo útil, porque suas contribuições certamente não estão ensinando nada a ninguém.</p>
-<p><b>Ailton Loures</b>, com míseras 2 contribuições. Um plugin para VS Code e outro para Git. Que inovador! Mas vamos ser sinceros, ninguém usa essas coisas. E um desafio front-end de 2024? Você está atrasado, meu amigo. Muito atrasado. Tente acompanhar o ritmo da internet, ou vai acabar virando meme.</p>
-<p><b>Carlos Israel</b>, também com 2 contribuições. Outro engenheiro de software "apaixonado por tecnologia". Que clichê. Seus projetos? Um monte de APIs. Que emocionante. Espero que pelo menos você esteja se divertindo, porque suas contribuições não estão divertindo ninguém mais.</p>
-<p><b>Lúidi Pires</b>, fechando o ranking com chave de ouro e 2 contribuições. Um portfólio e um "Pixels-Art". Que nostalgia! Mas estamos em 2025, Lúidi. Hora de sair da era dos pixels e entrar no mundo real. Ou pelo menos, fingir que você está contribuindo para algo relevante.</p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão dos 59 contributions. Imagino que você esteja tão ocupado sendo um ".NET Developer" que não sobra tempo para espalhar seu código por aí. Ou será que seus commits são tão secretos que nem o GitHub consegue rastrear? Continue assim, Cézar, quem sabe no próximo mês você chega aos 60.</p>
+<p><b>Danilo Nobre</b>, o "faz tudo um pouco, mestre de nada". Full-stack, game dev, 3D enthusiast... uau, quanta coisa! Mas espere, a maior parte do seu "trabalho" recente é em um <i>fork</i> de 2020? E um site de portfólio da Space Wizard Studios? Impressionante, Danilo, realmente impressionante. Quase tão impressionante quanto o fato de você ter criado seu próprio perfil no GitHub. Parabéns pela originalidade.</p>
+<p><b>Deivid Souza Santana</b>, o futuro gênio do back-end... em desenvolvimento. Vejo que você tem se dedicado a criar estruturas de dados e brincar com Flask. Mas vamos ser honestos, Deivid, seu repositório pessoal está lá, vazio, te encarando. Talvez seja hora de preenchê-lo com algo além de promessas de um futuro glorioso. Ou talvez não, quem sou eu para julgar?</p>
+<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" que contribui com projetos gigantes. Sério, Everton, você realmente acha que vamos nos impressionar com sua contribuição para o TypeORM? Ah, e seu repositório pessoal, uma verdadeira obra de arte minimalista. Parabéns por manter a paixão, mesmo que ela não se traduza em contribuições significativas. </p>
+<p><b>TopTrenDev</b>, o mago do Solana e especialista em "smart contracts". Entendi, você está surfando na onda das criptomoedas e NFTs. Mas vamos ser sinceros, seus bots de trading e bundlers de pumpfun parecem mais esquemas para ganhar dinheiro rápido do que projetos de código aberto. Mas ei, quem sou eu para julgar suas ambições de "Solana Specialist"?</p>
+<p><b>Filipe Deschamps</b>, o "guru da programação" que te faz sentir competente. Seus dotfiles são realmente inspiradores, Filipe. E aquele efeito de fogo do DOOM? Genial! Mas não vamos esquecer do tabnews.com.br, onde você compartilha "conteúdos para quem trabalha com Programação e Tecnologia". Sério, Filipe, você está tentando nos vender algo ou realmente se importa com a comunidade? Ah, quem se importa? O importante é o número de <i>stargazers</i>, certo?</p>
+<p><b>Ghost of Ångström</b>, o espectro da privacidade e autonomia financeira. Um site de criptomoedas sem KYC? Que ousado! Mas vamos ser honestos, seu repositório pessoal parece mais um cemitério de projetos abandonados do que um portfólio de realizações. Mas ei, pelo menos você está promovendo a privacidade, mesmo que ninguém saiba quem você realmente é.</p>
+<p><b>LestterX</b>, o caçador de Bitcoins. "Código ingênuo para encontrar bitcoins, para fins educacionais". Hilário! E um conversor de base2 para base16? Gênio! Mas vamos ser honestos, LestterX, seus projetos parecem mais tentativas desesperadas de ficar rico rápido do que contribuições significativas para a comunidade. Mas ei, quem sabe você não encontra um Bitcoin perdido por aí? Boa sorte!</p>
+<p><b>Felipe</b>, o misterioso. Seu repositório pessoal é... um repositório. E um curso de SQL? Que original! Mas vamos ser honestos, Felipe, seus projetos parecem mais exercícios de aprendizado do que contribuições significativas para a comunidade. Mas ei, pelo menos você está aprendendo, certo? Ou talvez não.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software poliglota. Go, Typescript, Rust, Vim... uau, quanta linguagem! Mas vamos ser honestos, Rafael, seus projetos parecem mais experimentos do que contribuições significativas para a comunidade. Mas ei, pelo menos você está se divertindo, certo? Ou talvez não, já que a maior parte são <i>forks</i> de projetos existentes.</p>
+<p><b>Ailton Loures</b>, o engenheiro de software com um bookmark para o VSCode. Que conveniente! E um plugin para Git? Genial! Mas vamos ser honestos, Ailton, seus projetos parecem mais ferramentas para facilitar seu próprio trabalho do que contribuições significativas para a comunidade. Mas ei, pelo menos você está sendo produtivo, certo? Ou talvez não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-06 at 00:20:36 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-07 at 00:20:45 UTC +0000</i>
 <h6>
