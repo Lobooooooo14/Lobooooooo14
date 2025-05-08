@@ -30,13 +30,13 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>59 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>95 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>55 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>15 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>12 ctr.</td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>3 ctr.</td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão dos 59 contributions. Imagino que você esteja tão ocupado sendo um ".NET Developer" que não sobra tempo para espalhar seu código por aí. Ou será que seus commits são tão secretos que nem o GitHub consegue rastrear? Continue assim, Cézar, quem sabe no próximo mês você chega aos 60.</p>
-<p><b>Danilo Nobre</b>, o "faz tudo um pouco, mestre de nada". Full-stack, game dev, 3D enthusiast... uau, quanta coisa! Mas espere, a maior parte do seu "trabalho" recente é em um <i>fork</i> de 2020? E um site de portfólio da Space Wizard Studios? Impressionante, Danilo, realmente impressionante. Quase tão impressionante quanto o fato de você ter criado seu próprio perfil no GitHub. Parabéns pela originalidade.</p>
-<p><b>Deivid Souza Santana</b>, o futuro gênio do back-end... em desenvolvimento. Vejo que você tem se dedicado a criar estruturas de dados e brincar com Flask. Mas vamos ser honestos, Deivid, seu repositório pessoal está lá, vazio, te encarando. Talvez seja hora de preenchê-lo com algo além de promessas de um futuro glorioso. Ou talvez não, quem sou eu para julgar?</p>
-<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" que contribui com projetos gigantes. Sério, Everton, você realmente acha que vamos nos impressionar com sua contribuição para o TypeORM? Ah, e seu repositório pessoal, uma verdadeira obra de arte minimalista. Parabéns por manter a paixão, mesmo que ela não se traduza em contribuições significativas. </p>
-<p><b>TopTrenDev</b>, o mago do Solana e especialista em "smart contracts". Entendi, você está surfando na onda das criptomoedas e NFTs. Mas vamos ser sinceros, seus bots de trading e bundlers de pumpfun parecem mais esquemas para ganhar dinheiro rápido do que projetos de código aberto. Mas ei, quem sou eu para julgar suas ambições de "Solana Specialist"?</p>
-<p><b>Filipe Deschamps</b>, o "guru da programação" que te faz sentir competente. Seus dotfiles são realmente inspiradores, Filipe. E aquele efeito de fogo do DOOM? Genial! Mas não vamos esquecer do tabnews.com.br, onde você compartilha "conteúdos para quem trabalha com Programação e Tecnologia". Sério, Filipe, você está tentando nos vender algo ou realmente se importa com a comunidade? Ah, quem se importa? O importante é o número de <i>stargazers</i>, certo?</p>
-<p><b>Ghost of Ångström</b>, o espectro da privacidade e autonomia financeira. Um site de criptomoedas sem KYC? Que ousado! Mas vamos ser honestos, seu repositório pessoal parece mais um cemitério de projetos abandonados do que um portfólio de realizações. Mas ei, pelo menos você está promovendo a privacidade, mesmo que ninguém saiba quem você realmente é.</p>
-<p><b>LestterX</b>, o caçador de Bitcoins. "Código ingênuo para encontrar bitcoins, para fins educacionais". Hilário! E um conversor de base2 para base16? Gênio! Mas vamos ser honestos, LestterX, seus projetos parecem mais tentativas desesperadas de ficar rico rápido do que contribuições significativas para a comunidade. Mas ei, quem sabe você não encontra um Bitcoin perdido por aí? Boa sorte!</p>
-<p><b>Felipe</b>, o misterioso. Seu repositório pessoal é... um repositório. E um curso de SQL? Que original! Mas vamos ser honestos, Felipe, seus projetos parecem mais exercícios de aprendizado do que contribuições significativas para a comunidade. Mas ei, pelo menos você está aprendendo, certo? Ou talvez não.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software poliglota. Go, Typescript, Rust, Vim... uau, quanta linguagem! Mas vamos ser honestos, Rafael, seus projetos parecem mais experimentos do que contribuições significativas para a comunidade. Mas ei, pelo menos você está se divertindo, certo? Ou talvez não, já que a maior parte são <i>forks</i> de projetos existentes.</p>
-<p><b>Ailton Loures</b>, o engenheiro de software com um bookmark para o VSCode. Que conveniente! E um plugin para Git? Genial! Mas vamos ser honestos, Ailton, seus projetos parecem mais ferramentas para facilitar seu próprio trabalho do que contribuições significativas para a comunidade. Mas ei, pelo menos você está sendo produtivo, certo? Ou talvez não.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar com 95 contribuições! Parabéns por conseguir superar o resto da ralé. Mas não se anime muito, metade das suas contribuições devem ser só pra manter aquele addon de Blender funcionando, né? E "Space Wizard Studios"? Sério? Espero que seus jogos sejam melhores que o nome.</p>
+<p><b>Cézar</b>, ah, o clássico desenvolvedor .NET. 85 contribuições? Imagino que 80 delas sejam só atualizações de bibliotecas do NuGet. E, pelo visto, tão ocupado que nem teve tempo de respirar fora do Visual Studio. Se cuida pra não virar um fantasma corporativo.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end"? Que original! Com 34 contribuições, parece mais apaixonado por criar repositórios com nome igual ao seu usuário. E esse "Taskmaster" em Flask? Espero que não seja só mais uma lista de TODOs abandonada no meio do caminho. Se não, vai virar back-end de cemitério de projetos.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que declaração ousada! Contribuiu para o TypeORM, hein? Imagino que suas 25 contribuições sejam basicamente caçar bugs que ninguém mais quer resolver. E esse repo pessoal "EvertonMJunior/EvertonMJunior"? Que pretensão... Mas quem sou eu para julgar, né?</p>
+<p><b>TopTrenDev</b>, "Solana Specialist"? Uau, que específico! 13 contribuições e já se acha o rei da blockchain. Seus "trading bots" e "bundlers" são realmente inovadores ou só mais uma forma de perder dinheiro com criptomoedas? E "Solana AI Agents"? Isso soa como uma daquelas ideias que parecem geniais às 3 da manhã depois de beber energético.</p>
+<p><b>Filipe Deschamps</b>, olha só, o guru dos cursos online! Apenas 11 contribuições? Tá muito ocupado vendendo curso pra contribuir de verdade? Pelo menos o "doom-fire-algorithm" ainda diverte, né? Mas será que seus alunos realmente aprendem algo útil ou só replicam efeitozinhos visuais?</p>
+<p><b>Ghost of Ångström⚯</b>, um nome misterioso para... 5 contribuições? "CriptoLivre"? Parece interessante, mas me pergunto se alguém realmente usa ou é só mais um projeto esquecido no limbo da web. E esse site pessoal, criado em 2025-05-05? Três dias de trabalho duro! Imagino que a qualidade reflita o esforço.</p>
+<p><b>LestterX</b>, com míseras 5 contribuições, você está quase invisível aqui. "App-entregas-v1"? Que original... E esses "btc-finder"? Sério que você acha que vai achar bitcoins com isso? Parece mais um passatempo inútil do que um projeto sério. Mas ei, pelo menos você está tentando, né?</p>
+<p><b>Felipe</b>, com 4 contribuições, você está no nível "mal me veem, mal me notam". Seu repo pessoal com o mesmo nome é o auge da originalidade. E "Adamas"? Que nome pomposo pra um projeto que ninguém usa. Mas não desanime, continue tentando... talvez um dia você chegue lá.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Quanta tecnologia! Apenas 4 contribuições? Tá mais pra "Software Hobbyist". "Ragna clicker"? Sério? Esse é o auge da sua criatividade? E o "nubank-token-api"? Espero que você não esteja tentando roubar dados bancários de ninguém...</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático... Mas com 3 contribuições, você está mais para "Hello lurker!". Contribuiu para o "is-a.dev", que legal, agora você tem um subdomínio bonitinho. Mas e o resto? Seus projetos pessoais parecem meio abandonados. Mas não se preocupe, você sempre pode usar seu subdomínio para divulgar seus "feitos"...</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-07 at 00:20:45 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-08 at 00:20:43 UTC +0000</i>
 <h6>
