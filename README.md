@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>131 ctr.</td>
+                <td>143 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>85 ctr.</td>
+                <td>104 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>41 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>57 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>48 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>21 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>14 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>15 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
                 <td>8 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
                 <td>5 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, hein? Que inveja... da sua capacidade de manter um perfil no GitHub. Vi que você até se aventura no mundo dos jogos e 3D, mas será que as suas contribuições refletem essa paixão? Ah, e parabéns pelo seu repositório pessoal "danko-nobre/danko-nobre", imagino que seja o auge da sua auto-promoção. Só não esquece de adicionar algum conteúdo, né?</p>
-<p><b>Cézar</b>, .NET Developer... que conveniente. Sem atividades recentes para comentar, então presumo que você esteja ocupado demais clicando em botões no Visual Studio. Mas ei, pelo menos você está contribuindo, certo? Ou será que seus commits são apenas "ajustes de identação"?</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que nem 99% dos perfis no LinkedIn. Contribuiu em projetos grandes como TypeORM e Formbricks, mas será que foram contribuições relevantes ou apenas correções de "vírgulas"? Não me leve a mal, toda ajuda é bem-vinda, mas não se esqueça de que o mundo precisa de mais do que apenas entusiastas.</p>
-<p><b>Deivid Souza Santana</b>, futuro desenvolvedor back-end, mas pelo visto ainda está preso nas estruturas de dados básicas. Vejo ali um "Taskmaster" com Flask, que legal... mas as tarefas estão sendo gerenciadas ou só acumuladas? E esse repositório "Design-Patterns" com Python? Espero que esteja usando os padrões, e não apenas copiando e colando código da internet.</p>
-<p><b>TopTrenDev</b>, especialista em Solana e NFTs, que original! Vários bots de trading e "pumpfun" – imagino que esteja ganhando uma fortuna com isso, certo? Ou será que está só surfando na onda da especulação? De qualquer forma, parabéns pela iniciativa... ou pela ambição, tanto faz.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre da auto-promoção! Mas, falando sério, até que seus projetos são interessantes. O "doom-fire-algorithm" é um clássico, e o "tabnews.com.br" parece promissor. Só não deixe a fama subir à cabeça, ok?</p>
-<p><b>Luís Felipe Arten</b>, "criando coisas legais (ou chatas) quase todos os dias"... essa honestidade é revigorante! Mas oito contribuições? Sei não... Vejo ali um repositório da Digital Innovation One, imagino que esteja buscando aquele certificado básico. Mas ei, todo mundo começa de algum lugar, certo? Só não se acomode na mediocridade.</p>
-<p><b>Ghost of Ångström</b>, que nome peculiar! Contribuições focadas em criptomoedas e privacidade, interessante. Mas será que o "Ghost" está realmente protegendo a liberdade financeira das pessoas, ou apenas criando mais uma ferramenta para a deep web? De qualquer forma, o anonimato está garantido, então continue com o bom trabalho... ou não.</p>
-<p><b>LestterX</b>, "Naive code to find bitcoins"... sério? Em pleno 2025? E ainda por cima fork de outro repositório? Pelo menos você otimizou o código, né? Mas sejamos sinceros, as chances de encontrar alguma coisa são mínimas. Mas ei, não desista dos seus sonhos... ou da sua busca por moedas virtuais perdidas.</p>
-<p><b>Felipe</b>, um repositório chamado "Adamas" com Dockerfile e Go? Interessante... mas a descrição está vazia. E um curso de SQL? Espero que esteja aprendendo a usar o "SELECT * FROM table" com responsabilidade. E esse "calamidade" forked? Pelo menos você está explorando novos horizontes... ou copiando o trabalho dos outros.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust e Vim... o combo perfeito para se sentir um "ninja" da programação. Mas as contribuições não impressionam muito. Um "Ragna clicker"? Sério? E um fork de "awesome-go"? Pelo menos você está organizando links úteis. Mas, sejamos sinceros, o mundo precisa de mais do que apenas listas de recursos.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, parabéns por liderar o ranking. Mas não se empolgue muito, porque ter 143 contribuições não significa que elas sejam úteis. Vi que você mexe com Blender. Já pensou em modelar um troféu para você mesmo? Afinal, quem mais faria isso?</p>
+<p><b>Cézar</b>, .NET Developer, hein? Que chique! Pena que sua lista de atividades recentes está mais vazia que a minha paciência. Talvez seja hora de contribuir mais e parar de só apreciar o trabalho dos outros.</p>
+<p><b>Deivid Souza Santana</b>, estudante de Análise e Desenvolvimento de Sistemas. Que fofo, já está brincando de criar Data Structures em Python. Quem sabe um dia você chega lá. Mas, por favor, pare de criar repositórios com o mesmo nome do seu usuário, a menos que seu objetivo seja inflar o ego.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology", diz você. Contribuiu em TypeORM, LiveKit e Formbricks, que legal, você deve estar bem ocupado! Espero que essa paixão se traduza em algo mais substancial do que apenas seguir projetos populares.</p>
+<p><b>TopTrenDev</b>, especialista em Solana, Bitcoin, Ethereum... Uau, quanta coisa! Mas será que você realmente domina tudo isso ou só está surfando na onda das criptomoedas? Seus "trading bots" e "bundlers" parecem mais complicados que resolver um cubo mágico vendado.</p>
+<p><b>LestterX</b>, encontrei um "btc-finder" nos seus repositórios. Sério, em pleno 2025, você ainda está tentando achar bitcoins perdidos? Boa sorte com isso, você vai precisar. E essa aplicação que some com os dados depois de algumas horas? Genial! Ideal para quem quer ver o próprio trabalho desaparecer.</p>
+<p><b>Filipe Deschamps</b>, ah, o guru da programação! Mas será que seus "dotfiles" e algoritmos de fogo do DOOM realmente ajudam alguém além de você mesmo? E esse "tabnews.com.br"? Espero que pelo menos gere algum conteúdo interessante, porque sua lista de contribuições anda bem modesta.</p>
+<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things", que honestidade! Mas com apenas 8 contribuições, imagino que a maioria das coisas seja mais "boring" do que "cool". E contribuir no repositório da Digital Innovation One? Isso não conta, todos fazem isso.</p>
+<p><b>Ghost of Ångström</b>, com um nome desses, esperava mais contribuições. CriptoLivre? Que interessante... Mas parece que o projeto ainda precisa de um fantasma para dar um susto e fazê-lo decolar. Afinal, 5 contribuições não assustam ninguém.</p>
+<p><b>brunoferreiraff</b>, "saas-and-ecommerce-boilerplate-nestjs"... Parece promissor, pena que é um fork. E essa "responsive-weather-app"? Espero que pelo menos funcione, porque sua contagem de contribuições está mais fria que a previsão do tempo para o Alasca.</p>
+<p><b>Felipe</b>, um repositório com o próprio nome e descrição "REPOSITÓRIO". Original! E esse projeto "Adamas"? Parece ambicioso, mas com apenas 4 contribuições, acho que vai virar pó mais rápido que diamante no sol.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-09 at 00:20:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-10 at 00:19:46 UTC +0000</i>
 <h6>
