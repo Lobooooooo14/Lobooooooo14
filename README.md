@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>57 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>48 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>16 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -70,12 +70,12 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
                 <td>5 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, parabéns por liderar o ranking. Mas não se empolgue muito, porque ter 143 contribuições não significa que elas sejam úteis. Vi que você mexe com Blender. Já pensou em modelar um troféu para você mesmo? Afinal, quem mais faria isso?</p>
-<p><b>Cézar</b>, .NET Developer, hein? Que chique! Pena que sua lista de atividades recentes está mais vazia que a minha paciência. Talvez seja hora de contribuir mais e parar de só apreciar o trabalho dos outros.</p>
-<p><b>Deivid Souza Santana</b>, estudante de Análise e Desenvolvimento de Sistemas. Que fofo, já está brincando de criar Data Structures em Python. Quem sabe um dia você chega lá. Mas, por favor, pare de criar repositórios com o mesmo nome do seu usuário, a menos que seu objetivo seja inflar o ego.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology", diz você. Contribuiu em TypeORM, LiveKit e Formbricks, que legal, você deve estar bem ocupado! Espero que essa paixão se traduza em algo mais substancial do que apenas seguir projetos populares.</p>
-<p><b>TopTrenDev</b>, especialista em Solana, Bitcoin, Ethereum... Uau, quanta coisa! Mas será que você realmente domina tudo isso ou só está surfando na onda das criptomoedas? Seus "trading bots" e "bundlers" parecem mais complicados que resolver um cubo mágico vendado.</p>
-<p><b>LestterX</b>, encontrei um "btc-finder" nos seus repositórios. Sério, em pleno 2025, você ainda está tentando achar bitcoins perdidos? Boa sorte com isso, você vai precisar. E essa aplicação que some com os dados depois de algumas horas? Genial! Ideal para quem quer ver o próprio trabalho desaparecer.</p>
-<p><b>Filipe Deschamps</b>, ah, o guru da programação! Mas será que seus "dotfiles" e algoritmos de fogo do DOOM realmente ajudam alguém além de você mesmo? E esse "tabnews.com.br"? Espero que pelo menos gere algum conteúdo interessante, porque sua lista de contribuições anda bem modesta.</p>
-<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things", que honestidade! Mas com apenas 8 contribuições, imagino que a maioria das coisas seja mais "boring" do que "cool". E contribuir no repositório da Digital Innovation One? Isso não conta, todos fazem isso.</p>
-<p><b>Ghost of Ångström</b>, com um nome desses, esperava mais contribuições. CriptoLivre? Que interessante... Mas parece que o projeto ainda precisa de um fantasma para dar um susto e fazê-lo decolar. Afinal, 5 contribuições não assustam ninguém.</p>
-<p><b>brunoferreiraff</b>, "saas-and-ecommerce-boilerplate-nestjs"... Parece promissor, pena que é um fork. E essa "responsive-weather-app"? Espero que pelo menos funcione, porque sua contagem de contribuições está mais fria que a previsão do tempo para o Alasca.</p>
-<p><b>Felipe</b>, um repositório com o próprio nome e descrição "REPOSITÓRIO". Original! E esse projeto "Adamas"? Parece ambicioso, mas com apenas 4 contribuições, acho que vai virar pó mais rápido que diamante no sol.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar! Imagino que esteja se sentindo o próprio Lobo Alpha agora. Mas não se engane, essa liderança pode ser tão efêmera quanto a descrição daquele seu repositório "danko-nobre/danko-nobre" – *vazia*. Pelo menos o addon de Blender teve alguma atenção, mas será que foi por ser realmente bom ou só por ter um nome engraçado? Hmm...</p>
+<p><b>Cézar</b>, .NET Developer, hein? Imagino que seus dias sejam preenchidos com a emocionante tarefa de... *espera*, você não tem nenhuma atividade recente? Sério? Espero que você não esteja usando .NET 2.0 ainda. Acorda pra vida, Cézar! O pessoal está aí fazendo coisas e você... você está aí.</p>
+<p><b>Deivid Souza Santana</b>, um estudante "apaixonado" por back-end. Que fofo. Mas, me diga, essa paixão se traduz em algo além de repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns"? Não me entenda mal, é ótimo estudar, mas o mundo real espera algo mais do que *Hello World* em Python. E esse "Taskmaster"... parece que você está se dando mais tarefas do que concluindo-as.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que genérico. Contribuiu em projetos com milhares de estrelas, mas será que foram contribuições *relevantes* ou só um ajuste de ponto e vírgula? E o que dizer daquele "authenticator-middleware"? Parece promissor, mas a última atualização foi em janeiro. Já perdeu o brilho? Aposto que sim.</p>
+<p><b>TopTrenDev</b>, especialista em Solana e NFTs. Que moderno! Mas vamos ser honestos, essa área é mais volátil que o humor do Lobo. Seus bots de trading e bundlers são impressionantes, mas me pergunto se eles realmente trazem algum resultado além de aumentar o volume de transações e inflar ainda mais o mercado. Cuidado para não virar um meme.</p>
+<p><b>LestterX</b>, sem bio. Misterioso... ou só preguiçoso? Seus repositórios de "btc-finder" e "btcfind-optimized" são hilários. Acreditar que você vai encontrar bitcoins com código "ingênuo" é quase tão engraçado quanto acreditar em Papai Noel. E aquele conversor de base2 para base16? Precisamos mesmo disso em 2025? Por favor, LestterX, surpreenda-nos com algo útil.</p>
+<p><b>Filipe Deschamps</b>, o guru dos cursos online. Quer que a gente se sinta competente em programação? Boa tentativa de autopromoção. Mas vamos falar sobre o "doom-fire-algorithm". Nostálgico, mas... sério? Isso é o que te mantém relevante? Pelo menos o "tabnews.com.br" tem um número decente de estrelas. Talvez você devesse focar nisso e parar de viver de algoritmos retrô.</p>
+<p><b>Luís Felipe Arten</b>, "aprendendo e criando coisas legais (ou chatas) quase todo dia". Quase? Essa honestidade é admirável. Mas 8 contribuições? E um dos seus destaques é o repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One? Parabéns, você contribuiu para um tutorial. Que emocionante. Continue tentando, talvez um dia você crie algo *realmente* legal.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim. Que combinação hipster. Mas 7 contribuições? "Ragna clicker"? Sério? Isso é o melhor que você tem a oferecer? E o "nubank-token-api"? Uma API para facilitar o acesso ao Nubank? Que conveniente... para quem quer gastar dinheiro mais rápido. Espero que você tenha algo mais interessante escondido por aí.</p>
+<p><b>Ghost of Ångström</b>, com um nome desses, eu esperava algo mais assustador. Mas, aparentemente, você só está criando sites para listar serviços de criptomoedas anônimas. Que original. E só 5 contribuições? Talvez você devesse se dedicar mais a assombrar o código alheio em vez de se esconder atrás de um nome pseudointelectual.</p>
+<p><b>brunoferreiraff</b>, um app de clima "responsivo"? Que inovador! Mas vamos ser sinceros, quantos apps de clima o mundo realmente precisa? E um boilerplate de SaaS e e-commerce em NestJS? Original... só que não. Seus projetosJS até que são bonitinhos, mas nada que vá mudar o mundo. Talvez você devesse tentar algo mais ambicioso. Ou talvez não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-10 at 00:19:46 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-11 at 00:22:00 UTC +0000</i>
 <h6>
