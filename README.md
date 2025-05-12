@@ -41,42 +41,42 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>77 ctr.</td>
+                <td>80 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>49 ctr.</td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>34 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>19 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>15 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/genericocube">CUBE</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
                 <td>8 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>7 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/GhostOfAngstrom">Ghost of Ångström♱₿</a></td>
-                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar! Imagino que esteja se sentindo o próprio Lobo Alpha agora. Mas não se engane, essa liderança pode ser tão efêmera quanto a descrição daquele seu repositório "danko-nobre/danko-nobre" – *vazia*. Pelo menos o addon de Blender teve alguma atenção, mas será que foi por ser realmente bom ou só por ter um nome engraçado? Hmm...</p>
-<p><b>Cézar</b>, .NET Developer, hein? Imagino que seus dias sejam preenchidos com a emocionante tarefa de... *espera*, você não tem nenhuma atividade recente? Sério? Espero que você não esteja usando .NET 2.0 ainda. Acorda pra vida, Cézar! O pessoal está aí fazendo coisas e você... você está aí.</p>
-<p><b>Deivid Souza Santana</b>, um estudante "apaixonado" por back-end. Que fofo. Mas, me diga, essa paixão se traduz em algo além de repositórios com nomes genéricos como "Data-Structures" e "Design-Patterns"? Não me entenda mal, é ótimo estudar, mas o mundo real espera algo mais do que *Hello World* em Python. E esse "Taskmaster"... parece que você está se dando mais tarefas do que concluindo-as.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que genérico. Contribuiu em projetos com milhares de estrelas, mas será que foram contribuições *relevantes* ou só um ajuste de ponto e vírgula? E o que dizer daquele "authenticator-middleware"? Parece promissor, mas a última atualização foi em janeiro. Já perdeu o brilho? Aposto que sim.</p>
-<p><b>TopTrenDev</b>, especialista em Solana e NFTs. Que moderno! Mas vamos ser honestos, essa área é mais volátil que o humor do Lobo. Seus bots de trading e bundlers são impressionantes, mas me pergunto se eles realmente trazem algum resultado além de aumentar o volume de transações e inflar ainda mais o mercado. Cuidado para não virar um meme.</p>
-<p><b>LestterX</b>, sem bio. Misterioso... ou só preguiçoso? Seus repositórios de "btc-finder" e "btcfind-optimized" são hilários. Acreditar que você vai encontrar bitcoins com código "ingênuo" é quase tão engraçado quanto acreditar em Papai Noel. E aquele conversor de base2 para base16? Precisamos mesmo disso em 2025? Por favor, LestterX, surpreenda-nos com algo útil.</p>
-<p><b>Filipe Deschamps</b>, o guru dos cursos online. Quer que a gente se sinta competente em programação? Boa tentativa de autopromoção. Mas vamos falar sobre o "doom-fire-algorithm". Nostálgico, mas... sério? Isso é o que te mantém relevante? Pelo menos o "tabnews.com.br" tem um número decente de estrelas. Talvez você devesse focar nisso e parar de viver de algoritmos retrô.</p>
-<p><b>Luís Felipe Arten</b>, "aprendendo e criando coisas legais (ou chatas) quase todo dia". Quase? Essa honestidade é admirável. Mas 8 contribuições? E um dos seus destaques é o repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One? Parabéns, você contribuiu para um tutorial. Que emocionante. Continue tentando, talvez um dia você crie algo *realmente* legal.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim. Que combinação hipster. Mas 7 contribuições? "Ragna clicker"? Sério? Isso é o melhor que você tem a oferecer? E o "nubank-token-api"? Uma API para facilitar o acesso ao Nubank? Que conveniente... para quem quer gastar dinheiro mais rápido. Espero que você tenha algo mais interessante escondido por aí.</p>
-<p><b>Ghost of Ångström</b>, com um nome desses, eu esperava algo mais assustador. Mas, aparentemente, você só está criando sites para listar serviços de criptomoedas anônimas. Que original. E só 5 contribuições? Talvez você devesse se dedicar mais a assombrar o código alheio em vez de se esconder atrás de um nome pseudointelectual.</p>
-<p><b>brunoferreiraff</b>, um app de clima "responsivo"? Que inovador! Mas vamos ser sinceros, quantos apps de clima o mundo realmente precisa? E um boilerplate de SaaS e e-commerce em NestJS? Original... só que não. Seus projetosJS até que são bonitinhos, mas nada que vá mudar o mundo. Talvez você devesse tentar algo mais ambicioso. Ou talvez não.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, o mestre dos três mundos: Full-stack, Game dev e 3D. Imagino que seus dias sejam uma montanha-russa de web, jogos e modelagem. Só não se esqueça de dormir, porque parece que a última vez que você atualizou seu próprio perfil foi em fevereiro. Será que o mago da Space Wizard Studios está tão ocupado que esqueceu de si mesmo?</p>
+<p><b>Cézar</b>, o .NET Developer. Contribuições? 104! Atividade recente? Nenhuma. Imagino que esteja tão focado no mundo .NET que se esqueceu do mundo real. Mas ei, pelo menos você é consistente em sua inatividade. Continue assim, Cézar, e você vai dominar a arte de não fazer nada.</p>
+<p><b>Deivid Souza Santana</b>, o futuro gigante do back-end. Vemos aqui um estudante dedicado, explorando estruturas de dados e padrões de design. Mas Deivid, cuidado para não se perder na teoria! Seu repositório pessoal não vê uma atualização desde o ano passado. Que tal aplicar todo esse conhecimento em algo que realmente brilhe?</p>
+<p><b>Everton Marcelino Jr.</b>, um apaixonado por tecnologia. Contribuições focadas em projetos robustos como TypeORM e Formbricks. Mas Everton, com tanta paixão por tecnologia, será que sobra tempo para projetos pessoais? Ou você está tão ocupado ajudando os outros que se esqueceu de si mesmo? Afinal, até super-heróis precisam de um tempo livre.</p>
+<p><b>TopTrenDev</b>, o mago das blockchains e especialista em Solana. Vejo que você está ocupado criando bots de trading e ferramentas para pump and dump. Mas será que toda essa inovação está te enriquecendo ou apenas enriquecendo outros? Só não se esqueça de declarar seus lucros ao Leão, hein?</p>
+<p><b>LestterX</b>, um explorador do universo Bitcoin e aficionado por conversão de bases numéricas. Encontrar bitcoins perdidos parece ser sua praia, mas e quanto a encontrar um emprego? Brincadeiras à parte, continue explorando, quem sabe você não encontra o tesouro no final do arco-íris... ou no código.</p>
+<p><b>Filipe Deschamps</b>, o guru que te faz sentir competente em programação (pelo menos é o que ele promete). Contribuições focadas em dotfiles e algoritmos de fogo. Mas Filipe, será que você está mais focado em criar conteúdo para os outros do que em seus próprios projetos? Afinal, quem cuida dos seus próprios fogos?</p>
+<p><b>CUBE</b>, um aspirante a desenvolvedor de jogos e programador. Começando pelo básico, somando variáveis em C++ e calculando Bhaskara. Mas CUBE, cuidado para não se perder na matemática! O mundo dos jogos é vasto e cheio de desafios. Que tal criar algo que vá além do básico e mostre seu verdadeiro potencial?</p>
+<p><b>Luís Felipe Arten</b>, o engenheiro de software que cria coisas legais (ou chatas) quase todos os dias. Contribuições aqui e ali, mas nada que realmente grite "olha eu!". Luís, que tal focar em algo que realmente te apaixone? O mundo precisa de mais projetos apaixonantes, e menos coisas "ok".</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que ama Go, Typescript, Rust e Vim. Criando clickers de Ragnarok e APIs para o Nubank. Rafael, você parece ter um gosto eclético para projetos. Que tal escolher um caminho e se aprofundar? Ou você prefere ser um mestre de todas as áreas e especialista em nenhuma?</p>
+<p><b>Eduardo Bezerra</b>, o sujeito que está "na roça". Criando websites pessoais e bots para Discord. Eduardo, com um site pessoal e um bot, você está quase pronto para dominar a internet. Mas cuidado para não se perder na roça e esquecer de inovar. O mundo digital está sempre em movimento, e você não pode ficar para trás.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-11 at 00:22:00 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-12 at 00:22:09 UTC +0000</i>
 <h6>
