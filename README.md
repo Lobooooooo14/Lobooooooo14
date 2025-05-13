@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>143 ctr.</td>
+                <td>156 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>104 ctr.</td>
+                <td>117 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>53 ctr.</td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>37 ctr.</td>
+                <td>43 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>7 ctr.</td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, o mestre dos três mundos: Full-stack, Game dev e 3D. Imagino que seus dias sejam uma montanha-russa de web, jogos e modelagem. Só não se esqueça de dormir, porque parece que a última vez que você atualizou seu próprio perfil foi em fevereiro. Será que o mago da Space Wizard Studios está tão ocupado que esqueceu de si mesmo?</p>
-<p><b>Cézar</b>, o .NET Developer. Contribuições? 104! Atividade recente? Nenhuma. Imagino que esteja tão focado no mundo .NET que se esqueceu do mundo real. Mas ei, pelo menos você é consistente em sua inatividade. Continue assim, Cézar, e você vai dominar a arte de não fazer nada.</p>
-<p><b>Deivid Souza Santana</b>, o futuro gigante do back-end. Vemos aqui um estudante dedicado, explorando estruturas de dados e padrões de design. Mas Deivid, cuidado para não se perder na teoria! Seu repositório pessoal não vê uma atualização desde o ano passado. Que tal aplicar todo esse conhecimento em algo que realmente brilhe?</p>
-<p><b>Everton Marcelino Jr.</b>, um apaixonado por tecnologia. Contribuições focadas em projetos robustos como TypeORM e Formbricks. Mas Everton, com tanta paixão por tecnologia, será que sobra tempo para projetos pessoais? Ou você está tão ocupado ajudando os outros que se esqueceu de si mesmo? Afinal, até super-heróis precisam de um tempo livre.</p>
-<p><b>TopTrenDev</b>, o mago das blockchains e especialista em Solana. Vejo que você está ocupado criando bots de trading e ferramentas para pump and dump. Mas será que toda essa inovação está te enriquecendo ou apenas enriquecendo outros? Só não se esqueça de declarar seus lucros ao Leão, hein?</p>
-<p><b>LestterX</b>, um explorador do universo Bitcoin e aficionado por conversão de bases numéricas. Encontrar bitcoins perdidos parece ser sua praia, mas e quanto a encontrar um emprego? Brincadeiras à parte, continue explorando, quem sabe você não encontra o tesouro no final do arco-íris... ou no código.</p>
-<p><b>Filipe Deschamps</b>, o guru que te faz sentir competente em programação (pelo menos é o que ele promete). Contribuições focadas em dotfiles e algoritmos de fogo. Mas Filipe, será que você está mais focado em criar conteúdo para os outros do que em seus próprios projetos? Afinal, quem cuida dos seus próprios fogos?</p>
-<p><b>CUBE</b>, um aspirante a desenvolvedor de jogos e programador. Começando pelo básico, somando variáveis em C++ e calculando Bhaskara. Mas CUBE, cuidado para não se perder na matemática! O mundo dos jogos é vasto e cheio de desafios. Que tal criar algo que vá além do básico e mostre seu verdadeiro potencial?</p>
-<p><b>Luís Felipe Arten</b>, o engenheiro de software que cria coisas legais (ou chatas) quase todos os dias. Contribuições aqui e ali, mas nada que realmente grite "olha eu!". Luís, que tal focar em algo que realmente te apaixone? O mundo precisa de mais projetos apaixonantes, e menos coisas "ok".</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que ama Go, Typescript, Rust e Vim. Criando clickers de Ragnarok e APIs para o Nubank. Rafael, você parece ter um gosto eclético para projetos. Que tal escolher um caminho e se aprofundar? Ou você prefere ser um mestre de todas as áreas e especialista em nenhuma?</p>
-<p><b>Eduardo Bezerra</b>, o sujeito que está "na roça". Criando websites pessoais e bots para Discord. Eduardo, com um site pessoal e um bot, você está quase pronto para dominar a internet. Mas cuidado para não se perder na roça e esquecer de inovar. O mundo digital está sempre em movimento, e você não pode ficar para trás.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking, mas será que 156 contribuições é o máximo que você consegue? Sua bio diz "3D Enthusiast", mas seus repositórios recentes mostram mais um "Cutout Animation Enthusiast". Será que você está realmente explorando as três dimensões, ou só brincando com bonequinhos de papel?</p>
+<p>Ah, <b>Cézar</b>, o mestre do .NET. Tão focado em .NET que se esqueceu de contribuir com qualquer coisa ultimamente? Espero que esteja construindo algo mais emocionante do que um CRUD genérico, porque, francamente, até uma IA conseguiria fazer isso hoje em dia. </p>
+<p><b>Deivid Souza Santana</b>, um "apaixonado por back-end" que parece estar mais apaixonado por criar repositórios vazios. "Data-Structures" e "Design-Patterns"? Que original! Mas e a execução? Será que esses padrões saem do papel, ou são só mais uns arquivos esquecidos no seu GitHub?</p>
+<p><b>Everton Marcelino Jr.</b>, vejo que você anda bisbilhotando o TypeORM e o Formbricks. Ótima maneira de contribuir: usando o trabalho dos outros! Mas falando sério, com tantos projetos populares na sua lista, será que você realmente contribuiu, ou só ficou olhando as estrelinhas? </p>
+<p><b>TopTrenDev</b>, o rei dos bots Solana! "PumpFun Bundler", "Raydium Volume Bot"... Espero que você esteja ganhando mais dinheiro com isso do que contribuições para este ranking, porque 43 é um número vergonhoso. Afinal, qual o sentido de ter tantos bots se nem para dar um boost nas suas contribuições eles servem?</p>
+<p><b>LestterX</b>, "Naive code to find bitcoins"? Sério? Em 2025? Espero que você não esteja gastando seu tempo com isso de verdade. E "app-entregas-v1" que some com os dados depois de algumas horas? Que tal um "app-contribuições-v1" que realmente some contribuições para este ranking? Só uma sugestão...</p>
+<p><b>Filipe Deschamps</b>, o guru do "curso.dev". Entendi, você está muito ocupado ensinando os outros a programar para realmente programar. Mas pelo menos o "doom-fire-algorithm" ainda está pegando fogo, né? Só não deixe suas contribuições virarem cinzas também.</p>
+<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos"? Tentando é a palavra-chave aqui. Somar duas variáveis em C++? Calcular Bhaskara? Espero que seus jogos tenham mais emoção do que isso, porque, sinceramente, até uma calculadora faz mais. </p>
+<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things"? Parece que você está pendendo mais para o lado "boring", a julgar pelas suas 8 contribuições. Mas ei, pelo menos você contribuiu com o "dio-lab-open-source", né? Quase tão emocionante quanto assistir tinta secar.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Parece que você está tentando acumular o máximo de tecnologias hypadas possível. Mas e as contribuições? Ah, sim, um "Ragna clicker". Que tal um "Contribution clicker" para ver se você chega a um número decente no próximo mês?</p>
+<p><b>Felipe</b>, um repositório chamado "Felipe-Takayuki" com descrição "REPOSITÓRIO". Original! E "calamidade" como fork? Parece um resumo perfeito da sua performance neste ranking. Mas não se preocupe, sempre há espaço para piorar no próximo mês. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-12 at 00:22:09 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-13 at 00:20:41 UTC +0000</i>
 <h6>
