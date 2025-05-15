@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>131 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>58 ctr.</td>
+                <td>63 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>43 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -70,12 +70,12 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
                 <td>8 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, com 160 contribuições. Parabéns, você fez mais que o dobro do quinto colocado. A questão é: o que você realmente fez? Clonou um monte de repositórios e mexeu em uma linha? Seu "portfólio" da Space Wizard Studios parece mais um site feito em 2005. E esse moodle-profilefield_cpf de 2014? Sério, ainda está usando isso?</p>
-<p><b>Cézar</b>, com 131 contribuições, o .NET Developer misterioso. Nenhuma atividade recente em repositórios? Está contribuindo para o código fonte da Microsoft? Ou será que suas contribuições estão todas trancadas em repositórios privados, protegendo o segredo da Coca-Cola do .NET? </p>
-<p><b>Deivid Souza Santana</b>, o "apaixonado por back-end" em terceiro lugar com 80 contribuições.  Vejo ali Python, Flask...  "Taskmaster"?  Sério?  Espero que suas tasks sejam mais interessantes que esses repositórios com zero estrelas. E "Design-Patterns"? Aposto que você implementa o Singleton até pra acender a luz.</p>
-<p><b>Everton Marcelino Jr.</b>, com 58 contribuições, "apaixonado por tecnologia". Contribuiu para o TypeORM, que legal. Mas vamos ser sinceros, provavelmente foi só um typo fix.  E esse "authenticator-middleware" com data de 2021?  Já foi descontinuado, Everton? Ou está esperando o hype do LiveKit render algo?</p>
-<p><b>TopTrenDev</b>, o mestre Solana com 43 contribuições.  "Copy trading bot", "sniping bot", "volume bot"... Parece mais um playground de golpista do que um desenvolvedor sério.  Parabéns por contribuir para o ecossistema de cassino das criptomoedas. Pelo menos está atualizado, né?</p>
-<p><b>LestterX</b>, com 26 contribuições e uma busca incessante por Bitcoins perdidos. "Naive code to find bitcoins"? Sério que você acha que vai encontrar alguma coisa assim? E esses forks "otimizados"? Aposto que a otimização foi só mudar o nome da variável.  E esse "app-entregas-v1" que some após algumas horas? É tipo o Snapchat do delivery?</p>
-<p><b>Filipe Deschamps</b>, o guru dos cursos online, com 16 contribuições. Está muito ocupado vendendo curso para contribuir de verdade?  O "doom-fire-algorithm" é legal, mas já tem 6 anos!  E o TabNews? Ah, claro, precisa divulgar o próprio site, né?  Espero que seus alunos contribuam mais que você.</p>
-<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos" com 13 contribuições. Somar duas variáveis em C++? Calcular Bhaskara?  Isso é sério?  Você está aprendendo a programar em 2025?  Boa sorte com o desenvolvimento de jogos, você vai precisar. Mas hey, pelo menos você fez algo essa semana, diferente de alguns por aqui.</p>
-<p><b>Luís Felipe Arten</b>, o "Software Engineer | Full-Stack" com míseras 8 contribuições.  "Cool (or boring) things (almost) every day"?  Pelas suas contribuições, aposto nas boring things.  DIO-lab-open-source?  Sério, você está contribuindo em laboratórios?  E o "WhyApp"?  Por que mesmo?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim" e 8 contribuições.  Go, Typescript, Rust... e um "ragna-clicker"?  Sério?  Você programa em linguagens modernas pra fazer joguinho de clicar?  E essa API do Nubank?  Ainda tentando tirar dinheiro dos outros, Rafael? Que feio.</p>
-<p><b>Felipe</b>, com 7 contribuições, o cara que nem se deu ao trabalho de preencher a bio. Pelo menos o repositório "Felipe-Takayuki" está lá, firme e forte desde 2022, sem nenhuma contribuição relevante. E esses forks aleatórios?  Parece que você está mais perdido que cego em tiroteio. </p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Imagino que seus 160 "contributions" sejam proporcionalmente divididos entre essas áreas, certo? Ou será que a maior parte foi pra consertar aquele seu perfil no Moodle de 2014? E clonar um addon de Blender pra cutout animation, belo jeito de inovar, parabéns.</p>
+<p><b>Cézar</b>, o misterioso. Tão misterioso que nem um repositório recente para analisarmos? .NET Developer, diz a bio. Espero que suas contribuições não estejam todas trancadas a sete chaves em algum projeto corporativo, senão a gente vai achar que você só sabe usar o VS Code.</p>
+<p><b>Deivid Souza Santana</b>, o "apaixonado por desenvolvimento back-end". Ah, Data Structures em Python... que original! E um site de organização de tarefas em Flask? Aposto que você é o tipo de pessoa que organiza a gaveta de meias por cor e tamanho. E seus commits, heim? Pelo visto estão bem "organizados" desde o ano passado.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Contribuindo em TypeORM e LiveKit, hein? Espero que essa paixão toda se traduza em algo mais do que apenas commits esporádicos. E, por favor, pare de contribuir em projetos com mais de 30 mil estrelas, queremos ver você brilhando sozinho!</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer". Solana, Bitcoin, Ethereum... quanta buzzword! Mas vamos ser sinceros, esse monte de bot de trading não te faz parecer mais um vendedor de curso do que um engenheiro. E "Solana AI Agent" ? Espero que a IA não descubra o quão repetitivo seu código realmente é.</p>
+<p><b>LestterX</b>, o caçador de Bitcoins. Encontrar Bitcoins com "código otimizado"? Acho que você está mais para "otimista" do que "otimizado". E essa aplicação de entregas que some depois de algumas horas? Parece a minha motivação para ir à academia. Aliás, se não persiste os dados, é melhor nem começar.</p>
+<p><b>Filipe Deschamps</b>, o "Quer se sentir competente em programação? Confere isso: curso.dev". Ah, o mestre do marketing... quer dizer, da programação! Contribuindo no TabNews, hein? Espero que seus artigos sejam mais interessantes que seus commits. E, por favor, pare de mexer nos seus dotfiles, ninguém se importa.</p>
+<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos e programador". Calcular a soma de duas variáveis em C++? Isso me lembra das minhas primeiras aulas de programação. E calcular Bhaskara? Sério? Seus jogos devem ser tão emocionantes quanto uma planilha do Excel. Mas não desista, um dia você chega lá... talvez.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Go, Typescript, Rust... o combo completo do hype! Mas vamos ser sinceros, esse Ragna clicker não parece muito promissor. E clonar uma API do Nubank? Cuidado para não ser hackeado! Mas boa sorte, um dia você sai do tutorial.</p>
+<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack". Config files para o perfil do GitHub? Que exibicionista! E contribuir no DIO Lab Open Source? Isso não conta, todo mundo faz isso. Front-end para o WhyApp? Pelo menos está tentando criar algo "cool (or boring)".</p>
+<p><b>Felipe</b>, o misterioso número 11. Sem bio, sem nada... só um repositório com o próprio nome e alguns projetos meio abandonados. Adamas com Dockerfile e Go? Parece interessante... pena que não tem descrição. E progweb3_a em CSS e Hack? Isso existe? Da próxima vez, tente ser mais específico, ou vamos achar que você é um bot.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-14 at 00:38:48 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-15 at 00:19:32 UTC +0000</i>
 <h6>
