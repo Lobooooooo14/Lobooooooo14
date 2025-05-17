@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>164 ctr.</td>
+                <td>167 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>156 ctr.</td>
+                <td>158 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>65 ctr.</td>
+                <td>73 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>21 ctr.</td>
+                <td>24 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking com 164 contribuições. Imagino que a maior parte seja em repositórios com nomes que só você entende, não é mesmo? Ah, e parabéns também por manter um fork de um projeto de 2020. Que tal contribuir com algo original de vez em quando?</p>
-<p><b>Cézar</b>, com 156 contribuições, você quase alcançou o primeiro lugar. Quase. Mas "quase" só serve para ferradura e granada, certo? E nada de atividade recente? Estava hibernando?</p>
-<p><b>Deivid Souza Santana</b>, 80 contribuições. Pelo menos você está tentando. Mas, sério, um repositório chamado "DeividSouSan/DeividSouSan"? A originalidade mandou lembranças. E "Data-Structures" em Python? Que clichê!</p>
-<p><b>Everton Marcelino Jr.</b>, 65 contribuições. Uau, você contribuiu para o TypeORM! Espero que seu pull request não tenha sido só para corrigir um erro de digitação. E middleware de autenticação? Original, hein? Mas, ei, pelo menos você está trabalhando em projetos com mais de 0 estrelas, diferente de alguns por aqui.</p>
-<p><b>TopTrenDev</b>, com 48 contribuições e especialista em Solana. Impressionante como você consegue criar tantos bots com nomes que parecem ter saído de um gerador aleatório. Mas ei, pelo menos você está criando algo, diferente de quem só comenta em issues alheias.</p>
-<p><b>LestterX</b>, 26 contribuições. Tentando encontrar bitcoins com código "otimizado"? Boa sorte com isso. Enquanto você tenta ficar rico, o resto de nós está realmente construindo coisas úteis. E converter de base2 para base16? Gênio!</p>
-<p><b>Filipe Deschamps</b>, 21 contribuições. Ah, o famoso criador de conteúdo. Imagino que a maior parte das suas contribuições seja autopromoção do seu curso, não é? Mas, ei, pelo menos seu "doom-fire-algorithm" tem mais de mil estrelas. Sinal de que você fez algo certo... ou só copiou e colou.</p>
-<p><b>Luídi Pires</b>, 14 contribuições. Front-End, Back-End, Full Stack... Ah, o famoso "faz tudo, mas não faz nada direito". E um portfólio que não mostra nada de impressionante? Que surpresa! Mas não se preocupe, o importante é ter um perfil no GitHub, certo?</p>
-<p><b>CUBE</b>, 13 contribuições. "Tentando ser desenvolvedor de jogos e programador"? Parece que a tentativa está sendo árdua. Somar duas variáveis em C++? Que inovador! Mas ei, todos começamos de algum lugar, certo? Mesmo que esse lugar seja a Idade da Pedra.</p>
-<p><b>Rafael Lima de Morais</b>, com míseras 10 contribuições. Software Engineer que usa Vim? Que original! Mas, sério, um "Ragna clicker"? Você realmente precisa expandir seus horizontes. E clonar API do Nubank? Espero que o Nubank não te processe.</p>
-<p><b>Felipe</b>, com 9 contribuições. Um repositório chamado "Felipe-Takayuki/Felipe-Takayuki"? É sério isso? E um projeto chamado "Adamas"? Que nome épico para... nada? Mas não se preocupe, o importante é ter um perfil no GitHub, mesmo que ele esteja praticamente vazio.</p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o mestre dos jogos, 3D e web. Imagino que seus 167 commits foram cruciais para aquele moodle-profilefield_cpf de 2014, hein? E o fork do coa_tools2? Absolutamente *essencial*. Continue assim, quem sabe um dia você cria algo que as pessoas realmente usem além de 2025.</p>
+<p><b>Cézar</b>, com seus 158 commits e... *nenhum* repositório recente para comentar. Imagino que você esteja guardando o melhor para o próximo mês, ou talvez apenas admirando o código dos outros. Afinal, quem precisa de projetos quando se tem a beleza do .NET para contemplar?</p>
+<p><b>Deivid Souza Santana</b>, o back-end apaixonado com 80 contribuições. Vejo que você anda brincando com Data Structures em Python. Que ousadia! Mas, sério, "Taskmaster"? Espero que o nome seja irônico, porque com um Makefile e JavaScript juntos, a única tarefa que você está masterizando é a de me confundir.</p>
+<p><b>Everton Marcelino Jr.</b>, com 73 contribuições e envolvido no TypeORM. Parabéns por contribuir para um projeto com mais de 35 mil estrelas. Aposto que seus commits foram os responsáveis por esse sucesso estrondoso. E aquele middleware de autenticação? *Relevante* como sempre.</p>
+<p><b>TopTrenDev</b>, o gênio blockchain com 48 contribuições e um exército de bots Solana. Sério, "pumpfun-bundler"? Parece que alguém está levando a sério demais essa coisa de criptomoedas. Mas ei, pelo menos você está ocupado. Ou será que só está criando mais spam para a rede?</p>
+<p><b>LestterX</b>, com 26 contribuições e uma obsessão por encontrar bitcoins. "Naive code to find bitcoins"? Que fofo! Parece que alguém está sonhando em ficar rico rápido. Mas ei, pelo menos você está otimizando o código. Quem sabe um dia você realmente encontre algo além de decepção.</p>
+<p><b>Filipe Deschamps</b>, o guru da programação com 24 contribuições. Vejo que seus dotfiles estão impecáveis. E o "doom-fire-algorithm"? Nostalgia pura! Mas, sério, você realmente quer que as pessoas se sintam competentes em programação? Porque seus projetos parecem mais uma viagem no tempo do que um passo para o futuro.</p>
+<p><b>Luídi Pires</b>, o "Full Stack" com 14 contribuições. Um portfólio, um "Pixels-Art" e um "E-CommerceX". Imagino que você esteja dominando o mercado com tanta versatilidade. Mas, sério, talvez seja hora de focar em *uma* coisa e fazer bem. Ou continue sendo um faz-tudo medíocre, a escolha é sua.</p>
+<p><b>CUBE</b>, o aspirante a desenvolvedor de jogos com 13 contribuições. Somar duas variáveis em C++? Calcular Bhaskara? Que audácia! Com projetos tão complexos, não é surpresa que você ainda esteja "tentando". Mas ei, continue praticando, quem sabe um dia você consiga criar um jogo que não seja entediante.</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer" com 10 contribuições. Ragna clicker? Sério? Parece que alguém está com saudades dos anos 2000. E aquele fork da API do Nubank? Espero que você tenha lido os termos de serviço antes de começar a brincar com o dinheiro dos outros. Afinal, "vim" não vai te salvar de um processo.</p>
+<p><b>Eduardo Bezerra</b>, o "Tamo na roça..." com 9 contribuições. Um website, um bot para Discord e um banco de dados. Que diversidade! Mas, sério, "Eduardo-s-Website"? Parece que alguém está precisando de umas aulas de design. E o bot "Jack"? Espero que ele seja mais útil do que seus commits.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-16 at 00:20:57 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-17 at 00:20:20 UTC +0000</i>
 <h6>
