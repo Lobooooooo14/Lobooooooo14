@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>73 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,27 +56,27 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>26 ctr.</td>
+                <td>36 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>14 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/genericocube">CUBE</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/genericocube">CUBE</a></td>
+                <td>13 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o mestre dos jogos, 3D e web. Imagino que seus 167 commits foram cruciais para aquele moodle-profilefield_cpf de 2014, hein? E o fork do coa_tools2? Absolutamente *essencial*. Continue assim, quem sabe um dia você cria algo que as pessoas realmente usem além de 2025.</p>
-<p><b>Cézar</b>, com seus 158 commits e... *nenhum* repositório recente para comentar. Imagino que você esteja guardando o melhor para o próximo mês, ou talvez apenas admirando o código dos outros. Afinal, quem precisa de projetos quando se tem a beleza do .NET para contemplar?</p>
-<p><b>Deivid Souza Santana</b>, o back-end apaixonado com 80 contribuições. Vejo que você anda brincando com Data Structures em Python. Que ousadia! Mas, sério, "Taskmaster"? Espero que o nome seja irônico, porque com um Makefile e JavaScript juntos, a única tarefa que você está masterizando é a de me confundir.</p>
-<p><b>Everton Marcelino Jr.</b>, com 73 contribuições e envolvido no TypeORM. Parabéns por contribuir para um projeto com mais de 35 mil estrelas. Aposto que seus commits foram os responsáveis por esse sucesso estrondoso. E aquele middleware de autenticação? *Relevante* como sempre.</p>
-<p><b>TopTrenDev</b>, o gênio blockchain com 48 contribuições e um exército de bots Solana. Sério, "pumpfun-bundler"? Parece que alguém está levando a sério demais essa coisa de criptomoedas. Mas ei, pelo menos você está ocupado. Ou será que só está criando mais spam para a rede?</p>
-<p><b>LestterX</b>, com 26 contribuições e uma obsessão por encontrar bitcoins. "Naive code to find bitcoins"? Que fofo! Parece que alguém está sonhando em ficar rico rápido. Mas ei, pelo menos você está otimizando o código. Quem sabe um dia você realmente encontre algo além de decepção.</p>
-<p><b>Filipe Deschamps</b>, o guru da programação com 24 contribuições. Vejo que seus dotfiles estão impecáveis. E o "doom-fire-algorithm"? Nostalgia pura! Mas, sério, você realmente quer que as pessoas se sintam competentes em programação? Porque seus projetos parecem mais uma viagem no tempo do que um passo para o futuro.</p>
-<p><b>Luídi Pires</b>, o "Full Stack" com 14 contribuições. Um portfólio, um "Pixels-Art" e um "E-CommerceX". Imagino que você esteja dominando o mercado com tanta versatilidade. Mas, sério, talvez seja hora de focar em *uma* coisa e fazer bem. Ou continue sendo um faz-tudo medíocre, a escolha é sua.</p>
-<p><b>CUBE</b>, o aspirante a desenvolvedor de jogos com 13 contribuições. Somar duas variáveis em C++? Calcular Bhaskara? Que audácia! Com projetos tão complexos, não é surpresa que você ainda esteja "tentando". Mas ei, continue praticando, quem sabe um dia você consiga criar um jogo que não seja entediante.</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer" com 10 contribuições. Ragna clicker? Sério? Parece que alguém está com saudades dos anos 2000. E aquele fork da API do Nubank? Espero que você tenha lido os termos de serviço antes de começar a brincar com o dinheiro dos outros. Afinal, "vim" não vai te salvar de um processo.</p>
-<p><b>Eduardo Bezerra</b>, o "Tamo na roça..." com 9 contribuições. Um website, um bot para Discord e um banco de dados. Que diversidade! Mas, sério, "Eduardo-s-Website"? Parece que alguém está precisando de umas aulas de design. E o bot "Jack"? Espero que ele seja mais útil do que seus commits.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, primeiro lugar com 167 contribuições! Parabéns... por ser o menos pior. Vejo que você mexe com Blender e cria uns joguinhos. Continue assim, quem sabe um dia você consegue criar algo que as pessoas realmente joguem e não só usem como teste para a placa de vídeo.</p>
+<p><b>Cézar</b>, vice-campeão com 158 contribuições. .NET Developer, hein? Que emocionante. Me conta, você também acha que .NET é a solução para todos os problemas do universo ou só está seguindo a manada? Ah, espera, não tem atividade recente. Devo presumir que você está muito ocupado "desenvolvendo"?</p>
+<p><b>Deivid Souza Santana</b>, 80 contribuições. Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end. Que clichê! Mas ei, pelo menos você está tentando. Vi que você anda brincando com Python e Flask. Só não se esqueça de aprender a fazer um README decente para seus projetos, ok?</p>
+<p><b>Everton Marcelino Jr.</b>, com 77 contribuições. "Apaixonado por tecnologia", que nem metade do planeta. Contribuiu no TypeORM, Client SDK Flutter e Formbricks. Uau, que mix de tecnologias aleatórias. Está tentando aprender tudo de uma vez? Boa sorte com isso.</p>
+<p><b>TopTrenDev</b>, 48 contribuições. "Solana Specialist", diz ele. Ah, o mundo das criptomoedas... Que lugar promissor para perder dinheiro. Vejo que você está criando uns bots de trading. Espero que você esteja ganhando mais dinheiro do que gastando em eletricidade.</p>
+<p><b>LestterX</b>, com 36 contribuições. Pelo visto, decidiu virar caçador de Bitcoins, que original. Só não gaste toda a sua energia tentando achar algo que provavelmente já foi perdido para sempre. E, por favor, pare de fazer fork de projetos e chamá-los de "otimizados".</p>
+<p><b>Rafael Lima de Morais</b>, míseras 26 contribuições. "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo impressionante! Pena que suas contribuições não refletem essa grandiosidade toda. E esse "Ragna clicker"? Sério? É o melhor que você consegue fazer?</p>
+<p><b>Filipe Deschamps</b>, 25 contribuições. Ah, o guru dos cursos online! Imagino que você esteja muito ocupado vendendo promessas de uma vida melhor através da programação para ter tempo para contribuir de verdade. Mas ei, pelo menos você tem uns "dotfiles" legais.</p>
+<p><b>Luídi Pires</b>, 17 contribuições. "Front-End | Back-End | Full Stack". Clássico. Mas pelo visto, "Full Stack" só no currículo, né? Seus projetos parecem ter parado no tempo. Que tal dar uma atualizada neles antes de se gabar por ser "Full Stack"?</p>
+<p><b>CUBE</b>, com apenas 13 contribuições. "Tentando ser desenvolvedor de jogos e programador". Tentando é a palavra-chave aqui. Somar duas variáveis em C++? Calcular Bhaskara? Que projetos inovadores! Continue assim e você vai dominar o mundo... dos tutoriais básicos.</p>
+<p><b>Eduardo Bezerra</b>, o lanterninha com 9 contribuições. "Tamo na roça...", e pelo visto, vai continuar por lá. Um bot simples para Discord? Que original! E um website pessoal que não é atualizado há meses? Parabéns, você está seguindo todos os clichês de um aspirante a programador.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-17 at 00:20:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-18 at 00:22:28 UTC +0000</i>
 <h6>
