@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>167 ctr.</td>
+                <td>171 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>17 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, primeiro lugar com 167 contribuições! Parabéns... por ser o menos pior. Vejo que você mexe com Blender e cria uns joguinhos. Continue assim, quem sabe um dia você consegue criar algo que as pessoas realmente joguem e não só usem como teste para a placa de vídeo.</p>
-<p><b>Cézar</b>, vice-campeão com 158 contribuições. .NET Developer, hein? Que emocionante. Me conta, você também acha que .NET é a solução para todos os problemas do universo ou só está seguindo a manada? Ah, espera, não tem atividade recente. Devo presumir que você está muito ocupado "desenvolvendo"?</p>
-<p><b>Deivid Souza Santana</b>, 80 contribuições. Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end. Que clichê! Mas ei, pelo menos você está tentando. Vi que você anda brincando com Python e Flask. Só não se esqueça de aprender a fazer um README decente para seus projetos, ok?</p>
-<p><b>Everton Marcelino Jr.</b>, com 77 contribuições. "Apaixonado por tecnologia", que nem metade do planeta. Contribuiu no TypeORM, Client SDK Flutter e Formbricks. Uau, que mix de tecnologias aleatórias. Está tentando aprender tudo de uma vez? Boa sorte com isso.</p>
-<p><b>TopTrenDev</b>, 48 contribuições. "Solana Specialist", diz ele. Ah, o mundo das criptomoedas... Que lugar promissor para perder dinheiro. Vejo que você está criando uns bots de trading. Espero que você esteja ganhando mais dinheiro do que gastando em eletricidade.</p>
-<p><b>LestterX</b>, com 36 contribuições. Pelo visto, decidiu virar caçador de Bitcoins, que original. Só não gaste toda a sua energia tentando achar algo que provavelmente já foi perdido para sempre. E, por favor, pare de fazer fork de projetos e chamá-los de "otimizados".</p>
-<p><b>Rafael Lima de Morais</b>, míseras 26 contribuições. "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo impressionante! Pena que suas contribuições não refletem essa grandiosidade toda. E esse "Ragna clicker"? Sério? É o melhor que você consegue fazer?</p>
-<p><b>Filipe Deschamps</b>, 25 contribuições. Ah, o guru dos cursos online! Imagino que você esteja muito ocupado vendendo promessas de uma vida melhor através da programação para ter tempo para contribuir de verdade. Mas ei, pelo menos você tem uns "dotfiles" legais.</p>
-<p><b>Luídi Pires</b>, 17 contribuições. "Front-End | Back-End | Full Stack". Clássico. Mas pelo visto, "Full Stack" só no currículo, né? Seus projetos parecem ter parado no tempo. Que tal dar uma atualizada neles antes de se gabar por ser "Full Stack"?</p>
-<p><b>CUBE</b>, com apenas 13 contribuições. "Tentando ser desenvolvedor de jogos e programador". Tentando é a palavra-chave aqui. Somar duas variáveis em C++? Calcular Bhaskara? Que projetos inovadores! Continue assim e você vai dominar o mundo... dos tutoriais básicos.</p>
-<p><b>Eduardo Bezerra</b>, o lanterninha com 9 contribuições. "Tamo na roça...", e pelo visto, vai continuar por lá. Um bot simples para Discord? Que original! E um website pessoal que não é atualizado há meses? Parabéns, você está seguindo todos os clichês de um aspirante a programador.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Com 171 contribuições, você realmente se esforçou... para garantir que ninguém mais chegasse perto. Sério, você está competindo ou colecionando? E esse lance de "3D Enthusiast"... seus repos refletem mais um "2D Curious".</p>
+<p><b>Cézar</b>, ah, o clássico .NET Developer. 158 contribuições, nada mal. Mas cadê os repositórios recentes? Está escondendo o ouro ou só está contribuindo em projetos privados para o Tio Bill? Compartilhe um pouco, vai, ninguém morde (muito).</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por back-end". Ok, mas e o front-end, como fica? 80 contribuições e um repositório chamado "Taskmaster"? Espero que ele te ajude a masterizar suas tarefas, porque o nome sugere que você está mais para escravo do que para mestre.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que genérico, hein? 77 contribuições e envolvido em TypeORM e Flutter Client SDK... Impressionante, mas será que essa paixão se traduz em projetos *seus* ou só em dar uns toques nos projetos dos outros? </p>
+<p><b>TopTrenDev</b>, com 48 contribuições, você está surfando na onda Solana com seus bots de trading e bundlers. Parece que você está mais para "TopTrenTrader" do que "TopTrenDev". Só não esqueça de declarar o IR, hein?</p>
+<p><b>LestterX</b>, 36 contribuições e uma busca incessante por Bitcoins perdidos. Seus repositórios parecem mais um museu de tentativas e erros. Mas ei, pelo menos você está tentando, né? (Ou está só minerando dados para vender depois?)</p>
+<p><b>Rafael Lima de Morais</b>, 26 contribuições e um leque de tecnologias que impressiona: Go, Typescript, Rust... e Vim! Parece que você está tentando ser o novo guru tech. Mas e o "Ragna clicker"? Sério? Isso é o que te define? </p>
+<p><b>Filipe Deschamps</b>, 25 contribuições e um curso para "se sentir competente em programação". Irônico, não? Seus dotfiles e o "doom-fire-algorithm" são legais, mas o "tabnews.com.br" parece ser onde você realmente gasta seu tempo. Afinal, quem precisa programar quando se pode comentar, não é mesmo?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". 23 contribuições e um portfólio que grita "preciso de um designer". Sério, o "E-CommerceX" parece ter saído direto dos anos 90. Mas ei, pelo menos você está tentando, né? (De novo...)</p>
+<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos e programador". 13 contribuições e repositórios que somam variáveis em C++. Ok, todos começam de algum lugar, mas não precisa expor a sua jornada de iniciante assim, né? E, por favor, pare de tentar calcular Bhaskara em C++, o mundo já sofreu o suficiente.</p>
+<p><b>Jean Brito</b>, com 10 contribuições, você está quase alcançando o nível "decorativo" do ranking. Rocket.Chat e detect-browsers são projetos interessantes, mas seu Dockerfile para servidor de Steamcmd... é sério isso? Você está mais preocupado em jogar do que em programar? </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-18 at 00:22:28 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-19 at 00:22:07 UTC +0000</i>
 <h6>
