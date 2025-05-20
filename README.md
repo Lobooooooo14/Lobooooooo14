@@ -30,23 +30,23 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>171 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>182 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>158 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>176 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>80 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>83 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>77 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>80 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/genericocube">CUBE</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>15 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Com 171 contribuições, você realmente se esforçou... para garantir que ninguém mais chegasse perto. Sério, você está competindo ou colecionando? E esse lance de "3D Enthusiast"... seus repos refletem mais um "2D Curious".</p>
-<p><b>Cézar</b>, ah, o clássico .NET Developer. 158 contribuições, nada mal. Mas cadê os repositórios recentes? Está escondendo o ouro ou só está contribuindo em projetos privados para o Tio Bill? Compartilhe um pouco, vai, ninguém morde (muito).</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por back-end". Ok, mas e o front-end, como fica? 80 contribuições e um repositório chamado "Taskmaster"? Espero que ele te ajude a masterizar suas tarefas, porque o nome sugere que você está mais para escravo do que para mestre.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que genérico, hein? 77 contribuições e envolvido em TypeORM e Flutter Client SDK... Impressionante, mas será que essa paixão se traduz em projetos *seus* ou só em dar uns toques nos projetos dos outros? </p>
-<p><b>TopTrenDev</b>, com 48 contribuições, você está surfando na onda Solana com seus bots de trading e bundlers. Parece que você está mais para "TopTrenTrader" do que "TopTrenDev". Só não esqueça de declarar o IR, hein?</p>
-<p><b>LestterX</b>, 36 contribuições e uma busca incessante por Bitcoins perdidos. Seus repositórios parecem mais um museu de tentativas e erros. Mas ei, pelo menos você está tentando, né? (Ou está só minerando dados para vender depois?)</p>
-<p><b>Rafael Lima de Morais</b>, 26 contribuições e um leque de tecnologias que impressiona: Go, Typescript, Rust... e Vim! Parece que você está tentando ser o novo guru tech. Mas e o "Ragna clicker"? Sério? Isso é o que te define? </p>
-<p><b>Filipe Deschamps</b>, 25 contribuições e um curso para "se sentir competente em programação". Irônico, não? Seus dotfiles e o "doom-fire-algorithm" são legais, mas o "tabnews.com.br" parece ser onde você realmente gasta seu tempo. Afinal, quem precisa programar quando se pode comentar, não é mesmo?</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". 23 contribuições e um portfólio que grita "preciso de um designer". Sério, o "E-CommerceX" parece ter saído direto dos anos 90. Mas ei, pelo menos você está tentando, né? (De novo...)</p>
-<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos e programador". 13 contribuições e repositórios que somam variáveis em C++. Ok, todos começam de algum lugar, mas não precisa expor a sua jornada de iniciante assim, né? E, por favor, pare de tentar calcular Bhaskara em C++, o mundo já sofreu o suficiente.</p>
-<p><b>Jean Brito</b>, com 10 contribuições, você está quase alcançando o nível "decorativo" do ranking. Rocket.Chat e detect-browsers são projetos interessantes, mas seu Dockerfile para servidor de Steamcmd... é sério isso? Você está mais preocupado em jogar do que em programar? </p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o "<i>.NET Developer</i>". Presumo que os 182 commits foram para corrigir erros de digitação em comentários, certo? Porque contribuição de verdade que é bom, nada. Parabéns por liderar o ranking, mas a barra está bem baixa, não se iluda.</p>
+<p><b>Danilo Nobre</b>, "<i>Full-stack, Game dev e 3D Enthusiast</i>". Que currículo! Mas vamos ser honestos, a maior parte do seu tempo é gasto debugando aquele addon do Blender, não é? E que dizer do "<i>Space Wizard Studios</i>"? O nome é promissor, mas o site parece que foi feito com o saudoso Flash. Continue tentando, talvez um dia você crie algo que não precise de óculos 3D para ser interessante.</p>
+<p><b>Everton Marcelino Jr.</b>, "<i>apaixonado por tecnologia</i>". Que clichê! Mas, ei, pelo menos você mexeu no TypeORM, o que é algo. Contudo, não se engane, 35331 estrelas não significam que seu código seja bom. E o que dizer daquele middleware de autenticação que não vê a luz do dia desde janeiro? Talvez a paixão não seja suficiente, tente colocar um pouco de "<i>ação</i>" no seu trabalho.</p>
+<p><b>Deivid Souza Santana</b>, "<i>apaixonado por desenvolvimento back-end</i>". Imagino você, altas madrugadas adentro, debugando seu código Python. Mas cá entre nós, criar um repositório com o próprio nome e deixá-lo vazio não conta como contribuição. E esses seus projetos de faculdade? Bonitinhos, mas poderiam estar em um museu de tecnologias obsoletas. Desencana, <i>DeividSouSan/DeividSouSan</i>, isso não vai te levar a Marte.</p>
+<p><b>TopTrenDev</b>, "<i>Full-Stack & Blockchain Developer, Solana Specialist</i>". Ah, o especialista em Solana! Aposto que você está ganhando rios de dinheiro com esses bots de trading, certo? Ou será que está só tentando ficar rico rápido com Pump and Dump? De qualquer forma, cuidado para não se afogar nesse mar de criptomoedas. E da próxima vez, tente criar algo que não precise de tantos "<i>bundlers</i>" para funcionar.</p>
+<p><b>LestterX</b>, sem bio, sem mistério. Pelo visto, você está tentando encontrar bitcoins perdidos. Boa sorte com isso, porque a julgar pelo seu repositório "<i>app-entregas-v1</i>", seus dados também vão desaparecer em algumas horas. E convenhamos, otimizar código para encontrar bitcoins roubados não é exatamente o que chamamos de "<i>contribuição</i>" para a comunidade open source. Mas ei, quem sabe você não fica rico no processo, né?</p>
+<p><b>Rafael Lima de Morais</b>, "<i>Software Engineer | Go | Typescript | Rust | Vim</i>". Nossa, que currículo invejável! Pena que a maior parte do seu tempo é gasto criando clickers de Ragnarok. E o que dizer dessa API para o Nubank? Sério, <i>Rafael</i>, você realmente acha que o mundo precisa de mais uma forma de acessar o extrato bancário? Com tantas tecnologias, você escolheu gastar seu tempo com isso? Que desperdício!</p>
+<p><b>Filipe Deschamps</b>, "<i>Quer se sentir competente em programação? Confere isso: https://curso.dev</i>". Ah, o mestre do marketing! Pelo menos você tem alguns projetos interessantes, como o "<i>doom-fire-algorithm</i>". Mas vamos ser sinceros, a maior parte do seu tempo é gasto divulgando seu curso, não é? E que dizer do "<i>tabnews.com.br</i>"? Um clone do Reddit com esteróides? Continue tentando, quem sabe um dia você crie algo realmente original.</p>
+<p><b>Luídi Pires</b>, "<i>Front-End | Back-End | Full Stack</i>". Parabéns pela ambição, mas a julgar pelo seu portfólio, você ainda tem um longo caminho a percorrer. E que dizer desse "<i>E-CommerceX</i>"? Parece que foi feito na época do Orkut. Mas não desanime, com um pouco mais de esforço, você pode sair do zero e chegar ao... um. Mas ei, pelo menos você tem um repositório com seu nome, o que já é mais do que alguns outros podem dizer.</p>
+<p><b>Felipe</b>, sem bio, sem comentários. Mas vamos lá, "<i>REPOSITÓRIO</i>" como descrição? Sério? E o projeto "<i>Adamas</i>"? Parece promissor, mas a julgar pela última atualização, está mais para "<i>Adormecido</i>". E para piorar, ainda usa Dockerfile e Go. Pelo menos, da próxima vez, tente criar algo que não precise de tantas tecnologias para fazer algo simples.</p>
+<p><b>CUBE</b>, "<i>tentando ser desenvolvedor de jogos e programador</i>". Pelo menos você é honesto. Mas vamos ser sinceros, criar um programa para somar duas variáveis em C++ não impressiona ninguém em 2025. E calcular Bhaskara? Isso é coisa do ensino fundamental! Mas não desanime, com um pouco mais de esforço, você pode sair do nível "<i>aprendiz de feiticeiro</i>" e se tornar um... "<i>mago iniciante</i>".</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-19 at 00:22:07 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-20 at 00:21:31 UTC +0000</i>
 <h6>
