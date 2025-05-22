@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>199 ctr.</td>
+                <td>210 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>196 ctr.</td>
+                <td>205 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>89 ctr.</td>
+                <td>97 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,27 +51,27 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>48 ctr.</td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>36 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>28 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>25 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>23 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão da irrelevância! 199 contribuições e nenhum repositório recente para mostrar? Imagino que sua bio de ".NET Developer" seja apenas uma forma elegante de dizer "especialista em copiar e colar do Stack Overflow".</p>
-<p><b>Danilo Nobre</b>, o renascentista moderno. Full-stack, game dev e entusiasta de 3D. Seus repositórios recentes mostram um interesse eclético: um plugin de CPF para Moodle (alguém ainda usa isso?), um addon de Blender para cutout animation (fork de 2020, que beleza!) e um site de portfólio. Imagino que a quantidade de tecnologias que você domina seja diretamente proporcional à profundidade do seu conhecimento em cada uma.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Sua contribuição para o TypeORM impressiona... até você perceber que ele também mexeu em um middleware de autenticação abandonado em 2025-01-03 e um SDK Flutter para LiveKit. Diversificação é a chave, dizem. Ou seria falta de foco?</p>
-<p><b>Deivid Souza Santana</b>, o futuro do back-end (segundo ele mesmo). Um repositório pessoal com o próprio nome (original!), um projeto de estruturas de dados (será que ele realmente usa?) e um website de organização de tarefas (porque o mundo precisava de mais um). Mas ei, pelo menos ele está praticando Python. Um dia ele chega lá.</p>
-<p><b>TopTrenDev</b>, o especialista em Solana. Bots de trading, bundlers de PumpFun, agentes de IA... tudo em TypeScript. Parece que alguém está tentando pegar a onda das criptomoedas antes que ela quebre. Boa sorte com isso. Você vai precisar.</p>
-<p><b>LestterX</b>, um nome, um mistério. Uma aplicação que não persiste dados (para que se preocupar, certo?), um "naive code" para encontrar Bitcoins (porque a ingenuidade é a chave do sucesso) e um conversor de base2 para base16 (útil para... algo?). Pelo menos ele está tentando.</p>
-<p><b>Rafael Lima de Morais</b>, o polímata. Go, TypeScript, Rust e Vim. Um clicker de Ragnarok (nostalgia?), um projeto de game dev e uma API para o Nubank (fork, claro). Seus interesses são tão variados que fica difícil saber o que ele realmente faz. Mas ei, pelo menos ele usa Vim.</p>
-<p><b>Filipe Deschamps</b>, o influenciador. Dotfiles, um playground para o efeito de fogo de DOOM (clássico!), um parser de Google Docs e o TabNews. Parece que alguém está mais preocupado em criar conteúdo do que em realmente programar. Mas quem sou eu para julgar? Afinal, ele tem um curso.dev para vender.</p>
-<p><b>Luídi Pires</b>, o "Full Stack" genérico. Um repositório pessoal (mais um!), um portfólio (que bom que ele avisou!), um projeto de Pixel Art e um "E-CommerceX" (a originalidade grita!). Alguém precisa decidir se quer ser front-end ou back-end, porque "Full Stack" não significa "faz tudo mal feito".</p>
-<p><b>Felipe</b>, o discreto. Um repositório com o próprio nome (a saga continua), um projeto chamado "Adamas" (com backend e frontend separados, olha só!), mas pouquíssimas contribuições. Talvez ele esteja guardando o melhor para o final. Ou talvez não.</p>
-<p><b>CUBE</b>, o aspirante a desenvolvedor de jogos. Um programa para somar duas variáveis em C++ (uau!) e outro para calcular Bhaskara (que gênio!). Parece que alguém está começando do começo... bem do começo. Mas ei, todo mundo precisa começar de algum lugar.</p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o campeão dos 210 <i>"contributions"</i>. Imagino que a maior parte seja ajustar espaçamento em arquivos README, não é? Mas ei, alguém tem que fazer o trabalho sujo. Parabéns por ser o rei da organização... ou algo assim.</p>
+<p><b>Danilo Nobre</b>, um gênio <i>full-stack</i> que também encontra tempo para devorar conteúdo de jogos e modelagem 3D. Contudo, sua contribuição mais recente num repositório foi há mais de uma semana. Espero que sua paixão por jogos não esteja te distraindo do mundo real do código. Afinal, alguém precisa pagar as contas, certo?</p>
+<p><b>Everton Marcelino Jr.</b>, vejo que você anda se aventurando em projetos de terceiros, mexendo aqui e ali. Que bom que você está se inspirando no trabalho dos outros, porque, sejamos sinceros, é mais fácil do que criar algo do zero. Mas não se esqueça de dar os créditos, viu?</p>
+<p><b>Deivid Souza Santana</b>, estudante apaixonado por back-end, mas será que essa paixão se traduz em algo além de exercícios de faculdade? Seu repositório de estruturas de dados não é atualizado há um ano. Talvez seja hora de tirar a poeira e mostrar que você realmente aprendeu alguma coisa, ou vai continuar sendo só um "estudante apaixonado"?</p>
+<p><b>TopTrenDev</b>, especialista em <i>blockchain</i> e outras buzzwords da moda. Seus bots de <i>trading</i> e bundlers parecem promissores... se você souber o que está fazendo. Só espero que você não esteja contribuindo mais para o hype do que para a tecnologia de verdade. Porque, no fim das contas, o hype acaba, mas o código fica.</p>
+<p><b>LestterX</b>, com seus repositórios de "encontrar bitcoins" e "converter bases numéricas", você parece estar trilhando um caminho interessante... para a obscuridade. Mas ei, pelo menos você está tentando, certo? Só não espere ficar rico com isso. Afinal, se fosse fácil, todo mundo estaria fazendo.</p>
+<p><b>Luídi Pires</b>, um verdadeiro faz-tudo: <i>front-end</i>, <i>back-end</i>, <i>full-stack</i>... Será que você realmente domina alguma dessas áreas, ou só sabe um pouco de cada? Seu portfólio não parece ter muita coisa além de projetos básicos. Talvez seja hora de se especializar em algo, ou vai continuar sendo só um "Luídi PiresHub" genérico.</p>
+<p><b>Rafael Lima de Morais</b>, engenheiro de <i>software</i> que adora Go, Typescript e Rust. Mas será que essa paixão se traduz em projetos de verdade? Seu "Ragna clicker" não é atualizado há quase um ano. Talvez seja hora de parar de brincar com joguinhos e começar a construir algo que realmente resolva um problema, ou vai continuar sendo só um "RafaZeero" qualquer?</p>
+<p><b>Filipe Deschamps</b>, o mestre dos <i>dotfiles</i> e algoritmos de fogo do DOOM. Pelo menos você tem um curso para vender, né? Porque, sejamos sinceros, seus projetos pessoais não parecem estar indo a lugar nenhum. Mas ei, alguém tem que ganhar dinheiro com a ignorância alheia, certo?</p>
+<p><b>Felipe</b>, com apenas 15 <i>"contributions"</i>, você está quase conseguindo ser invisível. Seu repositório "Felipe-Takayuki" é tão genérico que nem merece comentários. Mas ei, pelo menos você está na lista, certo? Só não espere que alguém se impressione com isso.</p>
+<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos e programador"... Tentando é a palavra-chave aqui. Seus projetos de "soma de variáveis em C++" e "calcular Bhaskara" são tão básicos que até uma calculadora faria melhor. Mas ei, todo mundo começa de algum lugar, certo? Só não espere que esse lugar seja no topo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-21 at 00:21:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-22 at 00:20:48 UTC +0000</i>
 <h6>
