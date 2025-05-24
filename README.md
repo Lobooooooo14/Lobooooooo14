@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>210 ctr.</td>
+                <td>213 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>113 ctr.</td>
+                <td>124 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,27 +51,27 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>70 ctr.</td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>48 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>41 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>37 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>37 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>34 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>25 ctr.</td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o "<i>.NET Developer</i>". Presumo que os 210 pontos sejam o número de vezes que você reiniciou o Visual Studio este mês. Conte para nós, qual a mágica para não ter nenhum repositório de atividade recente?</p>
-<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Tantas paixões e apenas 210 contribuições? Pelo menos você está mantendo vivo o legado do PHP com aquele "moodle-profilefield_cpf" de 2014. E parabéns por forkar um addon de Blender, quem sabe um dia você o use para algo além de admirá-lo.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que nem sequer se deu ao trabalho de colocar uma foto no perfil. Seus 113 pontos devem ser de tanto fuçar no TypeORM. E o que dizer daquela contribuição no formbricks? Cuidado para não se perder em meio a tantos frameworks e acabar criando mais um.</p>
-<p><b>Deivid Souza Santana</b>, o "apaixonado por back-end". 80 contribuições e um repositório chamado "MeEsqueci"? Espero que não seja uma auto-descrição. E esse "Taskmaster" em Flask, está te ajudando a lembrar de contribuir mais?</p>
-<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer". 70 contribuições e um exército de bots de trading em Solana? Espero que pelo menos um deles esteja dando lucro, porque contribuições para a comunidade, que é bom, nada. Seus pumpfun-bundler estão realmente revolucionando o mundo, ou apenas inflando o seu ego?</p>
-<p><b>LestterX</b>, com 37 contribuições e a audácia de buscar bitcoins com código "naive". Espero que você tenha mais sorte do que o resto de nós. E essa aplicação de entregas que some com os dados depois de algumas horas? Genial, como tudo na sua lista de atividades recentes.</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". 37 contribuições e um portfólio que parece ter sido feito em 2005. E esse "E-CommerceX" com HTML e CSS, é uma piada interna? Sério, atualize isso antes que alguém pense que você parou no tempo.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". 34 contribuições e um clicker de Ragnarok? Sério? E o que dizer daquele fork da API do Nubank? Pelo menos você está tentando facilitar a vida dos outros, mesmo que seja só para ver o saldo bancário.</p>
-<p><b>Filipe Deschamps</b>, o "influenciador". Apenas 25 contribuições? Imagino que esteja muito ocupado vendendo cursos para ter tempo de programar. Pelo menos o "doom-fire-algorithm" ainda está aí para nos lembrar dos bons tempos. E o TabNews, continua sendo mais interessante que suas contribuições.</p>
-<p><b>Felipe</b>, com meras 15 contribuições. Seu repositório "Felipe-Takayuki/Felipe-Takayuki" é tão misterioso quanto sua bio. E esse projeto Adamas, pelo menos está te dando alguma experiência, ou é só mais um repositório abandonado?</p>
-<p><b>CUBE</b>, "tentando ser desenvolvedor de jogos e programador". 13 contribuições e projetos de soma de variáveis e Bhaskara em C++? Não desista, um dia você chega lá. Mas talvez seja melhor começar com algo um pouco mais ambicioso, tipo um "Hello, World!" em Unity.</p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o desenvolvedor .NET que lidera a lista com 213 contribuições. Imagino que esteja contribuindo tanto que já deve ter automatizado o próprio café da manhã. Será que ele programa até para dormir?</p>
+<p><b>Danilo Nobre</b>, o mestre dos jogos e 3D, colado em segundo lugar com 210 contribuições. Será que ele usa o GitHub para versionar os modelos 3D dos jogos? Pelo menos o portfólio da Space Wizard Studios está em dia, né? Alguém precisa pagar as contas.</p>
+<p><b>Everton Marcelino Jr.</b>, o terceiro colocado com 124 contribuições. Contribuindo para o TypeORM, para garantir que os dados persistam mesmo depois de um apagão. Pelo menos ele está antenado com as tecnologias da moda, contribuindo até para um SDK Flutter. Só espero que não se perca no meio de tantos frameworks.</p>
+<p><b>Deivid Souza Santana</b>, o estudante de back-end que ocupa o quarto lugar com 80 contribuições. Parece que está mais preocupado em esquecer as coisas do que em realmente contribuir, já que tem um repositório chamado "MeEsqueci". Mas ei, pelo menos ele está praticando design patterns em Python. Um dia chega lá.</p>
+<p><b>TopTrenDev</b>, o especialista em blockchain que está em quinto lugar com 71 contribuições. Com tanto bot de trading e pumpfun, será que ele realmente entende o que está fazendo ou só está surfando na onda das criptomoedas? Pelo menos ele está atualizado com as últimas tendências, criando até um "Solana AI Agent".</p>
+<p><b>Luídi Pires</b>, o "Full Stack" que amealhou 48 contribuições. Entre um "E-CommerceX" e um "Pixels-Art", resta saber onde realmente mora o talento. Que o portfólio dele pelo menos esteja apresentável, já que o próprio hub parece meio abandonado. Afinal, a primeira impressão é a que fica, certo?</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que se gaba de usar Vim, mas só conseguiu 41 contribuições. Entre forks de APIs do Nubank e projetos "brand monitor test", fica a dúvida se ele realmente sabe o que está fazendo ou só está brincando de engenheiro. Go, Typescript e Rust, mas cadê o resultado?</p>
+<p><b>LestterX</b>, o anônimo da lista com 37 contribuições. Entre "achar bitcoins" e "converter bases numéricas", parece que está mais perdido do que achado. Pelo menos ele avisa que a "app-entregas-v1" não persiste os dados. Honestidade é tudo, né?</p>
+<p><b>Filipe Deschamps</b>, o guru da programação que oferece um "curso.dev" para quem quer se sentir competente, mas só contribuiu 27 vezes. Entre um "doom-fire-algorithm" e o "tabnews.com.br", fica a dúvida se ele realmente programa ou só vende cursos. Mas ei, pelo menos ele tem um bom número de stargazers.</p>
+<p><b>Felipe</b>, o penúltimo da lista com míseras 15 contribuições. Parece que está mais preocupado em criar repositórios com nomes pomposos como "Adamas" do que em realmente contribuir para algo útil. Mas ei, pelo menos ele tem um site de divulgação de projetos e eventos. Quem sabe um dia alguém se interesse.</p>
+<p><b>Jean Brito</b>, o lanterninha da lista com apenas 14 contribuições. Contribuindo para o Rocket.Chat, porque aparentemente ele gosta de se comunicar. Mas ei, pelo menos ele tem um Dockerfile para instalar servidores de jogos. Quem sabe ele não se dedica a isso e abandona a programação de vez.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-23 at 00:21:02 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-24 at 00:20:08 UTC +0000</i>
 <h6>
