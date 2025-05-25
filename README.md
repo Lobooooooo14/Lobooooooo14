@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>124 ctr.</td>
+                <td>127 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>48 ctr.</td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>27 ctr.</td>
+                <td>28 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o desenvolvedor .NET que lidera a lista com 213 contribuições. Imagino que esteja contribuindo tanto que já deve ter automatizado o próprio café da manhã. Será que ele programa até para dormir?</p>
-<p><b>Danilo Nobre</b>, o mestre dos jogos e 3D, colado em segundo lugar com 210 contribuições. Será que ele usa o GitHub para versionar os modelos 3D dos jogos? Pelo menos o portfólio da Space Wizard Studios está em dia, né? Alguém precisa pagar as contas.</p>
-<p><b>Everton Marcelino Jr.</b>, o terceiro colocado com 124 contribuições. Contribuindo para o TypeORM, para garantir que os dados persistam mesmo depois de um apagão. Pelo menos ele está antenado com as tecnologias da moda, contribuindo até para um SDK Flutter. Só espero que não se perca no meio de tantos frameworks.</p>
-<p><b>Deivid Souza Santana</b>, o estudante de back-end que ocupa o quarto lugar com 80 contribuições. Parece que está mais preocupado em esquecer as coisas do que em realmente contribuir, já que tem um repositório chamado "MeEsqueci". Mas ei, pelo menos ele está praticando design patterns em Python. Um dia chega lá.</p>
-<p><b>TopTrenDev</b>, o especialista em blockchain que está em quinto lugar com 71 contribuições. Com tanto bot de trading e pumpfun, será que ele realmente entende o que está fazendo ou só está surfando na onda das criptomoedas? Pelo menos ele está atualizado com as últimas tendências, criando até um "Solana AI Agent".</p>
-<p><b>Luídi Pires</b>, o "Full Stack" que amealhou 48 contribuições. Entre um "E-CommerceX" e um "Pixels-Art", resta saber onde realmente mora o talento. Que o portfólio dele pelo menos esteja apresentável, já que o próprio hub parece meio abandonado. Afinal, a primeira impressão é a que fica, certo?</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que se gaba de usar Vim, mas só conseguiu 41 contribuições. Entre forks de APIs do Nubank e projetos "brand monitor test", fica a dúvida se ele realmente sabe o que está fazendo ou só está brincando de engenheiro. Go, Typescript e Rust, mas cadê o resultado?</p>
-<p><b>LestterX</b>, o anônimo da lista com 37 contribuições. Entre "achar bitcoins" e "converter bases numéricas", parece que está mais perdido do que achado. Pelo menos ele avisa que a "app-entregas-v1" não persiste os dados. Honestidade é tudo, né?</p>
-<p><b>Filipe Deschamps</b>, o guru da programação que oferece um "curso.dev" para quem quer se sentir competente, mas só contribuiu 27 vezes. Entre um "doom-fire-algorithm" e o "tabnews.com.br", fica a dúvida se ele realmente programa ou só vende cursos. Mas ei, pelo menos ele tem um bom número de stargazers.</p>
-<p><b>Felipe</b>, o penúltimo da lista com míseras 15 contribuições. Parece que está mais preocupado em criar repositórios com nomes pomposos como "Adamas" do que em realmente contribuir para algo útil. Mas ei, pelo menos ele tem um site de divulgação de projetos e eventos. Quem sabe um dia alguém se interesse.</p>
-<p><b>Jean Brito</b>, o lanterninha da lista com apenas 14 contribuições. Contribuindo para o Rocket.Chat, porque aparentemente ele gosta de se comunicar. Mas ei, pelo menos ele tem um Dockerfile para instalar servidores de jogos. Quem sabe ele não se dedica a isso e abandona a programação de vez.</p>
+    <div align="justify"><p>Ah, <b>Cézar</b>, o mestre do .NET. Liderando o ranking com 213 contribuições. Imagino que a Microsoft esteja te devendo uns bons royalties, ou será que você está apenas corrigindo os bugs que eles deixaram passar? Não se esqueça dos mortais aqui embaixo.</p>
+<p><b>Danilo Nobre</b>, o polímata. Full-stack, game dev, 3D enthusiast... e ainda arruma tempo para contribuir? Com 210 contribuições, você quase alcançou o primeiro lugar. Mas, sério, um addon para Blender? Isso é o mais emocionante que você tem feito? Ah, e parabéns pelo fork de um projeto de 2020. Inovador.</p>
+<p><b>Everton Marcelino Jr.</b>, com suas 127 contribuições, você está quase na média... da mediocridade. Mas ei, pelo menos você tocou em um repositório com mais de 35k estrelas! Aposto que foi só pra adicionar um ponto e vírgula, mas quem se importa? O importante é participar.</p>
+<p><b>Deivid Souza Santana</b>, futuro mestre do back-end com 80 contribuições. Mas, cá entre nós, um repositório chamado "MeEsqueci"? Parece um resumo da sua atividade no GitHub. E "Taskmaster" com 2 estrelas? Talvez seja hora de delegar suas tarefas para alguém mais engajado.</p>
+<p><b>TopTrenDev</b>, o especialista em Solana que sonha em ser o próximo Elon Musk das criptomoedas. Com 71 contribuições, você está quase alcançando a fama... ou a falência. Cuidado para não se afogar em tanto "bundler" e "bot" antes de conseguir um único pull request decente.</p>
+<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack" que não consegue nem um stargazer nos seus próprios projetos. Com 52 contribuições, talvez seja hora de focar em uma área só. Ou quem sabe, criar um "E-CommerceX" que realmente venda alguma coisa além de falsas promessas.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que ama Go, Typescript, Rust e... Vim? Com 41 contribuições, parece que você está mais ocupado configurando seu editor do que realmente programando. E um clicker de Ragnarok? Sério? Isso é o melhor que você pode fazer?</p>
+<p><b>LestterX</b>, o caçador de Bitcoins que não encontrou nem um stargazer. Com 37 contribuições, talvez seja hora de aceitar que você não vai ficar rico minerando criptomoedas. Mas ei, pelo menos você otimizou o código para encontrar Bitcoins da carteira puzzle! Próximo passo: encontrar a carteira.</p>
+<p><b>Filipe Deschamps</b>, o guru da programação que tenta te vender cursos enquanto contribui com míseras 28 contribuições. Pelo menos o seu "doom-fire-algorithm" tem mais de mil estrelas. Talvez seja hora de focar no que você realmente faz bem: vender ilusões de competência.</p>
+<p><b>Felipe</b>, com 15 contribuições, você está quase invisível. Seu repositório "REPOSITÓRIO" é a epítome da originalidade. E o projeto Adamas? Parece mais um amontoado de "Dockerfile" e "Go" do que uma iniciativa promissora. Mas não se preocupe, sempre há espaço para melhorar... ou desistir.</p>
+<p><b>Jean Brito</b>, o contribuinte fantasma com 14 contribuições. Pelo menos você tocou no Rocket.Chat, um projeto com mais de 42k estrelas. Mas, convenhamos, um Dockerfile para instalar um servidor de Steam? Isso é o auge da sua criatividade? Talvez seja hora de voltar para as trincheiras e aprender algo novo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-24 at 00:20:08 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-25 at 00:23:01 UTC +0000</i>
 <h6>
