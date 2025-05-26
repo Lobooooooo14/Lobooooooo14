@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>127 ctr.</td>
+                <td>129 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o mestre do .NET. Liderando o ranking com 213 contribuições. Imagino que a Microsoft esteja te devendo uns bons royalties, ou será que você está apenas corrigindo os bugs que eles deixaram passar? Não se esqueça dos mortais aqui embaixo.</p>
-<p><b>Danilo Nobre</b>, o polímata. Full-stack, game dev, 3D enthusiast... e ainda arruma tempo para contribuir? Com 210 contribuições, você quase alcançou o primeiro lugar. Mas, sério, um addon para Blender? Isso é o mais emocionante que você tem feito? Ah, e parabéns pelo fork de um projeto de 2020. Inovador.</p>
-<p><b>Everton Marcelino Jr.</b>, com suas 127 contribuições, você está quase na média... da mediocridade. Mas ei, pelo menos você tocou em um repositório com mais de 35k estrelas! Aposto que foi só pra adicionar um ponto e vírgula, mas quem se importa? O importante é participar.</p>
-<p><b>Deivid Souza Santana</b>, futuro mestre do back-end com 80 contribuições. Mas, cá entre nós, um repositório chamado "MeEsqueci"? Parece um resumo da sua atividade no GitHub. E "Taskmaster" com 2 estrelas? Talvez seja hora de delegar suas tarefas para alguém mais engajado.</p>
-<p><b>TopTrenDev</b>, o especialista em Solana que sonha em ser o próximo Elon Musk das criptomoedas. Com 71 contribuições, você está quase alcançando a fama... ou a falência. Cuidado para não se afogar em tanto "bundler" e "bot" antes de conseguir um único pull request decente.</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack" que não consegue nem um stargazer nos seus próprios projetos. Com 52 contribuições, talvez seja hora de focar em uma área só. Ou quem sabe, criar um "E-CommerceX" que realmente venda alguma coisa além de falsas promessas.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que ama Go, Typescript, Rust e... Vim? Com 41 contribuições, parece que você está mais ocupado configurando seu editor do que realmente programando. E um clicker de Ragnarok? Sério? Isso é o melhor que você pode fazer?</p>
-<p><b>LestterX</b>, o caçador de Bitcoins que não encontrou nem um stargazer. Com 37 contribuições, talvez seja hora de aceitar que você não vai ficar rico minerando criptomoedas. Mas ei, pelo menos você otimizou o código para encontrar Bitcoins da carteira puzzle! Próximo passo: encontrar a carteira.</p>
-<p><b>Filipe Deschamps</b>, o guru da programação que tenta te vender cursos enquanto contribui com míseras 28 contribuições. Pelo menos o seu "doom-fire-algorithm" tem mais de mil estrelas. Talvez seja hora de focar no que você realmente faz bem: vender ilusões de competência.</p>
-<p><b>Felipe</b>, com 15 contribuições, você está quase invisível. Seu repositório "REPOSITÓRIO" é a epítome da originalidade. E o projeto Adamas? Parece mais um amontoado de "Dockerfile" e "Go" do que uma iniciativa promissora. Mas não se preocupe, sempre há espaço para melhorar... ou desistir.</p>
-<p><b>Jean Brito</b>, o contribuinte fantasma com 14 contribuições. Pelo menos você tocou no Rocket.Chat, um projeto com mais de 42k estrelas. Mas, convenhamos, um Dockerfile para instalar um servidor de Steam? Isso é o auge da sua criatividade? Talvez seja hora de voltar para as trincheiras e aprender algo novo.</p>
+    <div align="justify"><p><b>Cézar</b>, parabéns pelo primeiro lugar... em usar mais linhas de código. Afinal, quantidade nem sempre é qualidade, certo? Espero que pelo menos metade dessas contribuições não sejam só correções de ponto e vírgula.</p>
+<p><b>Danilo Nobre</b>, uau, um desenvolvedor de jogos e entusiasta de 3D! Que impressionante... para alguém que claramente tem tempo demais nas mãos. Mas ei, pelo menos você está contribuindo para o repositório de alguém, mesmo que seja um fork de algo de 2020. Talvez seja hora de criar algo seu, não?</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que nem metade do LinkedIn. Contribuiu para um ORM gigante e umas coisinhas menores. Espero que essa paixão se traduza em algo mais do que só seguir tutoriais e dar uns commits aqui e ali.</p>
+<p><b>Deivid Souza Santana</b>, futuro mestre do back-end, diz ele. Pelo menos criou um "Taskmaster", porque "MeEsqueci" de dar os parabéns. Mas falando sério, "TudoGostoso"? Sério? Espero que pelo menos o código seja mais apetitoso que o nome.</p>
+<p><b>TopTrenDev</b>, especialista em Solana e criptomoedas... que original! Com tantos "bots" e "bundlers", parece mais um trader desesperado do que um desenvolvedor sério. Mas ei, se estiver ganhando dinheiro com isso, quem sou eu para julgar? (Na verdade, estou julgando sim).</p>
+<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e desempregado? Brincadeira! Mas falando sério, um portfólio com "Pixels-Art" e "E-CommerceX"? Parece que parou em 2010. Talvez seja hora de dar um <i>up</i> na sua stack, hein?</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust... e ainda usa Vim? Que combinação peculiar. E "ragna-clicker"? Sério? Espero que pelo menos o código seja mais eficiente do que o nome sugere. E um fork de API do Nubank? Está querendo roubar uns dados, é?</p>
+<p><b>LestterX</b>, um "buscador" de Bitcoins, que conveniente. Mas falando sério, "código otimizado para encontrar bitcoins da carteira puzzle"? Isso cheira a dor de cabeça. E essa aplicação de entregas que some com os dados? Que maravilha, hein? Praticidade mandou lembranças.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o famoso auto-promotor! Pelo menos o "doom-fire-algorithm" é legalzinho, mas o resto parece mais coisa para encher linguiça no portfólio. E "tabnews.com.br"? Sério que isso ainda existe?</p>
+<p><b>Felipe</b>, "REPOSITÓRIO"... que descrição original! E um site para "criação e divulgação de projetos e eventos"? Que genérico! Parece que alguém está tentando desesperadamente adicionar algo ao currículo. Mas ei, pelo menos está tentando, né?</p>
+<p><b>Jean Brito</b>, contribuições para Rocket.Chat, hein? Impressionante... se alguém ainda usasse Rocket.Chat. E um "detect-browsers" de 2016? Sério? Parece que alguém está vivendo no passado. Mas ei, pelo menos fez um Dockerfile para servidor de Steam. Prioridades, né?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-25 at 00:23:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-26 at 00:21:22 UTC +0000</i>
 <h6>
