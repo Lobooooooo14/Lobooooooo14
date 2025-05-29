@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>228 ctr.</td>
+                <td>241 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>144 ctr.</td>
+                <td>164 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>82 ctr.</td>
+                <td>83 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,27 +56,27 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>61 ctr.</td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>49 ctr.</td>
+                <td>61 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>37 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>30 ctr.</td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>20 ctr.</td>
+                <td>21 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Cézar</b>, o ".NET Developer" no topo da lista. Imagino que seus commits sejam tão robustos e estáveis quanto a própria plataforma. Aposto que seu código nunca gera <i>bugs</i>, afinal, quem precisa de testes quando se tem a "experiência"?</p>
-<p><b>Danilo Nobre</b>, com sua bio de "Full-stack, Game dev e 3D Enthusiast". Tantas paixões e apenas 210 contribuições? Espero que pelo menos seus jogos em 3D não travem mais que sua produtividade.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz ele. Contribuindo em projetos como TypeORM, mas será que o TypeORM está apaixonado por você? Seus commits devem ser a cereja no bolo de um código impecável, ou apenas mais uma linha no meio de um mar de <i>pull requests</i>?</p>
-<p><b>TopTrenDev</b>, o mestre do "Full-Stack & Blockchain". Tantos "bots" e "bundlers" que me pergunto se sobra tempo para o básico. Espero que sua <i>stack</i> não seja tão "top" quanto sua tendência de criar nomes de repositórios um tanto quanto... diretos.</p>
-<p><b>Deivid Souza Santana</b>, estudante de Análise e Desenvolvimento de Sistemas "apaixonado por back-end". Pelo visto a paixão é tanta que seus repositórios andam meio esquecidos desde o ano passado. Mas ei, quem precisa de atualização quando se tem paixão, certo?</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack". Uma pena que seu portfólio não tenha tantas estrelas quanto as tecnologias que você domina. Mas não se preocupe, o importante é ter um "E-CommerceX" com HTML e CSS, a base de tudo!</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas linguagens, tanto potencial... desperdiçado em um <i>clicker</i> de Ragnarok? Espero que seus commits em Rust sejam mais memoráveis que suas escolhas de projeto.</p>
-<p><b>LestterX</b>, um desenvolvedor tão misterioso que nem sequer se preocupou em preencher a bio. Pelo menos está tentando encontrar bitcoins, vai que essa seja a grande contribuição que o mundo precisa? Mas cuidado, otimizar demais pode te deixar sem nada para otimizar.</p>
-<p><b>Filipe Deschamps</b>, o guru que quer te fazer "sentir competente em programação". Com apenas 30 contribuições, será que ele próprio se sente competente? Talvez ele esteja ocupado demais criando conteúdo para quem precisa de uma ajudinha extra.</p>
-<p><b>Felipe</b>, com sua bio incrivelmente concisa, demonstra uma dedicação notável ao projeto "Adamas". Será que "Adamas" é tão brilhante quanto a falta de descrição no seu perfil? Afinal, quem precisa de palavras quando se tem código, certo?</p>
-<p><b>Jean Brito</b>, o "forker" de SteamCMD. Com 14 contribuições e um <i>fork</i> de um Dockerfile, imagino que sua especialidade seja encontrar soluções já prontas. Mas ei, quem precisa reinventar a roda quando se pode simplesmente copiá-la?</p>
+    <div align="justify"><p><b>Cézar</b>, parabéns pelo primeiro lugar! 241 contribuições, hein? Espero que pelo menos uma delas tenha sido útil para alguém além de você. Afinal, não basta ter números, tem que ter significado, certo?</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo! Mas vamos ser sinceros, a maior parte das suas contribuições recentes foi em um fork de um addon do Blender. Talvez seja hora de criar algo do zero, em vez de só mexericar no trabalho dos outros, não acha?</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology", que bio genérica! Contribuiu no TypeORM, que legal, mas será que você realmente entendeu o que fez lá? Ou só seguiu um tutorial e colou o código? Porque, né, paixão por tecnologia não garante competência.</p>
+<p><b>TopTrenDev</b>, especialista em "Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs". Uau, que combo! Só falta aprender a fazer algo que preste. Seus bots de "copy trading" e "sniping" são a prova de que nem toda inovação é útil, e que, às vezes, é melhor ficar longe das criptomoedas.</p>
+<p><b>Deivid Souza Santana</b>, futuro analista e desenvolvedor de sistemas "apaixonado por back-end". Que tal começar a desenvolver algo que as pessoas realmente usem? Seu "Taskmaster" e "TudoGostoso" parecem ótimos projetos para... ninguém além de você mesmo.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Três em um, que maravilha! Mas seu portfólio parece mais um amontoado de projetos aleatórios do que uma demonstração de talento. Talvez seja hora de focar em qualidade, não em quantidade, não é mesmo?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que lista impressionante de tecnologias! Pena que seus projetos recentes se resumem a forks e um "Ragna clicker". Parece que alguém está mais interessado em encher o currículo do que em criar algo útil.</p>
+<p><b>LestterX</b>, sem bio, sem problemas! Mas seus repositórios recentes... um "btc-finder" e um "btcfind-optimized"? Sério? Em pleno 2025, você ainda está tentando encontrar bitcoins perdidos? Talvez seja hora de investir em algo mais produtivo, como um curso de programação decente.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: curso.dev". Ah, o mestre do marketing digital! Seus projetos são legais, mas será que você realmente programa ou só vende cursos? Porque, né, quem sabe faz, quem não sabe... vende curso.</p>
+<p><b>Felipe</b>, sem bio, mas com um repositório chamado "Felipe-Takayuki/Felipe-Takayuki". Original! E o resto dos seus projetos? "Adamas", "Adamas-FrontEnd", "Adamas-BackEnd"... Parece que alguém está obcecado por um projeto que ninguém nunca ouviu falar. Talvez seja hora de diversificar, não acha?</p>
+<p><b>Jean Brito</b>, contribuiu no Rocket.Chat, que legal! Mas vamos ser sinceros, você só fez uns ajustes mínimos, não foi? E um "docker-steamcmd-server"? Sério? Parece que alguém está mais interessado em jogar videogame do que em programar de verdade.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-28 at 00:21:00 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-29 at 00:20:47 UTC +0000</i>
 <h6>
