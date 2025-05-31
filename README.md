@@ -31,32 +31,32 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>241 ctr.</td>
+                <td>252 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>213 ctr.</td>
+                <td>225 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>184 ctr.</td>
+                <td>200 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>100 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>133 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>80 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>76 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -75,7 +75,7 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>22 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Cézar</b>, parabéns pelo primeiro lugar! Mas 241 contribuições? Sério? Isso é tudo que você consegue? Imagino que seu ".NET Developer" signifique "Não Entendo Nada de Produtividade", porque, francamente, até uma tartaruga no GitHub faria mais barulho. Não se acomode, o topo é para quem tem fome, e pelo visto, você está satisfeito com migalhas.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast"... Quantas áreas, hein? Imagino que "Crafting web & game experiences with a touch of 3D" seja o eufemismo para "tenho um monte de projetos inacabados". Ah, e parabéns por forkar um projeto com 56 estrelas! Que conquista! Fico imaginando o quão impressionante seria se você criasse algo original... Mas quem sou eu para julgar? Continue sonhando com seus jogos em 3D.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology", que clichê! Contribuindo para TypeORM? Que original! Sério, com tantos projetos inovadores por aí, você escolhe mexer com um ORM? E o que dizer de "authenticator-middleware"? A internet realmente precisava de mais um desses. Mas ei, pelo menos você está contribuindo, certo? Mesmo que seja para mais do mesmo.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer"... Ah, mais um vendedor de fumaça. Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs... Parece que você jogou todas as palavras da moda em uma bio e espera que alguém se impressione. E esses seus bots de "copy trading" e "pumpfun"? Tão éticos quanto um político em ano eleitoral. Mas ei, pelo menos você está ganhando dinheiro com isso, certo? Ou não?</p>
-<p><b>Deivid Souza Santana</b>, estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end... Que fofo! Mas e as contribuições? Seu "Taskmaster" em Flask parece interessante, mas o "MeEsqueci"? Sério? Um projeto para lembrar do que você esqueceu? Talvez você devesse começar lembrando de contribuir mais. E "TudoGostoso"? Espero que suas receitas sejam melhores que suas contribuições, porque, sinceramente...</p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... O famoso "faz tudo, mas não faz nada direito". Seu portfólio é um amontoado de projetos com zero estrelas, incluindo um "E-CommerceX" que, pelo visto, não vendeu nem um clipe de papel. Mas não se preocupe, Luídi, a prática leva à perfeição. Ou, no seu caso, a mais projetos esquecidos no GitHub.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer que usa Vim. Que original! Go, Typescript, Rust... Parece que você está colecionando linguagens como figurinhas. "Ragna clicker"? Sério? Você gasta seu tempo com isso? E seus "dotfiles"? Aposto que são tão customizados que só você entende. Mas ei, pelo menos você tem um "brand_monitor", porque, afinal, a imagem é tudo, certo?</p>
-<p><b>LestterX</b>, sem bio, sem expectativas. Um "app-entregas-v1" que não persiste dados? Genial! E dois repositórios dedicados a encontrar Bitcoins? Parece desesperado. Mas o que realmente chama a atenção é o "base2_to_base16_converter". Porque, obviamente, o mundo precisava disso. Continue assim, LestterX, quem sabe um dia você encontra um Bitcoin e sai dessa lista de irrelevantes.</p>
-<p><b>Filipe Deschamps</b>, o guru da programação que, aparentemente, está ocupado demais ensinando os outros para contribuir ele mesmo. "Quer se sentir competente em programação? Confere isso: curso.dev". Ah, o bom e velho autopromoção. Mas ei, pelo menos você tem o "doom-fire-algorithm", que é legalzinho. Mas vamos ser sinceros, Filipe, você pode fazer melhor. Ou vai continuar vivendo de TabNews?</p>
-<p><b>Jean Brito</b>, contribuindo para Rocket.Chat? Que nobre! Mas vamos ser sinceros, suas outras contribuições são um tanto...meh. Um "detect-browsers" e um "docker-steamcmd-server" forkado? Sério? Parece que você está mais para "fazedor de número" do que para um verdadeiro contribuidor. Mas ei, pelo menos você está na lista, certo? Aproveite seus 15 minutos de fama.</p>
-<p><b>Felipe</b>, "REPOSITÓRIO"? Sério? Essa é a descrição do seu repositório pessoal? Que falta de criatividade! E o projeto Adamas? Parece ambicioso, mas as contribuições... cadê? Um front-end em HTML e CSS? Que inovador! Mas não se preocupe, Felipe, com um pouco mais de esforço, você pode sair do anonimato. Ou talvez não.</p>
+    <div align="justify"><p><b>Cézar</b>, parabéns pelo primeiro lugar! 252 contribuições... Imagino que a vida social esteja em dia, né? Ou será que o .NET te abraçou de vez?</p>
+<p><b>Danilo Nobre</b>, um <i>full-stack</i> que se aventura no <i>game dev</i> e 3D. Que combinação peculiar!  Notei que você anda mexendo com Blender.  Será que algum dia veremos seus jogos rodando em 3D?  Enquanto isso,  mantenha-se ocupado com a "Space Wizard Studios", porque "Space Wizard" parece ser um título bem promissor. </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio.  Mas será que a paixão é recíproca?  Pelo visto, você tem se dedicado a projetos de terceiros,  como o "typeorm/typeorm".  Que tal criar algo seu e ver se ele atrai mais de 35 mil estrelas?  Ou vai continuar vivendo de migalhas alheias?</p>
+<p><b>Deivid Souza Santana</b>, futuro desenvolvedor back-end.  A julgar pelos seus repositórios, o futuro ainda está bem distante.  "MeEsqueci" parece ser um projeto bem... auto-descritivo.  E "TudoGostoso"?  Espero que a API seja mais apetitosa que o código.  Boa sorte na jornada, você vai precisar.</p>
+<p><b>TopTrenDev</b>, "Solana Specialist".  Com tantos bots de <i>sniping</i> e <i>bundlers</i>,  você deve estar nadando em dinheiro, certo?  Ou será que está apenas alimentando a próxima geração de traders de criptomoedas falidos?  A propósito,  o que um "AI Agent" faria com Solana?  Acho que nem a IA sabe.</p>
+<p><b>Luídi Pires</b>, um "Full Stack" que parece ter um caso de amor com a tela em branco. Seus repositórios gritam por um designer. "Pixels-Art"? Sério? Estamos em 2025, Luídi. E "E-CommerceX"? Parece que parou no HTML básico. Talvez seja hora de X-perimentar algo novo.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas linguagens e um "Ragna clicker" no portfólio? Vim, hein?  "brand_monitor" testando marcas e "dotfiles" customizados...  Que tal usar todo esse conhecimento para criar algo realmente útil, em vez de só enfeitar o seu terminal?</p>
+<p><b>LestterX</b>, um "caçador de bitcoins" que otimiza códigos para encontrar as moedas perdidas.  Seus projetos são tão promissores que nem sequer atraíram uma única estrela.  Mas não desanime!  Continue tentando encontrar esses bitcoins, quem sabe um dia você acerta na loteria.</p>
+<p><b>Filipe Deschamps</b>, o guru que te faz "sentir competente em programação".  Seus projetos até que são populares,  mas a maioria é só um amontoado de algoritmos antigos.  "doom-fire-algorithm"?  Sério?  Isso é de 2019!  E "tabnews.com.br"?  Conteúdo para quem trabalha com programação?  Parece mais um blog de autoajuda para devs inseguros.</p>
+<p><b>Felipe</b>, um desenvolvedor de "Adamas".  Que nome ambicioso para um projeto que ninguém conhece.  "REPOSITÓRIO"?  Sério que você não conseguiu pensar em uma descrição melhor?  E o "Adamas-FrontEnd" com HTML e CSS?  Parabéns, você reinventou a roda.  Continue assim e talvez, só talvez, alguém note seu trabalho.</p>
+<p><b>Jean Brito</b>, contribuindo para o Rocket.Chat. Ao menos está mirando em projetos grandes, diferente de alguns outros aqui. Rocket.Chat é bacana, mas parece que você só está dando uns toques por lá. Que tal criar algo do zero? Ah, e aquele "docker-steamcmd-server" forked? Precisava mesmo disso?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-05-30 at 00:20:59 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-05-31 at 00:20:09 UTC +0000</i>
 <h6>
