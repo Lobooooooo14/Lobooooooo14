@@ -31,42 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>42 ctr.</td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
-                <td>14 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
+                <td>16 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>12 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/Nicky7x">Nicky</a></td>
+                <td>10°</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
                 <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -74,14 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 42 contribuições. Imagino que a maior parte desse esforço hercúleo foi para dar uns tapinhas no TypeORM, não é mesmo? E ainda arrumou um tempinho para o <i>authenticator-middleware</i>. Que dedicação... ou seria obsessão? Só não esquece de deixar um pouco para os outros, vai que eles também querem um pedacinho da fama.</p>
-<p><b>Éricson Rogério Moreira</b>, com 14 contribuições, está quase lá! Quase alcançando a glória eterna. Pelo menos você tem o <i>Buds Game House ERP</i>, um projeto com um único stargazer. É quase uma unanimidade! E, ei, o <i>budsgamehouseliga</i> foi atualizado ontem! Sinal de que o sonho não morreu, ou só estava hibernando?.</p>
-<p><b>LestterX</b>, dez contribuições... Hm, pelo menos você está tentando. Tentando encontrar bitcoins com código "otimizado". Parece que a mineração de criptomoedas é mais lucrativa que suas contribuições, mas quem sou eu para julgar? Ah, e não se esqueça, seus dados somem depois de algumas horas. Que conveniente!</p>
-<p><b>Rafael Lima de Morais</b>, com míseras quatro contribuições. Imagino que você esteja muito ocupado configurando seu Vim e decidindo qual linguagem usar hoje. <i>Ragna clicker</i>? Sério? Parece que alguém está preso em 2010. E esse <i>nestjs-api-catalago</i> que nem é seu? Que audácia!</p>
-<p><b>Danilo Nobre</b>, três contribuições. Entre o <i>Full-stack</i>, o <i>Game dev</i> e o 3D, sobrou tempo para... nada? Contribuiu em um profile field de CPF para moodle em 2023? Eca! Pelo menos tentou algo com Blender, mesmo que tenha sido um fork. Ah, e um site para a <i>Space Wizard Studios</i>. Que nome criativo... para 2010.</p>
-<p><b>Felipe</b>, também com três contribuições. Pelo menos você tem um repositório chamado <i>Felipe-Takayuki/Felipe-Takayuki</i>. Original! E ainda contribuiu para o <i>Adamas-FrontEnd</i>. Imagino que a criação e divulgação de projetos e eventos seja mais interessante do que contribuir de verdade, não é mesmo?</p>
-<p><b>Nicky</b>, três contribuições... Parabéns! Ou não. Seus repositórios são tão secretos que nem consigo te zuar direito. Aposto que está guardando suas contribuições valiosas para o próximo mês, não é?</p>
-<p><b>TopTrenDev</b>, apenas duas contribuições? Para um especialista em <i>Solana</i>, <i>Bitcoin</i>, <i>Ethereum</i> e tudo mais, esperava mais. Mas, ei, pelo menos você tem um <i>Solana Copy Trading bot</i>. Porque nada é mais importante do que copiar os outros, certo? E um <i>PumpFun Bundler</i>? Que nome inspirador! Que tal começar a contribuir com algo útil de verdade?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! Impressionantes 59 contribuições. Imagino que você passe mais tempo no GitHub do que cuidando das suas plantas, mas quem precisa de fotossíntese quando se tem código, certo? E, pelo visto, anda contribuindo em projetos populares como o TypeORM. Que emocionante! Mal posso esperar para ver o que você vai refatorar na próxima semana.</p>
+<p><b>Danilo Nobre</b>, ah, um "Full-stack, Game dev e 3D Enthusiast". Que combinação peculiar. 33 contribuições, nada mal. Mas, sinceramente, um "site de apresentação e portfólio da Space Wizard Studios"? Espero que pelo menos tenha uns efeitos 3D bem chamativos para compensar a falta de originalidade no nome.</p>
+<p><b>Éricson Rogério Moreira</b>, "Full Stack Developer" com 16 contribuições. Vejo que você tem um "ATM Card House ERP". Espero que a segurança desse ERP seja melhor que a criatividade no nome, porque "Buds Game House Liga" não inspira muita confiança. Mas ei, pelo menos você está ativo, diferente de alguns outros por aqui.</p>
+<p><b>Cézar</b>, um ".NET Developer" que contribuiu 12 vezes. Sem repositórios recentes para espiar? Hmm, ou você é muito discreto ou está escondendo algo. Ou talvez você simplesmente tenha um trabalho de verdade, o que, convenhamos, é quase um pecado neste ranking.</p>
+<p><b>LestterX</b>, 10 contribuições. Interessante essa sua busca por bitcoins, parece que alguém está tentando enriquecer rápido. "Naive code to find bitcoins, for educational purposes"? Ah, sim, claro, "educacional". Boa sorte com isso, você vai precisar.</p>
+<p><b>TopTrenDev</b>, um "Full-Stack & Blockchain Developer". Que original! 10 contribuições focadas em Solana, NFTs e afins. Vejo que você está bem no hype do momento. Espero que seus "Solana AI Agents" não fiquem muito inteligentes e roubem seu trabalho. Mas, ei, pelo menos você está tentando, diferente de alguns por aqui.</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico". Apenas 6 contribuições? Seus dados devem estar dizendo que você precisa se esforçar mais. E um projeto de análise de turnover de colaboradores? Espero que você não seja o próximo na lista.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece que alguém gosta de uma boa salada de tecnologias. Apenas 5 contribuições? Talvez você esteja passando tempo demais configurando o Vim e de menos programando. "Ragna clicker"? Sério? Espero que pelo menos renda algum dinheiro.</p>
+<p><b>Felipe</b>, apenas 3 contribuições? Parece que alguém está mais para "dorme" do que para "dev". Pelo menos o repositório "Felipe-Takayuki/Felipe-Takayuki" existe. Um começo, eu suponho. Mas não espere que o "Lobo" fique impressionado com isso.</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, "Dev de Sistemas | Engenheiro Eletricista | Fã de IA". Que currículo inflado! Aparentemente, apenas 3 contribuições mostram o quanto você é fã de IA. "App de edição de imagem com filtro"? Tão inovador quanto um semáforo. Mas, ei, pelo menos você fez alguma coisa, certo?</p>
+<p><b>Nicky</b>, com 3 contribuições, você está quase invisível. Sem bio, sem repositórios recentes... você é o ninja do GitHub? Ou apenas alguém que esqueceu que tinha uma conta? Se esforce mais, ou vai virar estatística.</p>
 </div>
     </details>
 </div>
@@ -96,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-02 at 00:22:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-03 at 00:21:27 UTC +0000</i>
 <h6>
