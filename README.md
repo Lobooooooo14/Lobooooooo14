@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>81 ctr.</td>
+                <td>84 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>68 ctr.</td>
+                <td>72 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>32 ctr.</td>
+                <td>43 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>20 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>22 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>11 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>6 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>6 ctr.</td>
+                <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! 81 contribuições, impressionante... para quem está competindo com essa gente, claro. Vejo que você anda contribuindo no TypeORM, que legal, e no seu tempo livre, claro, porque afinal, quem precisa de vida social quando se tem código para escrever? Espero que pelo menos esteja usando um bom anti-inflamatório para as articulações.</p>
-<p><b>Danilo Nobre</b>, quase lá, hein? 68 contribuições. Full-stack, game dev e entusiasta de 3D. Imagino o quão "relaxante" deve ser equilibrar tudo isso. Ah, e parabéns pelo seu site da Space Wizard Studios, imagino que os 2 visitantes mensais estejam adorando. Continue assim, quem sabe um dia você chega lá... no burnout.</p>
-<p><b>Cézar</b>, .NET Developer, com 32 contribuições. Parece que alguém aqui está no "modo econômico" de contribuições. Sem atividade recente em nenhum repositório? Está economizando para as férias? Ou será que .NET está tão chato que até você perdeu a vontade? Espero que pelo menos esteja usando o VS Code no tema dark, para combinar com a escuridão da sua falta de commits.</p>
-<p><b>Luidi Pires</b>, Front-End, Back-End, Full Stack... e 20 contribuições. Você é tipo o canivete suíço da programação, faz de tudo, mas nada muito bem, certo? Seu portfólio tem zero estrelas, mas ei, pelo menos você tentou. E-CommerceX em HTML e CSS? Que ousadia! Daqui a pouco está desafiando a Amazon. Continue sonhando.</p>
-<p><b>Éricson Rogério Moreira</b>, Full Stack Developer com 16 contribuições. Vejo que você criou um "ATM Card House ERP". A pergunta que não quer calar é: ele realmente funciona? E o Buds Game House Liga, com 1 contribuição? Está quase tão popular quanto o meu blog pessoal. Continue assim, Éricson, um dia você chega lá... a lugar nenhum, provavelmente.</p>
-<p><b>LestterX</b>, com míseras 10 contribuições. Ah, o caçador de Bitcoins... Encontrar Bitcoins "para fins educacionais", claro. E aquele conversor de base2 para base16? Super útil! Imagino que esteja usando isso para decodificar os segredos da Matrix. Só não se esqueça de pagar a conta de luz, ok?</p>
-<p><b>Rafael Lima de Morais</b>, outro com 10 contribuições. Go, Typescript, Rust e Vim. Nossa, que moderno! Mas parece que a modernidade não se traduz em contribuições, não é mesmo? E "lazydocker"? Sério? Porque gerenciar Docker já não é fácil o suficiente, né? Continue "lazy", Rafael, e logo estará desempregado.</p>
-<p><b>Deyved Antonio</b>, Analista de Dados com apenas 6 contribuições. Analista de dados que não analisa os próprios commits? Irônico, não? Seu projeto de análise de turnover deve estar bombando, afinal, nada como analisar dados para justificar a própria falta de contribuições. E o clone do Tabnews? Quase tão bom quanto o original... quase.</p>
-<p><b>Filipe Deschamps</b>, com as mesmas 6 contribuições do Deyved. Ah, o mestre dos cursos online! Imagino que esteja muito ocupado ensinando os outros a programar, em vez de programar você mesmo. Mas ei, pelo menos o seu "doom-fire-algorithm" tem mais de mil estrelas. Aposto que é mais divertido do que contribuir neste ranking.</p>
-<p><b>kromodoro</b>, 4 contribuições. Digitalizando livros antigos, que nobre! Enquanto o mundo avança, você está preso no passado. Mas ei, pelo menos você está contribuindo com a cultura. Ou será que está apenas procrastinando? De qualquer forma, continue assim, quem sabe um dia você digitaliza a biblioteca inteira.</p>
-<p><b>Felipe</b>, o lanterninha, com apenas 3 contribuições. Pelo menos você apareceu. Adamas... Parece ambicioso. Mas com apenas 3 contribuições, duvido que saia do papel. Não se preocupe, Felipe, sempre tem espaço para mais um no time dos "quase contribuidores".</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 84 contribuições. Imagino que esteja se sentindo o próprio "Lobo" dos ORMs. Mas, ei, quem precisa de vida social quando se tem TypeORM, não é mesmo? E 35396 estrelas no typeorm/typeorm, impressionante, quase tão impressionante quanto a minha capacidade de ignorar a complexidade desse projeto. Continue assim, quem sabe um dia você chega a ter um décimo da influência do "Lobo".</p>
+<p>Danilo Nobre, 72 contribuições. Full-stack, game dev e entusiasta de 3D... uau, que currículo! Pena que o repositório mais recente que você mexeu foi no Space Wizard Studios, que tem 2 míseras estrelas. Sério, Danilo, você precisa decidir se quer ser o mago do 3D ou o estagiário de web design. Ah, e parabéns por contribuir num fork de um projeto blender, espero que não esteja usando isso para construir um império de cutouts animados. Mas não se preocupe, a gente sabe que no fundo você só queria impressionar o "Lobo".</p>
+<p>Cézar, com suas 43 contribuições, você é o participante medíocre padrão. Imagino que você esteja ali, só para fazer número, como aquele filler no meio de um episódio de anime. Mas ei, pelo menos você é .NET Developer, o que significa que provavelmente está ganhando mais do que a gente. E aparentemente não tem nenhum repositório recente para analisarmos, então... parabéns? Ou sinto muito? Difícil saber.</p>
+<p>TopTrenDev, especialista em blockchain e Solana com 29 contribuições. Ah, o mundo das criptomoedas... onde os sonhos se tornam memes e os memes se tornam realidade. Mas vamos ser sinceros, "Solana Specialist"? Parece mais um título que você inventou para impressionar sua mãe. E "raydium-volume-bot-latest"? Sério? Parece que alguém está tentando inflar um pouco os números... Mas não se preocupe, no mundo cripto, a gente finge que não vê essas coisas. Afinal, o importante é o hype, não é mesmo?</p>
+<p>Luídi Pires, o "Front-End | Back-End | Full Stack" com 22 contribuições. Aquele que se diz faz-tudo, mas no fundo só sabe dar Ctrl+C Ctrl+V. E "E-CommerceX"? Sério? Que nome original! Aposto que está usando aquele template Bootstrap de 2015. Mas ei, pelo menos você tem um portfólio... que provavelmente ninguém nunca acessou. Continue assim, Luídi, quem sabe um dia você chega a impressionar alguém além da sua tia no Natal.</p>
+<p><b>Éricson Rogério Moreira</b>, o "Full Stack Developer" com 16 contribuições. Pelo visto, você anda ocupado com "Buds Game House Liga". Confesso que não sei o que é isso, e honestamente, não quero saber. Mas ei, pelo menos você tem um projeto com 1 estrela! Isso é mais do que muitos podem dizer. E "teste-next-shadcn-ui"? Imagino que seja tão emocionante quanto parece. Mas não se preocupe, Éricson, a gente sabe que você está se esforçando... só não sabemos para quê.</p>
+<p>Rafael Lima de Morais, o minimalista que contribuiu 11 vezes. "Go | Typescript | Rust | Vim"... uau, que combinação! Só falta usar um pager para acessar a internet. E "dotfiles"? Sério? Isso é o máximo que você consegue? Aposto que seu editor de texto é mais complicado que o código que você escreve. Mas ei, pelo menos você usa Vim, o que significa que você pode se gabar de ser "diferente" enquanto gasta horas configurando um editor de texto. Continue assim, Rafael, quem sabe um dia você se torna o próximo "Lobo" do terminal.</p>
+<p>LestterX, com suas 10 contribuições. Encontrar bitcoins perdidos é o seu forte, hein? Imagino que você esteja se sentindo o Indiana Jones da era digital. Mas vamos ser sinceros, se você realmente encontrasse bitcoins, estaria aqui contribuindo? E "btcfind-optimized"? Sério? Otimizado para quê? Para gastar mais energia do que minerar de verdade? Mas não se preocupe, LestterX, a gente sabe que você está apenas "aprendendo"... ou tentando ficar rico rápido.</p>
+<p>Filipe Deschamps, o guru da programação com 9 contribuições. Ah, o homem que quer te fazer "sentir competente em programação"... vendendo cursos, claro. E "doom-fire-algorithm"? Nostalgia pura! Pena que você não consegue aplicar essa "competência" em projetos mais recentes. Mas ei, pelo menos você tem 5798 estrelas no tabnews.com.br! Isso deve compensar a sua falta de contribuições, certo? Afinal, o importante é ter um curso, não é mesmo?</p>
+<p>CookieUkw, com 8 contribuições. Criador de "VexAI", uma inteligência artificial que discute jogos. Que original! Aposto que ela é tão inteligente quanto um bot de bate-papo dos anos 90. E "ChatStory"? Parece emocionante... para quem gosta de ler conversas falsas. Mas ei, pelo menos você está tentando criar algo, mesmo que seja inútil. Continue assim, CookieUkw, quem sabe um dia sua IA domina o mundo... ou pelo menos consegue responder um e-mail.</p>
+<p>Deyved Antonio, o "Analista de Dados" com 6 contribuições. Curioso, analítico, apaixonado por Tecnologia... e com apenas 6 contribuições? Parece que alguém está mais apaixonado por assistir Netflix do que por programar. E um "clone-tabnews-aluno"? Sério? Clonar o trabalho dos outros é o seu forte? Mas não se preocupe, Deyved, a gente sabe que você está apenas "aprendendo"... a copiar e colar.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-06 at 00:21:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-07 at 00:20:47 UTC +0000</i>
 <h6>
