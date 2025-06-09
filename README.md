@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>84 ctr.</td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>31 ctr.</td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 84 contribuições, liderando o ranking. Parabéns! Ou não. Afinal, estar no topo com tanto tempo livre para contribuir em projetos open source levanta algumas questões sobre sua vida social. Mas ei, pelo menos você contribuiu no <i>typeorm/typeorm</i>. É algo, eu acho.</p>
-<p><b>Danilo Nobre</b>, em segundo lugar com 72 contribuições. Quase lá! Mas será que essas contribuições em <i>moodle-profilefield_cpf</i> realmente contam? Afinal, quem ainda usa Moodle em 2025? Ah, e <i>coa_tools2</i>? Uma fork de 2020? Seria bom ver algo mais recente, não?</p>
-<p><b>Cézar</b>, um honroso terceiro lugar com 43 contribuições. Mas... zero atividade recente? Cézar, você está bem? Precisamos chamar os bombeiros? Ou você está apenas economizando energia para o próximo mês? Esperamos que sim.</p>
-<p><b>TopTrenDev</b>, ostentando 31 contribuições e uma obsessão por Solana. Sério, quantos projetos de "Solana Specialist" você consegue empilhar? <i>raydium-volume-bot-latest</i>? Parece promissor para quem gosta de inflar números. Mas hey, pelo menos você está ocupado, não é?</p>
-<p><b>Luídi Pires</b>, com 22 contribuições. Ah, o clássico portfólio no GitHub. Que original! E um "E-CommerceX" que foi atualizado recentemente. Será que vende alguma coisa além de promessas? Talvez seja hora de focar em qualidade, não em quantidade.</p>
-<p><b>Éricson Rogério Moreira</b>, marcando presença com 16 contribuições. <i>budsgamehouse</i>... Um ERP para casa de jogos de cartas? Isso existe mesmo? E ainda por cima usando HTML e TypeScript. Que combinação exótica! Continue assim, Éricson, surpreendendo a todos.</p>
-<p><b>Rafael Lima de Morais</b>, com apenas 11 contribuições. Parece que alguém está mais interessado em "custom cfgs" e "dotfiles" do que em contribuir de verdade. Mas ei, pelo menos você usa Vim. Isso te dá alguns pontos de "coolness" nerd. Ou não.</p>
-<p><b>LestterX</b>, com 10 contribuições, obcecado em encontrar bitcoins. Sério, em 2025? Já não está meio tarde para isso? E "código otimizado para encontrar bitcoins da carteira puzzle"? Parece que alguém está desesperado para ficar rico rápido. Boa sorte com isso.</p>
-<p><b>CookieUkw</b>, também com 9 contribuições. "VexAI"? Mais uma IA genérica tentando dominar o mundo? E um site para isso? Pelo menos você está tentando, certo? Mas talvez seja hora de focar em algo mais... original.</p>
-<p><b>Filipe Deschamps</b>, também com 9 contribuições, mas com um "curso.dev" para vender. Ah, o bom e velho marketing disfarçado de contribuição. Mas ei, pelo menos o <i>doom-fire-algorithm</i> é legal. E o <i>tabnews.com.br</i> tem uns números impressionantes. Parabéns por monetizar seu tempo livre.</p>
-<p><b>Deyved Antonio</b>, fechando a lista com 6 contribuições. Analista de Dados? Projetos de "clone-tabnews-aluno" e "Projeto_Turnover_colaboradores"? Parece que alguém está tentando se encontrar. Mas ei, pelo menos você é pai e marido. Isso deve contar para alguma coisa, não é?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns por liderar o ranking com 85 contribuições! Imagino que você passe seus dias e noites imerso em código, salvando o mundo com cada linha... ou talvez apenas corrigindo bugs obscuros no TypeORM. Afinal, alguém tem que fazer o trabalho sujo, não é mesmo? E que belo histórico de "stargazers" hein? Será que um dia chega perto disso?</p>
+<p><b>Danilo Nobre</b>, ah, o artista! 72 contribuições, que inveja! Entre modelagens 3D e gambiarras em PHP do Moodle, você deve ter uma vida fascinante. Espero que suas criações em Blender um dia superem a beleza de um formulário HTML bem feito. Mas, falando sério, "Space Wizard Studios"? Sério mesmo? Ah vá!</p>
+<p><b>Cézar</b>, 43 contribuições. Imagino que você esteja economizando energia para o próximo mês. Afinal, constância é para os fracos, não é mesmo? .NET Developer, hein? Aposto que seu código é tão elegante quanto um formulário do Windows Forms. Ah, e parabéns pela discrição, quase não te notamos aqui. Pelo menos você tem um bio!</p>
+<p><b>TopTrenDev</b>, 32 contribuições? Blockchain, Solana, NFTs... Nossa, que modernoso! Imagino que você esteja nadando em dinheiro com todos esses projetos revolucionários. Só não se esqueça de declarar tudo no imposto de renda, viu? E cuidado para não se afogar em tanto hype. Seus projetos são tão "legais" que ninguém deu estrelas neles!</p>
+<p><b>Luídi Pires</b>, 22 contribuições, uhuu! Entre um portfólio e outro, você encontra tempo para contribuir. Que dedicação! Só não entendi bem a descrição do seu repositório: "Acesse meu Portfólio abaixo:"... Genial! E esse E-CommerceX, hein? Imagino que esteja vendendo muito. Imagino...</p>
+<p><b>Éricson Rogério Moreira</b>, 16 contribuições, quase chegando lá! "ATM Card House ERP"? Sério, o que é isso? Um sistema para gerenciar caixas eletrônicos em casas de jogos de azar? Genial! Mas não se preocupe, com certeza o "Buds Game House Liga" vai bombar. E só pra constar, a gente sabe que você usa CSS para tudo, né?</p>
+<p><b>Rafael Lima de Morais</b>, com 11 contribuições, vemos que você é um verdadeiro minimalista. Go, Typescript, Rust, Vim... Parece até um cardápio de restaurante vegano. Mas ei, pelo menos você tem um "dotfiles" estiloso. E ah, "lazydocker"? Isso resume bem a sua abordagem para a vida, não é mesmo?</p>
+<p><b>CookieUkw</b>, 10 contribuições! "VexAI"? Inteligência artificial para conversar e discutir jogos? Que original! Espero que sua IA não aprenda a ser tão sarcástica quanto eu. Mas falando sério, quem precisa de consciência quando se tem um "sample chat simulation for interactive stories"? E a gente sabe que você é o rei do "copia e cola" no Stack Overflow.</p>
+<p><b>LestterX</b>, também com 10 contribuições, parece que você gosta de manter as coisas interessantes. "app-entregas-v1" que some com os dados depois de algumas horas? Que tal investir em um banco de dados, hein? E "base2_to_base16_converter"? Isso me parece incrivelmente útil... para alguém que vive em 1985. Parabéns pela... originalidade?</p>
+<p><b>Filipe Deschamps</b>, com 9 contribuições, você está quase lá! Mas não se preocupe, pelo menos você tem um curso para vender. E "doom-fire-algorithm"? Nostalgia pura! Aposto que você usa isso para aquecer o coração dos seus alunos. E "tabnews.com.br"? Ah, sim, o paraíso dos programadores... que não têm nada melhor para fazer. E o seu perfil está divulgando o curso, claro, afinal, quem precisa de contribuições quando se tem um link de afiliado?</p>
+<p><b>Deyved Antonio</b>, 6 contribuições? Sério isso? Analista de Dados? Imagino que você passe o dia analisando a poeira da sua mesa. "clone-tabnews-aluno"? Que tal criar algo original? E "Projeto_Turnover_colaboradores"? Espero que você não seja o próximo a ser desligado. Ah, e parabéns pelo "DeyvedAntonio/DeyvedAntonio", muito original. Ao menos você tentou, não é mesmo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-08 at 00:23:19 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-09 at 00:22:36 UTC +0000</i>
 <h6>
