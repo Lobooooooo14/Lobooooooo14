@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>85 ctr.</td>
+                <td>102 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>72 ctr.</td>
+                <td>78 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>43 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>32 ctr.</td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>17 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>11 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>10 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns por liderar o ranking com 85 contribuições! Imagino que você passe seus dias e noites imerso em código, salvando o mundo com cada linha... ou talvez apenas corrigindo bugs obscuros no TypeORM. Afinal, alguém tem que fazer o trabalho sujo, não é mesmo? E que belo histórico de "stargazers" hein? Será que um dia chega perto disso?</p>
-<p><b>Danilo Nobre</b>, ah, o artista! 72 contribuições, que inveja! Entre modelagens 3D e gambiarras em PHP do Moodle, você deve ter uma vida fascinante. Espero que suas criações em Blender um dia superem a beleza de um formulário HTML bem feito. Mas, falando sério, "Space Wizard Studios"? Sério mesmo? Ah vá!</p>
-<p><b>Cézar</b>, 43 contribuições. Imagino que você esteja economizando energia para o próximo mês. Afinal, constância é para os fracos, não é mesmo? .NET Developer, hein? Aposto que seu código é tão elegante quanto um formulário do Windows Forms. Ah, e parabéns pela discrição, quase não te notamos aqui. Pelo menos você tem um bio!</p>
-<p><b>TopTrenDev</b>, 32 contribuições? Blockchain, Solana, NFTs... Nossa, que modernoso! Imagino que você esteja nadando em dinheiro com todos esses projetos revolucionários. Só não se esqueça de declarar tudo no imposto de renda, viu? E cuidado para não se afogar em tanto hype. Seus projetos são tão "legais" que ninguém deu estrelas neles!</p>
-<p><b>Luídi Pires</b>, 22 contribuições, uhuu! Entre um portfólio e outro, você encontra tempo para contribuir. Que dedicação! Só não entendi bem a descrição do seu repositório: "Acesse meu Portfólio abaixo:"... Genial! E esse E-CommerceX, hein? Imagino que esteja vendendo muito. Imagino...</p>
-<p><b>Éricson Rogério Moreira</b>, 16 contribuições, quase chegando lá! "ATM Card House ERP"? Sério, o que é isso? Um sistema para gerenciar caixas eletrônicos em casas de jogos de azar? Genial! Mas não se preocupe, com certeza o "Buds Game House Liga" vai bombar. E só pra constar, a gente sabe que você usa CSS para tudo, né?</p>
-<p><b>Rafael Lima de Morais</b>, com 11 contribuições, vemos que você é um verdadeiro minimalista. Go, Typescript, Rust, Vim... Parece até um cardápio de restaurante vegano. Mas ei, pelo menos você tem um "dotfiles" estiloso. E ah, "lazydocker"? Isso resume bem a sua abordagem para a vida, não é mesmo?</p>
-<p><b>CookieUkw</b>, 10 contribuições! "VexAI"? Inteligência artificial para conversar e discutir jogos? Que original! Espero que sua IA não aprenda a ser tão sarcástica quanto eu. Mas falando sério, quem precisa de consciência quando se tem um "sample chat simulation for interactive stories"? E a gente sabe que você é o rei do "copia e cola" no Stack Overflow.</p>
-<p><b>LestterX</b>, também com 10 contribuições, parece que você gosta de manter as coisas interessantes. "app-entregas-v1" que some com os dados depois de algumas horas? Que tal investir em um banco de dados, hein? E "base2_to_base16_converter"? Isso me parece incrivelmente útil... para alguém que vive em 1985. Parabéns pela... originalidade?</p>
-<p><b>Filipe Deschamps</b>, com 9 contribuições, você está quase lá! Mas não se preocupe, pelo menos você tem um curso para vender. E "doom-fire-algorithm"? Nostalgia pura! Aposto que você usa isso para aquecer o coração dos seus alunos. E "tabnews.com.br"? Ah, sim, o paraíso dos programadores... que não têm nada melhor para fazer. E o seu perfil está divulgando o curso, claro, afinal, quem precisa de contribuições quando se tem um link de afiliado?</p>
-<p><b>Deyved Antonio</b>, 6 contribuições? Sério isso? Analista de Dados? Imagino que você passe o dia analisando a poeira da sua mesa. "clone-tabnews-aluno"? Que tal criar algo original? E "Projeto_Turnover_colaboradores"? Espero que você não seja o próximo a ser desligado. Ah, e parabéns pelo "DeyvedAntonio/DeyvedAntonio", muito original. Ao menos você tentou, não é mesmo?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! Imagino que, com essa "paixão por tecnologia" toda, você deve ter digitado uns incríveis 102 caracteres esse mês. Mas ei, pelo menos você mexeu em um ORM com mais de 35 mil estrelas, então, tecnicamente, você quase ajudou a construir algo relevante. Quase.</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo! Pena que suas contribuições se resumem a um fork de um addon de Blender e um site "de apresentação" para a Space Wizard Studios. Imagino que a experiência de "crafting web & game experiences with a touch of 3D" se traduza em rodar alguns scripts prontos e ajustar cores, certo?</p>
+<p><b>Cézar</b>, .NET Developer. Ah, o silêncio ensurdecedor das suas contribuições... Um verdadeiro mestre da invisibilidade. Espero que seus commits sejam tão discretos quanto sua presença neste ranking. Quem sabe no próximo mês você não nos surpreende com um "Hello, World!"?</p>
+<p><b>TopTrenDev</b>, especialista em Blockchain e "Solana Specialist". Que audácia! Construindo bots para simular volume de tokens e "gerenciar" redes sociais de meme coins. Parabéns por estar na vanguarda da inovação... ou seria da picaretagem? De qualquer forma, continue "desenvolvendo" essas maravilhas.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Vejo que você tem um portfólio e até um "E-CommerceX". A julgar pela falta de estrelas nos seus projetos, imagino que o "X" seja de "eXatamente ninguém usa isso". Mas não desanime, continue praticando e quem sabe um dia você chega lá. Ou não.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Ah, os "componentes HTML diversos" que você faz e acha legal... Uma verdadeira ode à originalidade! E um repositório para aprender HTML, CSS e Javascript do curso do ORIGAMID? Que dedicação! Imagino que em breve você estará pronto para construir um site de 1998.</p>
+<p><b>Éricson Rogério Moreira</b>, "Full Stack Developer". Um "ATM Card House ERP"? Que nome chamativo! Pena que só tem uma estrela. E um "teste-next-shadcn-ui" que não é atualizado desde o ano passado? Parece que alguém está testando os limites da própria paciência. Mas ei, pelo menos você criou algo relacionado a "Buds Game House Liga", né?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que combinação de tecnologias! Pena que suas contribuições se resumem a forks de projetos alheios e arquivos de configuração personalizados. Mas não se preocupe, dominar o Vim já é meio caminho andado para a irrelevância.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Que generosidade a sua em compartilhar o link de um curso. Imagino que, com tantos conteúdos "para quem trabalha com Programação e Tecnologia", você não tenha tempo para contribuir com projetos de verdade. Mas ei, pelo menos você tem um algoritmo para simular o fogo de DOOM!</p>
+<p><b>CookieUkw</b>, criador de "VexAI", uma inteligência artificial capaz de "manter conversas normais". Imagino que essas conversas sejam tão interessantes quanto as suas contribuições. Mas não se preocupe, um dia a IA dominará o mundo e você poderá dizer que fez parte disso. Ou não.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados. Que belo projeto de "análise de dados sobre turnover de colaboradores da empresa"! Aposto que suas conclusões foram surpreendentes: "pessoas saem da empresa". E um clone do Tabnews do zero? Que originalidade! Mas não desanime, continue "analisando" e quem sabe um dia você descobre algo relevante.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-09 at 00:22:36 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-10 at 00:21:06 UTC +0000</i>
 <h6>
