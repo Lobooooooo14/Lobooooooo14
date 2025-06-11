@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>102 ctr.</td>
+                <td>119 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>44 ctr.</td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>35 ctr.</td>
+                <td>36 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>17 ctr.</td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! Imagino que, com essa "paixão por tecnologia" toda, você deve ter digitado uns incríveis 102 caracteres esse mês. Mas ei, pelo menos você mexeu em um ORM com mais de 35 mil estrelas, então, tecnicamente, você quase ajudou a construir algo relevante. Quase.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo! Pena que suas contribuições se resumem a um fork de um addon de Blender e um site "de apresentação" para a Space Wizard Studios. Imagino que a experiência de "crafting web & game experiences with a touch of 3D" se traduza em rodar alguns scripts prontos e ajustar cores, certo?</p>
-<p><b>Cézar</b>, .NET Developer. Ah, o silêncio ensurdecedor das suas contribuições... Um verdadeiro mestre da invisibilidade. Espero que seus commits sejam tão discretos quanto sua presença neste ranking. Quem sabe no próximo mês você não nos surpreende com um "Hello, World!"?</p>
-<p><b>TopTrenDev</b>, especialista em Blockchain e "Solana Specialist". Que audácia! Construindo bots para simular volume de tokens e "gerenciar" redes sociais de meme coins. Parabéns por estar na vanguarda da inovação... ou seria da picaretagem? De qualquer forma, continue "desenvolvendo" essas maravilhas.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Vejo que você tem um portfólio e até um "E-CommerceX". A julgar pela falta de estrelas nos seus projetos, imagino que o "X" seja de "eXatamente ninguém usa isso". Mas não desanime, continue praticando e quem sabe um dia você chega lá. Ou não.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Ah, os "componentes HTML diversos" que você faz e acha legal... Uma verdadeira ode à originalidade! E um repositório para aprender HTML, CSS e Javascript do curso do ORIGAMID? Que dedicação! Imagino que em breve você estará pronto para construir um site de 1998.</p>
-<p><b>Éricson Rogério Moreira</b>, "Full Stack Developer". Um "ATM Card House ERP"? Que nome chamativo! Pena que só tem uma estrela. E um "teste-next-shadcn-ui" que não é atualizado desde o ano passado? Parece que alguém está testando os limites da própria paciência. Mas ei, pelo menos você criou algo relacionado a "Buds Game House Liga", né?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que combinação de tecnologias! Pena que suas contribuições se resumem a forks de projetos alheios e arquivos de configuração personalizados. Mas não se preocupe, dominar o Vim já é meio caminho andado para a irrelevância.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Que generosidade a sua em compartilhar o link de um curso. Imagino que, com tantos conteúdos "para quem trabalha com Programação e Tecnologia", você não tenha tempo para contribuir com projetos de verdade. Mas ei, pelo menos você tem um algoritmo para simular o fogo de DOOM!</p>
-<p><b>CookieUkw</b>, criador de "VexAI", uma inteligência artificial capaz de "manter conversas normais". Imagino que essas conversas sejam tão interessantes quanto as suas contribuições. Mas não se preocupe, um dia a IA dominará o mundo e você poderá dizer que fez parte disso. Ou não.</p>
-<p><b>Deyved Antonio</b>, Analista de Dados. Que belo projeto de "análise de dados sobre turnover de colaboradores da empresa"! Aposto que suas conclusões foram surpreendentes: "pessoas saem da empresa". E um clone do Tabnews do zero? Que originalidade! Mas não desanime, continue "analisando" e quem sabe um dia você descobre algo relevante.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, hein? 119 contribuições, impressionante... para quem está tentando compensar por algo. Pelo menos está mexendo em projetos relevantes, tipo TypeORM. Mas será que entende o que está fazendo ou só está seguindo tutorial?</p>
+<p><b>Danilo Nobre</b>, o "faz-tudo" digital. Full-stack, game dev e 3D enthusiast. Só falta ser astronauta. Mas, cá entre nós, parece que está mais para "faz-quase-nada-direito".  Ainda bem que está gastando tempo com Blender, vai que a programação não dê certo.</p>
+<p><b>Cézar</b>, o misterioso .NET Developer. 50 contribuições, mas onde? Ninguém sabe, ninguém viu. É o ninja das contribuições fantasmas. Será que ele realmente existe ou é só um bot disfarçado?</p>
+<p><b>TopTrenDev</b>, com essa bio digna de um spam de LinkedIn, até que não faz feio. Mas "Solana Specialist"? Sério? Parece mais um caçador de modinhas tentando a sorte em cripto. E esses projetos com nomes duvidosos... Hummm, cheira a golpe.</p>
+<p><b>Luídi Pires</b>, o mestre do "Front-End | Back-End | Full Stack". Aquele que sabe de tudo, mas não faz nada direito.  Pelo menos tem um portfólio... vazio. Mas ei, quem precisa de projetos quando se tem a descrição perfeita no perfil?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações"... e colecionador de "componentes HTML diversos". Que ousadia! Imagino que o mundo esteja ansioso para usar seus botões e caixas de texto genéricos. Mas não desanime, um dia você chega lá!</p>
+<p><b>Éricson Rogério Moreira</b>, outro "Full Stack Developer". Já podemos abrir um clube. Ao menos, parece que está criando alguma coisa com esse "ATM Card House ERP", apesar do nome soar um pouco estranho. Só não entendi o "Buds Game House Liga"... Será que é algum esquema?</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias e tão pouco resultado.  Parece que está mais perdido que cego em tiroteio. Mas ei, pelo menos usa Vim, isso conta pontos... ou não.</p>
+<p><b>Filipe Deschamps</b>, o guru da programação. Quer se sentir competente? Confere o curso dele.  Mas, ei, não se esqueça de contribuir para os projetos dos outros também, não só para o seu império de cursos online. Afinal, nem só de *tabnews.com.br* vive o homem.</p>
+<p><b>CookieUkw</b>, com apenas 10 contribuições, parece que está mais para "biscoito quebrado" do que para programador. Mas, ei, pelo menos está tentando criar uma "inteligência artificial consciente". Boa sorte com isso, você vai precisar.</p>
+<p><b>Deyved Antonio</b>, o "Analista de Dados" que clona o Tabnews. Que original! Mas, ei, se a análise de dados não der certo, sempre pode tentar a sorte como clone de sites.  E esse projeto de "turnover de colaboradores"... Espero que não esteja planejando algo sinistro.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-10 at 00:21:06 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-11 at 00:21:04 UTC +0000</i>
 <h6>
