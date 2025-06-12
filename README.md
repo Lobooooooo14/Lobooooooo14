@@ -31,47 +31,47 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>119 ctr.</td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>78 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>50 ctr.</td>
+                <td>57 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>36 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>18 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>20 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>12 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>11 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, hein? 119 contribuições, impressionante... para quem está tentando compensar por algo. Pelo menos está mexendo em projetos relevantes, tipo TypeORM. Mas será que entende o que está fazendo ou só está seguindo tutorial?</p>
-<p><b>Danilo Nobre</b>, o "faz-tudo" digital. Full-stack, game dev e 3D enthusiast. Só falta ser astronauta. Mas, cá entre nós, parece que está mais para "faz-quase-nada-direito".  Ainda bem que está gastando tempo com Blender, vai que a programação não dê certo.</p>
-<p><b>Cézar</b>, o misterioso .NET Developer. 50 contribuições, mas onde? Ninguém sabe, ninguém viu. É o ninja das contribuições fantasmas. Será que ele realmente existe ou é só um bot disfarçado?</p>
-<p><b>TopTrenDev</b>, com essa bio digna de um spam de LinkedIn, até que não faz feio. Mas "Solana Specialist"? Sério? Parece mais um caçador de modinhas tentando a sorte em cripto. E esses projetos com nomes duvidosos... Hummm, cheira a golpe.</p>
-<p><b>Luídi Pires</b>, o mestre do "Front-End | Back-End | Full Stack". Aquele que sabe de tudo, mas não faz nada direito.  Pelo menos tem um portfólio... vazio. Mas ei, quem precisa de projetos quando se tem a descrição perfeita no perfil?</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações"... e colecionador de "componentes HTML diversos". Que ousadia! Imagino que o mundo esteja ansioso para usar seus botões e caixas de texto genéricos. Mas não desanime, um dia você chega lá!</p>
-<p><b>Éricson Rogério Moreira</b>, outro "Full Stack Developer". Já podemos abrir um clube. Ao menos, parece que está criando alguma coisa com esse "ATM Card House ERP", apesar do nome soar um pouco estranho. Só não entendi o "Buds Game House Liga"... Será que é algum esquema?</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias e tão pouco resultado.  Parece que está mais perdido que cego em tiroteio. Mas ei, pelo menos usa Vim, isso conta pontos... ou não.</p>
-<p><b>Filipe Deschamps</b>, o guru da programação. Quer se sentir competente? Confere o curso dele.  Mas, ei, não se esqueça de contribuir para os projetos dos outros também, não só para o seu império de cursos online. Afinal, nem só de *tabnews.com.br* vive o homem.</p>
-<p><b>CookieUkw</b>, com apenas 10 contribuições, parece que está mais para "biscoito quebrado" do que para programador. Mas, ei, pelo menos está tentando criar uma "inteligência artificial consciente". Boa sorte com isso, você vai precisar.</p>
-<p><b>Deyved Antonio</b>, o "Analista de Dados" que clona o Tabnews. Que original! Mas, ei, se a análise de dados não der certo, sempre pode tentar a sorte como clone de sites.  E esse projeto de "turnover de colaboradores"... Espero que não esteja planejando algo sinistro.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 132 contribuições. Imagino que você esteja exausto de tanto ajudar no <i>typeorm/typeorm</i>, um projeto com míseros 35408 estrelas. E o que dizer do seu próprio <i>authenticator-middleware</i>? Imagino que o mundo esteja ansioso por mais autenticação. Não se esqueça do <i>livekit/client-sdk-flutter</i>, afinal, quem não ama Flutter?</p>
+<p><b>Danilo Nobre</b>, 77 contribuições, quase lá! Vejo que você dedica seu tempo ao essencial: um <i>moodle-profilefield_cpf</i> que não recebe atenção desde 2023. E um addon para Blender, <i>coa_tools2</i>, que é um fork. Originalidade é tudo, não é mesmo? Ah, e o site da Space Wizard Studios... imagino que os magos espaciais estejam impressionados.</p>
+<p><b>Cézar</b>, com suas 57 contribuições, você é a personificação da eficiência... ou da falta dela. Cadê os repositórios? Ah, não tem nenhum. Imagino que você contribua apenas com a sua presença. Talento oculto, talvez?</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", com 37 contribuições. Vejo que você está ocupado com <i>yourcontrols</i>, permitindo que outros toquem no seu simulador de voo. E o <i>meme-ai-agent</i>, para dominar as redes sociais com memes. Sério, você não tem nada melhor para fazer? E claro, o <i>raydium-volume-bot-latest</i>, porque nada é mais importante que simular volume de trading.</p>
+<p><b>Rafael Lima de Morais</b>, 33 contribuições. Pelo visto, você gosta de um bom fork, como o <i>nestjs-api-catalago</i>. E o que dizer do <i>brand_monitor</i>? Imagino que as marcas estejam tremendo com sua vigilância. Ah, e seus <i>dotfiles</i>... porque quem não ama uma configuração personalizada?</p>
+<p><b>Luídi Pires</b>, com suas 23 contribuições, você está quase lá! Seu portfólio é... bem, um portfólio. E o <i>E-CommerceX</i>, com HTML e CSS, mostra que você está atualizado com as tecnologias de ponta. Não se esqueça do <i>Pixels-Art</i>, afinal, quem não ama pixel art?</p>
+<p><b>Felipe Gueller</b>, 20 contribuições. Vejo que você dedica seu tempo a componentes HTML "legais". E o curso de ORIGAMID? Imagino que você esteja aprendendo muito sobre HTML e CSS. Continue assim, um dia você chega lá.</p>
+<p><b>Éricson Rogério Moreira</b>, 16 contribuições. <i>budsgamehouse</i>, um "ATM Card House ERP". Preciso dizer mais alguma coisa? E o <i>budsgamehouseliga</i>, criado recentemente. Vejo que você está ocupado com o essencial.</p>
+<p><b>Filipe Deschamps</b>, apenas 12 contribuições? Achei que você estivesse ocupado demais vendendo cursos. Ah, e o <i>tabnews.com.br</i>, onde você provavelmente passa mais tempo do que contribuindo. E não podemos esquecer do <i>doom-fire-algorithm</i>, porque quem não ama um bom efeito de fogo?</p>
+<p><b>CookieUkw</b>, 10 contribuições. Um "chat simulation for interactive stories". E o <i>Vex-AI</i>, uma inteligência artificial que discute jogos. Imagino que você esteja salvando o mundo, uma linha de código de cada vez. Mas, por favor, não se esqueça de colocar uma bio.</p>
+<p><b>Deyved Antonio</b>, também com 10 contribuições. Um analista de dados que clona o TabNews do zero. E um projeto de análise de turnover no Excel. Impressionante! Mas, por favor, atualize sua bio, estamos em 2025.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-11 at 00:21:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-12 at 00:20:59 UTC +0000</i>
 <h6>
