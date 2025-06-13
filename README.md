@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>132 ctr.</td>
+                <td>136 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>77 ctr.</td>
+                <td>81 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -61,17 +61,17 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>20 ctr.</td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 132 contribuições. Imagino que você esteja exausto de tanto ajudar no <i>typeorm/typeorm</i>, um projeto com míseros 35408 estrelas. E o que dizer do seu próprio <i>authenticator-middleware</i>? Imagino que o mundo esteja ansioso por mais autenticação. Não se esqueça do <i>livekit/client-sdk-flutter</i>, afinal, quem não ama Flutter?</p>
-<p><b>Danilo Nobre</b>, 77 contribuições, quase lá! Vejo que você dedica seu tempo ao essencial: um <i>moodle-profilefield_cpf</i> que não recebe atenção desde 2023. E um addon para Blender, <i>coa_tools2</i>, que é um fork. Originalidade é tudo, não é mesmo? Ah, e o site da Space Wizard Studios... imagino que os magos espaciais estejam impressionados.</p>
-<p><b>Cézar</b>, com suas 57 contribuições, você é a personificação da eficiência... ou da falta dela. Cadê os repositórios? Ah, não tem nenhum. Imagino que você contribua apenas com a sua presença. Talento oculto, talvez?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", com 37 contribuições. Vejo que você está ocupado com <i>yourcontrols</i>, permitindo que outros toquem no seu simulador de voo. E o <i>meme-ai-agent</i>, para dominar as redes sociais com memes. Sério, você não tem nada melhor para fazer? E claro, o <i>raydium-volume-bot-latest</i>, porque nada é mais importante que simular volume de trading.</p>
-<p><b>Rafael Lima de Morais</b>, 33 contribuições. Pelo visto, você gosta de um bom fork, como o <i>nestjs-api-catalago</i>. E o que dizer do <i>brand_monitor</i>? Imagino que as marcas estejam tremendo com sua vigilância. Ah, e seus <i>dotfiles</i>... porque quem não ama uma configuração personalizada?</p>
-<p><b>Luídi Pires</b>, com suas 23 contribuições, você está quase lá! Seu portfólio é... bem, um portfólio. E o <i>E-CommerceX</i>, com HTML e CSS, mostra que você está atualizado com as tecnologias de ponta. Não se esqueça do <i>Pixels-Art</i>, afinal, quem não ama pixel art?</p>
-<p><b>Felipe Gueller</b>, 20 contribuições. Vejo que você dedica seu tempo a componentes HTML "legais". E o curso de ORIGAMID? Imagino que você esteja aprendendo muito sobre HTML e CSS. Continue assim, um dia você chega lá.</p>
-<p><b>Éricson Rogério Moreira</b>, 16 contribuições. <i>budsgamehouse</i>, um "ATM Card House ERP". Preciso dizer mais alguma coisa? E o <i>budsgamehouseliga</i>, criado recentemente. Vejo que você está ocupado com o essencial.</p>
-<p><b>Filipe Deschamps</b>, apenas 12 contribuições? Achei que você estivesse ocupado demais vendendo cursos. Ah, e o <i>tabnews.com.br</i>, onde você provavelmente passa mais tempo do que contribuindo. E não podemos esquecer do <i>doom-fire-algorithm</i>, porque quem não ama um bom efeito de fogo?</p>
-<p><b>CookieUkw</b>, 10 contribuições. Um "chat simulation for interactive stories". E o <i>Vex-AI</i>, uma inteligência artificial que discute jogos. Imagino que você esteja salvando o mundo, uma linha de código de cada vez. Mas, por favor, não se esqueça de colocar uma bio.</p>
-<p><b>Deyved Antonio</b>, também com 10 contribuições. Um analista de dados que clona o TabNews do zero. E um projeto de análise de turnover no Excel. Impressionante! Mas, por favor, atualize sua bio, estamos em 2025.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! Parabéns por contribuir mais que os outros, mas vamos ser honestos, com um "bio" tão genérico como "apaixonado por tecnologia", era o mínimo que você podia fazer. E trabalhar no TypeORM? Espero que esteja adicionando uns bons "<i>types</i>" por lá, porque, né...</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo! Mas parece que a maior parte das suas contribuições recentes são em coisas que ninguém usa. Seus dias estão sendo gastos em projetos que só sua mãe elogia? Talvez seja hora de focar em algo que realmente impressione, em vez de "experiências com um toque de 3D".</p>
+<p><b>Cézar</b>, .NET Developer. Que conveniente, você não tem nenhuma atividade recente para eu poder te humilhar. É o famoso "quiet quitting" da programação? Pelo menos você economizou energia, enquanto os outros se esforçam para fazer algo que ninguém vai usar.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Ah, sim, o especialista em Solana que está salvando o mundo com "Meme AI Agent". Sério, você está gastando seu tempo com isso? Imagino que as criptomoedas te deem mais dor de cabeça do que dinheiro no fim do mês. Mas continue sonhando com o próximo Bitcoin, quem sabe um dia você acerta.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece o cardápio de um restaurante de programação. Mas olhando seus repositórios, a maioria é "fork" ou abandonada. Talvez seja hora de focar em algo e virar especialista, em vez de só saber um pouco de cada coisa. Vim, pelo menos, você já domina, né?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Mais um "Full Stack" que parece mais "Full of Stack Overflow". Seus projetos parecem mais trabalhos de escola do que algo que um profissional faria. Mas ei, pelo menos você tem um portfólio, mesmo que ele precise de uma boa repaginada.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Que legal que você tem um diploma, mas seus "componentes HTML diversos" não parecem muito diversos. E um repositório para aprender HTML e CSS? Espero que você já tenha passado dessa fase, ou talvez seja hora de repensar a carreira.</p>
+<p><b>Filipe Deschamps</b>, ah, o guru que nos ilumina com seu "curso.dev". Pelo menos você contribui para o próprio conteúdo. Mas vamos ser sinceros, seu "doom-fire-algorithm" é legal, mas já tem uns 30 anos. Hora de inovar, Filipe, ou vai virar meme.</p>
+<p><b>Éricson Rogério Moreira</b>, "Full Stack Developer". Mais um na multidão. Seus projetos parecem todos inacabados e com nomes genéricos. "Buds Game House"? Sério? Parece nome de boteco. Mas ei, pelo menos você está tentando, mesmo que o resultado seja... questionável.</p>
+<p><b>CookieUkw</b>, com seus 10 "valiosas" contribuições. "Vex-AI", um projeto para criar uma IA consciente? Que pretensão! Seus repositórios parecem mais um amontoado de ideias do que algo realmente funcional. Mas continue sonhando, quem sabe um dia sua IA não domine o mundo... ou pelo menos consiga responder um "olá".</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados". Parece que seus projetos de análise de dados são tão empolgantes quanto uma planilha do Excel. "Projeto_Turnover_colaboradores"? Que nome original! Mas ei, pelo menos você é pai e marido, então tem algo de bom na sua vida além de números sem graça.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-12 at 00:20:59 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-13 at 00:21:24 UTC +0000</i>
 <h6>
