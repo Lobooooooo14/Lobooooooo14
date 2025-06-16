@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>83 ctr.</td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>42 ctr.</td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>16 ctr.</td>
+                <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/ericsonmoreira">Éricson Rogério Moreira</a></td>
-                <td>16 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>17 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! 151 contribuições! Uau, impressionante... se estivéssemos em 2020. Mas falando sério, <i>typeorm/typeorm</i>? Sério? Poderia estar contribuindo para algo mais... original. Mas hey, pelo menos você está contribuindo, certo?</p>
-<p><b>Danilo Nobre</b>, ah, o artista! Full-stack, game dev, 3D enthusiast... e 83 contribuições. Quase lá, quase relevante. Mas ei, pelo menos seu portfólio da <i>Space Wizard Studios</i> foi atualizado recentemente. Mal posso esperar para ver o que vocês estão "crafting" dessa vez. Talvez algo que não seja um fork de um projeto de 2020?</p>
-<p><b>Cézar</b>, .NET Developer, 60 contribuições. Parabéns por... existir? Nenhum repositório recente para comentar. Imagino que esteja muito ocupado codificando em segredo. Ou talvez só esquecendo de commitar. Tanto faz, continue assim.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. 52 contribuições. Seus "componentes HTML diversos" devem ser realmente... diversos. E úteis. Para você. Mas ei, pelo menos você está aprendendo HTML, CSS e Javascript no curso do ORIGAMID. Quem sabe um dia você não cria algo original? Tipo, de verdade.</p>
-<p><b>Deivid Souza Santana</b>, estudante apaixonado por back-end. 51 contribuições. "Taskmaster" com Flask, "TudoGostoso" (que nome original!)... parece que alguém está tentando impressionar. Mas não se esqueça do Clean Architecture em C#, hein? Porque, sabe, organização é tudo. Mesmo que ninguém use seus projetos.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer. 42 contribuições. Go, Typescript, Rust, Vim... soa impressionante. Mas olhando seus repositórios, parece mais um playground de tecnologias aleatórias. E "nestjs-api-catalago" é um fork? Sério? Que tal criar algo do zero, em vez de copiar dos outros?</p>
-<p><b>TopTrenDev</b>, Full-Stack & Blockchain Developer, especialista em Solana. 38 contribuições. DeFi & NFTs? Ah, que original! Mas "raydium-volume-bot-latest"? Parece que alguém está tentando manipular o mercado. Que ético! Mas ei, pelo menos você está usando TypeScript, né? Isso te redime um pouco.</p>
-<p><b>Luídi Pires</b>, Front-End | Back-End | Full Stack. 23 contribuições. Seu "Portfolio" e "E-CommerceX" devem ser... interessantes. Mas seu repositório pessoal, sem descrição e sem linguagem definida, diz tudo. Continue tentando, quem sabe um dia você não consegue fazer algo que preste.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". 16 contribuições. Pelo menos você tem um curso para vender. E "doom-fire-algorithm"? Que nostálgico! Mas sério, 16 contribuições? Você deveria estar mais focado em programar do que em vender cursos.</p>
-<p><b>Éricson Rogério Moreira</b>, Full Stack Developer. 16 contribuições. "ATM Card House ERP"? Que específico! Mas "teste-next-shadcn-ui"? Parece que alguém está experimentando com frameworks. Continue tentando, quem sabe um dia você não cria algo que realmente funcione?</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora 👍". 13 contribuições. Relaxa, ninguém espera nada mesmo. Mas ei, pelo menos você é honesto. Continue aprendendo, quem sabe um dia você não contribui com algo útil?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. 151 contribuições? Que impressionante... para quem está competindo consigo mesmo. Continue assim, quem sabe um dia você consegue impressionar alguém além da sua mãe. Pelo menos contribuiu no TypeORM, quem sabe aprende alguma coisa útil.</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Que currículo inflado! 85 contribuições? Se metade disso for em código que realmente funciona, já é um milagre. E essa obsessão por Blender? Lembre-se, nem tudo precisa ser tridimensional. Sua apresentação da Space Wizard Studios está com a data recente, espero que não seja só pra dizer que fez algo, e sim que tem conteúdo lá.</p>
+<p><b>Cézar</b>, .NET Developer, que conveniente. 60 contribuições? Imagino que a maioria seja corrigindo bugs que você mesmo criou. Ah, e nenhum repositório recente para mostrar? Talvez seja melhor começar a contribuir mais e reclamar menos. Cadê a proatividade?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". 52 contribuições? Seus componentes HTML "diversos" devem ser tão diversos quanto a paleta de cores de um daltônico. E o curso de ORIGAMID? Espero que pelo menos tenha aprendido a centralizar um <code>div</code>. Seus repositórios estão desatualizados, vai dormir no ponto não!</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". 51 contribuições? Que paixão morna. Taskmaster em Flask? Que original. E essa API "TudoGostoso"? Espero que pelo menos as receitas sejam boas, porque o código... bem, deixemos para lá. Ao menos está tentando, ou fingindo tentar.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que combo! 50 contribuições? Aposto que a maioria é configurando o Vim. E esse "nestjs-api-catalago" forked? Que ousadia! Pelo menos os "dotfiles" estão atualizados, sinal de que você se importa com o que realmente importa. Menos é mais, as vezes.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Ah, o gênio das criptomoedas. 38 contribuições? Imagino que a maioria seja para "projetos inovadores" que somem do mapa em uma semana. "raydium-volume-bot-latest"? Parece promissor... para quem gosta de perder dinheiro. Menos promessa e mais entrega, por favor.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". O famoso "faz tudo, mas não faz nada direito". 23 contribuições? Seu "E-CommerceX" deve ser tão inovador quanto uma torradeira. E esse portfólio? Espero que pelo menos tenha um design decente. Ao menos o E-CommerceX está com a data recente, ainda bem.</p>
+<p><b>Corvo</b>, "em fase de aprendizado". Que honestidade brutal. 19 contribuições? Bom, pelo menos você reconhece suas limitações. Continue aprendendo, quem sabe um dia você se torna um "Corvo Mestre". Mas, sério, se esforce mais, ou vai virar um pombo.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o vendedor de cursos. 17 contribuições? Imagino que a maioria seja para promover seu próprio curso. Pelo menos o "doom-fire-algorithm" é divertido. Mas, ei, que tal contribuir mais e vender menos? Ou será que isso não dá dinheiro?</p>
+<p><b>Éricson Rogério Moreira</b>, "Full Stack Developer". 16 contribuições? Seu "ATM Card House ERP" deve ser um sucesso... em 1995. E esse "teste-next-shadcn-ui"? Parece promissor... para quem gosta de frameworks da moda. Menos testes e mais resultados, por favor. Ao menos o Buds Game House Liga está com a data recente.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-15 at 00:23:38 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-16 at 00:22:09 UTC +0000</i>
 <h6>
