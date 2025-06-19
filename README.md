@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>155 ctr.</td>
+                <td>165 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>94 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>118 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>93 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>101 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -61,12 +61,12 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>47 ctr.</td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>23 ctr.</td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 155 contribuições, liderando o ranking... Parabéns? Tipo, ok, você contribuiu mais que os outros, mas será que a qualidade acompanha a quantidade? Espero que não esteja só enchendo o saco nos projetos alheios. E esse "passionate about technology" na bio é o clichê mais sem graça que existe. Inove, por favor. Ah, e TypeORM? Sério? Em pleno 2025? Achei que já tínhamos superado isso.</p>
-<p>Danilo Nobre, o "Full-stack, Game dev e 3D Enthusiast". Que currículo diverso! Ou seria "indeciso"? 94 contribuições, ok. Mas vamos ser sinceros, esse repositório "sw-site" da Space Wizard Studios parece mais um projeto de TCC do que algo que realmente vá para frente. E "coa_tools2" é um fork? Que ousadia! Se for pra copiar, que seja de alguém que preste, né?</p>
-<p>Rafael Lima de Morais, o minimalista do Vim com 93 contribuições. "Software Engineer | Go | Typescript | Rust | Vim"... Quanta pretensão! Mas olhando seus repositórios, "brand_monitor" de 2024? Sério que você ainda está monitorando marcas? E "lazydocker" é um fork? Descobriu o Docker ontem e já quer usar ferramenta pra preguiçoso? Se manca, Rafael.</p>
-<p>Cézar, o misterioso desenvolvedor .NET com 60 contribuições. Sem repositórios recentes para julgar? Que conveniente! Aposto que está escondendo o jogo. Ou será que não tem nada para mostrar mesmo? 🤔</p>
-<p>Felipe Gueller, o "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo" com 55 contribuições. "componentes-html-diversos"? Que nome original! E "html-css-origamid"? Sério que você ainda está aprendendo HTML e CSS em 2025? Espero que pelo menos tenha tirado um A no curso. Se bem que, no IFES, isso não quer dizer muita coisa...</p>
-<p>Deivid Souza Santana, o "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". 51 contribuições. "Taskmaster" com Flask? Que bonitinho, um projeto de iniciante. E "TudoGostoso"? Compartilhamento de receitas? Isso é um trabalho, ou está tentando impressionar a crush? Ah, e "Clean-Arch-CS"? Aposto que está mais sujo que a pia da minha cozinha.</p>
-<p>TopTrenDev, o "Full-Stack & Blockchain Developer, Solana Specialist". Que combo! 47 contribuições. "meme-ai-agent"? Gerenciamento autônomo de redes sociais para meme tokens? Você realmente acha que isso é uma boa ideia? E "raydium-volume-bot-latest"? Manipulação de volume em Raydium? Espero que não esteja lavando dinheiro por aí... 🤨</p>
-<p>Luídi Pires, o "Front-End | Back-End | Full Stack". Aquele que quer abraçar o mundo com as pernas. 23 contribuições. "LuidiPiresHub/LuidiPiresHub"? Que narcisismo! E "Portfolio"? Sério que você chama isso de portfólio? Parece mais um amontoado de divs mal formatadas. "E-CommerceX"? O "X" é de "eXtreme vergonha alheia"?</p>
-<p>LestterX, o anônimo com 22 contribuições. Sem bio, sem pretensões? Pelo menos é honesto. "app-entregas-v1" que não persiste os dados? Genial! E "forcando"? Forçando o quê? A barra? A criatividade? A paciência dos outros? 🙄</p>
-<p>Corvo, o humilde aprendiz com 21 contribuições. "Estou em fase de aprendizado, então não espere muito por hora". Pelo menos tem consciência das suas limitações. Mas se continuar com essa atitude, vai ficar aprendendo para sempre. Se esforce mais, ou continue sendo só mais um corvo no bando.</p>
-<p>Filipe Deschamps, o vendedor de cursos com 17 contribuições. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o famoso "aprenda comigo e fique rico em 3 meses". "doom-fire-algorithm"? Nostalgia barata. E "clone-tabnews"? Falta de originalidade gritante. Mas ei, pelo menos você sabe como ganhar dinheiro, né?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, em primeiro lugar, parabéns por liderar o ranking. Mas, com 165 contribuições, será que não está na hora de contribuir para um repositório seu? Ah, espera, você contribuiu para o TypeORM! Que audácia, hein? E ainda mexe com LiveKit, quem diria, o próximo Zuckenberg está entre nós.</p>
+<p><b>Rafael Lima de Morais</b>, 118 contribuições... e um repositório chamado "brand_monitor" que não é atualizado desde o ano passado? Parece que alguém precisa monitorar a própria marca. E "lazydocker"? Sério? A preguiça elevada a um novo nível. Ao menos está usando Vim, ainda há esperança.</p>
+<p><b>Danilo Nobre</b>, com 101 contribuições, está quase lá! Mas cuidado para não se perder entre o Full-stack, Game dev e 3D. E o que dizer de contribuir para um projeto Moodle de 2014? Nostalgia pura! Ao menos mexe com Blender, talvez ainda salve o mundo com seus modelos 3D.</p>
+<p><b>Cézar</b>, 60 contribuições. Hum... Ok. Próximo!</p>
+<p><b>Felipe Gueller</b>, 55 contribuições e um repositório de "componentes-html-diversos"? Isso soa como uma gaveta de bugigangas digitais. E o curso de Origamid? Já aprendeu a dobrar código em origami? Se não, talvez seja a hora de voltar para as aulas.</p>
+<p><b>Deivid Souza Santana</b>, 51 contribuições. "Taskmaster" com Flask? Ambicioso. Mas "TudoGostoso" com Mako? Espero que suas receitas de código sejam mais saborosas que essa combinação. E Clean Architecture em C#? Que a força esteja com você!</p>
+<p><b>TopTrenDev</b>, também com 51 contribuições, especialista em Blockchain, Solana e NFTs. Ah, claro, o futuro é agora! Mas "raydium-volume-bot-latest"? Tentando inflar os números, <i>espertinho</i>? Pelo menos está diversificando os golpes, digo, projetos.</p>
+<p><b>Lúidi Pires</b>, 27 contribuições. Front-End, Back-End, Full Stack... e um portfólio com "Pixels-Art"? Isso é tão 2010! Mas ei, "E-CommerceX" pode ser a próxima grande coisa. Ou não.</p>
+<p><b>LestterX</b>, 22 contribuições e um app de entregas que não persiste dados? Isso é quase uma piada. "AppProdutos-Salvus"? Parece nome de remédio. E "forcando"? Espero que não esteja forçando a barra para entrar no ranking.</p>
+<p><b>Corvo</b>, 21 contribuições e "em fase de aprendizado"? Ótimo, continue assim. Mas lembre-se, o conhecimento é como um corvo: voa para longe se você não prestar atenção.</p>
+<p><b>Filipe Deschamps</b>, com 17 contribuições, está quase desistindo? "Quer se sentir competente em programação?" Boa tentativa de se promover, mas o "doom-fire-algorithm" já tem quase 6 anos. Hora de inovar, ou vai virar meme.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-18 at 00:21:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-19 at 00:21:33 UTC +0000</i>
 <h6>
