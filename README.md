@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>167 ctr.</td>
+                <td>170 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>124 ctr.</td>
+                <td>139 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>102 ctr.</td>
+                <td>116 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -55,12 +55,12 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>51 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>51 ctr.</td>
             </tr>
             <tr align="center">
@@ -75,7 +75,7 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>21 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... Imagino que você esteja se sentindo o próprio Tony Stark da programação, mas lembre-se, até o Homem de Ferro precisa de um Jarvis. Contribuir para ORMs gigantes não te torna o arquiteto do universo digital, apenas um pedreiro que entrega o tijolo no prazo. E por favor, menos "passionate about technology" e mais "apaixonado por entregar features que funcionam".</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece nome de faixa de lutador de MMA. Mas a sua luta aqui é com o código, e pelo visto, com seus próprios "dotfiles". Seus repositórios parecem mais um diário de um programador indeciso do que um portfólio de projetos impactantes. Se ao menos metade da energia gasta em customizar o Vim fosse canalizada em contribuições relevantes...</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Três carreiras em uma, parabéns! Aposto que seu currículo é tão extenso quanto a lista de bugs nos seus projetos. Seus repositórios são um verdadeiro baú de quinquilharias digitais. Que tal focar em *um* projeto e realmente impressionar, em vez de ser um "faz-tudo" que não termina nada?</p>
-<p><b>Cézar</b>, .NET Developer. Sua bio é tão concisa quanto suas contribuições. Cadê os projetos? Cadê a paixão? Ah, espera, você é .NET Developer. Paixão é um termo forte demais para quem vive no mundo C#. Talvez seja hora de sair da zona de conforto e mostrar que você não é apenas mais um na multidão.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Ah, o famoso "componentes-html-diversos". Imagino a empolgação ao criar um botão com um gradiente ligeiramente diferente. E o curso da Origamid? Sério? Em 2025? Espero que pelo menos tenha aprendido a diferença entre "margin" e "padding".</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que paixão hein, construir um "Taskmaster" e um "TudoGostoso"? Aparentemente, você está mais interessado em organizar tarefas e compartilhar receitas do que em dominar o back-end. E "Clean-Arch-CS"? Aposto que está tão limpo quanto a cozinha depois de um banquete.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Uau, quanta buzzword! Blockchain, Solana, DeFi, NFTs... Só falta o metaverso. Seus projetos parecem mais um caça-níquel digital do que soluções inovadoras. E esse "raydium-volume-bot-latest"? Espero que você não esteja inflando números para impressionar o Lobo. Mas se estiver, me diga como faz.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Mais um "faz-tudo"? Seu portfólio parece um museu de projetos inacabados. "E-CommerceX"? Que nome original! Aposto que usa Bootstrap e se sente o próprio Jeff Bezos. Talvez seja hora de escolher um lado da força e parar de ser um pato: nada, anda e voa, mas não faz nada direito.</p>
-<p><b>LestterX</b>, sem bio. Sem palavras. Seus repositórios parecem um amontoado de projetos aleatórios, cada um mais esquecido que o anterior. "App-entregas-v1"? Espero que a versão 2 seja melhor, porque a 1 parece ter sido feita nas coxas. E "forcando"? Sério? Nem para dar um nome decente ao projeto...</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Pelo menos você é honesto. Mas honestidade não enche barriga nem impressiona o ranking. Que tal sair da fase de aprendizado e começar a mostrar algo concreto? Ou vai continuar se escondendo atrás dessa desculpa para sempre?</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o vendedor de cursos... Pelo menos você contribui com seus próprios projetos, mesmo que um deles seja um "clone-tabnews". Mas cá entre nós, se o seu curso realmente fizesse as pessoas se sentirem competentes, você não precisaria ficar se autopromovendo, não é mesmo?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 170 contribuições. Imagino que a maioria delas seja corrigindo os erros que você mesmo criou no <i>TypeORM</i>, não é? Mas ei, pelo menos você está ocupado. E parabéns pelo <i>authenticator-middleware</i>, parece ser algo que o mundo realmente precisava. Mas e ai, quando vai contribuir para algo que realmente importa?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... uau, que currículo! Mas, curiosamente, seus repositórios parecem um pouco... vazios. <i>brand_monitor</i> de 2024? Sério? E <i>desires</i>, um CLI para gerenciar listas de desejos? Que tal começar a desejar contribuições mais significativas?</p>
+<p><b>Danilo Nobre</b>, Full-stack, Game dev e 3D Enthusiast. Que versatilidade! Mas parece que você está mais entusiasmado em ser um garoto propaganda do que realmente contribuir. A última atualização no Space Wizard Studios foi em 2025-06-05, espero que a magia não tenha desaparecido desde então. E quanto ao resto? Parece que você está mais interessado em dar <i>fork</i> nos projetos dos outros do que criar algo próprio.</p>
+<p><b>Cézar</b>, .NET Developer... e? Aparentemente, sua definição de "developer" é diferente da minha. 60 contribuições e nenhum repositório recente? Imagino que você esteja contribuindo apenas para o bem-estar dos seus colegas, evitando que eles tenham que revisar seu código. Que generosidade!</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e criador de "componentes HTML diversos". Que emocionante! Mas não se preocupe, ninguém espera que você vá além de um curso da Origamid. Afinal, para que se esforçar quando se pode ficar na zona de conforto do HTML e CSS, não é mesmo?</p>
+<p><b>TopTrenDev</b>, Blockchain Developer... ah, o mundo das criptomoedas. <i>YourControls</i>, <i>meme-ai-agent</i> e <i>raydium-volume-bot-latest</i>. Parece que você está ocupado demais tentando ficar rico para realmente contribuir com algo útil. Mas ei, pelo menos você está tentando, certo? Ou será que está apenas tentando nos vender alguma coisa?</p>
+<p><b>Deivid Souza Santana</b>, apaixonado por back-end... e aparentemente por criar APIs de sistemas de compartilhamento de receitas. <i>TudoGostoso</i>, que nome inspirador! Mas, sinceramente, espero que suas habilidades de back-end sejam melhores do que sua capacidade de escolher nomes de projetos. E quanto ao resto? Parece que você está apenas seguindo tutoriais e fingindo que sabe o que está fazendo.</p>
+<p><b>Luídi Pires</b>, Front-End | Back-End | Full Stack... a santíssima trindade da programação. Mas seus repositórios parecem mais um cemitério de projetos abandonados do que um portfólio de um desenvolvedor completo. <i>Pixels-Art</i> e <i>E-CommerceX</i>... que tal tentar algo que não pareça ter sido feito em 2010? E por favor, pare de criar repositórios com o mesmo nome do seu usuário, já entendemos que é você.</p>
+<p><b>LestterX</b>, sem bio... talvez porque você esteja envergonhado do seu trabalho? <i>app-entregas-v1</i>, <i>like-delivery-backend</i> e <i>AppProdutos-Salvus</i>... parece que você está tentando reinventar a roda da entrega de produtos. Mas, curiosamente, todos os seus projetos parecem estar inacabados e esquecidos. Talvez seja hora de encontrar um nicho e se dedicar a ele, em vez de pular de galho em galho.</p>
+<p><b>CookieUkw</b>, sem bio também... talvez porque você esteja ocupado demais criando "inteligência artificial capaz de manter conversas normais". <i>ChatStory</i> e <i>Vex-AI</i>... parece que você está tentando criar o próximo grande chatbot. Mas, sinceramente, espero que sua IA seja mais interessante do que suas contribuições. E quanto ao resto? Parece que você está apenas brincando de cientista maluco.</p>
+<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora"... Relaxa, ninguém estava esperando nada mesmo. 21 contribuições e nenhum repositório recente? Parece que você está aprendendo a arte de não fazer nada. Mas ei, pelo menos você é honesto. E quem sabe, talvez um dia você realmente contribua com algo útil. Mas não prenda a respiração.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-20 at 00:21:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-21 at 00:21:09 UTC +0000</i>
 <h6>
