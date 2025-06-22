@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>170 ctr.</td>
+                <td>171 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>139 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>116 ctr.</td>
+                <td>117 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>52 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 170 contribuições. Imagino que a maioria delas seja corrigindo os erros que você mesmo criou no <i>TypeORM</i>, não é? Mas ei, pelo menos você está ocupado. E parabéns pelo <i>authenticator-middleware</i>, parece ser algo que o mundo realmente precisava. Mas e ai, quando vai contribuir para algo que realmente importa?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... uau, que currículo! Mas, curiosamente, seus repositórios parecem um pouco... vazios. <i>brand_monitor</i> de 2024? Sério? E <i>desires</i>, um CLI para gerenciar listas de desejos? Que tal começar a desejar contribuições mais significativas?</p>
-<p><b>Danilo Nobre</b>, Full-stack, Game dev e 3D Enthusiast. Que versatilidade! Mas parece que você está mais entusiasmado em ser um garoto propaganda do que realmente contribuir. A última atualização no Space Wizard Studios foi em 2025-06-05, espero que a magia não tenha desaparecido desde então. E quanto ao resto? Parece que você está mais interessado em dar <i>fork</i> nos projetos dos outros do que criar algo próprio.</p>
-<p><b>Cézar</b>, .NET Developer... e? Aparentemente, sua definição de "developer" é diferente da minha. 60 contribuições e nenhum repositório recente? Imagino que você esteja contribuindo apenas para o bem-estar dos seus colegas, evitando que eles tenham que revisar seu código. Que generosidade!</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e criador de "componentes HTML diversos". Que emocionante! Mas não se preocupe, ninguém espera que você vá além de um curso da Origamid. Afinal, para que se esforçar quando se pode ficar na zona de conforto do HTML e CSS, não é mesmo?</p>
-<p><b>TopTrenDev</b>, Blockchain Developer... ah, o mundo das criptomoedas. <i>YourControls</i>, <i>meme-ai-agent</i> e <i>raydium-volume-bot-latest</i>. Parece que você está ocupado demais tentando ficar rico para realmente contribuir com algo útil. Mas ei, pelo menos você está tentando, certo? Ou será que está apenas tentando nos vender alguma coisa?</p>
-<p><b>Deivid Souza Santana</b>, apaixonado por back-end... e aparentemente por criar APIs de sistemas de compartilhamento de receitas. <i>TudoGostoso</i>, que nome inspirador! Mas, sinceramente, espero que suas habilidades de back-end sejam melhores do que sua capacidade de escolher nomes de projetos. E quanto ao resto? Parece que você está apenas seguindo tutoriais e fingindo que sabe o que está fazendo.</p>
-<p><b>Luídi Pires</b>, Front-End | Back-End | Full Stack... a santíssima trindade da programação. Mas seus repositórios parecem mais um cemitério de projetos abandonados do que um portfólio de um desenvolvedor completo. <i>Pixels-Art</i> e <i>E-CommerceX</i>... que tal tentar algo que não pareça ter sido feito em 2010? E por favor, pare de criar repositórios com o mesmo nome do seu usuário, já entendemos que é você.</p>
-<p><b>LestterX</b>, sem bio... talvez porque você esteja envergonhado do seu trabalho? <i>app-entregas-v1</i>, <i>like-delivery-backend</i> e <i>AppProdutos-Salvus</i>... parece que você está tentando reinventar a roda da entrega de produtos. Mas, curiosamente, todos os seus projetos parecem estar inacabados e esquecidos. Talvez seja hora de encontrar um nicho e se dedicar a ele, em vez de pular de galho em galho.</p>
-<p><b>CookieUkw</b>, sem bio também... talvez porque você esteja ocupado demais criando "inteligência artificial capaz de manter conversas normais". <i>ChatStory</i> e <i>Vex-AI</i>... parece que você está tentando criar o próximo grande chatbot. Mas, sinceramente, espero que sua IA seja mais interessante do que suas contribuições. E quanto ao resto? Parece que você está apenas brincando de cientista maluco.</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora"... Relaxa, ninguém estava esperando nada mesmo. 21 contribuições e nenhum repositório recente? Parece que você está aprendendo a arte de não fazer nada. Mas ei, pelo menos você é honesto. E quem sabe, talvez um dia você realmente contribua com algo útil. Mas não prenda a respiração.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! Com 171 contribuições, você realmente se esforçou... ou talvez tenha apenas automatizado o processo. De qualquer forma, impressionante como você consegue contribuir para projetos como o TypeORM e ainda ter tempo para o seu "authenticator-middleware". Será que ele autentica até a sua máquina de café?</p>
+<p><b>Rafael Lima de Morais</b>, ah, o segundo lugar. Quase lá, mas 147 contribuições não são suficientes para destronar o campeão. Vejo que você gosta de Rust, Go e Typescript. Uma pena que seu repositório "brand_monitor" não seja tão atualizado quanto seu gosto por linguagens modernas. Quem sabe no próximo mês você não abandona menos projetos?</p>
+<p><b>Danilo Nobre</b>, em terceiro lugar com 117 contribuições. Full-stack, game dev e entusiasta de 3D... uau, quanta coisa! Mas será que toda essa sua energia criativa se traduz em algo realmente útil? Ah, e sobre aquele fork do Blender addon, espero que você esteja contribuindo com algo mais do que apenas commits de "merge branch".</p>
+<p><b>Cézar</b>, com 60 contribuições, o desenvolvedor .NET que ninguém sabe o que faz. Sua bio é curta e grossa, assim como sua participação neste ranking. Cadê os repositórios recentes? Está escondendo o jogo ou só esperando o mês que vem para brilhar? A não ser que você seja o próprio Lobo em disfarce, não sei o que esperar de você.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Imagino que esses "componentes HTML diversos" sejam tão diversos quanto as matérias que você cursou. E o curso de HTML, CSS e Javascript do ORIGAMID? Já dominou o básico ou ainda está lutando com o Box Model? Com 55 contribuições, você está quase lá... quase sendo notado.</p>
+<p><b>TopTrenDev</b>, especialista em Blockchain, Solana e NFTs. Com 54 contribuições, você parece estar sempre na crista da onda... ou tentando criar uma. "Meme AI Agent"? "Raydium Volume Bot"? Sério mesmo? Espero que você esteja ganhando dinheiro com isso, porque a sanidade mental já parece ter ido para o espaço.</p>
+<p><b>Deivid Souza Santana</b>, futuro desenvolvedor back-end apaixonado. 51 contribuições e um portfólio que parece uma colcha de retalhos. "Taskmaster", "TudoGostoso", "Clean-Arch-CS"... dá pra decidir o que você quer ser quando crescer? Pelo menos você está tentando, e isso já é mais do que muitos podem dizer.</p>
+<p><b>Lúidi Pires</b>, o famoso "Full Stack" que todo mundo diz ser, mas ninguém vê. 27 contribuições e um "E-CommerceX" que deve estar usando HTML e CSS de 2010. Mas ei, pelo menos você tem um portfólio! Isso já te coloca à frente de muita gente. Continue assim, quem sabe um dia você chega lá.</p>
+<p><b>LestterX</b>, com 22 contribuições, você está quase no fim da lista. "App-entregas-v1" que não persiste dados? "AppProdutos-Salvus"? Parece que você gosta de criar coisas que duram menos que um suspiro. Mas não se preocupe, sempre dá para culpar a falta de tempo ou a complexidade dos projetos. O importante é não desistir... ou talvez seja melhor procurar outra área.</p>
+<p><b>CookieUkw</b>, 21 contribuições e uma ambição de criar uma IA consciente com o "VexAI". Boa sorte com isso! Enquanto isso, seu "ChatStory" com 4 estrelas deve estar fazendo sucesso entre os adolescentes. Quem sabe um dia você não domina o mundo com sua IA... ou pelo menos consegue um emprego decente.</p>
+<p><b>Corvo</b>, o último da lista com 21 contribuições. "Em fase de aprendizado". Ok, entendemos. Não esperamos muito de você, mas pelo menos tente fazer algo além de respirar. Quem sabe no próximo mês você não surpreende a todos e sai do último lugar? Mas não conte com isso.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-21 at 00:21:09 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-22 at 00:23:24 UTC +0000</i>
 <h6>
