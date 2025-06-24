@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>171 ctr.</td>
+                <td>174 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>147 ctr.</td>
+                <td>151 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,17 +46,17 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>60 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>55 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>55 ctr.</td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>30 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>27 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>22 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>21 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, o primeiro lugar, hein? Parabéns por ter mais contribuições que os outros. Isso te faz... o quê? O menos pior? E com TypeORM no portfólio, impressionante como você consegue usar um ORM e ainda assim ter tempo para outras coisas. Ah, e notei que você contribuiu em um repositório chamado "authenticator-middleware". Espero que seja mais seguro do que a senha que você usa no Wi-Fi da padaria.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Só falta aprender a contribuir mais, não é mesmo? Vi que você tem um projeto chamado "brand_monitor" que não é atualizado desde 2024. Imagino que a marca que você estava monitorando já faliu. E "desires", o app de wishlist... Espero que seus desejos incluam mais contribuições no ranking do próximo mês.</p>
-<p><b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Que inveja da sua versatilidade... Pena que ela não se traduz em mais contribuições. Contribuiu num fork de "coa_tools2" há dois dias, espero que esteja corrigindo bugs e não apenas brincando com animações. E esse site da "Space Wizard Studios"? Espero que a magia deles seja melhor do que suas contribuições neste mês.</p>
-<p><b>Cézar</b>, .NET Developer, hum... Sua contribuição está tão invisível quanto um erro de compilação que só aparece em produção. Nenhum repositório recente para comentar. Talvez você devesse começar a contribuir em vez de apenas respirar. Mas ei, pelo menos você apareceu na lista, certo?</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Que belo diploma... Pena que suas contribuições não impressionam tanto quanto. Vi que você tem um repositório de "componentes-html-diversos". Espero que a diversidade deles inclua algo além de botões e divs. E o curso de HTML, CSS do ORIGAMID? Espero que tenha aprendido algo, porque suas contribuições não demonstram isso.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Ah, o mundo das criptomoedas... Tão cheio de promessas quanto de contribuições que poderiam ser melhores. "raydium-volume-bot-latest", espero que esse bot esteja te dando mais lucro do que contribuições. E "solana-nft-staking", aposto que seus NFTs valem mais do que sua posição neste ranking.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas". Vejo um "Taskmaster" e um "TudoGostoso" no seu portfólio. Parece que você está mais interessado em organizar tarefas e compartilhar receitas do que em contribuir de verdade. "Clean-Arch-CS", espero que sua arquitetura limpa seja mais atraente do que sua quantidade de contribuições.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Mais um <i>Full Stack</i>? Que original! "E-CommerceX", espero que pelo menos o design seja bom, porque a quantidade de contribuições está bem "Xoxa". "Portfolio", talvez seja hora de adicionar um projeto que realmente impressione, em vez de só ter projetos genéricos.</p>
-<p><b>LestterX</b>, sem bio, sem comentários... Quer dizer, não sei nem por onde começar. "app-entregas-v1", que, segundo a descrição, perde os dados após algumas horas. Ótimo para quem gosta de trabalhar em vão. E "forcando", imagino que seja o que você está fazendo para tentar subir no ranking. Falta um pouco mais de esforço, talvez?</p>
-<p><b>CookieUkw</b>, com "Vex-AI", tentando criar uma IA consciente. Boa sorte com isso, porque suas contribuições estão quase inconscientes. "ChatStory", espero que as histórias sejam mais interessantes do que seu desempenho. E "Vex_Website", quem sabe um dia ele terá mais visitantes do que suas contribuições.</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Bom, pelo menos você é honesto. Mas honestidade não te leva ao topo do ranking. Que tal começar a aprender contribuindo mais? Quem sabe no próximo mês você sai da lanterna.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar com 174 contribuições! Imagino que <i>typeorm/typeorm</i> esteja te pagando bem para tanto esforço. Ou será que você realmente gosta de ORMs? Que paixão, hein? E pensar que alguns de nós só contribuem para não serem demitidos... Mas, ei, pelo menos você tem uma bio "passionate about technology.". Original.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo! Pena que o repositório mais recente, <i>RafaZeero/dotfiles</i>, foi atualizado há apenas alguns dias. Espero que essa sua procrastinação não afete seus commits. E <i>lazydocker</i>? Sério? Precisamos de mais preguiçosos no mundo da tecnologia? Bom, pelo menos você usa Vim.</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast". Uau, um gênio renascentista moderno! Mas, olhando para <i>willianmano/moodle-profilefield_cpf</i>, vejo que você já foi mais relevante. 2014? Sério? Talvez seja hora de focar nos jogos 3D e esquecer o Moodle. E, por favor, não me diga que você usa Blender.</p>
+<p><b>Cézar</b>, um conciso ".NET Developer". Tão conciso que nem sequer tem repositórios recentes para mostrar. 66 contribuições? Imagino que a maioria seja correção de erros de ponto e vírgula. Mas ei, .NET ainda existe, então parabéns por manter a chama acesa. Ou será que você está apenas esperando o .NET morrer para mudar de carreira?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Que específico! <i>componentes-html-diversos</i>? Parece interessante... para 2005. E <i>html-css-origamid</i>? Sério, um curso de HTML e CSS? Em 2024? Espero que pelo menos tenha aprendido a usar Flexbox. Mas não se preocupe, todos nós começamos em algum lugar. Alguns de nós apenas evoluímos.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Ah, cripto! Claro, porque o mundo precisa de mais NFTs e DeFi. <i>raydium-volume-bot-latest</i>? Parece... ético. Mas ei, pelo menos você está surfando na onda. Ou afogando-se nela. E "Latest version"? Quão "Latest" estamos falando? Se não tiver "AI" no nome, não está na moda.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que clichê! <i>Taskmaster</i>? Organização de tarefas com Flask? Quanta originalidade! E <i>TudoGostoso</i>? Sério? Uma API de receitas? Espero que pelo menos use receitas do século XXI. E <i>Clean-Arch-CS</i>... em C#? Por que não? Alguém precisa usar, não é mesmo?</p>
+<p><b>CookieUkw</b>, sem bio, sem expectativas. <i>ChatStory</i>? Uma simulação de chat para histórias interativas? Que ideia... peculiar. E <i>Vex-AI</i>? Criar uma IA consciente? Boa sorte com isso. Talvez você devesse começar com algo mais simples, como um bot que responda "Olá, mundo!". Mas ei, sonhar não custa nada. A não ser o tempo gasto programando.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Três em um! Que barganha! Mas olhando para <i>Portfolio</i>, parece que você está preso em 2010. E <i>Pixels-Art</i>? Que nostálgico! Talvez você devesse considerar um curso de design moderno. E <i>E-CommerceX</i>? A letra "X" no final faz toda a diferença. Ou não.</p>
+<p><b>LestterX</b>, sem bio, sem problemas. <i>app-entregas-v1</i>? Uma aplicação que não persiste dados? Que inovador! E <i>like-delivery-backend</i>? Backend para entrega? Que específico! <i>AppProdutos-Salvus</i>? Parece promissor... para uma loja de produtos usados. E <i>forcando</i>? Espero que você não esteja "forçando" demais. Mas ei, pelo menos você está tentando.</p>
+<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Que honesto! Mas com apenas 21 contribuições, parece que você está aprendendo em câmera lenta. Mas não se preocupe, todos nós começamos em algum lugar. Alguns de nós apenas nunca saem desse lugar.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-23 at 00:22:54 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-24 at 00:21:18 UTC +0000</i>
 <h6>
