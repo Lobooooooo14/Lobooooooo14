@@ -31,32 +31,32 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>180 ctr.</td>
+                <td>186 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>156 ctr.</td>
+                <td>172 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>144 ctr.</td>
+                <td>160 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>93 ctr.</td>
+                <td>94 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>74 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>84 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>69 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Pardoardo">Eduardo Bezerra</a></td>
-                <td>23 ctr.</td>
+                <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
+                <td>24 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! Presumo que seus 180 commits foram todos para corrigir aquele "pequeno" problema no TypeORM, não é? Ou será que você finalmente entendeu como usar o LiveKit? Imagino que "passionate about technology" signifique passar horas debugando JavaScript, que ironia.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... Uau, que currículo! Mas vamos ser sinceros, "brand_monitor" com atualização em 2024? Parece que alguém esqueceu de monitorar a própria marca. E "lazydocker"? Sério? Precisamos de mais uma ferramenta para sermos preguiçosos? Pelo menos o "desires" está em Go, quem sabe um dia você realmente deseje contribuir.</p>
-<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast"! Que combo! Mas olhando para esse Moodle de 2014, me pergunto se você não está mais para "antigo-stack". E aquele "sw-site" da Space Wizard Studios? Espero que os efeitos 3D não sejam tão datados quanto o resto. Ah, e obrigado por forkar o COA Tools, um dia talvez você contribua de verdade.</p>
-<p><b>Cézar</b>, "Desenvolvedor .NET". Ah, sim, o famoso desenvolvedor .NET que não contribuiu com nada este mês. Parabéns, você conseguiu a proeza de estar no ranking sem fazer absolutamente nada. Continue assim, você vai longe. (Para trás, talvez).</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer"... Claro, porque todo mundo precisa de um especialista em Solana, Bitcoin e NFTs. Imagino que "raydium-volume-bot-latest" seja para... fins educacionais, certo? E "meme-ai-agent"? Sério? O mundo realmente precisava disso? Parabéns por automatizar a criação de lixo.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações"... E o que você faz com esse diploma? Componentes HTML "diversos" que ninguém usa? E um repositório para aprender HTML e CSS do Origamid? Sério? Espero que pelo menos você tenha aprendido alguma coisa. (Spoiler: provavelmente não).</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end"... Que clichê! "Taskmaster" com Flask? Que original! E "TudoGostoso"? Espero que as receitas sejam melhores do que o código. Ah, e "Clean-Arch-CS"? Aposto que está tão limpo quanto um chiqueiro. Mas não se preocupe, um dia você chega lá.</p>
-<p><b>CookieUkw</b>, sem bio, sem problemas! Mas "ChatStory"? Que ideia "inovadora"! E "Vex-AI"? Uma IA para conversar e discutir jogos? O mundo realmente precisava disso? Pelo menos você está tentando, né? (Tentando o quê, exatamente?)</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"... A tríade da mediocridade! Um portfólio que mais parece um amontoado de projetos inacabados. "Pixels-Art"? Que nostalgia! Mas "E-CommerceX"? Espero que a experiência do usuário seja melhor do que o nome. Boa sorte tentando ser "Full Stack", você vai precisar.</p>
-<p><b>Eduardo Bezerra</b>, "Tamo na roça..." e pelo visto, o código também! Um bot para Discord chamado "Jack"? Que criativo! E um website pessoal com CSS e JavaScript? Que inovador! Pelo menos você tem um banco de dados para o bot, né? (Provavelmente cheio de erros).</p>
-<p><b>LestterX</b>, aparentemente obcecado com entregas. "app-entregas-v1" que não persiste dados? Genial! "like-delivery-backend" e "AppProdutos-Salvus"? Que nomes inspiradores! E "forcando"? Espero que você esteja "forcando" para aprender alguma coisa, porque até agora...</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar. 186 contribuições, impressionante. Quase dá para ignorar que a maior parte disso foi em projetos que já tinham mais estrelas que o céu. Mas ei, quem se importa com originalidade quando se pode surfar na onda dos outros, certo? Pelo menos o TypeORM agradece a sua dedicação. Espero que não esteja esperando um troféu por isso.</p>
+<p><b>Rafael Lima de Morais</b>, 172 contribuições. Interessante essa sua obsessão por "dotfiles". Sério, quem precisa de vida social quando se tem arquivos de configuração impecáveis? E "desires", um CLI para gerenciar listas de desejos? Que tal desejar contribuir em algo que mais pessoas usem além de você mesmo?</p>
+<p><b>Danilo Nobre</b>, 160 contribuições. Um toque de 3D, hein? Aposto que seus jogos têm gráficos tão avançados que rodam em uma calculadora. E contribuir para um "moodle-profilefield_cpf"? Nossa, que emocionante. Seus talentos são vastos e... ligeiramente datados. </p>
+<p><b>Cézar</b>, com suas modestas 94 contribuições. Imagino que esteja economizando energia para algo realmente grandioso, já que seus "recent_activity_repos" estão misteriosamente vazios. Ou talvez .NET seja tão fácil que não precise de muito esforço? Hmm, talvez não.</p>
+<p><b>Felipe Gueller</b>, 84 contribuições. "Componentes HTML diversos"? Que legal! E um curso de HTML e CSS da Origamid? Caramba, que jornada inovadora! Daqui a pouco está reinventando a roda... ou, no seu caso, o botão. Continue assim e talvez um dia consiga fazer um site que não pareça ter saído dos anos 90.</p>
+<p><b>TopTrenDev</b>, especialista em blockchain com 74 contribuições. Ah, o mundo das criptomoedas... tão estável quanto um pudim em um terremoto. E um bot para simular volume no Raydium? Que tal usar suas habilidades para algo que não envolva inflar números artificialmente? Só uma sugestão.</p>
+<p><b>Deivid Souza Santana</b>, com suas 51 contribuições e paixão por back-end. Um sistema de compartilhamento de receitas chamado "TudoGostoso"? Originalidade mandou lembranças. E "Clean-Arch-CS"? Espero que a arquitetura esteja mais limpa que seu histórico de commits. </p>
+<p><b>CookieUkw</b>, 30 contribuições. Um "chat simulation for interactive stories"? Isso parece... interessante. E um projeto de IA consciente chamado "Vex-AI"? Espero que a IA não se torne consciente o suficiente para ver o código. </p>
+<p><b>Luídi Pires</b>, 27 contribuições. Front-End, Back-End, Full Stack... um verdadeiro canivete suíço. Pena que parece que todas as ferramentas estão enferrujadas. Um portfólio com "Pixels-Art"? Que tal adicionar um pouco de design do século 21? </p>
+<p><b>Corvo</b>, apenas 24 contribuições. "Estou em fase de aprendizado, então não espere muito". Relaxa, a barra já está bem baixa. Mas ei, todo mundo começa de algum lugar, certo? Só não espere que alguém note seu progresso tão cedo.</p>
+<p><b>Eduardo Bezerra</b>, com suas 23 contribuições e vibe "Tamo na roça...". Um website pessoal e um bot para Discord? Que tal combinar os dois e criar um bot caipira? Só uma ideia para dar um toque único ao seu trabalho... ou falta dele.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-26 at 00:21:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-27 at 00:21:37 UTC +0000</i>
 <h6>
