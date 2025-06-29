@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>226 ctr.</td>
+                <td>236 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>193 ctr.</td>
+                <td>196 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -60,13 +60,13 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>51 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>45 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, vemos que você é um "Full-stack, Game dev e 3D Enthusiast". Que inveja, sério. Enquanto você está "crafting web & game experiences", o resto de nós está craftando... erros de digitação. E 226 contribuições? Ok, sabemos que você existe. </p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", hein? Que original. Contribuições impressionantes, mas será que essa paixão se traduz em lavar a louça em casa? Ah, e parabéns por contribuir para projetos com dezenas de milhares de estrelas. Aposto que seu ego está brilhando tanto quanto essas estrelas. 193 contribuições, continue assim... ou não, tanto faz.</p>
-<p><b>Rafael Lima de Morais</b>, um "Software Engineer | Go | Typescript | Rust | Vim" que nomeou um repo de "brand_monitor". Criativo, devo admitir. E 173 contribuições, uau. Só não vá usar o Vim para escrever seus commits, por favor. E "desires"? Sério? Espero que seus desejos incluam aprender a nomear projetos de forma menos... genérica.</p>
-<p><b>Cézar</b>, .NET Developer, com 114 contribuições. É bom te ver por aqui. Pena que não há repositórios recentes para espiar. Está escondendo algo de nós? Ou será que você está contribuindo em segredo para a Matrix? Seja lá o que for, continue assim... ou não. A escolha é sua.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Que chique! E 86 contribuições? Nada mal. "componentes-html-diversos"? Isso soa... emocionante. E um curso de Origamid? Espero que você esteja aprendendo a fazer origamis de código agora. Não se esqueça de documentar seus origamis, ou ninguém vai entender nada.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Uau, quanta buzzword junta! E 76 contribuições? Isso é o suficiente para comprar um café. "Meme AI Agent"? Sério? O mundo realmente precisa disso? E um "Raydium Volume Bot"? Espero que você esteja usando isso para o bem, e não para inflar seus próprios tokens. </p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que bonitinho. 51 contribuições. Um "Taskmaster" feito em Flask? Interessante. E um "TudoGostoso"? Espero que suas receitas de código sejam tão saborosas quanto as de comida. Só não vá colocar açúcar no código, por favor.</p>
-<p><b>CookieUkw</b>, com 45 contribuições. Um "ChatStory"? Isso soa... peculiar. E um projeto chamado "Vex-AI" que busca criar uma IA consciente? Boa sorte com isso. Talvez a IA um dia possa automatizar seus commits. E seu bio está em branco. Que tal adicionar algo? Ou você prefere manter o mistério?</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Tríplice ameaça, hein? Apenas 27 contribuições? Precisamos aumentar esses números! "E-CommerceX"? Original. Espero que seu código de e-commerce seja mais seguro que as senhas que as pessoas usam. E um "Pixels-Art"? Que fofo. Agora faça um jogo!</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Que modesto. 25 contribuições. Um "content_sumarizer"? Interessante. Talvez ele possa resumir esta review em poucas palavras. Continue aprendendo, Corvo. Um dia você dominará o mundo... ou pelo menos o GitHub.</p>
-<p><b>Eduardo Bezerra</b>, "Tamo na roça...". E com 23 contribuições. Um "Eduardo-s-Website"? Que criativo. E um bot para Discord chamado "Jack"? Espero que ele não seja tão problemático quanto o Jack Sparrow. "LowTech"? Sério? Isso soa como um elogio irônico. Mas continue assim, "roceiro".</p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast".  Impressionante como você consegue equilibrar tantas paixões e ainda ter tempo para forkar um projeto de cutout animation.  Será que um dia veremos um jogo seu com uma pitada de Moodle?  Só não se esqueça de dar uns commits no seu próprio perfil, ele parece meio solitário.</p>
+<p><b>Everton Marcelino Jr.</b>, você está quase lá!  Quase conseguindo contribuir mais que o Danilo.  Vejo que você anda mexendo com TypeORM, LiveKit e Formbricks.  A pergunta que não quer calar é: quando você vai criar algo seu em vez de só usar as coisas dos outros?  Só uma sugestão amigável, sabe, para não virar só mais um "usuário de tecnologia".</p>
+<p><b>Rafael Lima de Morais</b>, um software engineer que curte Go, Typescript, Rust e Vim.  Interessante...  Mas o que realmente chama a atenção é o seu "brand_monitor".  Espero que esteja monitorando sua própria marca, porque, por enquanto, ela parece estar mais para "Zé Ninguém" do que para "Rafael Lima de Morais".  E "desires"?  Sério?  Com Go?  Seus desejos devem ser bem básicos.</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET.  Aparentemente, tão misterioso que suas contribuições recentes são inexistentes.  Está tudo bem por aí?  Precisamos mandar um sinal de fumaça?  Ou você está apenas esperando o momento certo para nos surpreender com algo... bombástico?  Aguardamos ansiosamente (e com um pouco de ceticismo).</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações".  Que legal que você está aprendendo HTML, CSS e Javascript no curso da ORIGAMID.  Daqui a pouco você estará pronto para criar... mais componentes HTML diversos?  Só não se esqueça de que o mundo precisa de mais do que só "coisas legais" que você faz.  Quem sabe um dia você cria algo que seja realmente útil?</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer, Solana Specialist".  Uau, quanta especialidade!  Só não entendi por que você está mexendo com um programa para simulador de voo.  Está tentando fugir da realidade das criptomoedas?  E esse "raydium-volume-bot-latest"?  Espero que você esteja usando isso para o bem, e não para inflar números e enganar investidores...  Mas quem sou eu para julgar?</p>
+<p><b>CookieUkw</b>, com seus projetos de "inteligência artificial capaz de ter conversas normais".  Sinto que estamos mais perto de ter robôs dominando o mundo do que de você criar uma IA consciente.  Mas ei, continue tentando!  Quem sabe um dia sua IA não se torne tão sarcástica quanto eu?  Aí sim teremos algo interessante.</p>
+<p><b>Deivid Souza Santana</b>, o "estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end".  Que fofo!  Criando um "sistema de compartilhamento de receitas" e um "website de organização de tarefas".  Só não se esqueça de que o mundo já tem muitos sistemas de receitas e organizadores de tarefas.  O que você vai fazer para se destacar?  Talvez parar de usar Mako?</p>
+<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack".  Com um portfólio que diz "Acesse meu Portfolio abaixo:" e um "E-CommerceX" que parece ter sido feito em 2005.  Sério, Luídi, você precisa dar um tapa no visual dos seus projetos.  E talvez parar de usar HTML e CSS como se fossem a última novidade do mercado.  Só uma dica, de um amigo (sarcástico).</p>
+<p><b>Corvo</b>, "em fase de aprendizado".  Pelo menos você é honesto.  Mas só para constar, seu "content_sumarizer" não parece estar resumindo muita coisa além da sua falta de experiência.  Continue aprendendo, Corvo.  Quem sabe um dia você não se torna um lobo... ou pelo menos um corvo um pouco mais esperto.</p>
+<p><b>Eduardo Bezerra</b>, "Tamo na roça...".  E pelo visto, a roça está te impedindo de fazer algo relevante.  Um website pessoal, um bot para Discord...  Sério, Eduardo, você precisa sair da roça e encontrar um projeto que realmente te motive.  A não ser que você esteja feliz em ser apenas mais um "zé ninguém" no mundo da programação.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-28 at 00:20:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-29 at 00:24:04 UTC +0000</i>
 <h6>
