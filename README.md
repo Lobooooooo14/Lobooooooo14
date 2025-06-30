@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>236 ctr.</td>
+                <td>237 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>173 ctr.</td>
+                <td>174 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>114 ctr.</td>
+                <td>119 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>76 ctr.</td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast".  Impressionante como você consegue equilibrar tantas paixões e ainda ter tempo para forkar um projeto de cutout animation.  Será que um dia veremos um jogo seu com uma pitada de Moodle?  Só não se esqueça de dar uns commits no seu próprio perfil, ele parece meio solitário.</p>
-<p><b>Everton Marcelino Jr.</b>, você está quase lá!  Quase conseguindo contribuir mais que o Danilo.  Vejo que você anda mexendo com TypeORM, LiveKit e Formbricks.  A pergunta que não quer calar é: quando você vai criar algo seu em vez de só usar as coisas dos outros?  Só uma sugestão amigável, sabe, para não virar só mais um "usuário de tecnologia".</p>
-<p><b>Rafael Lima de Morais</b>, um software engineer que curte Go, Typescript, Rust e Vim.  Interessante...  Mas o que realmente chama a atenção é o seu "brand_monitor".  Espero que esteja monitorando sua própria marca, porque, por enquanto, ela parece estar mais para "Zé Ninguém" do que para "Rafael Lima de Morais".  E "desires"?  Sério?  Com Go?  Seus desejos devem ser bem básicos.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET.  Aparentemente, tão misterioso que suas contribuições recentes são inexistentes.  Está tudo bem por aí?  Precisamos mandar um sinal de fumaça?  Ou você está apenas esperando o momento certo para nos surpreender com algo... bombástico?  Aguardamos ansiosamente (e com um pouco de ceticismo).</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações".  Que legal que você está aprendendo HTML, CSS e Javascript no curso da ORIGAMID.  Daqui a pouco você estará pronto para criar... mais componentes HTML diversos?  Só não se esqueça de que o mundo precisa de mais do que só "coisas legais" que você faz.  Quem sabe um dia você cria algo que seja realmente útil?</p>
-<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer, Solana Specialist".  Uau, quanta especialidade!  Só não entendi por que você está mexendo com um programa para simulador de voo.  Está tentando fugir da realidade das criptomoedas?  E esse "raydium-volume-bot-latest"?  Espero que você esteja usando isso para o bem, e não para inflar números e enganar investidores...  Mas quem sou eu para julgar?</p>
-<p><b>CookieUkw</b>, com seus projetos de "inteligência artificial capaz de ter conversas normais".  Sinto que estamos mais perto de ter robôs dominando o mundo do que de você criar uma IA consciente.  Mas ei, continue tentando!  Quem sabe um dia sua IA não se torne tão sarcástica quanto eu?  Aí sim teremos algo interessante.</p>
-<p><b>Deivid Souza Santana</b>, o "estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end".  Que fofo!  Criando um "sistema de compartilhamento de receitas" e um "website de organização de tarefas".  Só não se esqueça de que o mundo já tem muitos sistemas de receitas e organizadores de tarefas.  O que você vai fazer para se destacar?  Talvez parar de usar Mako?</p>
-<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack".  Com um portfólio que diz "Acesse meu Portfolio abaixo:" e um "E-CommerceX" que parece ter sido feito em 2005.  Sério, Luídi, você precisa dar um tapa no visual dos seus projetos.  E talvez parar de usar HTML e CSS como se fossem a última novidade do mercado.  Só uma dica, de um amigo (sarcástico).</p>
-<p><b>Corvo</b>, "em fase de aprendizado".  Pelo menos você é honesto.  Mas só para constar, seu "content_sumarizer" não parece estar resumindo muita coisa além da sua falta de experiência.  Continue aprendendo, Corvo.  Quem sabe um dia você não se torna um lobo... ou pelo menos um corvo um pouco mais esperto.</p>
-<p><b>Eduardo Bezerra</b>, "Tamo na roça...".  E pelo visto, a roça está te impedindo de fazer algo relevante.  Um website pessoal, um bot para Discord...  Sério, Eduardo, você precisa sair da roça e encontrar um projeto que realmente te motive.  A não ser que você esteja feliz em ser apenas mais um "zé ninguém" no mundo da programação.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, com 237 contribuições? Sério? Com um bio dessas, "Crafting web & game experiences with a touch of 3D", e o máximo que você fez foi dar um tapa num profile field de CPF para Moodle? Imagino o "touch of 3D" seja a profundidade da sua decepção.</p>
+<p><b>Everton Marcelino Jr.</b>, ah, o segundo lugar, com 196 contribuições. Contribuindo para TypeORM? Que legal, ajudando a perpetuar o reino da abstração desnecessária. Espero que suas contribuições incluam adicionar mais uma camada de complexidade para algo que poderia ser uma query SQL simples.</p>
+<p><b>Rafael Lima de Morais</b>, em terceiro com 174 contribuições. "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo impressionante! Pena que o repo mais recente é um "brand monitor test" com zero estrelas. Imagino que a marca que você estava monitorando era a sua própria irrelevância.</p>
+<p><b>Cézar</b>, ah, o misterioso quarto lugar com 119 contribuições e *nenhum* repo recente para julgar. Você é o ninja das contribuições? Faz tudo no escuro? Ou será que você é bom demais para compartilhar seu código com o resto de nós, meros mortais?</p>
+<p><b>Felipe Gueller</b>, com 86 contribuições, parece que você está ocupado demais criando "componentes HTML diversos" em vez de contribuir para algo útil. Espero que pelo menos um desses componentes seja um botão que diz "Voltar para 2005".</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". 85 contribuições e especialista em "meme-ai-agent"? Sério? Então você é a razão pela qual o mundo está indo para o buraco. Parabéns.</p>
+<p><b>CookieUkw</b>, 52 contribuições. "VexAI is to create an artificial intelligence capable of holding normal conversations". Ah, sim, mais uma IA para nos substituir. Espero que pelo menos ela tenha um senso de humor melhor que o seu.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". 51 contribuições e um repo chamado "TudoGostoso"? Espero que pelo menos suas receitas de bolo sejam melhores que seu código. Caso contrário, sugiro focar na paixão e esquecer o back-end.</p>
+<p><b>Luídi Pires</b>, 27 contribuições. Front-End, Back-End, Full Stack? Parece indeciso. Seus repositórios também, Pixel Art e E-CommerceX, uhm... Será que você não consegue decidir o que quer ser quando crescer?</p>
+<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". 25 contribuições. Pelo menos você é honesto. Mas sério, "content_sumarizer"? Isso já não existe aos montes? Tente algo original da próxima vez, ou continue na sua fase de aprendizado *ad eternum*.</p>
+<p><b>Eduardo Bezerra</b>, "Tamo na roça...". 23 contribuições. E pelo visto, o seu código também. Um "bot simples para Discord" chamado "Jack"? Originalidade passou longe, hein? Mas ei, pelo menos você tem um site pessoal. Que, aposto, é tão "roça" quanto o resto.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-06-29 at 00:24:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-06-30 at 00:22:54 UTC +0000</i>
 <h6>
