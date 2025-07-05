@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>41 ctr.</td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>32 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>15 ctr.</td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>17 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>14 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>13 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>9 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>6 ctr.</td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>4 ctr.</td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
-                <td>3 ctr.</td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Mas vamos ser sinceros, um dos seus "projetos recentes" é um <i>fork</i> de 2020.  E o que dizer do seu perfil no GitHub, criado em fevereiro de 2024 e sem linguagem definida?  Espero que esteja usando toda essa sua experiência em "web & game experiences" para criar algo mais original, porque até agora, só vi mais do mesmo.</p>
-<p><b>Cézar</b>, .NET Developer, hein? Que currículo!  Mas cadê o código?  Sua lista de atividades recentes está mais vazia que promessa de político.  Com 32 contribuições, esperava ver pelo menos um "Olá Mundo" em .NET.  Não me diga que você é daqueles que só sabe reclamar do código alheio e não faz nada de útil?</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações"... e especialista em componentes HTML diversos?  Seu repositório de componentes HTML tem a impressionante marca de zero estrelas.  E o repositório de aprendizado de HTML, CSS e JavaScript do curso do ORIGAMID?  Ainda bem que você está aprendendo, porque pelo visto, ainda precisa de muita prática.</p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack...  E nenhum projeto com mais de zero estrelas?  Seu portfólio precisa urgentemente de um <i>upgrade</i>, porque "Pixels-Art" e "E-CommerceX" não impressionam nem a sua avó.  Ainda bem que você se considera Full Stack, porque vai precisar de todas as suas habilidades para dar um jeito nisso.</p>
-<p><b>TopTrenDev</b>, especialista em Blockchain, Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs... Ufa!  Com tantas especialidades, imaginei que seus projetos seriam revolucionários.  Mas o que vejo é um bot para simular volume de <i>trading</i> e um <i>meme AI agent</i>.  Será que você não está se perdendo em meio a tantas tecnologias da moda?</p>
-<p><b>Jean Brito</b>, contribuições no Rocket.Chat, que legal! Mas vamos falar do seu <i>fork</i> de um Dockerfile de 2024. Sério mesmo? Você contribui para um projeto enorme e se orgulha de um <i>fork</i> de um Dockerfile?  Com certeza você pode fazer melhor, Jean.  Mostre que você não é só mais um número no <i>commit history</i>.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology", que clichê!  Contribuições no TypeORM e no Flutter Client SDK para LiveKit, até que impressiona.  Mas vamos ser honestos, o que você realmente fez nesses projetos?  Corrigiu um <i>typo</i>?  Adicionou um ponto e vírgula que faltava?  Mostre que você é mais do que um "apaixonado", mostre que você realmente entende do assunto.</p>
-<p><b>Felipe</b>, um repositório chamado "Felipe-Takayuki" com descrição "REPOSITÓRIO"... Que original!  E o projeto Adamas?  Parece promissor, mas as últimas atualizações são de novembro de 2024.  Já desistiu da ideia?  Não deixe seus projetos morrerem na praia, Felipe.  Mostre que você tem a persistência de um diamante (Adamas, sacou?).</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer, Go, Typescript, Rust, Vim...  Seu currículo parece uma salada de tecnologias.  Mas o que realmente me chamou a atenção foi o repositório "desires", um CLI para gerenciar <i>wishlists</i>.  Sério?  Com tantas habilidades, você está usando seu tempo para criar um gerenciador de listas de desejos?  Espero que pelo menos ele funcione bem.</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora 👍".  Com apenas 3 contribuições, você está certo, não espero muito mesmo.  Mas não se acomode nessa "fase de aprendizado" para sempre.  Mostre que você tem potencial para mais, ou vai virar um eterno aprendiz.</p>
-<p><b>Eduardo Bezerra</b>, "Tamo na roça..."  Com duas contribuições, você parece estar mais perdido que boi em dia de mudança.  Um website pessoal, um bot para Discord...  Nada muito impressionante.  Saia da roça e mostre que você pode fazer algo mais do que um simples "Olá Mundo" em JavaScript.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o polímata moderno! Full-stack, game dev, entusiasta 3D... e mestre em garimpar código alheio. Afinal, quem precisa criar quando se pode dar um "fork" num projeto com 61 estrelas? Mas ei, pelo menos você tem um site de portfólio. Isso conta, certo?</p>
+<p><b>Cézar</b>, o misterioso. Tão discreto que suas contribuições são quase um segredo de estado. .NET Developer, diz a bio. Será que ele desenvolve para a matrix? Ou será que está apenas esperando o momento certo para revelar seu código revolucionário? Enquanto isso, o silêncio paira...</p>
+<p><b>Felipe Gueller</b>, o colecionador de componentes HTML. Pelo menos você tem um repositório de "componentes-html-diversos". Diversos o suficiente para impressionar alguém? E um curso de HTML, CSS e Javascript do ORIGAMID em andamento desde 2022... Quase lá, Felipe, quase lá.</p>
+<p><b>TopTrenDev</b>, o guru da blockchain. Especialista em Solana, Bitcoin, Ethereum... e em criar bots de volume para Raydium. Porque, vamos ser sinceros, quem precisa de contribuições orgânicas quando se pode simular o hype? Pelo menos você está surfando na onda da moda, mesmo que seja com uma prancha furada.</p>
+<p><b>Everton Marcelino Jr.</b>, um contribuidor de peso! TypeORM, LiveKit, Formbricks... parece que alguém anda ocupado com projetos de gente grande. Mas não se esqueça, Everton, o importante não é a quantidade de estrelas, mas sim a alegria de programar (ou a esperança de ser notado).</p>
+<p><b>Luídi Pires</b>, o mestre do "Hub" pessoal. Um repositório com o próprio nome, um portfólio "em construção" desde 2023 e um e-commerce que viu sua última atualização em maio. Pelo menos você está tentando, Luídi. E a intenção é o que conta, certo?</p>
+<p><b>Jean Brito</b>, o explorador do Rocket.Chat. Contribuições em projetos com dezenas de milhares de estrelas. Será que você está realmente contribuindo ou apenas se escondendo na multidão? E um Dockerfile para servidores de jogos? Originalidade mandou lembranças.</p>
+<p><b>Felipe</b>, o homem do "REPOSITÓRIO". Com uma descrição tão vaga quanto suas contribuições. Um projeto "Adamas" que parece mais um hobby do que algo sério. Mas ei, pelo menos você tem um nome chamativo. Isso deve impressionar os recrutadores, não?</p>
+<p><b>Rafael Lima de Morais</b>, o ninja do Vim e mestre do "dotfiles". Rust, Go, Typescript... e um "brand monitor test" abandonado em 2024. Ah, e um "lazydocker" forked, porque quem precisa criar ferramentas quando se pode pegar as dos outros? Pelo menos você tem um perfil interessante no GitHub.</p>
+<p><b>Corvo</b>, o auto-consciente. "Estou em fase de aprendizado, então não espere muito por hora". Pelo menos você é honesto. Mas honestidade não enche ranking, Corvo. Que tal começar a contribuir de verdade?</p>
+<p><b>Ageu Silva</b>, o minimalista. Um perfil com arquivos de configuração, um blog pessoal e um repositório de aulas de Python. Será que você está construindo algo grandioso ou apenas organizando suas anotações? De qualquer forma, parabéns pela consistência. Ou pela falta dela.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-04 at 00:21:19 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-05 at 00:20:28 UTC +0000</i>
 <h6>
