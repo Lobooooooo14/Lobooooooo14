@@ -36,47 +36,47 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>38 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>17 ctr.</td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>14 ctr.</td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>17 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>6 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o polímata moderno! Full-stack, game dev, entusiasta 3D... e mestre em garimpar código alheio. Afinal, quem precisa criar quando se pode dar um "fork" num projeto com 61 estrelas? Mas ei, pelo menos você tem um site de portfólio. Isso conta, certo?</p>
-<p><b>Cézar</b>, o misterioso. Tão discreto que suas contribuições são quase um segredo de estado. .NET Developer, diz a bio. Será que ele desenvolve para a matrix? Ou será que está apenas esperando o momento certo para revelar seu código revolucionário? Enquanto isso, o silêncio paira...</p>
-<p><b>Felipe Gueller</b>, o colecionador de componentes HTML. Pelo menos você tem um repositório de "componentes-html-diversos". Diversos o suficiente para impressionar alguém? E um curso de HTML, CSS e Javascript do ORIGAMID em andamento desde 2022... Quase lá, Felipe, quase lá.</p>
-<p><b>TopTrenDev</b>, o guru da blockchain. Especialista em Solana, Bitcoin, Ethereum... e em criar bots de volume para Raydium. Porque, vamos ser sinceros, quem precisa de contribuições orgânicas quando se pode simular o hype? Pelo menos você está surfando na onda da moda, mesmo que seja com uma prancha furada.</p>
-<p><b>Everton Marcelino Jr.</b>, um contribuidor de peso! TypeORM, LiveKit, Formbricks... parece que alguém anda ocupado com projetos de gente grande. Mas não se esqueça, Everton, o importante não é a quantidade de estrelas, mas sim a alegria de programar (ou a esperança de ser notado).</p>
-<p><b>Luídi Pires</b>, o mestre do "Hub" pessoal. Um repositório com o próprio nome, um portfólio "em construção" desde 2023 e um e-commerce que viu sua última atualização em maio. Pelo menos você está tentando, Luídi. E a intenção é o que conta, certo?</p>
-<p><b>Jean Brito</b>, o explorador do Rocket.Chat. Contribuições em projetos com dezenas de milhares de estrelas. Será que você está realmente contribuindo ou apenas se escondendo na multidão? E um Dockerfile para servidores de jogos? Originalidade mandou lembranças.</p>
-<p><b>Felipe</b>, o homem do "REPOSITÓRIO". Com uma descrição tão vaga quanto suas contribuições. Um projeto "Adamas" que parece mais um hobby do que algo sério. Mas ei, pelo menos você tem um nome chamativo. Isso deve impressionar os recrutadores, não?</p>
-<p><b>Rafael Lima de Morais</b>, o ninja do Vim e mestre do "dotfiles". Rust, Go, Typescript... e um "brand monitor test" abandonado em 2024. Ah, e um "lazydocker" forked, porque quem precisa criar ferramentas quando se pode pegar as dos outros? Pelo menos você tem um perfil interessante no GitHub.</p>
-<p><b>Corvo</b>, o auto-consciente. "Estou em fase de aprendizado, então não espere muito por hora". Pelo menos você é honesto. Mas honestidade não enche ranking, Corvo. Que tal começar a contribuir de verdade?</p>
-<p><b>Ageu Silva</b>, o minimalista. Um perfil com arquivos de configuração, um blog pessoal e um repositório de aulas de Python. Será que você está construindo algo grandioso ou apenas organizando suas anotações? De qualquer forma, parabéns pela consistência. Ou pela falta dela.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 53 contribuições, hein? Quase dá pra notar seu esforço. Quase. Vejo ali umas contribuições em um addon para Blender. Será que dá pra modelar uma justificativa melhor para essa sua colocação no ranking? Ah, e parabéns pelo <i>fork</i>. Admiro sua coragem de admitir que pegou o trabalho dos outros.</p>
+<p><b>Cézar</b>, quarenta contribuições, parabéns! Imagino que esteja orgulhoso. Agora, me diga, dessas quarenta, quantas foram realmente relevantes? Ou você só está "contribuindo" para inflar o número e se sentir importante? .NET Developer, será que o ".NET" significa "Não Entrego Nada"?</p>
+<p><b>Rafael Lima de Morais</b>, com 18 contribuições, você está quase alcançando a mediocridade! Continue assim e logo, logo... bem, você continuará sendo apenas mais um na multidão. E esse "brand_monitor" aí, monitora marcas ou só a sua falta de criatividade? Pelo menos usa Vim, um editor de texto tão complicado que te faz parecer ocupado sem estar fazendo nada.</p>
+<p><b>TopTrenDev</b>, "Solana Specialist"? Que ousadia! Especialista em criar mais uma criptomoeda que vai desaparecer em seis meses? 18 contribuições, o suficiente para se gabar no LinkedIn, mas não o bastante para impressionar alguém que realmente entende do assunto. Ah, e "Meme AI Agent"? Sério? É isso que você faz com seu tempo?</p>
+<p><b>Everton Marcelino Jr.</b>, 17 contribuições, e pelo visto, todas em projetos que já são gigantes. Parabéns por contribuir com algo que já faz sucesso! Aposto que se sente um peixinho nadando no oceano. Pelo menos mexeu no TypeORM, quem sabe um dia você entenda como ele funciona de verdade. E esse "paixão por tecnologia" na bio... tão clichê, tão sem graça.</p>
+<p><b>Felipe Gueller</b>, 17 contribuições também, que coincidência! Mas, espera, "componentes HTML diversos"? Que original! Aposto que o mundo estava ansioso por mais um carrossel e um formulário de contato genérico. E o curso de HTML, CSS e Javascript do ORIGAMID? Espero que tenha aprendido alguma coisa, porque pelo seu repositório, não parece.</p>
+<p><b>Luídi Pires</b>, 14 contribuições. Quase lá, quase fazendo algo notável. Quase. Mas "Front-End | Back-End | Full Stack"? Decida-se! Ou você é bom em tudo, ou não é bom em nada. E esse portfólio aí, "Acesse meu Portfolio abaixo:"? Que originalidade! Aposto que está cheio de projetos incríveis... que ninguém nunca vai ver.</p>
+<p><b>Jean Brito</b>, 10 contribuições. Chegando na reta final da irrelevância. Mas ei, pelo menos você contribuiu para o Rocket.Chat! Imagino que tenha se sentido importante corrigindo um erro de digitação na documentação. E um Dockerfile para instalar um servidor de jogos? Nossa, que inovador! O mundo da tecnologia nunca mais será o mesmo.</p>
+<p><b>Felipe</b>, míseras 7 contribuições. Sete! Sério, você se esforçou para chegar nesse patamar de mediocridade? "REPOSITÓRIO"? Que nome criativo! E esse projeto Adamas aí, "Site de criação e divulgação de projetos e eventos"? Parece promissor... até você olhar o código. Mas não se preocupe, ninguém vai olhar mesmo.</p>
+<p><b>Ageu Silva</b>, com 5 contribuições, você está quase alcançando o nível de um bot de spam. "127.0.0.1" na bio? Que profundo! Aposto que você é o tipo de pessoa que acha que entende de redes porque sabe o que é localhost. E um "digital garden model"? Sério? Você está cultivando alface ou código?</p>
+<p><b>Corvo</b>, com 4 contribuições, você é a prova viva de que menos é menos. "Estou em fase de aprendizado, então não espere muito por hora 👍"? Relaxa, ninguém espera nada de você. Continue assim e logo, logo... você continuará sendo apenas um Corvo na multidão. E essa falta de repositórios recentes diz tudo, não é mesmo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-05 at 00:20:28 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-06 at 00:23:47 UTC +0000</i>
 <h6>
