@@ -40,18 +40,18 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>18 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>18 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>7 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, 53 contribuições, hein? Quase dá pra notar seu esforço. Quase. Vejo ali umas contribuições em um addon para Blender. Será que dá pra modelar uma justificativa melhor para essa sua colocação no ranking? Ah, e parabéns pelo <i>fork</i>. Admiro sua coragem de admitir que pegou o trabalho dos outros.</p>
-<p><b>Cézar</b>, quarenta contribuições, parabéns! Imagino que esteja orgulhoso. Agora, me diga, dessas quarenta, quantas foram realmente relevantes? Ou você só está "contribuindo" para inflar o número e se sentir importante? .NET Developer, será que o ".NET" significa "Não Entrego Nada"?</p>
-<p><b>Rafael Lima de Morais</b>, com 18 contribuições, você está quase alcançando a mediocridade! Continue assim e logo, logo... bem, você continuará sendo apenas mais um na multidão. E esse "brand_monitor" aí, monitora marcas ou só a sua falta de criatividade? Pelo menos usa Vim, um editor de texto tão complicado que te faz parecer ocupado sem estar fazendo nada.</p>
-<p><b>TopTrenDev</b>, "Solana Specialist"? Que ousadia! Especialista em criar mais uma criptomoeda que vai desaparecer em seis meses? 18 contribuições, o suficiente para se gabar no LinkedIn, mas não o bastante para impressionar alguém que realmente entende do assunto. Ah, e "Meme AI Agent"? Sério? É isso que você faz com seu tempo?</p>
-<p><b>Everton Marcelino Jr.</b>, 17 contribuições, e pelo visto, todas em projetos que já são gigantes. Parabéns por contribuir com algo que já faz sucesso! Aposto que se sente um peixinho nadando no oceano. Pelo menos mexeu no TypeORM, quem sabe um dia você entenda como ele funciona de verdade. E esse "paixão por tecnologia" na bio... tão clichê, tão sem graça.</p>
-<p><b>Felipe Gueller</b>, 17 contribuições também, que coincidência! Mas, espera, "componentes HTML diversos"? Que original! Aposto que o mundo estava ansioso por mais um carrossel e um formulário de contato genérico. E o curso de HTML, CSS e Javascript do ORIGAMID? Espero que tenha aprendido alguma coisa, porque pelo seu repositório, não parece.</p>
-<p><b>Luídi Pires</b>, 14 contribuições. Quase lá, quase fazendo algo notável. Quase. Mas "Front-End | Back-End | Full Stack"? Decida-se! Ou você é bom em tudo, ou não é bom em nada. E esse portfólio aí, "Acesse meu Portfolio abaixo:"? Que originalidade! Aposto que está cheio de projetos incríveis... que ninguém nunca vai ver.</p>
-<p><b>Jean Brito</b>, 10 contribuições. Chegando na reta final da irrelevância. Mas ei, pelo menos você contribuiu para o Rocket.Chat! Imagino que tenha se sentido importante corrigindo um erro de digitação na documentação. E um Dockerfile para instalar um servidor de jogos? Nossa, que inovador! O mundo da tecnologia nunca mais será o mesmo.</p>
-<p><b>Felipe</b>, míseras 7 contribuições. Sete! Sério, você se esforçou para chegar nesse patamar de mediocridade? "REPOSITÓRIO"? Que nome criativo! E esse projeto Adamas aí, "Site de criação e divulgação de projetos e eventos"? Parece promissor... até você olhar o código. Mas não se preocupe, ninguém vai olhar mesmo.</p>
-<p><b>Ageu Silva</b>, com 5 contribuições, você está quase alcançando o nível de um bot de spam. "127.0.0.1" na bio? Que profundo! Aposto que você é o tipo de pessoa que acha que entende de redes porque sabe o que é localhost. E um "digital garden model"? Sério? Você está cultivando alface ou código?</p>
-<p><b>Corvo</b>, com 4 contribuições, você é a prova viva de que menos é menos. "Estou em fase de aprendizado, então não espere muito por hora 👍"? Relaxa, ninguém espera nada de você. Continue assim e logo, logo... você continuará sendo apenas um Corvo na multidão. E essa falta de repositórios recentes diz tudo, não é mesmo?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 53 contribuições? Parabéns, você quase conseguiu fazer mais do que um script de Hello World. Continue assim, quem sabe um dia você chega lá. E que belo fork de um projeto de cutout animation, mostrando que originalidade não é exatamente o seu forte, não é mesmo?</p>
+<p><b>Cézar</b>, com 40 contribuições, você está quase alcançando a mediocridade. Mas ei, pelo menos você está contribuindo, diferente de alguns por aí. Mas falando sério, .NET Developer e sem atividade recente? Que tipo de bruxaria é essa?</p>
+<p><b>Everton Marcelino Jr.</b>, 19 contribuições... Que paixão por tecnologia é essa que não te impulsiona a fazer mais? Ah, espera, você contribuiu para o TypeORM? Que generosidade a sua em ajudar um projeto com 35 mil estrelas. Eles realmente precisavam de você.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", hein? Com 19 contribuições, parece mais um "Full-Stack & Blockchain Pretender". E esse "Raydium Volume Bot", tentando inflar números? Que audácia! Quase tão audacioso quanto se auto intitular especialista em Solana.</p>
+<p><b>Rafael Lima de Morais</b>, 18 contribuições? Vim, Go, Rust... Que salada de tecnologias! Mas no fim das contas, o que temos aqui? Um "brand monitor test" de quase um ano atrás. Impressionante como você consegue a proeza de não impressionar ninguém.</p>
+<p><b>Felipe Gueller</b>, 17 contribuições e "componentes HTML diversos"? Espero que esses componentes sejam mais diversos do que suas contribuições. E "html-css-origamid"? Sério? Em 2024 ainda está aprendendo o básico? Que dedicação!</p>
+<p><b>Luídi Pires</b>, 14 contribuições e um portfólio com "Acesse meu Portfolio abaixo:"? Genial! A criatividade grita, mas as contribuições sussurram. E esse E-CommerceX com HTML e CSS? Próximo passo: dominar o Netscape Navigator.</p>
+<p><b>Jean Brito</b>, 10 contribuições e envolvido com o Rocket.Chat? Que nobre causa! Ajudar as pessoas a se comunicarem... desde 2015. Mas e você, o que tem feito de novo? Ah, sim, um "docker-steamcmd-server" forkado. Inovador.</p>
+<p><b>Ageu Silva</b>, 9 contribuições e seu bio é "127.0.0.1"? Profundo. Tão profundo quanto suas contribuições. Mas ei, pelo menos você tem um blog! Com 3 estrelas! A internet inteira deve estar comentando sobre ele.</p>
+<p><b>kromodoro</b>, 8 contribuições e um repositório de "digitalização" de um livro sobre PERT? Que... peculiar. Mas ei, pelo menos você está preservando o conhecimento. Ou algo assim. Próximo passo: digitalizar a Declaração de Independência.</p>
+<p><b>Felipe</b>, 7 contribuições. "REPOSITÓRIO"? Sério que você chamou seu repositório de "REPOSITÓRIO"? Originalidade nível hard. E o projeto Adamas? Parece promissor... se não estivesse parado desde novembro de 2024.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-06 at 00:23:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-07 at 00:23:05 UTC +0000</i>
 <h6>
