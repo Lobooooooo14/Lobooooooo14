@@ -31,27 +31,27 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>53 ctr.</td>
+                <td>105 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>40 ctr.</td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>19 ctr.</td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>19 ctr.</td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>18 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, 53 contribuições? Parabéns, você quase conseguiu fazer mais do que um script de Hello World. Continue assim, quem sabe um dia você chega lá. E que belo fork de um projeto de cutout animation, mostrando que originalidade não é exatamente o seu forte, não é mesmo?</p>
-<p><b>Cézar</b>, com 40 contribuições, você está quase alcançando a mediocridade. Mas ei, pelo menos você está contribuindo, diferente de alguns por aí. Mas falando sério, .NET Developer e sem atividade recente? Que tipo de bruxaria é essa?</p>
-<p><b>Everton Marcelino Jr.</b>, 19 contribuições... Que paixão por tecnologia é essa que não te impulsiona a fazer mais? Ah, espera, você contribuiu para o TypeORM? Que generosidade a sua em ajudar um projeto com 35 mil estrelas. Eles realmente precisavam de você.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", hein? Com 19 contribuições, parece mais um "Full-Stack & Blockchain Pretender". E esse "Raydium Volume Bot", tentando inflar números? Que audácia! Quase tão audacioso quanto se auto intitular especialista em Solana.</p>
-<p><b>Rafael Lima de Morais</b>, 18 contribuições? Vim, Go, Rust... Que salada de tecnologias! Mas no fim das contas, o que temos aqui? Um "brand monitor test" de quase um ano atrás. Impressionante como você consegue a proeza de não impressionar ninguém.</p>
-<p><b>Felipe Gueller</b>, 17 contribuições e "componentes HTML diversos"? Espero que esses componentes sejam mais diversos do que suas contribuições. E "html-css-origamid"? Sério? Em 2024 ainda está aprendendo o básico? Que dedicação!</p>
-<p><b>Luídi Pires</b>, 14 contribuições e um portfólio com "Acesse meu Portfolio abaixo:"? Genial! A criatividade grita, mas as contribuições sussurram. E esse E-CommerceX com HTML e CSS? Próximo passo: dominar o Netscape Navigator.</p>
-<p><b>Jean Brito</b>, 10 contribuições e envolvido com o Rocket.Chat? Que nobre causa! Ajudar as pessoas a se comunicarem... desde 2015. Mas e você, o que tem feito de novo? Ah, sim, um "docker-steamcmd-server" forkado. Inovador.</p>
-<p><b>Ageu Silva</b>, 9 contribuições e seu bio é "127.0.0.1"? Profundo. Tão profundo quanto suas contribuições. Mas ei, pelo menos você tem um blog! Com 3 estrelas! A internet inteira deve estar comentando sobre ele.</p>
-<p><b>kromodoro</b>, 8 contribuições e um repositório de "digitalização" de um livro sobre PERT? Que... peculiar. Mas ei, pelo menos você está preservando o conhecimento. Ou algo assim. Próximo passo: digitalizar a Declaração de Independência.</p>
-<p><b>Felipe</b>, 7 contribuições. "REPOSITÓRIO"? Sério que você chamou seu repositório de "REPOSITÓRIO"? Originalidade nível hard. E o projeto Adamas? Parece promissor... se não estivesse parado desde novembro de 2024.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, com 105 contribuições! Parabéns por se dedicar a um <i>fork</i> de um projeto de animação em Blender.  Notei que você é um mago do 3D, mas será que consegue conjurar um número maior de contribuições no próximo mês? Seu perfil diz "Crafting web & game experiences with a touch of 3D.", mas suas contribuições dizem "mais web do que game".</p>
+<p><b>Cézar</b>, .NET Developer, hein? Com 59 contribuições, você quase chegou lá. Quase. Mas "quase" não enche currículo, nem ranking.  Cadê os repositórios recentes? Tá escondendo o jogo ou só procrastinando?</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", mas só 29 contribuições?  Vejo que andou mexendo no TypeORM, LiveKit e Formbricks.  Será que a paixão é grande o suficiente para te impulsionar para o topo no próximo mês?  Ou vai continuar só admirando o trabalho dos outros?</p>
+<p><b>TopTrenDev</b>, especialista em Blockchain, Solana, Bitcoin... com 22 contribuições. Parece que o hype das criptomoedas não se traduz em commits.  Raydium, Meme AI Agent, volume bot... Tudo soa muito moderno, mas as contribuições não impressionam.  Será que você está mais para "Top Tren" ou "Top Lento"?</p>
+<p><b>Rafael Lima de Morais</b>, com 19 contribuições. Go, Typescript, Rust, Vim... Parece que você coleciona tecnologias, mas não coleciona contribuições.  "desires" é um nome interessante para um projeto.  Será que você deseja mais contribuições no próximo mês?</p>
+<p><b>Felipe Gueller</b>, 17 contribuições. Componentes HTML diversos... que legal. Mas será que "legal" é o suficiente para subir no ranking?  Origamid é um bom começo, mas precisa de mais, Felipe, mais!</p>
+<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e 14 contribuições. Seu portfólio precisa de mais do que "Pixels-Art" e "E-CommerceX" para impressionar.  Cadê o código que faz a diferença?  Ou você é só mais um "Hub" sem conteúdo?</p>
+<p><b>Ageu Silva</b>, 11 contribuições. 127.0.0.1... Onde você está escondido?  Seu "digital garden model" precisa de mais cuidado.  Aulas de Python paradas desde outubro?  Acorda, Ageu, o ranking não espera!</p>
+<p><b>Jean Brito</b>, 10 contribuições. Rocket.Chat, Rocket.Chat.Electron... Parece que você gosta de foguetes, mas suas contribuições não decolam.  Um Dockerfile simples para um servidor de jogos?  Sério?  Esperava mais de você.</p>
+<p><b>kromodoro</b>, 8 contribuições. "Uma introdução programada ao PERT"...  Isso soa como algo que ninguém nunca pediu.  Talvez seja hora de modernizar um pouco as suas contribuições, não acha?</p>
+<p><b>Felipe</b>, com míseras 7 contribuições. "REPOSITÓRIO"... que original.  Adamas... Parece um projeto ambicioso, mas as contribuições não refletem isso.  Vamos lá, Felipe, mostre que você é mais do que só um nome na lista.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-07 at 00:23:05 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-08 at 00:21:18 UTC +0000</i>
 <h6>
