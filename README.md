@@ -31,52 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>114 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>68 ctr.</td>
+                <td>75 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>40 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>22 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>24 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>21 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>13 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>12 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>10 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Seus 114 <i>commits</i> devem ter sido exaustivos, especialmente considerando que você gasta seu tempo com <i>Blender</i>.  Espero que o "toque de 3D" não se limite a girar cubos na tela. Ah, e "Space Wizard Studios"? Sério? Espero que seus jogos sejam melhores que o nome.</p>
-<p><b>Cézar</b>, .NET Developer, hein? 68 contribuições, mas a atividade recente... hum...  tão recente que não existe! Imagino que você esteja contribuindo em algum projeto secreto da Microsoft, ou talvez só tenha esquecido de dar <i>push</i>.  </p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que genérico! 40 contribuições, o que é quase decente.  Vejo que andou mexendo no <i>TypeORM</i>, espero que não tenha sido para adicionar mais uma gambiarra. E <i>formbricks</i>?  Sério, com tantos frameworks por aí, você escolheu esse? </p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  Uau, um hipster da programação! Aparentemente ocupado demais configurando o Vim para realmente contribuir com algo útil. 22 contribuições, a maioria em projetos com zero <i>stargazers</i>. Talvez seja hora de abandonar o "desires" e focar em algo que as pessoas realmente queiram, tipo... um emprego estável?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist".  Ah, claro, mais um gênio da criptomoeda. 22 contribuições, mas parece que está mais interessado em <i>bots</i> de volume do que em construir algo realmente inovador. "Meme AI Agent"? Sério, você está ajudando a afundar a humanidade. </p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações".  17 contribuições e um repositório de "componentes HTML diversos"?  Sério, Felipe?  Em pleno 2025, você está reinventando a roda com <i>JavaScript</i> e <i>CSS</i> básicos?  E o curso da ORIGAMID?  Espero que pelo menos tenha aprendido a centralizar uma <i>div</i>.</p>
-<p><b>Luídi Pires</b>, Front-End | Back-End | Full Stack... A tríade da ilusão! Apenas 14 contribuições e um portfólio que grita "preciso de um emprego desesperadamente".  <i>Pixels-Art</i>? E-CommerceX?  Sério, Luídi, talvez seja hora de escolher um lado e parar de fingir que domina tudo.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por <i>back-end</i>".  13 contribuições e um sistema de tarefas feito em <i>Flask</i>? Que original! E a API de receitas "TudoGostoso"?  Espero que pelo menos tenha usado ingredientes de qualidade.  E "Clean-Arch-CS"?  Sério, Deivid, pare de tentar impressionar e comece a entregar algo que funcione.</p>
-<p><b>Ageu Silva</b>, "127.0.0.1".  A definição de "local".  12 contribuições e um <i>blog</i> "digital garden model"?  Que pretensioso! E um repositório de "AulasPython"?  Sério, Ageu, você está ensinando <i>Python</i> para quem? Para você mesmo?  Talvez seja hora de sair do seu mundinho e interagir com pessoas de verdade.</p>
-<p><b>Jean Brito</b>, 10 contribuições. Quase alcançando o fundo do poço. Vejo que está envolvido com <i>Rocket.Chat</i>.  Espero que esteja resolvendo problemas reais e não apenas adicionando mais <i>emojis</i>. E um <i>fork</i> de um <i>Dockerfile</i> para servidores de <i>Steam</i>?  Sério, Jean, você não tem nada melhor para fazer com seu tempo?</p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora".  A autoconsciência é admirável, mas 8 contribuições?  Sério?  Talvez seja hora de começar a esperar mais de si mesmo, ou então continue sendo apenas mais um corvo na multidão.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking! Seus 147 contribuições são realmente impressionantes. Quase tão impressionantes quanto a descrição do seu perfil: "Game dev and 3D Enthusiast". Espero que essa "enthusiasm" se traduza em algo mais palpável do que só ficar dando uns toques em repositórios alheios, ou vamos começar a achar que você está só brincando de Deus com esses seus joguinhos e modelinhos 3D.</p>
+<p><b>Cézar</b>, ah, o mestre do .NET. 75 contribuições. Nada mal, considerando que você não tem nenhum repositório recente para mostrar. Será que você está contribuindo em projetos tão secretos que nem o GitHub sabe deles? Ou será que você está apenas... contribuindo para o seu currículo? Que o poder do .NET esteja com você, porque, sinceramente, vai precisar.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz ele. 47 contribuições. Vejo que você andou bisbilhotando no TypeORM e no formbricks, quem sabe, tentando descobrir como eles fazem a mágica acontecer. Não se preocupe, Everton, todos nós já estivemos lá, olhando para o código dos outros e pensando: "Como é que isso funciona?". Mas, ei, pelo menos você está tentando, né? Continue assim e quem sabe um dia você cria algo que as pessoas realmente usem.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que currículo, hein? Mas só 41 contribuições? Parece que você está mais ocupado aprendendo linguagens do que realmente usando-as. E esse repositório "brand_monitor" de 2024? Já desistiu de monitorar marcas e partiu para a próxima linguagem da moda? Ah, Rafael, a vida de um engenheiro de software... tão cheia de promessas e tão pouca realização.</p>
+<p><b>Ageu Silva</b>, 127.0.0.1, o endereço de casa. 24 contribuições. Pelo visto, você gosta tanto de ficar em casa que até o seu perfil do GitHub reflete isso. E esse "digital garden model"? É um jeito chique de dizer que você está cultivando o próprio ego online? Não se preocupe, Ageu, todos nós temos um lado narcisista. A diferença é que alguns de nós realmente saem de casa de vez em quando.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Ah, claro, mais um especialista em blockchain. 22 contribuições. Mas, sério, quem precisa de um especialista em blockchain quando se tem um "Meme AI Agent"? Aposto que essa é a próxima grande novidade. Afinal, quem precisa de soluções reais quando se pode ter memes turbinados por IA? Continue assim, TopTrenDev, e você vai dominar o mundo... dos memes.</p>
+<p><b>Felipe</b>, 21 contribuições. Seu repositório com seu nome é bem direto ao ponto, hein? "REPOSITÓRIO", em letras maiúsculas. Imagino que a criatividade foi toda gasta no projeto Adamas. Só espero que o "FrontEnd" e o "BackEnd" do Adamas estejam se comunicando melhor do que você está se comunicando com o GitHub. Mas, ei, pelo menos você está tentando, né? Ou não?</p>
+<p><b>Felipe Gueller</b>, 17 contribuições. Componentes HTML diversos, hein? Espero que sejam mais emocionantes do que a descrição do seu perfil: "Bacharel em Sistemas de Informações". Mas, ei, pelo menos você está criando algo, certo? Mesmo que seja só um monte de botões e caixas de texto. Quem sabe um dia você não cria algo que realmente impressione as pessoas. Ou não.</p>
+<p><b>Luídi Pires</b>, 14 contribuições. "Front-End | Back-End | Full Stack". A tríade sagrada do desenvolvimento web. Mas será que você é realmente tudo isso ou está apenas colecionando títulos? E esse "E-CommerceX"? É tipo um e-commerce, só que... X? Espero que seja mais emocionante do que parece. Mas, ei, pelo menos você tem um portfólio, né? Mesmo que ninguém nunca o veja.</p>
+<p><b>Deivid Souza Santana</b>, 13 contribuições. "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo. E esse "Taskmaster"? É tipo um gerenciador de tarefas, só que com um nome mais... intimidador? E o "TudoGostoso"? Uma API de receitas? Espero que suas habilidades de back-end sejam tão saborosas quanto as receitas que você está compartilhando. Mas, ei, pelo menos você está aprendendo, né? Ou não?</p>
+<p><b>Jean Brito</b>, 11 contribuições. Pelo visto, você é fã do Rocket.Chat. Mas será que você está contribuindo para o projeto ou apenas usando-o para fofocar com os amigos? E esse "docker-steamcmd-server"? É para rodar jogos no Docker? Que nerd. Mas, ei, pelo menos você está se divertindo, né? Ou está apenas procrastinando?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-09 at 00:21:55 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-10 at 00:21:52 UTC +0000</i>
 <h6>
