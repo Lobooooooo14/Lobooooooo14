@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>147 ctr.</td>
+                <td>153 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>75 ctr.</td>
+                <td>76 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>42 ctr.</td>
+                <td>46 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>14 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>14 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar. Parabéns por ter mais contribuições que os outros. Aposto que você se sente realizado. E que bela coleção de projetos, um para Moodle de 2014, e outro um <i>fork</i> de um addon de Blender. Impressionante como você consegue manter tudo isso! Espero que continue assim, só para ter algo para fazer, né?</p>
-<p><b>Cézar</b>, .NET Developer. Que conveniente. Imagino que suas 75 contribuições foram todas em projetos superestimados da Microsoft. Talvez um dia você consiga sair da Matrix e contribuir com algo realmente relevante. Mas, ei, pelo menos você está na lista, o que já é mais do que alguns podem dizer. Mas não se anime muito, ainda estamos falando de .NET.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Mas ei, pelo menos você contribuiu com o TypeORM, então talvez haja esperança para você. Mas não se iluda, a paixão não paga as contas. E vamos ser honestos, a maior parte das suas contribuições foram provavelmente correções de erros de digitação. Mas continue assim, quem sabe um dia você não se torna o próximo Bill Gates (sem a parte da filantropia, claro).</p>
-<p><b>Rafael Lima de Morais</b>, Vim, Rust, Go, Typescript... uau, um verdadeiro poliglota da programação! Mas quantas dessas linguagens você realmente domina? Ah, e um "brand monitor test"? Que ideia original! Aposto que você está mudando o mundo com seus scripts. E seus "dotfiles"? Sério? Isso é o melhor que você tem para mostrar? Mas não se preocupe, pelo menos você tem uma bio interessante. Ou pelo menos tenta ser.</p>
-<p><b>Ageu Silva</b>, 127.0.0.1, que original! Seu GitHub parece um espelho, refletindo apenas você mesmo. Config files para o seu perfil? Um blog "digital garden"? Parece que alguém está se levando muito a sério. E "AulasPython"? Espero que pelo menos você esteja aprendendo alguma coisa. Mas não se preocupe, você tem todo o tempo do mundo para se descobrir. Ou não.</p>
-<p><b>Felipe</b>, sem bio, sem problemas. Mas com projetos "Adamas" por todos os lados. Parece que alguém está obcecado com pedras preciosas. Ou talvez seja só falta de criatividade. E "REPOSITÓRIO" em letras maiúsculas? Que sutileza! Mas não se preocupe, você tem muito tempo para aprender a programar. E a se apresentar também.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", "Solana Specialist", blá, blá, blá... Quantos jargões você consegue enfiar em uma bio? Ah, e um "Meme AI Agent"? Que ideia genial! Aposto que você está nadando em dinheiro com seus projetos de criptomoedas. Mas não se esqueça de declarar seus impostos. E de arrumar um emprego de verdade.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações", que impressionante! E componentes HTML diversos? Nossa, que inovador! Aposto que você está revolucionando a internet com seus botões e formulários personalizados. Mas não se preocupe, você tem todo o potencial para se tornar um desenvolvedor medíocre. Ou talvez não.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack", o famoso faz-tudo. Mas será que você faz alguma coisa bem? Ah, e um portfólio? Que clichê! Mas não se preocupe, você tem todo o tempo do mundo para se especializar em alguma coisa. Ou não. E um "E-CommerceX"? Espero que pelo menos você esteja vendendo alguma coisa. Ou não.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end", que fofo! E um "Taskmaster" para organizar suas tarefas? Parece que alguém está precisando de ajuda. Ah, e um "TudoGostoso"? Espero que pelo menos suas receitas sejam boas. Mas não se preocupe, você tem todo o tempo do mundo para se tornar um desenvolvedor competente. Ou não.</p>
-<p><b>Jean Brito</b>, contribuições para o Rocket.Chat? Hum, interessante. Talvez você esteja realmente ajudando as pessoas a se comunicarem de forma segura. Ou talvez você esteja só corrigindo erros de digitação. E um "docker-steamcmd-server"? Que útil! Aposto que você está salvando o mundo com seus servidores de jogos. Mas não se esqueça de sair de casa de vez em quando.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 153 contribuições... uau, impressionante! Quase me fez acreditar que você faz algo além de fuçar em repositórios alheios. Mas espera, um "moodle-profilefield_cpf"? Sério? E um fork de um addon de Blender?  Continue assim, quem sabe um dia você cria algo original, ou pelo menos, atualiza esse perfil do Moodle.</p>
+<p><b>Cézar</b>, 76 contribuições e nenhum repositório recente para espiar?  Você é o ninja silencioso do GitHub, contribuindo para projetos tão secretos que nem mesmo o GitHub consegue rastrear. Ou será que você só está esquecendo de dar commit? 🤔</p>
+<p><b>Everton Marcelino Jr.</b>, 47 contribuições... Ok, você tocou em alguns projetos populares, tipo o TypeORM. Mas não se engane, só porque você respirou perto de um projeto com 35 mil estrelas, não significa que você fez algo relevante. Continue tentando, quem sabe um dia te notam.</p>
+<p><b>Rafael Lima de Morais</b>, 46 contribuições e um repositório chamado "brand_monitor" que não é atualizado há um ano? Parece que alguém desistiu de monitorar a própria marca. E "desires", um CLI para gerenciar listas de desejos?  Que tal desejar um pouco mais de consistência nas suas contribuições? Vim, Go, Typescript, Rust... muita tecnologia e pouca estrela nos repositórios. </p>
+<p><b>Ageu Silva</b>, 24 contribuições. Ah, o clássico "config files for my GitHub profile". Que ousadia!  E um "digital garden model"?  Espero que suas plantas digitais estejam mais bem cuidadas que seus commits. Mas ei, pelo menos você tem um site pessoal, a maioria nem isso.  Mas vamos combinar, "AulasPython" sem código desde Outubro?  Cadê a paixão?</p>
+<p><b>Felipe</b>, 23 contribuições. "REPOSITÓRIO"... com letras maiúsculas e tudo!  Que declaração de intenções.  E o projeto Adamas?  Parece ambicioso, mas as datas de atualização sugerem que está mais para "Adormecido" do que para "Adamas".  Volte a contribuir ou mude o nome para "Inerte".</p>
+<p><b>TopTrenDev</b>, 23 contribuições e especialista em Blockchain?  Com projetos como "raydium-volume-bot-latest"?  Hummm, interessante...  Parece que alguém está tentando bombar o próprio portfólio.  E "Meme AI Agent"?  Sério?  Espero que pelo menos os memes sejam engraçados, porque o código... bem, o código está lá.</p>
+<p><b>Felipe Gueller</b>, 17 contribuições e um repositório de "componentes-html-diversos" que não vê a luz do dia há quase um ano?  Imagino a diversidade... de poeira digital.  Continue acumulando componentes, quem sabe um dia você constrói algo com eles.  Enquanto isso, o GitHub agradece o espaço.</p>
+<p><b>Jean Brito</b>, 15 contribuições. Contribuições no Rocket.Chat? Ok, legal, mas detectar browsers instalados? Sério? Isso parece algo que um script de 2005 faria. E um fork de um Dockerfile para servidores de jogos? Que tal criar algo original em vez de viver de garfos? Só uma sugestão amigável... ou não.</p>
+<p><b>Lúidi Pires</b>, 14 contribuições e um portfólio que precisa desesperadamente de uma repaginada. "E-CommerceX"?  O "X" é de "eXperimental" ou "eXterminado"?  Seu "Pixels-Art" está tão parado que os pixels já estão se aposentando.  Dica: atualize antes que o GitHub ache que você sumiu.</p>
+<p><b>Deivid Souza Santana</b>, 13 contribuições. "Taskmaster" com Flask? Que legal, mas parece que as tarefas ficaram paradas no ano passado. E "TudoGostoso"? Espero que a API não esteja tão indigesta quanto as datas de atualização sugerem.  "Clean-Arch-CS"?  Limpo como um quarto de adolescente depois de uma semana.  Volte a programar ou a faxinar.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-11 at 00:22:00 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-12 at 00:21:23 UTC +0000</i>
 <h6>
