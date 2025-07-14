@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>162 ctr.</td>
+                <td>166 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -51,22 +51,22 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>28 ctr.</td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>29 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>25 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>23 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, parabéns! Mas será que toda essa "experiência em web & game com um toque de 3D" se traduz em algo que não seja um <i>fork</i> de um <i>addon</i> para Blender? Sei não, hein... Ao menos o seu perfil no GitHub está em dia, atualizado há dois dias. Isso é louvável, quase tanto quanto os 6 <i>stargazers</i> do seu repositório do CPF para Moodle.</p>
-<p><b>Cézar</b>, .NET Developer... que não desenvolve nada? 76 contribuições e nenhum repositório recente para mostrar? Espero que esteja guardando o seu talento para algo realmente revolucionário, porque, por enquanto, o seu perfil grita "<i>low profile</i>" ou "sumiço estratégico".</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", mas será que a tecnologia te ama de volta? Contribuir para o <i>TypeORM</i> é legal, mas e aquele seu próprio projeto, o "<i>authenticator-middleware</i>"? Atualizado pela última vez há cinco dias. Está esperando ele se autenticar sozinho para começar a brilhar? E que tal dar uma olhada no <i>Flutter Client SDK for LiveKit</i>, quem sabe o Objective-C te inspire a criar algo novo.</p>
-<p><b>Rafael Lima de Morais</b>, com essa lista de tecnologias no seu perfil (Go, Typescript, Rust, Vim), eu esperava ver algo mais... ousado. Mas, ok, todos começamos com um "<i>brand_monitor</i>" e "<i>dotfiles</i>". Mas o "<i>desires</i>", para gerenciar <i>wishlists</i>, isso sim é algo que me deixa curioso. Contudo, o que me impressiona é a sua habilidade em fazer <i>fork</i> de projetos que já estão parados no tempo. É uma forma de arqueologia digital?</p>
-<p><b>TopTrenDev</b>, "Especialista em Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs"... Uau! Quanta coisa! Mas por que será que o seu "<i>raydium-volume-bot-latest</i>" precisa tanto de volume? E esse "<i>meme-ai-agent</i>"? Parece promissor, mas precisa urgentemente de uma repaginada, hein? Contudo, pelo menos você está ativo, atualizando seus projetos. Continue assim!</p>
-<p><b>Ageu Silva</b>, "127.0.0.1"... Um perfil minimalista para um desenvolvedor misterioso. Seu "<i>digital garden model</i>" parece interessante, mas confesso que fiquei mais intrigado com o seu repositório "<i>AulasPython</i>". Afinal, quem precisa de aulas de Python quando se tem um perfil tão enigmático quanto o seu? Ao menos seu blog está atualizado, parabéns!</p>
-<p><b>Felipe</b>, "REPOSITÓRIO"... É assim que você descreve seu próprio perfil no GitHub? Original, no mínimo. O projeto "<i>Adamas</i>" parece ambicioso, mas com atualizações paradas desde novembro de 2024, começo a me perguntar se ele ainda está de pé. Contudo, não desanime! Todo mundo tem um projeto que fica esquecido no fundo da gaveta. O importante é não desistir (ou pelo menos fingir que não desistiu).</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento <i>back-end</i>". O "<i>Taskmaster</i>" parece interessante, mas o "<i>TudoGostoso</i>"... me deixou com água na boca. Uma API para compartilhar receitas é uma ideia deliciosa! Só não deixe o seu "<i>Clean-Arch-CS</i>" pegar poeira, hein? Arquitetura limpa é fundamental para um código saboroso.</p>
-<p><b>Felipe Gueller</b>, seus "<i>componentes-html-diversos</i>" são como aqueles utensílios de cozinha que você nunca usa, mas adora ter? Pelo menos você tem um repositório para chamar de seu. Mas, sério, quando foi a última vez que você realmente usou esses componentes em um projeto de verdade? Se a resposta for "nunca", talvez seja hora de dar uma repaginada neles ou, quem sabe, criar algo novo.</p>
-<p><b>Jean Brito</b>, contribuir para o <i>Rocket.Chat</i> é um bom começo, mas por que um <i>fork</i> de um projeto para detectar <i>browsers</i> instalado no sistema? Nostalgia dos anos 90? E esse "<i>docker-steamcmd-server</i>"? Está montando um servidor de jogos retrô? Seja como for, continue contribuindo, mesmo que seja para projetos obscuros. O importante é não ficar parado.</p>
-<p><b>Luídi Pires</b>, "<i>Front-End | Back-End | Full Stack</i>"... Mais um generalista? Seu portfólio está lá, mas confesso que fiquei mais interessado no "<i>Pixels-Art</i>". Nostalgia dos jogos antigos? E o "<i>E-CommerceX</i>"? Está vendendo o quê? Produtos digitais feitos com pixels? Brincadeiras à parte, continue praticando e quem sabe um dia você se torna um especialista em algo.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar com 166 contribuições. Parabéns por liderar o ranking! Mas, sério, desde 2014 trabalhando naquele profilefield_cpf para Moodle? Já pensou em automatizar o processo de tirar o CPF? Ah, e obrigado por forkar um projeto de cutout animation. Contribuições em projetos com nomes legais como "Space Wizard Studios" são sempre bem-vindas.</p>
+<p><b>Cézar</b>, com suas 76 contribuições. Um verdadeiro mestre .NET! Pena que sua atividade recente está tão vazia quanto a promessa de um político. Sem problemas, o importante é participar, mesmo que seja só para constar. Continue assim, quem sabe no próximo mês você não sai do zero a zero?</p>
+<p><b>Everton Marcelino Jr.</b>, mostrando sua paixão por tecnologia com 48 contribuições. Contribuiu para o TypeORM, que legal, agora quem sabe você consiga finalmente entender como funciona um ORM de verdade. E pelo visto, está dando uma força no formbricks. Será que está coletando feedbacks para melhorar a própria performance?</p>
+<p><b>Rafael Lima de Morais</b>, o mago do Vim, com 46 contribuições. "brand_monitor"? Espero que esteja monitorando sua própria marca, porque com esse ritmo, logo será apenas uma lembrança vaga. E "desires"? Imagino que o maior desejo seja aumentar essas contribuições, porque, convenhamos, está precisando.</p>
+<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain, ostentando 32 contribuições. Especialista em Solana, Bitcoin, Ethereum... Uau! Mas será que consegue resolver um conflito de merge no Git? Ah, e "raydium-volume-bot-latest"? Espero que não esteja inflando números por aí, hein? Mas se estiver, me manda um desse.</p>
+<p><b>Deivid Souza Santana</b>, o futuro desenvolvedor back-end, com 29 contribuições. "Taskmaster"? Parece promissor, mas será que consegue gerenciar suas próprias tarefas para contribuir mais? E "TudoGostoso"? Espero que suas receitas de código sejam mais saborosas que as da sua API, porque a última atualização foi em outubro de 2024, hein!</p>
+<p><b>Ageu Silva</b>, o mestre do "127.0.0.1", com 25 contribuições. Config files para o perfil no GitHub e um blog "digital garden". Que fofo! Só falta regar esse jardim com mais contribuições, porque, sinceramente, está parecendo mais um deserto digital. Mas ei, pelo menos o endereço está certo.</p>
+<p><b>Felipe</b>, o misterioso, com 23 contribuições. Sem bio, sem muita informação, mas com um repositório chamado "Adamas". Será que é um diamante bruto ou só mais uma pedra no caminho? Ah, e parece que está envolvido com o "Adamas-BackEnd". Espero que não esteja tão parado quanto a última atualização, que foi em novembro de 2024.</p>
+<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações, com 17 contribuições. Componentes HTML diversos? Que legal! Mas será que são realmente úteis ou só mais um monte de código jogado no GitHub? De qualquer forma, parabéns por manter o repositório atualizado desde 2021. Isso é quase um milagre no mundo do desenvolvimento.</p>
+<p><b>Jean Brito</b>, o ninja desconhecido, com 15 contribuições. Contribuiu para o Rocket.Chat? Impressionante! Mas será que consegue usar o Rocket.Chat para coordenar um esforço de contribuição mais eficiente? E "docker-steamcmd-server"? Espero que esteja usando para fins nobres, como... sei lá, rodar um servidor de Terraria. Mas, por favor, contribua mais!</p>
+<p><b>Luídi Pires</b>, o "Front-End | Back-End | Full Stack", com 14 contribuições. Um portfólio com "Acesse meu Portfolio abaixo:"? Original! E um "E-CommerceX" que não vê a luz do dia desde maio? Talvez seja hora de repensar essa estratégia. Mas ei, pelo menos tentou, né? Daqui a pouco chega lá, quem sabe em 2040.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-13 at 00:24:33 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-14 at 00:23:21 UTC +0000</i>
 <h6>
