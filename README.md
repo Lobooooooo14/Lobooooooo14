@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>176 ctr.</td>
+                <td>180 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>76 ctr.</td>
+                <td>82 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>52 ctr.</td>
+                <td>64 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>51 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>34 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>33 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>32 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>25 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>23 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>18 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking com 176 contribuições! Vejo que você anda se aventurando em Blender e jogos. Será que algum dia veremos um game onde o protagonista é um Lobo pixelizado? Mas, por favor, atualize seu portfólio, a última atualização foi há mais de um mês. Precisamos de mais commits e menos procrastinação!</p>
-<p><b>Cézar</b>, .NET Developer, hein? 76 contribuições. Imagino que esteja ocupado demais codificando em C# para escrever uma bio decente. Seus repositórios recentes estão tão vazios quanto a promessa de um político. Cadê o brilho? Cadê o código que faz a diferença? Vamos lá, mostre que você não é só mais um no meio da multidão!</p>
-<p><b>Rafael Lima de Morais</b>, um entusiasta de Go, Typescript, Rust e Vim. Com 52 contribuições, parece que você está mais perdido que cego em tiroteio. "Brand monitor test"? Sério? E o "desires" que ninguém quer? Talvez seja hora de focar em algo que realmente te motive, ou quem sabe, largar o Vim e experimentar algo mais amigável. #sóacho</p>
-<p><b>Everton Marcelino Jr.</b>, 51 contribuições. Pelo visto, você anda surfando na onda do TypeORM e Flutter. Mas será que você está realmente contribuindo ou apenas adicionando mais uma camada de complexidade ao caos? Não se esqueça, nem todo herói usa capa, alguns só complicam o código. Que tal criar algo original em vez de apenas seguir a manada?</p>
-<p><b>Gustavo Carvalho</b>, "Interested in computing and some knowledge". A julgar pelas suas 39 contribuições, o "some knowledge" é a parte mais importante da sua bio. OpenTelemetry e Grafana? Parece que você gosta de monitorar as coisas... talvez devesse monitorar suas próprias contribuições com mais frequência. Ou será que você está apenas esperando o Lobo te dar um osso?</p>
-<p><b>Deivid Souza Santana</b>, com 33 contribuições, você parece ser o típico estudante apaixonado por back-end. Mas "TudoGostoso"? Sério? Espero que seu código seja mais apetitoso que suas escolhas de projeto. E "Clean-Arch-CS"? Cuidado para não se perder na "Clean Architecture" e esquecer de entregar algo útil. Afinal, ninguém quer um prato bonito, mas intragável.</p>
-<p><b>TopTrenDev</b>, um "Full-Stack & Blockchain Developer" com 32 contribuições. Solana, Bitcoin, Ethereum... parece que você está tentando abraçar o mundo com as pernas. "Meme AI Agent"? Isso soa tão útil quanto um pente para um careca. Que tal focar em algo que realmente resolva problemas em vez de criar mais um hype passageiro? #ficadica</p>
-<p><b>Ageu Silva</b>, 25 contribuições. "127.0.0.1"? Espero que você não esteja vivendo isolado no seu próprio mundo. Seu blog "digital garden model" parece interessante, mas as últimas atualizações não impressionam. Lembre-se, a grama do vizinho só é mais verde porque ele rega. Que tal dar uma atenção especial ao seu jardim?</p>
-<p><b>Felipe</b>, com 23 contribuições e uma bio vazia, você é o mistério da lista. "REPOSITÓRIO"? Uau, que original! Adamas? Parece ambicioso, mas as contribuições recentes não dizem muito. Talvez seja hora de preencher essa bio e mostrar ao mundo o que você realmente faz. Ou será que você prefere continuar sendo um fantasma no GitHub?</p>
-<p><b>Felipe Gueller</b>, 17 contribuições. "Componentes HTML diversos"? Isso soa tão emocionante quanto assistir tinta secar. Espero que esses componentes sejam mais úteis do que a sua taxa de contribuição neste ranking. Que tal um desafio? Tente dobrar suas contribuições no próximo mês, quem sabe assim você sai da lanterna.</p>
-<p><b>Jean Brito</b>, 15 contribuições. Rocket.Chat? Detect browsers? Parece que você está em todo lugar, mas ao mesmo tempo em lugar nenhum. Sua contribuição recente em "docker-steamcmd-server" (fork) é de 2024. Talvez seja hora de escolher um foco e se aprofundar em vez de apenas picotar em vários projetos. Ou será que você está apenas colecionando estrelas?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, com 180 contribuições, liderando o ranking com folga. Parabéns por ter clonado um projeto de cutout animation. Seus projetos pessoais, no entanto, parecem tão movimentados quanto um cemitério ao meio-dia. Continue assim, quem sabe um dia você cria algo que as pessoas realmente usem, além de você mesmo.</p>
+<p><b>Cézar</b>, o misterioso .NET Developer, com suas 82 contribuições. Onde estão seus repositórios? Escondendo o jogo ou só está contribuindo em projetos tão secretos que nem o GitHub sabe da existência deles? Continue assim, um dia você pode até ser notado, quem sabe por um recrutador desavisado.</p>
+<p><b>Rafael Lima de Morais</b>, com 64 contribuições. Go, Typescript, Rust, Vim... parece um cardápio de linguagens para impressionar. Mas no final das contas, o que temos? Um "brand monitor test" e configs customizadas. Da próxima vez, tente criar algo que realmente resolva um problema, em vez de apenas criar mais um. E, por favor, pare de usar Docker para tudo, até para o lazydocker, é redundante.</p>
+<p><b>Everton Marcelino Jr.</b>, 54 contribuições e uma paixão por tecnologia... que se traduz em contribuir para projetos gigantes como TypeORM e Formbricks. Ótimo para o currículo, mas e a criatividade? Cadê aquele projeto inovador que vai mudar o mundo? Ah, certo, está ocupado demais adicionando linhas de código em projetos que já têm 35 mil estrelas. Brilhante.</p>
+<p><b>Gustavo Carvalho</b>, 39 contribuições, "interessado em construir observabilidade e soluções de monitoramento". Que poético. Contribuindo para OpenTelemetry e Grafana, você está realmente ajudando a monitorar o caos que outros criam. Mas e você? Vai continuar só observando ou vai criar algo memorável? Talvez seja melhor continuar monitorando, vai que você estraga tudo.</p>
+<p><b>TopTrenDev</b>, o mestre Full-Stack & Blockchain, com 34 contribuições. Especialista em Solana, Bitcoin, Ethereum... uau, que currículo! Mas vamos ser honestos, "raydium-volume-bot-latest" é só uma forma chique de dizer "estou inflando o volume de trading para parecer relevante". E "Meme AI Agent"? Sério? Continue assim, talvez você consiga enganar alguém com essa fachada de inovador.</p>
+<p><b>Deivid Souza Santana</b>, com 33 contribuições. Um "apaixonado por desenvolvimento back-end" que criou um "Taskmaster" com Flask. Original. E uma API de compartilhamento de receitas? Inovador! Mas sério, se você quer se destacar, pare de criar clones de projetos que já existem e comece a pensar fora da caixa. Ou melhor, dentro de um container Docker, já que está na moda.</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1" com suas 26 contribuições. Um blog digital garden? Que fofo. Mas vamos ser sinceros, quem realmente se importa com seus "pensamentos"? Ah, certo, você mesmo. E um repositório com aulas de Python? Originalíssimo. Continue cultivando seu jardim digital, talvez um dia ele dê frutos... ou pelo menos uns commits a mais.</p>
+<p><b>Felipe</b>, o programador misterioso com 25 contribuições e bio vazia. Pelo menos você é direto ao ponto. "Adamas", um projeto para criação e divulgação de projetos e eventos. Que irônico. Mas e seus próprios projetos? Ah, certo, você está ocupado demais ajudando os outros a se promoverem. Continue assim, talvez um dia alguém se lembre de você.</p>
+<p><b>Jean Brito</b>, com 18 contribuições, contribuindo para Rocket.Chat. Pelo menos você está ajudando a manter as pessoas conectadas... enquanto elas ignoram seus próprios projetos. E um fork de um Dockerfile para instalar servidores de jogos? Criativo. Da próxima vez, tente criar algo que não seja apenas uma cópia mal feita do que já existe.</p>
+<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações com 17 contribuições. "Componentes HTML diversos"? Sério? Isso é o melhor que você tem a oferecer? Continue criando seus bloquinhos de código, talvez um dia você consiga montar algo minimamente interessante. Ou talvez não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-15 at 00:22:29 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-16 at 00:22:17 UTC +0000</i>
 <h6>
