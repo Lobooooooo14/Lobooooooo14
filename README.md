@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>223 ctr.</td>
+                <td>225 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>88 ctr.</td>
+                <td>91 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -55,18 +55,18 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>39 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>37 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>35 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>18 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>22 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 223 contribuições, liderando o ranking! Parabéns por conseguir clicar em uns botões a mais que os outros. Mas, ei, quem precisa de vida social quando se tem commits, não é mesmo? E falando em commits, notei que você bifurcou um projeto de animação em Blender. Espero que não esteja usando isso para animar sua própria existência, porque ela parece meio parada.</p>
-<p>Ah, <b>Cézar</b>, o mestre do .NET com 88 contribuições. Imagino que esteja ocupado demais codificando em C# para contribuir com algo mais interessante. Aliás, onde estão seus repositórios recentes? Por acaso estão tão secretos que nem o GitHub consegue encontrá-los? Talvez você devesse considerar sair do mundo .NET um pouco e explorar outras tecnologias, quem sabe assim a gente te veja em mais lugares.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software poliglota com 69 contribuições. Go, Typescript, Rust, Vim... Impressionante! Mas me diga, com tantas ferramentas à disposição, por que seus repositórios são tão... modestos? Um "Cli to manage wishlists to buy anything that you... desire lol"? Sério? Parece que alguém precisa desejar um pouco mais de ambição.</p>
-<p><b>Everton Marcelino Jr.</b>, com 68 contribuições, parece estar surfando na onda de projetos populares como TypeORM e Formbricks. Que inveja, hein? Mas cuidado para não se afogar em meio a tantos <i>stargazers</i> alheios. Quem sabe um dia você cria algo que não precise pegar carona no sucesso dos outros? Mas até lá, continue aí, contribuindo com o que já é bom.</p>
-<p><b>Deivid Souza Santana</b>, o estudante apaixonado por back-end com 48 contribuições. "TudoGostoso", "Taskmaster"... Parece que alguém está tentando organizar a vida e a cozinha ao mesmo tempo. Mas convenhamos, um sistema de compartilhamento de receitas com apenas 2 estrelas? Talvez a sua paixão por back-end não esteja se traduzindo em resultados tão saborosos assim.</p>
-<p><b>Gustavo Carvalho</b>, o "inserir descrição motivacional aqui" com 39 contribuições. OpenTelemetry, Grafana... Alguém está tentando monitorar a própria insignificância no mundo do código. Mas ei, pelo menos você está contribuindo, certo? Afinal, é melhor ser um parafuso na engrenagem do que ferrugem no sistema. Continue assim, monitorando a vida passar.</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1" com 37 contribuições. Presumo que você goste de ficar em casa, já que seu bio é um endereço local. Mas será que suas contribuições são tão caseiras quanto? Um blog "digital garden model"? Que poético... e irrelevante. Mas não se preocupe, Ageu, pelo menos você tem a si mesmo. E isso é... alguma coisa.</p>
-<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain com 35 contribuições. Solana, Bitcoin, Ethereum... Parece que alguém está tentando ficar rico rápido. Mas, convenhamos, um "Meme AI Agent"? Sério? Espero que você esteja ganhando dinheiro com isso, porque a julgar pela descrição, parece uma ótima forma de desperdiçar tempo e recursos.</p>
-<p><b>Felipe</b>, o misterioso com 25 contribuições e nenhuma bio. Entendo, você é do tipo que prefere o anonimato. Mas será que suas contribuições são tão secretas quanto sua identidade? "Adamas"? Parece um nome pomposo para um projeto com tão pouca visibilidade. Mas não se preocupe, Felipe, talvez um dia você revele seus segredos para o mundo.</p>
-<p><b>Jean Brito</b>, o Docker enthusiast com 18 contribuições. Rocket.Chat, Docker... Parece que alguém gosta de ferramentas de comunicação e virtualização. Mas me diga, com tanta tecnologia à disposição, por que suas contribuições são tão... genéricas? Um "Simple Dockerfile that installs steamcmd and a selected game server"? Originalidade passou longe, hein? Mas continue tentando, Jean, quem sabe um dia você crie algo realmente inovador.</p>
-<p><b>giverplay</b>, o amigável estranho com 18 contribuições. "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Que simpático! Mas será que seus projetos são tão acolhedores quanto sua mensagem de boas-vindas? "Next Level Week 04"? Espero que você tenha subido de nível desde então, porque a julgar pelo nome, parece algo meio datado. Mas não desanime, giverplay, continue compartilhando seus projetos com o mundo. Talvez alguém se importe.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking. Mas será que todas essas contribuições realmente importam ou você está apenas inflando o ego com commits triviais? E esse fork de 2020 ainda está relevante? Pense nisso enquanto tenta manter a coroa no próximo mês.</p>
+<p><b>Cézar</b>, .NET Developer, hein? Que audácia! Com 91 contribuições, você está quase chegando lá. Quase. Mas sem repositórios recentes? Espero que esteja guardando o melhor para o próximo mês, porque até agora, você é só mais um no meio da multidão. </p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer que ama Vim, hein? Interessante... Mas seus "dotfiles" de 2024 realmente precisam de tanta atenção? E esse "lazydocker" que você bifurcou? Sério, você precisa de um atalho para gerenciar Docker? Talvez seja hora de investir em habilidades, não em preguiça. </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Contribuindo para projetos gigantes como TypeORM e Formbricks, mas será que suas contribuições realmente fazem a diferença? Ou você é só mais um pixel em uma tela enorme? Pense nisso enquanto tenta impressionar no próximo mês.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por back-end", que fofo. Mas criar um site pessoal e um "Taskmaster" em Flask não vai te levar muito longe. E essa API "TudoGostoso"? Espero que pelo menos as receitas sejam boas, porque suas contribuições não estão exatamente "gostosas".</p>
+<p><b>Ageu Silva</b>, 127.0.0.1, o famoso endereço de casa. Faz sentido, já que suas contribuições parecem estar todas focadas em você mesmo. Um "digital garden model"? Que pretensão! E "AulasPython"? Sério, ensinando o básico? Talvez seja hora de sair do localhost e contribuir com algo que realmente importe.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", quanta pretensão! Solana, Bitcoin, Ethereum... parece que você jogou todas as palavras da moda em uma bio. Mas será que esse "raydium-volume-bot-latest" realmente ajuda alguém além de você mesmo? Pense nisso enquanto tenta se manter relevante no mundo das criptomoedas.</p>
+<p><b>Gustavo Carvalho</b>, "Interested to contribute and someone solve the problem". Que inspirador... Contribuindo para projetos como OpenTelemetry e Grafana Tempo, mas será que suas contribuições são realmente úteis ou você está apenas seguindo a manada? E essa bio genérica? Cadê a originalidade?</p>
+<p><b>Felipe</b>, sem bio, sem paixão, sem nada? Apenas 25 contribuições e um repositório chamado "Felipe-Takayuki"? Que falta de ambição! E esse projeto "Adamas"? Parece promissor, mas suas contribuições não estão exatamente brilhando. Talvez seja hora de adicionar um pouco de brilho à sua presença no GitHub.</p>
+<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil... que consiste principalmente em forks e projetos inacabados. "moveit" de 2021? Sério? E addons para LabyMod? Isso ainda existe? Talvez seja hora de mover seus projetos para algo mais relevante e menos... estranho.</p>
+<p><b>Jean Brito</b>, aparentemente ocupado demais para escrever uma bio. Contribuindo para Rocket.Chat, mas será que suas contribuições estão realmente ajudando a plataforma a decolar? E esse fork de "docker-steamcmd-server"? Espero que você esteja se divertindo jogando, porque suas contribuições não estão exatamente impressionando.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-18 at 00:22:00 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-19 at 00:21:44 UTC +0000</i>
 <h6>
