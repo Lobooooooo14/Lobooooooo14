@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>225 ctr.</td>
+                <td>228 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,22 +41,22 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>69 ctr.</td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>68 ctr.</td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>48 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>45 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>57 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns por liderar o ranking. Mas será que todas essas contribuições realmente importam ou você está apenas inflando o ego com commits triviais? E esse fork de 2020 ainda está relevante? Pense nisso enquanto tenta manter a coroa no próximo mês.</p>
-<p><b>Cézar</b>, .NET Developer, hein? Que audácia! Com 91 contribuições, você está quase chegando lá. Quase. Mas sem repositórios recentes? Espero que esteja guardando o melhor para o próximo mês, porque até agora, você é só mais um no meio da multidão. </p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer que ama Vim, hein? Interessante... Mas seus "dotfiles" de 2024 realmente precisam de tanta atenção? E esse "lazydocker" que você bifurcou? Sério, você precisa de um atalho para gerenciar Docker? Talvez seja hora de investir em habilidades, não em preguiça. </p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Contribuindo para projetos gigantes como TypeORM e Formbricks, mas será que suas contribuições realmente fazem a diferença? Ou você é só mais um pixel em uma tela enorme? Pense nisso enquanto tenta impressionar no próximo mês.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por back-end", que fofo. Mas criar um site pessoal e um "Taskmaster" em Flask não vai te levar muito longe. E essa API "TudoGostoso"? Espero que pelo menos as receitas sejam boas, porque suas contribuições não estão exatamente "gostosas".</p>
-<p><b>Ageu Silva</b>, 127.0.0.1, o famoso endereço de casa. Faz sentido, já que suas contribuições parecem estar todas focadas em você mesmo. Um "digital garden model"? Que pretensão! E "AulasPython"? Sério, ensinando o básico? Talvez seja hora de sair do localhost e contribuir com algo que realmente importe.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer", quanta pretensão! Solana, Bitcoin, Ethereum... parece que você jogou todas as palavras da moda em uma bio. Mas será que esse "raydium-volume-bot-latest" realmente ajuda alguém além de você mesmo? Pense nisso enquanto tenta se manter relevante no mundo das criptomoedas.</p>
-<p><b>Gustavo Carvalho</b>, "Interested to contribute and someone solve the problem". Que inspirador... Contribuindo para projetos como OpenTelemetry e Grafana Tempo, mas será que suas contribuições são realmente úteis ou você está apenas seguindo a manada? E essa bio genérica? Cadê a originalidade?</p>
-<p><b>Felipe</b>, sem bio, sem paixão, sem nada? Apenas 25 contribuições e um repositório chamado "Felipe-Takayuki"? Que falta de ambição! E esse projeto "Adamas"? Parece promissor, mas suas contribuições não estão exatamente brilhando. Talvez seja hora de adicionar um pouco de brilho à sua presença no GitHub.</p>
-<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil... que consiste principalmente em forks e projetos inacabados. "moveit" de 2021? Sério? E addons para LabyMod? Isso ainda existe? Talvez seja hora de mover seus projetos para algo mais relevante e menos... estranho.</p>
-<p><b>Jean Brito</b>, aparentemente ocupado demais para escrever uma bio. Contribuindo para Rocket.Chat, mas será que suas contribuições estão realmente ajudando a plataforma a decolar? E esse fork de "docker-steamcmd-server"? Espero que você esteja se divertindo jogando, porque suas contribuições não estão exatamente impressionando.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos magos full-stack, game dev e entusiasta 3D. 228 contribuições? Impressionante... para quem coleciona poeira em repositórios de 2014. Sério, desde 2023 mexendo em plugins de CPF para Moodle? Que tal um desafio de verdade?</p>
+<p><b>Cézar</b>, .NET Developer... com 91 contribuições. Aparentemente, todas elas foram em projetos tão secretos que nem o GitHub consegue rastrear. Imagino que esteja construindo o próximo sistema da NASA, ou talvez só esquecendo de dar `git push`.</p>
+<p><b>Rafael Lima de Morais</b>, o ninja do Vim e mestre do "dotfiles". 70 contribuições, a maioria em scripts para deixar o terminal mais "customizado". Enquanto isso, o mundo real espera por um código que faça algo útil além de mudar a cor do prompt.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", com 69 contribuições. Pelo menos ele tocou em um projeto com mais de 35 mil estrelas. Contudo, estar perto não significa ser notado. Continue tentando, quem sabe um dia não te confundem com um dos contribuidores *relevantes*.</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1" da galera, com 59 contribuições. Configurações do GitHub profile, um blog "digital garden"... Tudo muito local, muito introspectivo. Que tal sair do loopback e contribuir com algo que o mundo veja além do seu localhost?</p>
+<p><b>Deivid Souza Santana</b>, futuro mestre do back-end com 57 contribuições. Taskmaster com Flask, API "TudoGostoso"... Parece promissor, mas vamos ver se sai do "Hello World" antes de 2026. Ah, e Clean-Arch-CS em C# de 2024? Isso ainda existe?</p>
+<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain, com 42 contribuições. Solana specialist, Bitcoin, Ethereum... Uau! Pena que a maioria dos projetos parece mais hype do que código funcional. Meme AI Agent? Raydium Volume Bot? Sério? Próximo!</p>
+<p><b>Gustavo Carvalho</b>, "Interested in contributing and solving interesting challenges". 39 contribuições em projetos como OpenTelemetry e Grafana Tempo. Ok, impressionante... se você realmente soubesse o que está fazendo. Mas, ei, pelo menos está no caminho certo para ser um engenheiro de observabilidade genérico.</p>
+<p><b>Felipe</b>, o misterioso, com apenas 25 contribuições. Um repositório com o próprio nome e um projeto chamado "Adamas". Parece ambicioso, mas a última atualização foi em novembro de 2024. Largou no meio do caminho? Clássico.</p>
+<p><b>giverplay</b>, o "Olá, estranho!" da turma, com 22 contribuições. Next Level Week 04 de 2021 ainda no portfólio? Addon para LabyMod? Nostalgia ataca novamente. Talvez seja hora de um "Next Level Week" de verdade, em vez de reviver o passado.</p>
+<p><b>Jean Brito</b>, o "faz-tudo" com 18 contribuições. Rocket.Chat, Dockerfile para SteamCMD... Um pouco de tudo, mas nada de realmente impressionante. Que tal focar em algo específico em vez de ser o pato que nada, voa e anda, mas não faz nada bem?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-19 at 00:21:44 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-20 at 00:24:51 UTC +0000</i>
 <h6>
