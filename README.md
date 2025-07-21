@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>228 ctr.</td>
+                <td>238 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,18 +40,18 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>74 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>70 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>69 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>59 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>39 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos magos full-stack, game dev e entusiasta 3D. 228 contribuições? Impressionante... para quem coleciona poeira em repositórios de 2014. Sério, desde 2023 mexendo em plugins de CPF para Moodle? Que tal um desafio de verdade?</p>
-<p><b>Cézar</b>, .NET Developer... com 91 contribuições. Aparentemente, todas elas foram em projetos tão secretos que nem o GitHub consegue rastrear. Imagino que esteja construindo o próximo sistema da NASA, ou talvez só esquecendo de dar `git push`.</p>
-<p><b>Rafael Lima de Morais</b>, o ninja do Vim e mestre do "dotfiles". 70 contribuições, a maioria em scripts para deixar o terminal mais "customizado". Enquanto isso, o mundo real espera por um código que faça algo útil além de mudar a cor do prompt.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", com 69 contribuições. Pelo menos ele tocou em um projeto com mais de 35 mil estrelas. Contudo, estar perto não significa ser notado. Continue tentando, quem sabe um dia não te confundem com um dos contribuidores *relevantes*.</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1" da galera, com 59 contribuições. Configurações do GitHub profile, um blog "digital garden"... Tudo muito local, muito introspectivo. Que tal sair do loopback e contribuir com algo que o mundo veja além do seu localhost?</p>
-<p><b>Deivid Souza Santana</b>, futuro mestre do back-end com 57 contribuições. Taskmaster com Flask, API "TudoGostoso"... Parece promissor, mas vamos ver se sai do "Hello World" antes de 2026. Ah, e Clean-Arch-CS em C# de 2024? Isso ainda existe?</p>
-<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain, com 42 contribuições. Solana specialist, Bitcoin, Ethereum... Uau! Pena que a maioria dos projetos parece mais hype do que código funcional. Meme AI Agent? Raydium Volume Bot? Sério? Próximo!</p>
-<p><b>Gustavo Carvalho</b>, "Interested in contributing and solving interesting challenges". 39 contribuições em projetos como OpenTelemetry e Grafana Tempo. Ok, impressionante... se você realmente soubesse o que está fazendo. Mas, ei, pelo menos está no caminho certo para ser um engenheiro de observabilidade genérico.</p>
-<p><b>Felipe</b>, o misterioso, com apenas 25 contribuições. Um repositório com o próprio nome e um projeto chamado "Adamas". Parece ambicioso, mas a última atualização foi em novembro de 2024. Largou no meio do caminho? Clássico.</p>
-<p><b>giverplay</b>, o "Olá, estranho!" da turma, com 22 contribuições. Next Level Week 04 de 2021 ainda no portfólio? Addon para LabyMod? Nostalgia ataca novamente. Talvez seja hora de um "Next Level Week" de verdade, em vez de reviver o passado.</p>
-<p><b>Jean Brito</b>, o "faz-tudo" com 18 contribuições. Rocket.Chat, Dockerfile para SteamCMD... Um pouco de tudo, mas nada de realmente impressionante. Que tal focar em algo específico em vez de ser o pato que nada, voa e anda, mas não faz nada bem?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Seus 238 commits devem ter sido incrivelmente... significativos. Afinal, quem precisa de qualidade quando se tem quantidade? E que belo fork de um addon para Blender, mostrando que você realmente se importa em dar uma "forcinha" para projetos já estabelecidos. Continue assim, quem sabe um dia você cria algo original. E o que dizer do seu portfólio Space Wizard Studios? Realmente mágico... na arte de usar Dockerfile e JavaScript.</p>
+<p><b>Cézar</b>, ah, Cézar... O desenvolvedor .NET que encontrou a iluminação e decidiu que contribuir não é para ele. 91 contribuições? Que esforço admirável em... nada. Mas ei, pelo menos você tem a descrição ".NET Developer" no seu perfil. Isso deve impressionar alguém, certo?</p>
+<p><b>Everton Marcelino Jr.</b>, com 74 contribuições, você quase alcançou o pódio! Quase. Mas não se preocupe, você pode se consolar sabendo que contribuiu para o TypeORM, um projeto com 35570 estrelas. Afinal, nada diz "Eu sou importante" como trabalhar em algo que já é popular. E aquele middleware de autenticação? Brilhante! Exceto pelo fato de ter sido atualizado pela última vez em 8 de julho. Mas quem se importa com a relevância, certo?</p>
+<p><b>Rafael Lima de Morais</b>, 70 contribuições! Que inveja! Especialmente considerando que você gasta seu tempo configurando dotfiles e gerenciando Docker de forma "preguiçosa". E um CLI para gerenciar listas de desejos? Gênio! Aposto que todo mundo precisa disso. E aquele livro sobre programação avançada em Python? Espero que você esteja aprendendo algo, porque suas contribuições não estão mostrando muito.</p>
+<p><b>Ageu Silva</b>, 60 contribuições! Quase lá! Mas vamos ser honestos, seu "digital garden model" parece mais um matagal. E as aulas de Python? Espero que seus alunos estejam aprendendo mais do que você está mostrando em seus próprios projetos. Mas ei, pelo menos seu perfil no GitHub tem uma descrição. Isso é mais do que alguns podem dizer.</p>
+<p><b>Deivid Souza Santana</b>, com 57 contribuições, você está quase na metade do caminho para o topo! Quase. Mas não se preocupe, seu website de organização de tarefas desenvolvido com Flask é certamente... único. E a API do sistema de compartilhamento de receitas? Aposto que está uma delícia. Só não espere que alguém realmente use isso.</p>
+<p><b>TopTrenDev</b>, 42 contribuições! Quase um terço do caminho para o topo! Mas ei, pelo menos você está trabalhando com blockchain e Solana. Isso é tão 2021... E um bot para simular volume de negociação? Que ético! Continue assim, quem sabe você não acaba sendo preso.</p>
+<p><b>Gustavo Carvalho</b>, 40 contribuições! Você está quase lá! Quase... no final da lista. Mas não se preocupe, você contribui para projetos como OpenTelemetry e Grafana Tempo. Isso deve te fazer sentir importante, mesmo que ninguém saiba o que você realmente faz. Mas ei, pelo menos você tem uma bio elaborada no GitHub. Isso deve impressionar alguém, certo?</p>
+<p><b>Felipe</b>, 25 contribuições! Parabéns por... participar. Seu repositório "REPOSITÓRIO" é realmente... um repositório. E o projeto Adamas? Parece promissor... se você gosta de criar e divulgar projetos e eventos que ninguém nunca ouviu falar. Mas ei, pelo menos você tem um Dockerfile. Isso é mais do que alguns podem dizer.</p>
+<p><b>giverplay</b>, com 22 contribuições, você está quase no fim da fila! Quase. Mas não se preocupe, seu clone do TabNews é certamente... um clone. E os addons para LabyMod? Aposto que a comunidade de Minecraft está louca por isso. Continue assim, quem sabe um dia você crie algo que realmente... importe.</p>
+<p><b>Jean Brito</b>, 18 contribuições! Você está quase lá... no fundo do poço. Mas não se preocupe, você contribui para o Rocket.Chat, um projeto com 43026 estrelas. Afinal, nada diz "Eu sou importante" como trabalhar em algo que já é popular. E aquele Dockerfile para instalar um servidor de jogos? Brilhante! Exceto pelo fato de ser um fork. Mas quem se importa com a originalidade, certo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-20 at 00:24:51 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-21 at 00:24:11 UTC +0000</i>
 <h6>
