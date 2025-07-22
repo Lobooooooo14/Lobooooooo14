@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>238 ctr.</td>
+                <td>245 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>74 ctr.</td>
+                <td>84 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>70 ctr.</td>
+                <td>73 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>42 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>25 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>25 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Seus 238 commits devem ter sido incrivelmente... significativos. Afinal, quem precisa de qualidade quando se tem quantidade? E que belo fork de um addon para Blender, mostrando que você realmente se importa em dar uma "forcinha" para projetos já estabelecidos. Continue assim, quem sabe um dia você cria algo original. E o que dizer do seu portfólio Space Wizard Studios? Realmente mágico... na arte de usar Dockerfile e JavaScript.</p>
-<p><b>Cézar</b>, ah, Cézar... O desenvolvedor .NET que encontrou a iluminação e decidiu que contribuir não é para ele. 91 contribuições? Que esforço admirável em... nada. Mas ei, pelo menos você tem a descrição ".NET Developer" no seu perfil. Isso deve impressionar alguém, certo?</p>
-<p><b>Everton Marcelino Jr.</b>, com 74 contribuições, você quase alcançou o pódio! Quase. Mas não se preocupe, você pode se consolar sabendo que contribuiu para o TypeORM, um projeto com 35570 estrelas. Afinal, nada diz "Eu sou importante" como trabalhar em algo que já é popular. E aquele middleware de autenticação? Brilhante! Exceto pelo fato de ter sido atualizado pela última vez em 8 de julho. Mas quem se importa com a relevância, certo?</p>
-<p><b>Rafael Lima de Morais</b>, 70 contribuições! Que inveja! Especialmente considerando que você gasta seu tempo configurando dotfiles e gerenciando Docker de forma "preguiçosa". E um CLI para gerenciar listas de desejos? Gênio! Aposto que todo mundo precisa disso. E aquele livro sobre programação avançada em Python? Espero que você esteja aprendendo algo, porque suas contribuições não estão mostrando muito.</p>
-<p><b>Ageu Silva</b>, 60 contribuições! Quase lá! Mas vamos ser honestos, seu "digital garden model" parece mais um matagal. E as aulas de Python? Espero que seus alunos estejam aprendendo mais do que você está mostrando em seus próprios projetos. Mas ei, pelo menos seu perfil no GitHub tem uma descrição. Isso é mais do que alguns podem dizer.</p>
-<p><b>Deivid Souza Santana</b>, com 57 contribuições, você está quase na metade do caminho para o topo! Quase. Mas não se preocupe, seu website de organização de tarefas desenvolvido com Flask é certamente... único. E a API do sistema de compartilhamento de receitas? Aposto que está uma delícia. Só não espere que alguém realmente use isso.</p>
-<p><b>TopTrenDev</b>, 42 contribuições! Quase um terço do caminho para o topo! Mas ei, pelo menos você está trabalhando com blockchain e Solana. Isso é tão 2021... E um bot para simular volume de negociação? Que ético! Continue assim, quem sabe você não acaba sendo preso.</p>
-<p><b>Gustavo Carvalho</b>, 40 contribuições! Você está quase lá! Quase... no final da lista. Mas não se preocupe, você contribui para projetos como OpenTelemetry e Grafana Tempo. Isso deve te fazer sentir importante, mesmo que ninguém saiba o que você realmente faz. Mas ei, pelo menos você tem uma bio elaborada no GitHub. Isso deve impressionar alguém, certo?</p>
-<p><b>Felipe</b>, 25 contribuições! Parabéns por... participar. Seu repositório "REPOSITÓRIO" é realmente... um repositório. E o projeto Adamas? Parece promissor... se você gosta de criar e divulgar projetos e eventos que ninguém nunca ouviu falar. Mas ei, pelo menos você tem um Dockerfile. Isso é mais do que alguns podem dizer.</p>
-<p><b>giverplay</b>, com 22 contribuições, você está quase no fim da fila! Quase. Mas não se preocupe, seu clone do TabNews é certamente... um clone. E os addons para LabyMod? Aposto que a comunidade de Minecraft está louca por isso. Continue assim, quem sabe um dia você crie algo que realmente... importe.</p>
-<p><b>Jean Brito</b>, 18 contribuições! Você está quase lá... no fundo do poço. Mas não se preocupe, você contribui para o Rocket.Chat, um projeto com 43026 estrelas. Afinal, nada diz "Eu sou importante" como trabalhar em algo que já é popular. E aquele Dockerfile para instalar um servidor de jogos? Brilhante! Exceto pelo fato de ser um fork. Mas quem se importa com a originalidade, certo?</p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Imagino que suas contribuições sejam tão tridimensionais quanto seus interesses. Só não vá se perder nas dimensões e esquecer de contribuir mais, hein?</p>
+<p><b>Cézar</b>, o .NET Developer que aparentemente esqueceu de desenvolver algo este mês. Seus dias devem ser bem tranquilos, sem contribuições para perturbar a paz. Mas ei, sempre há espaço para evoluir, ou não?</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Imagino que essa paixão seja platônica, já que suas contribuições parecem estar mais focadas em projetos já consagrados. Que tal mostrar sua própria chama criativa?</p>
+<p><b>Rafael Lima de Morais</b>, o mestre do "Vim". Espero que essa habilidade toda com o editor não te impeça de realmente codificar algo substancial. Porque, até agora, parece que você só configurou umas coisinhas, não é mesmo?</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1". Faz sentido, suas contribuições parecem estar todas no localhost. Que tal sair um pouco da sua zona de conforto e mostrar algo para o mundo além do seu próprio jardim digital?</p>
+<p><b>Deivid Souza Santana</b>, o "estudante apaixonado por back-end". Mas será que a paixão é recíproca? Porque suas contribuições não parecem demonstrar tanto fervor assim. Talvez seja hora de reacender essa chama, não acha?</p>
+<p><b>TopTrenDev</b>, com um nome desses, esperava mais "Top" e menos "Tren". Seus projetos parecem mais promessas do que entregas. Que tal transformar essa energia toda em algo realmente impactante?</p>
+<p><b>Gustavo Carvalho</b>, o "Cross Platform and Service Engineer". Suas contribuições parecem estar mais focadas em observar do que em agir. Que tal sair das sombras e mostrar o que você realmente pode fazer?</p>
+<p><b>giverplay</b>, "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos". Que são poucos, diga-se de passagem. Parece que você está mais para "giverpause" do que "giverplay". Que tal dar um gás e mostrar mais do que você é capaz?</p>
+<p><b>Felipe</b>, sem bio, sem muitas contribuições... Parece que você está tentando ser o ninja silencioso do ranking. Mas, a menos que sua especialidade seja invisibilidade, talvez seja hora de aparecer um pouco mais, não acha?</p>
+<p><b>Jean Brito</b>, você até que contribuiu em projetos grandes, mas... será que foram contribuições significativas ou apenas correções de typo? Que tal mirar em algo mais ambicioso e mostrar seu verdadeiro potencial?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-21 at 00:24:11 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-22 at 00:22:45 UTC +0000</i>
 <h6>
