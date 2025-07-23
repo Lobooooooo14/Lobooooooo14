@@ -35,23 +35,23 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>91 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>110 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>84 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>98 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>73 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>96 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>60 ctr.</td>
+                <td>61 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>44 ctr.</td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>25 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>31 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Imagino que suas contribuições sejam tão tridimensionais quanto seus interesses. Só não vá se perder nas dimensões e esquecer de contribuir mais, hein?</p>
-<p><b>Cézar</b>, o .NET Developer que aparentemente esqueceu de desenvolver algo este mês. Seus dias devem ser bem tranquilos, sem contribuições para perturbar a paz. Mas ei, sempre há espaço para evoluir, ou não?</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Imagino que essa paixão seja platônica, já que suas contribuições parecem estar mais focadas em projetos já consagrados. Que tal mostrar sua própria chama criativa?</p>
-<p><b>Rafael Lima de Morais</b>, o mestre do "Vim". Espero que essa habilidade toda com o editor não te impeça de realmente codificar algo substancial. Porque, até agora, parece que você só configurou umas coisinhas, não é mesmo?</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1". Faz sentido, suas contribuições parecem estar todas no localhost. Que tal sair um pouco da sua zona de conforto e mostrar algo para o mundo além do seu próprio jardim digital?</p>
-<p><b>Deivid Souza Santana</b>, o "estudante apaixonado por back-end". Mas será que a paixão é recíproca? Porque suas contribuições não parecem demonstrar tanto fervor assim. Talvez seja hora de reacender essa chama, não acha?</p>
-<p><b>TopTrenDev</b>, com um nome desses, esperava mais "Top" e menos "Tren". Seus projetos parecem mais promessas do que entregas. Que tal transformar essa energia toda em algo realmente impactante?</p>
-<p><b>Gustavo Carvalho</b>, o "Cross Platform and Service Engineer". Suas contribuições parecem estar mais focadas em observar do que em agir. Que tal sair das sombras e mostrar o que você realmente pode fazer?</p>
-<p><b>giverplay</b>, "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos". Que são poucos, diga-se de passagem. Parece que você está mais para "giverpause" do que "giverplay". Que tal dar um gás e mostrar mais do que você é capaz?</p>
-<p><b>Felipe</b>, sem bio, sem muitas contribuições... Parece que você está tentando ser o ninja silencioso do ranking. Mas, a menos que sua especialidade seja invisibilidade, talvez seja hora de aparecer um pouco mais, não acha?</p>
-<p><b>Jean Brito</b>, você até que contribuiu em projetos grandes, mas... será que foram contribuições significativas ou apenas correções de typo? Que tal mirar em algo mais ambicioso e mostrar seu verdadeiro potencial?</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar. Parabéns por teclar mais que os outros, mas será que a quantidade reflete a qualidade? Vejo ali um *moodle-profilefield_cpf*, que foi atualizado pela última vez em 2023, hein? Espero que o Moodle agradeça por essa relíquia.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Pena que seus *dotfiles* não chamaram a atenção de ninguém, *stargazerCount* zerado. Talvez menos tecnologias e mais foco?</p>
+<p><b>Cézar</b>, .NET Developer. Sua descrição é tão genérica quanto sua atividade recente. Zero commits? Espero que esteja guardando o seu melhor para o próximo mês, porque até agora, decepção define.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Ah, a paixão! Mas paixão não paga as contas, não é mesmo? Contribuições em projetos com milhares de estrelas...será que alguém notou sua presença lá no meio da multidão? Tipo, "<i>achei o Wally</i>", sacou?</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Engraçadinho, hein? Seu perfil pessoal e blog são tão exclusivos que só você deve visitar. E as aulas de Python? Espero que seus alunos estejam aprendendo mais do que você demonstra por aqui.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo, um "Taskmaster" em Flask! Pena que só duas pessoas se importaram o suficiente para dar uma estrelinha. Talvez o back-end precise de um "up" no front-end?</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Vejo ali Raydium, Solana, NFTs... Aparentemente tentando pegar a onda das criptomoedas. Só não se afogue na volatilidade, hein? E esse "raydium-volume-bot-latest" parece prometer bastante, boa sorte com os bots!</p>
+<p><b>Gustavo Carvalho</b>, "Interested to contribute and see monitoring and observability shine.". Brilhando mesmo, só que não no seu perfil. OpenTelemetry e Grafana, nomes de peso, mas suas contribuições... espero que pelo menos esteja aprendendo algo com isso.</p>
+<p><b>giverplay</b>, "Olá, estranho!". Estranho é clonar o TabNews e ninguém dar a mínima. E esses addons para LabyMod? Nostalgia de Minecraft em 2025? Talvez seja hora de mirar em algo mais ambicioso, sei lá.</p>
+<p><b>CookieUkw</b>, sem bio, sem comentários... Ah, espera, contribuições no Godot Engine! Quase 100 mil estrelas! Aposto que ninguém sabe quem você é lá, mas continue tentando, quem sabe um dia te notam. O ChatStory, por outro lado, parece um bom começo, pena que parou em abril.</p>
+<p><b>Felipe</b>, "REPOSITÓRIO". Criativo, hein? E o projeto Adamas? Parece interessante, mas precisa de um empurrãozinho. Não desanime, mas também não espere que as coisas caiam do céu. Alias, precisa arrumar o certificado desse site ae, "não seguro" não atrai ninguém.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-22 at 00:22:45 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-23 at 00:22:39 UTC +0000</i>
 <h6>
