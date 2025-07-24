@@ -36,17 +36,17 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>110 ctr.</td>
+                <td>116 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>98 ctr.</td>
+                <td>107 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>96 ctr.</td>
+                <td>101 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -61,22 +61,22 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>50 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>51 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>40 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>32 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>31 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, ah, o primeiro lugar. Parabéns por teclar mais que os outros, mas será que a quantidade reflete a qualidade? Vejo ali um *moodle-profilefield_cpf*, que foi atualizado pela última vez em 2023, hein? Espero que o Moodle agradeça por essa relíquia.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Pena que seus *dotfiles* não chamaram a atenção de ninguém, *stargazerCount* zerado. Talvez menos tecnologias e mais foco?</p>
-<p><b>Cézar</b>, .NET Developer. Sua descrição é tão genérica quanto sua atividade recente. Zero commits? Espero que esteja guardando o seu melhor para o próximo mês, porque até agora, decepção define.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Ah, a paixão! Mas paixão não paga as contas, não é mesmo? Contribuições em projetos com milhares de estrelas...será que alguém notou sua presença lá no meio da multidão? Tipo, "<i>achei o Wally</i>", sacou?</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Engraçadinho, hein? Seu perfil pessoal e blog são tão exclusivos que só você deve visitar. E as aulas de Python? Espero que seus alunos estejam aprendendo mais do que você demonstra por aqui.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo, um "Taskmaster" em Flask! Pena que só duas pessoas se importaram o suficiente para dar uma estrelinha. Talvez o back-end precise de um "up" no front-end?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Vejo ali Raydium, Solana, NFTs... Aparentemente tentando pegar a onda das criptomoedas. Só não se afogue na volatilidade, hein? E esse "raydium-volume-bot-latest" parece prometer bastante, boa sorte com os bots!</p>
-<p><b>Gustavo Carvalho</b>, "Interested to contribute and see monitoring and observability shine.". Brilhando mesmo, só que não no seu perfil. OpenTelemetry e Grafana, nomes de peso, mas suas contribuições... espero que pelo menos esteja aprendendo algo com isso.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Estranho é clonar o TabNews e ninguém dar a mínima. E esses addons para LabyMod? Nostalgia de Minecraft em 2025? Talvez seja hora de mirar em algo mais ambicioso, sei lá.</p>
-<p><b>CookieUkw</b>, sem bio, sem comentários... Ah, espera, contribuições no Godot Engine! Quase 100 mil estrelas! Aposto que ninguém sabe quem você é lá, mas continue tentando, quem sabe um dia te notam. O ChatStory, por outro lado, parece um bom começo, pena que parou em abril.</p>
-<p><b>Felipe</b>, "REPOSITÓRIO". Criativo, hein? E o projeto Adamas? Parece interessante, mas precisa de um empurrãozinho. Não desanime, mas também não espere que as coisas caiam do céu. Alias, precisa arrumar o certificado desse site ae, "não seguro" não atrai ninguém.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, em primeiro lugar, parabéns! Mas não se empolgue muito. Liderar um ranking com um portfólio que inclui um "site de apresentação e portfólio da Space Wizard Studios" soa mais como um trabalho de escola do que algo que realmente impressiona. E um fork de um addon de Blender atualizado a dez dias atrás? É isso que te mantém acordado à noite? Espero que o "toque de 3D" no seu trabalho não seja apenas a sombra de dúvida que paira sobre suas escolhas de projeto.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Ok, sabemos que você sabe usar um editor de texto. Mas, sinceramente, um "Cli to manage wishlists to buy anything that you... desire lol"? Sério? Isso soa como um projeto que você começou em um acesso de tédio no banheiro. E um fork de "lazydocker" que não recebe atualizações há quase um ano?  Talvez seja hora de desejar um pouco mais de originalidade e menos procrastinação.</p>
+<p><b>Cézar</b>, ah, o misterioso .NET Developer. Tão misterioso que nem um repositório recente para analisarmos.  Você está contribuindo para o mundo do software ou apenas para a economia de energia do seu computador? Espero que esteja guardando todas as suas contribuições incríveis em segredo para nos surpreender no próximo mês. Ou talvez você só esteja com preguiça de atualizar seu perfil.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que clichê! Contribuir para o TypeORM é legal, mas e quanto a criar algo seu? A não ser que seu trabalho no "authenticator-middleware" seja o segredo para a segurança global, parece que você está apenas surfando na onda dos outros. E o que dizer do LiveKit? Sério, com tantos projetos interessantes por aí, você escolheu contribuir para... isso?</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Que bio profunda. Seus repositórios também refletem essa introspecção: um site pessoal, um blog, e aulas de Python. É quase poético, se não fosse tão... básico. E seu "digital garden model"? Espero que as ervas daninhas não estejam tomando conta. Mas ei, pelo menos você está contribuindo para si mesmo. Isso é algo, certo?</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Outro dia, outro estudante apaixonado. Um "website de organização de tarefas" e uma "API de um sistema de compartilhamento de receitas"? Originalidade mandou lembranças.  Mas ei, pelo menos você está praticando. Quem sabe, um dia você realmente crie algo que não seja apenas mais um clone genérico.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Uau, que currículo impressionante! Mas, vamos ser sinceros, um "Solana Raydium Bundler Volume Bot"? Isso não soa um pouco... questionável? E um "Meme AI Agent"? Sério? Espero que você esteja usando suas habilidades de blockchain para algo mais significativo do que inflacionar o valor de memes. Mas ei, pelo menos você está ganhando dinheiro com isso, certo?</p>
+<p><b>CookieUkw</b>, aparentemente, seu nome é mais interessante que sua bio. Contribuir para a Godot Engine é respeitável, mas depois disso, a coisa desanda. Um "sample chat simulation for interactive stories" e um projeto de "artificial intelligence capable of holding normal conversations"?  Parece que você está tentando abraçar o mundo, mas acaba apenas tropeçando em clichês de programação. Mas não desanime, talvez um dia você crie algo que não seja apenas mais um projeto de IA genérico.</p>
+<p><b>Gustavo Carvalho</b>, "Interessado em contribuir and desenvolver soluções". Contribuir para o OpenTelemetry e Grafana é ótimo, mas vamos ser sinceros: é como ser um carpinteiro em uma mansão em construção.  Você está ajudando a construir algo grande, mas qual é a sua própria marca? Espero que você esteja aprendendo algo útil e não apenas preenchendo o tempo com tarefas banais.</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil".  Um clone do TabNews e um addon para LabyMod?  Parece que você está mais interessado em replicar o que já existe do que em criar algo novo.  Mas ei, pelo menos você está se divertindo, certo? E quem sabe, talvez um dia você realmente crie algo que não seja apenas mais um clone genérico.</p>
+<p><b>Felipe</b>, um repositório chamado "REPOSITÓRIO". Que original! E um projeto chamado "Adamas"?  Espero que não seja uma referência à sua determinação em criar projetos medíocres.  Mas ei, pelo menos você está tentando, certo? E quem sabe, talvez um dia você realmente crie algo que não seja apenas mais um projeto genérico.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-23 at 00:22:39 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-24 at 00:22:45 UTC +0000</i>
 <h6>
