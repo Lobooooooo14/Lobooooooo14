@@ -36,37 +36,37 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>121 ctr.</td>
+                <td>125 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>111 ctr.</td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>108 ctr.</td>
+                <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>61 ctr.</td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>60 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>63 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>59 ctr.</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>61 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>58 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 250 contribuições, liderando o ranking! Parabéns por... estar no topo de uma lista onde o prêmio é o nosso desprezo coletivo. Vejo que você "crafta experiências web & game com um toque de 3D". Que audácia! E ainda forka projetos alheios, como o "coa_tools2". Será que um dia criará algo original, ou vai viver de <i>forks</i> e "toques de 3D"?</p>
-<p><b>Rafael Lima de Morais</b>, o "engenheiro de software" que ama Go, Typescript, Rust e Vim. 121 contribuições. Ah, o minimalismo do Vim... Perfeito para quem tem preguiça de usar um editor de texto decente. E "dotfiles" customizados? Que inovador! Aposto que suas configurações são tão únicas quanto sua bio genérica. Mas, ei, pelo menos você escreveu um livro sobre Python. Talvez ainda haja esperança.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET com 111 contribuições. Tão misterioso que nem sequer tem projetos recentes para analisarmos. Será que ele realmente existe, ou é apenas um fantasma no nosso ranking? Talvez suas contribuições sejam tão secretas que nem o GitHub consegue rastreá-las. Continue assim, Cézar, o mundo precisa de mais mistério e menos código.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", com 108 contribuições. Que clichê! Mas, ei, pelo menos você contribui para projetos de terceiros, como o TypeORM. Sinal de que você consegue seguir instruções, o que já é um avanço. E o que dizer do "authenticator-middleware"? Tão original quanto um café sem açúcar. Mas não se preocupe, Everton, sua paixão por tecnologia é contagiante... para quem gosta de mesmice.</p>
-<p><b>Ageu Silva</b>, o "127.0.0.1" da lista, com 61 contribuições. Presumo que isso signifique que você só trabalha em localhost, certo? Afinal, para que sair da zona de conforto? Vejo que você tem um repositório com arquivos de configuração para o seu perfil. Que narcisista! E um "digital garden model"? Sério? O mundo precisa de mais jardins digitais e menos código funcional. Parabéns pela sua irrelevância!</p>
-<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer" que é especialista em tudo que está na moda. 60 contribuições. Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs... Uau, que currículo impressionante! Pena que seus projetos parecem mais buzzwords jogadas ao vento do que código de verdade. Mas não se preocupe, TopTrenDev, o importante é estar na crista da onda, mesmo que ela te leve para o abismo.</p>
-<p><b>CookieUkw</b>, com 59 contribuições e uma bio incrivelmente vazia. Mas não se preocupe, suas contribuições falam por você... ou quase. Contribuições para Godot Engine? Ok, isso é respeitável. Mas um "sample chat simulation for interactive stories"? Que emocionante! E o projeto Vex-AI, que busca criar uma IA "capaz de manter conversas normais"? Boa sorte com isso. Talvez um dia você consiga criar algo que não seja apenas uma piada.</p>
-<p><b>Deivid Souza Santana</b>, o "estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". 58 contribuições. Que original! Um website de organização de tarefas desenvolvido com Flask? Que inovador! Uma API de um sistema de compartilhamento de receitas? Que apetitoso! E um projeto "Clean-Arch-CS"? Que... bem, pelo menos você tentou. Continue assim, Deivid, quem sabe um dia você se torna um desenvolvedor medíocre.</p>
-<p><b>Gustavo Carvalho</b>, o "Interessado por computação and sonhando acordado", com 40 contribuições. Sonhando acordado? Ah, entendi. É por isso que suas contribuições são tão... dispersas. Grafana Tempo, Helm charts, OpenTelemetry... Parece que você está apenas seguindo a manada. Mas não se preocupe, Gustavo, sonhar acordado é uma ótima maneira de evitar o tédio da realidade. E a mediocridade do seu código.</p>
-<p><b>giverplay</b>, com 33 contribuições e uma saudação genérica no perfil. "Olá, estranho!" Que simpático! Um projeto "Next Level Week 04"? Já estamos em 2025, superar essa fase seria interessante. E um "LabyMod auto chat addon"? Que útil! Implementação do TabNews? Que original! Mas não se preocupe, giverplay, o importante é ter projetos no GitHub, mesmo que eles não sirvam para nada.</p>
-<p><b>Felipe</b>, com 26 contribuições e uma bio inexistente. Parabéns pela sua discrição! Um repositório com o seu nome? Que criativo! Um projeto chamado "Adamas"? Que pretensioso! E um site de criação e divulgação de projetos e eventos? Que... bem, pelo menos você está tentando fazer algo. Mas não se preocupe, Felipe, o importante é participar, mesmo que ninguém se importe.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o "Full-stack, Game dev e 3D Enthusiast". Que inveja, hein? Enquanto uns se contentam em empilhar divs, você está aí, "crafting web & game experiences". Aposto que seu "touch of 3D" faz toda a diferença... Ou talvez só deixe as coisas mais lentas. Mas ei, pelo menos você bifurcou um projeto que usa GDScript, JavaScript e Blender. Diversificação é tudo, né?</p>
+<p><b>Rafael Lima de Morais</b>, o guru do "Go | Typescript | Rust | Vim". Impressionante sua capacidade de colecionar tecnologias da moda. Só falta aprender Brainfuck para completar o bingo. Ah, e parabéns pelos seus "dotfiles" com "custom cfgs". Porque o mundo realmente precisava de mais um repositório de configurações pessoais. E o "Cli to manage wishlists"? Genial! Aposto que Bezos está tremendo na base.</p>
+<p><b>Cézar</b>, o misterioso ".NET Developer". Tão misterioso que nem um repositório recente para analisarmos. Será que você é um fantasma que só aparece para contabilizar contribuições? Ou talvez esteja tão ocupado com o .NET que não sobra tempo para mais nada. De qualquer forma, parabéns pelo seu... anonimato.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que declaração ousada! Ainda bem que você contribuiu para o TypeORM, porque senão eu acharia que sua paixão era apenas platônica. E claro, não podemos esquecer da sua contribuição para o "Open Source Qualtrics Alternative". Afinal, quem precisa de privacidade quando se pode ter enquetes gratuitas?</p>
+<p><b>Ageu Silva</b>, o enigmático "127.0.0.1". Espero que essa bio não seja uma metáfora para sua vida social. Ah, e que belo "digital garden model" no "ageublog". Aposto que suas plantas digitais são mais interessantes que as minhas. E parabéns pelas aulas de Python. Ensinar é sempre mais fácil do que aprender, né?</p>
+<p><b>Deivid Souza Santana</b>, o "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Uau, que específico! Mas me diga, Deivid, o que te impede de ser *totalmente* apaixonado? E esse "Taskmaster" em Flask? Parece interessante, mas me diga, quantas tarefas você realmente concluiu? E a API do "TudoGostoso"? Espero que tenha mais sabor do que suas contribuições.</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer, Solana Specialist". Uau, que currículo! Quase me sinto culpado por não entender metade dessas palavras. Mas ei, pelo menos você está contribuindo para o "streamingfast/substreams". Porque o mundo precisa de mais dados de blockchain em tempo real. E o "Meme AI Agent"? Genial! Finalmente, alguém automatizou a criação de memes ruins.</p>
+<p><b>CookieUkw</b>, o anônimo contribuidor. Sem bio, sem rosto, apenas código. Quase um Banksy da programação. Ah, e que belo trabalho no Godot Engine. Transformando sonhos em realidade, um pixel de cada vez. E o "Vex-AI"? Uma IA que discute jogos? Que original! Aposto que ela tem opiniões muito mais interessantes que as minhas.</p>
+<p><b>Gustavo Carvalho</b>, o "Interested in computing and some information". Que descrição inspiradora! Quase me fez chorar de emoção. Mas ei, pelo menos você contribuiu para o Grafana Tempo. Porque o mundo precisa de mais dashboards. E o "discord-publish-hack"? Espero que não seja nada ilegal. Mas, se for, não me conte.</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Que simpático! Quase me sinto em casa. Ah, e que belo "Next Level Week 04". Aposto que foi uma experiência transformadora. E a "Implementação do TabNews"? Que ousadia! Copiar o trabalho dos outros é sempre mais fácil do que criar algo original, né?</p>
+<p><b>Felipe</b>, o misterioso "Felipe". Sem sobrenome, sem bio, apenas um repositório chamado "Felipe-Takayuki/Felipe-Takayuki". Quanta originalidade! E o projeto "Adamas"? Parece ambicioso. Mas me diga, Felipe, você realmente acredita que vai mudar o mundo com isso? Ou é só mais um projeto abandonado no GitHub?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-25 at 00:22:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-26 at 00:21:45 UTC +0000</i>
 <h6>
