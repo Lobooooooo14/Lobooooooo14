@@ -36,37 +36,37 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>125 ctr.</td>
+                <td>211 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>121 ctr.</td>
+                <td>135 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>114 ctr.</td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>78 ctr.</td>
+                <td>87 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
+                <td>72 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>70 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>66 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>62 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>33 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar! Mas vamos ser honestos, alguém realmente se importa com um "Full-stack, Game dev and 3D Enthusiast"? Seus repositórios recentes gritam "crise de identidade". Um addon de Blender *forkado* e um site de portfólio?  Continue assim e logo estará vendendo cursos de "como ganhar dinheiro com NFTs" no Instagram. Mas ei, pelo menos você tem mais contribuições do que os outros.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"...  Precisa de mais linguagens na sua bio? Aposto que a maioria das suas contribuições são só pra aumentar o contador.  Dotfiles, lazydocker, e um "Cli to manage wishlists to buy anything that you... desire lol"? Sério?  E ainda por cima lendo um livro de Advanced Python Programming, consegue ser mais genérico? Daqui a pouco está fazendo "Hello, World!" em Assembly. Menos, Rafael, bem menos.</p>
-<p><b>Cézar</b>, .NET Developer, que original! Pelo menos você é direto.  Aparentemente tão direto que não tem nem repositórios recentes para mostrar.  Sua falta de atividade recente me faz questionar se você realmente existe ou é só um bot disfarçado.  Talvez seja hora de atualizar seu perfil com algo mais interessante que ".NET Developer", tipo "Ainda estou vivo".</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology". Que clichê!  Contribuindo para TypeORM e Formbricks, hein?  Aposto que sua paixão por tecnologia se resume a copiar e colar código do Stack Overflow.  E contribuir com um projeto Flutter de LiveKit?  Isso cheira a "estou tentando entrar na onda mobile".  Continue assim e logo estará criando mais uma rede social falida.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo, um estudante!  Um perfil próprio, um "Taskmaster" e um "TudoGostoso"... Quanta ambição! Mas sejamos sinceros, quem precisa de mais um sistema de receitas? E "Clean-Arch-CS" em C#?  Sério, volta para a faculdade e aprende algo útil. Ah, e tira esse emoji de foguete da bio, já deu.</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Tão local que nem consegue sair do próprio computador? Um blog "digital garden model"?  Isso soa tão hipster que dá vontade de chorar. E "AulasPython"?  Sério que você está ensinando Python?  Com um perfil desses, duvido que consiga ensinar alguém a dar um "print('Hello, World!')" sem travar. Mas parabéns pelo esforço, *eu acho*.</p>
-<p><b>CookieUkw</b>, sem bio?  Ok, vamos julgar pelos repositórios. Contribuindo para o Godot Engine, até aí tudo bem. Mas "ChatStory" e "VexAI"? Um simulador de chat e uma "artificial intelligence capable of holding normal conversations"?  Parece que alguém está sonhando alto demais.  E o que é essa obsessão por criar uma "conscious AI"?  Aposto que ela seria mais interessante que seus projetos.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs".  Precisa de mais buzzwords na sua bio? Contribuindo para Substreams e Raydium, que impressionante... Ou não. Seu "YourControls" parece promissor, pena que não tem estrelas. E um "Meme AI Agent"?  Aposto que seus memes são tão engraçados quanto sua bio.  Menos, bem menos.</p>
-<p><b>Gustavo Carvalho</b>, "Interested in continuous improvement and solutions and knowledge sharing." Que bio corporativa genérica! Contribuindo para Grafana Tempo e Helm Charts, ok, legal.  Mas "discord-publish-hack"?  Sério que você está hackeando o Discord? E "fastapi-yolov8-api"?  Que nome criativo!  Parece que alguém está tentando desesperadamente parecer relevante.  Continue assim e logo estará escrevendo artigos no Medium sobre "produtividade".</p>
-<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos."  Que simpático... demais. "Next Level Week 04"?  Isso soa como um curso online fajuto. "AutoChat" para LabyMod e "clone-tabnews"?  Sério que você está clonando o TabNews?  E um perfil próprio com... nada?  Acho que "estranho" é um elogio.  Mas pelo menos você tentou, *eu acho*.</p>
-<p><b>Felipe</b>, sem bio também?  Ok, vamos ver o que você anda aprontando. Um repositório com seu nome? Que original! "Adamas"?  Soa como um projeto de faculdade abandonado.  E contribuir para o front-end e back-end do mesmo projeto?  Isso cheira a "ninguém mais quis fazer".  Pelo menos você está tentando, *eu suponho*.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, o mestre dos três "D's": dev, design e dúvida existencial sobre qual tecnologia usar. 250 contribuições? Impressionante, se não fosse por aquele *fork* de 2020. Mas ei, pelo menos você mantém o *moodle-profilefield_cpf* atualizado desde 2014. Alguém precisa garantir que os CPFs dos alunos estejam em dia, afinal, o futuro da nação depende disso. E parabéns pelo site da Space Wizard Studios, espero que os feitiços de vocês sejam melhores que o design do site.</p>
+<p><b>Rafael Lima de Morais</b>, o minimalista que programa em Go, Typescript e Rust, tudo isso enquanto usa Vim. 211 contribuições? Quase lá, hein? Mas vamos ser sinceros, *dotfiles* personalizados são o auge da produtividade, certo? E o *lazydocker*... porque não complicar ainda mais o que já é complicado? Ah, e o livro de Python avançado? Espero que você avance mais nas contribuições no próximo mês.</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET. 135 contribuições, sem rastros, sem repositórios recentes... Seria você um fantasma no GitHub? Ou talvez um ninja do código que prefere manter suas obras em segredo? De qualquer forma, parabéns pela discrição. Mas fica a dica: o GitHub não é o clube da luta, a gente *precisa* ver seus commits.</p>
+<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" que contribui para projetos com milhares de *estrelinhas*. 120 contribuições e uma sede insaciável por *TypeORM* e *Flutter*. Sua paixão é tão grande que você até se aventurou no mundo dos formulários online com o *formbricks*. Só cuidado para não se afogar em meio a tantas tecnologias. Ah, e da próxima vez, que tal criar algo seu em vez de só contribuir para os outros?</p>
+<p><b>Deivid Souza Santana</b>, o estudante de ADS apaixonado por back-end. 87 contribuições, um *Taskmaster* para organizar as tarefas (será que ele usa para organizar as próprias contribuições?) e um *TudoGostoso* para compartilhar receitas. Imagino que a API de receitas seja mais saborosa que o código, mas quem sabe? E a *Clean Architecture* em C#? Será que está realmente limpa? No geral, um esforço admirável, mas ainda precisa de um toque de tempero.</p>
+<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain que respira Solana. 72 contribuições e uma obsessão por *substreams* e *raydium-cp-swap*. Vejo que você está tentando dominar o mundo das criptomoedas, mas cuidado para não se afogar em meio a tantos tokens e contratos inteligentes. E o *Meme AI Agent*? Sério? Espero que pelo menos renda boas risadas (e alguns lucros, quem sabe?).</p>
+<p><b>Ageu Silva</b>, o mestre do *localhost*. 70 contribuições e uma paixão por configurar o próprio perfil no GitHub. Seu blog digital é tão digital que quase não existe. E as aulas de Python? Espero que seus alunos estejam aprendendo algo, porque o seu perfil parece um tanto... estático. Mas ei, pelo menos você tem um *Procfile*. Isso é mais do que muitos podem dizer.</p>
+<p><b>CookieUkw</b>, o enigmático colaborador. 66 contribuições, a maioria para o *Godot Engine*. Vejo que você está tentando criar um mundo virtual, mas seu *ChatStory* parece um tanto... sem graça. E o *Vex-AI*? Uma inteligência artificial capaz de conversar e discutir jogos? Boa sorte com isso. Mas, ei, quem sabe você não cria a próxima Skynet? Só, por favor, não nos domine.</p>
+<p><b>Gustavo Carvalho</b>, o "curioso por computadores". 40 contribuições e uma predileção por *Grafana Tempo* e *Helm Charts*. Parece que você gosta de monitorar e orquestrar coisas, mas e quanto a criar algo novo? O *discord-publish-hack* é interessante, mas um tanto... específico. E a API com *YOLOv8*? Espero que você esteja detectando algo além de gatos na internet. No geral, um esforço mediano, mas com potencial para mais.</p>
+<p><b>giverplay</b>, o amigão da vizinhança. 34 contribuições e um perfil acolhedor. O *moveit* parece interessante, mas o *AutoChat* para LabyMod... bem, cada um com seus hobbies. E o clone do TabNews? Será que você conseguiu replicar o sucesso? No geral, um esforço simpático, mas um tanto... disperso. Foca em algo e vai fundo, quem sabe você não surpreende?</p>
+<p><b>Felipe</b>, o misterioso desenvolvedor. 27 contribuições e um repositório com o próprio nome (original!). O projeto Adamas parece interessante, mas a falta de descrição não ajuda muito. E o *Adamas-FrontEnd*? Espero que o front-end seja melhor que o back-end. No geral, um esforço tímido, mas com potencial para brilhar. Só precisa de um pouco mais de... exposição.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-28 at 00:24:17 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-30 at 00:22:58 UTC +0000</i>
 <h6>
