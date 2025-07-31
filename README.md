@@ -41,22 +41,22 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>135 ctr.</td>
+                <td>142 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>120 ctr.</td>
+                <td>124 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>87 ctr.</td>
+                <td>91 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>72 ctr.</td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, o mestre dos três "D's": dev, design e dúvida existencial sobre qual tecnologia usar. 250 contribuições? Impressionante, se não fosse por aquele *fork* de 2020. Mas ei, pelo menos você mantém o *moodle-profilefield_cpf* atualizado desde 2014. Alguém precisa garantir que os CPFs dos alunos estejam em dia, afinal, o futuro da nação depende disso. E parabéns pelo site da Space Wizard Studios, espero que os feitiços de vocês sejam melhores que o design do site.</p>
-<p><b>Rafael Lima de Morais</b>, o minimalista que programa em Go, Typescript e Rust, tudo isso enquanto usa Vim. 211 contribuições? Quase lá, hein? Mas vamos ser sinceros, *dotfiles* personalizados são o auge da produtividade, certo? E o *lazydocker*... porque não complicar ainda mais o que já é complicado? Ah, e o livro de Python avançado? Espero que você avance mais nas contribuições no próximo mês.</p>
-<p><b>Cézar</b>, o misterioso desenvolvedor .NET. 135 contribuições, sem rastros, sem repositórios recentes... Seria você um fantasma no GitHub? Ou talvez um ninja do código que prefere manter suas obras em segredo? De qualquer forma, parabéns pela discrição. Mas fica a dica: o GitHub não é o clube da luta, a gente *precisa* ver seus commits.</p>
-<p><b>Everton Marcelino Jr.</b>, o "apaixonado por tecnologia" que contribui para projetos com milhares de *estrelinhas*. 120 contribuições e uma sede insaciável por *TypeORM* e *Flutter*. Sua paixão é tão grande que você até se aventurou no mundo dos formulários online com o *formbricks*. Só cuidado para não se afogar em meio a tantas tecnologias. Ah, e da próxima vez, que tal criar algo seu em vez de só contribuir para os outros?</p>
-<p><b>Deivid Souza Santana</b>, o estudante de ADS apaixonado por back-end. 87 contribuições, um *Taskmaster* para organizar as tarefas (será que ele usa para organizar as próprias contribuições?) e um *TudoGostoso* para compartilhar receitas. Imagino que a API de receitas seja mais saborosa que o código, mas quem sabe? E a *Clean Architecture* em C#? Será que está realmente limpa? No geral, um esforço admirável, mas ainda precisa de um toque de tempero.</p>
-<p><b>TopTrenDev</b>, o guru Full-Stack & Blockchain que respira Solana. 72 contribuições e uma obsessão por *substreams* e *raydium-cp-swap*. Vejo que você está tentando dominar o mundo das criptomoedas, mas cuidado para não se afogar em meio a tantos tokens e contratos inteligentes. E o *Meme AI Agent*? Sério? Espero que pelo menos renda boas risadas (e alguns lucros, quem sabe?).</p>
-<p><b>Ageu Silva</b>, o mestre do *localhost*. 70 contribuições e uma paixão por configurar o próprio perfil no GitHub. Seu blog digital é tão digital que quase não existe. E as aulas de Python? Espero que seus alunos estejam aprendendo algo, porque o seu perfil parece um tanto... estático. Mas ei, pelo menos você tem um *Procfile*. Isso é mais do que muitos podem dizer.</p>
-<p><b>CookieUkw</b>, o enigmático colaborador. 66 contribuições, a maioria para o *Godot Engine*. Vejo que você está tentando criar um mundo virtual, mas seu *ChatStory* parece um tanto... sem graça. E o *Vex-AI*? Uma inteligência artificial capaz de conversar e discutir jogos? Boa sorte com isso. Mas, ei, quem sabe você não cria a próxima Skynet? Só, por favor, não nos domine.</p>
-<p><b>Gustavo Carvalho</b>, o "curioso por computadores". 40 contribuições e uma predileção por *Grafana Tempo* e *Helm Charts*. Parece que você gosta de monitorar e orquestrar coisas, mas e quanto a criar algo novo? O *discord-publish-hack* é interessante, mas um tanto... específico. E a API com *YOLOv8*? Espero que você esteja detectando algo além de gatos na internet. No geral, um esforço mediano, mas com potencial para mais.</p>
-<p><b>giverplay</b>, o amigão da vizinhança. 34 contribuições e um perfil acolhedor. O *moveit* parece interessante, mas o *AutoChat* para LabyMod... bem, cada um com seus hobbies. E o clone do TabNews? Será que você conseguiu replicar o sucesso? No geral, um esforço simpático, mas um tanto... disperso. Foca em algo e vai fundo, quem sabe você não surpreende?</p>
-<p><b>Felipe</b>, o misterioso desenvolvedor. 27 contribuições e um repositório com o próprio nome (original!). O projeto Adamas parece interessante, mas a falta de descrição não ajuda muito. E o *Adamas-FrontEnd*? Espero que o front-end seja melhor que o back-end. No geral, um esforço tímido, mas com potencial para brilhar. Só precisa de um pouco mais de... exposição.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, 250 contribuições? Impressionante... para quem divide o tempo entre "web & game experiences com um toque de 3D". Imagino que seus commits sejam tão tridimensionais quanto a promessa no seu bio. E esse fork de 2020, hein? Clássico!  Mostrando que você não só contribui, mas também recicla código com elegância.</p>
+<p><b>Rafael Lima de Morais</b>, um "Software Engineer | Go | Typescript | Rust | Vim" que aparentemente adora criar "dotfiles" e "wishlists".  Com 211 contribuições, fico imaginando se você contribui mais para o GitHub ou para a sua própria procrastinação.  E esse livro de Python? Espero que pelo menos ele te ensine a usar um editor de texto melhor que o Vim.</p>
+<p><b>Cézar</b>, o misterioso ".NET Developer" que, aparentemente, não desenvolve nada. 142 contribuições e nenhum repositório recente para mostrar?  Imagino que suas contribuições sejam tão secretas que nem o GitHub consegue rastrear. Ou talvez você só goste de olhar o código dos outros e pensar: "Eu poderia fazer melhor... algum dia."</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". 124 contribuições, uau! Quase me convenceu de que você realmente faz algo além de stalkear o repositório do TypeORM. Mas ei, pelo menos você está contribuindo para projetos com milhares de estrelas, o que significa que, por tabela, você também é uma estrela... cadente.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Com 91 contribuições, você está quase lá! Quase apaixonado o suficiente para realmente fazer algo notável.  E esse "Taskmaster" com Flask? Parece promissor... para quem gosta de micro-frameworks e grandes dores de cabeça.  Continue assim, quem sabe um dia você chega lá... ou não.</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer" que jura entender de Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs. 74 contribuições? Para quem se diz especialista em tudo isso, parece que você está mais para "TopNemAíDev". E esse "Meme AI Agent"? Sério?  Achei que o mundo já tinha memes o suficiente, mas aparentemente você achou que precisávamos de mais um.  Obrigado, eu acho.</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1" que contribui com a internet a partir do seu próprio computador. 70 contribuições, hein?  Imagino que a maioria delas seja para o seu perfil no GitHub, porque, afinal, quem precisa de amigos quando se tem um "digital garden model"? E as aulas de Python? Espero que você esteja aprendendo algo, porque até agora, seu currículo está parecendo um loop infinito.</p>
+<p><b>CookieUkw</b>, sem bio, sem expectativas. 66 contribuições. Pelo menos você contribui mais do que quem não contribui nada.  E essa obsessão com a Godot Engine?  Parece que alguém está tentando criar o próximo grande jogo indie... ou apenas procrastinando de forma épica.  Boa sorte com a sua "conscient AI", você vai precisar.</p>
+<p><b>Gustavo Carvalho</b>, um "Seeker to comprehending solutions and knowledge". Com apenas 40 contribuições, parece que você está mais para "Seeker to comprehending how to contribute".  E esses projetos da Grafana?  Imagino que você passe mais tempo configurando dashboards do que realmente resolvendo problemas.  Mas ei, pelo menos seus gráficos devem ser bonitos.</p>
+<p><b>Giverplay</b>, "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos".  34 contribuições?  Imagino que a maioria delas seja para o seu clone do TabNews, porque, afinal, quem precisa de ideias originais quando se pode copiar as dos outros? E esse AutoChat para LabyMod?  Parece que alguém está tentando automatizar a arte de ser chato.  Parabéns!</p>
+<p><b>Felipe</b>, sem bio, sem pressão. Apenas 27 contribuições.  Parece que você está mais para "Felipe-em-Takayuki", porque "Felipe-Faz-Alguma-Coisa" não soa tão bem. E esse projeto "Adamas"?  Espero que seja mais valioso que suas contribuições, porque até agora, está parecendo um diamante bruto que precisa de muito, mas muito trabalho.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-07-30 at 00:22:58 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-07-31 at 00:22:36 UTC +0000</i>
 <h6>
