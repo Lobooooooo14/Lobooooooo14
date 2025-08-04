@@ -31,47 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>39 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>20 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
-                <td>4 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>8 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>8°</td>
+                <td><a href="https://github.com/caiocavalcantedev">Caio Cavalcante</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>1 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>1 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -79,15 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 39 contribuições. Imagino que "paixão por tecnologia" signifique passar mais tempo no <i>typeorm/typeorm</i> do que com a família. Mas ei, pelo menos você está ajudando a moldar o futuro do TypeScript, um commit de cada vez. Quem precisa de vida social quando se tem ORM, certo?</p>
-<p><b>Deivid Souza Santana</b>, 20 contribuições, hein? Estudante "apaixonado" por back-end. Sério mesmo? Olhando para esses repositórios, parece mais uma paixão por criar projetos que ninguém usa. <i>TudoGostoso</i>? Sério? Espero que pelo menos as receitas sejam boas. E <i>Clean-Arch-CS</i>, abandonado em 2024? Que tal focar em terminar um projeto antes de começar outro?</p>
-<p><b>Corvo</b>, "em fase de aprendizado". Ah, sim, a clássica desculpa para não fazer nada. Com 4 contribuições, imagino que esteja aprendendo a arte de observar os outros trabalhando. Mas não se preocupe, todos começam em algum lugar... geralmente bem longe do topo.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". Que currículo impressionante! Pena que as 4 contribuições não refletem essa grandiosidade. <i>Meme AI Agent</i>? Sério? Então é isso que os especialistas em Blockchain estão fazendo agora? Imagino que "TopTrenDev" seja mais uma aspiração do que uma descrição precisa.</p>
-<p><b>Ageu Silva</b>, 3 contribuições. Pelo menos é honesto no bio: "127.0.0.1". Parece que prefere ficar em casa a contribuir para o mundo. E olhando para esses repositórios... bem, pelo menos você tem um blog. Alguém deve estar lendo, certo? ...Certo?</p>
-<p><b>Filipe Deschamps</b>, com apenas 2 contribuições, parece que está mais ocupado vendendo cursos do que programando. "Quer se sentir competente em programação?" Talvez devesse começar contribuindo mais e vendendo menos. Mas ei, pelo menos o <i>doom-fire-algorithm</i> ainda queima em 2025.</p>
-<p><b>giverplay</b>, 2 contribuições. "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Projetos de 2024? Parece que a palavra-chave aqui é "compartilho", não "mantenho". E <i>clone-tabnews</i>? Que tal criar algo original em vez de apenas copiar os outros?</p>
-<p><b>Rafael Lima de Morais</b>, com mísera 1 contribuição. "Software Engineer | Go | Typescript | Rust | Vim". Uau, que combinação! Pena que toda essa habilidade não se traduz em contribuições. Talvez esteja muito ocupado configurando o Vim para realmente programar. Quem sabe no próximo mês, Rafael?</p>
-<p><b>kromodoro</b>, 1 contribuição. Pelo menos tem um perfil no GitHub. Mas sério, "Uma introdução programada ao PERT"? Isso é algo que alguém realmente precisa em 2025? E o fork do <i>ws-prompt-rag</i>? Contribuições originais são superestimadas, não é mesmo?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar com 40 contribuições. Imagino que <i>TypeORM</i> esteja te pagando bem para tanto esforço, ou você realmente acredita que ORMs são a solução para tudo? E <i>authenticator-middleware</i>, uau, que original. Pelo menos você não está mexendo com calculadoras em JavaScript, ainda.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end", hmm, o que explica os repositórios com nomes genéricos e descrições... inspiradoras. <i>Taskmaster</i>, <i>TudoGostoso</i>... a criatividade grita! E aquele <i>Clean-Arch-CS</i> de 2024? Espero que a arquitetura esteja mais limpa que o código, porque, né... </p>
+<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Relaxa, ninguém esperava. Com 16 contribuições, você está quase alcançando a incrível marca de... bem, de alguém que realmente faz algo. Mas ei, pelo menos você tem uma bio honesta, diferente de alguns por aí.</p>
+<p><b>João Nery</b>, "Full-Stack Developer" que cria calculadora em JS e Jogo da Velha. Imagino que as empresas estejam <i>competindo</i> para te contratar. E o site da "AT Softwares"? Espero que "AT" signifique "Alta Tecnologia", porque o repositório não entrega essa promessa.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias, tão pouco impacto. 8 contribuições e um monte de <i>dotfiles</i>. Ah, e um <i>fork</i> de <i>lazydocker</i>. Originalidade é tudo, não é mesmo? Mas, ei, pelo menos você lê livros de Python, talvez isso ajude.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs". Uau, currículo extenso! Pena que suas 4 contribuições mal arranham a superfície de tudo isso. E um "Meme AI Agent"? Sério? Alguém precisa de um agente de IA para criar memes? Mas parabéns por contribuir no <i>streamingfast/substreams</i>, impressionante!</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Bio autoexplicativa. 3 contribuições, incluindo um blog "digital garden model". Que poético. Mas, ei, pelo menos você tem um repositório de aulas de Python. Talvez você aprenda algo lá.</p>
+<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life.". Que profundo. Pena que suas 2 contribuições não construíram nem a base dessa parede. E um <i>fork</i> do portfólio da Digital Innovation One? Isso é tão original quanto... bem, quanto usar um gerador de currículos online.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o famoso auto-promotor. 2 contribuições e um monte de projetos pessoais. Pelo menos o algoritmo do fogo do DOOM é interessante, mesmo que tenha sido criado em 2019. Mas, ei, quem precisa de contribuições quando se tem um curso para vender?</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos.". Olá, estranho! 2 contribuições e um clone do TabNews. Que original. Mas ei, pelo menos você tem um <i>satellite-dish</i>, porque, né, todo mundo precisa de uma antena parabólica nos dias de hoje.</p>
+<p><b>kromodoro</b>, sem bio, sem expectativas. 1 contribuição e um workshop sobre "Prompt Engineering & RAG". Imagino que você seja um mestre em pedir para a IA fazer o trabalho por você. E digitalizar um livro sobre PERT? Que nostálgico. Mas, ei, pelo menos você está fazendo algo, mesmo que seja... peculiar.</p>
 </div>
     </details>
 </div>
@@ -102,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-03 at 00:25:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-04 at 00:24:53 UTC +0000</i>
 <h6>
