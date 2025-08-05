@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>40 ctr.</td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,41 +41,41 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/CorvoCS08">Corvo</a></td>
-                <td>16 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/joao-nery">João Nery</a></td>
-                <td>13 ctr.</td>
+                <td>14 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>8 ctr.</td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>4 ctr.</td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/caiocavalcantedev">Caio Cavalcante</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>3 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td><a href="https://github.com/caiocavalcantedev">Caio Cavalcante</a></td>
                 <td>2 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar com 40 contribuições. Imagino que <i>TypeORM</i> esteja te pagando bem para tanto esforço, ou você realmente acredita que ORMs são a solução para tudo? E <i>authenticator-middleware</i>, uau, que original. Pelo menos você não está mexendo com calculadoras em JavaScript, ainda.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end", hmm, o que explica os repositórios com nomes genéricos e descrições... inspiradoras. <i>Taskmaster</i>, <i>TudoGostoso</i>... a criatividade grita! E aquele <i>Clean-Arch-CS</i> de 2024? Espero que a arquitetura esteja mais limpa que o código, porque, né... </p>
-<p><b>Corvo</b>, "Estou em fase de aprendizado, então não espere muito por hora". Relaxa, ninguém esperava. Com 16 contribuições, você está quase alcançando a incrível marca de... bem, de alguém que realmente faz algo. Mas ei, pelo menos você tem uma bio honesta, diferente de alguns por aí.</p>
-<p><b>João Nery</b>, "Full-Stack Developer" que cria calculadora em JS e Jogo da Velha. Imagino que as empresas estejam <i>competindo</i> para te contratar. E o site da "AT Softwares"? Espero que "AT" signifique "Alta Tecnologia", porque o repositório não entrega essa promessa.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias, tão pouco impacto. 8 contribuições e um monte de <i>dotfiles</i>. Ah, e um <i>fork</i> de <i>lazydocker</i>. Originalidade é tudo, não é mesmo? Mas, ei, pelo menos você lê livros de Python, talvez isso ajude.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs". Uau, currículo extenso! Pena que suas 4 contribuições mal arranham a superfície de tudo isso. E um "Meme AI Agent"? Sério? Alguém precisa de um agente de IA para criar memes? Mas parabéns por contribuir no <i>streamingfast/substreams</i>, impressionante!</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Bio autoexplicativa. 3 contribuições, incluindo um blog "digital garden model". Que poético. Mas, ei, pelo menos você tem um repositório de aulas de Python. Talvez você aprenda algo lá.</p>
-<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life.". Que profundo. Pena que suas 2 contribuições não construíram nem a base dessa parede. E um <i>fork</i> do portfólio da Digital Innovation One? Isso é tão original quanto... bem, quanto usar um gerador de currículos online.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o famoso auto-promotor. 2 contribuições e um monte de projetos pessoais. Pelo menos o algoritmo do fogo do DOOM é interessante, mesmo que tenha sido criado em 2019. Mas, ei, quem precisa de contribuições quando se tem um curso para vender?</p>
-<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos.". Olá, estranho! 2 contribuições e um clone do TabNews. Que original. Mas ei, pelo menos você tem um <i>satellite-dish</i>, porque, né, todo mundo precisa de uma antena parabólica nos dias de hoje.</p>
-<p><b>kromodoro</b>, sem bio, sem expectativas. 1 contribuição e um workshop sobre "Prompt Engineering & RAG". Imagino que você seja um mestre em pedir para a IA fazer o trabalho por você. E digitalizar um livro sobre PERT? Que nostálgico. Mas, ei, pelo menos você está fazendo algo, mesmo que seja... peculiar.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, parabéns pelo primeiro lugar! Mas vamos ser sinceros, com contribuições em projetos como <i>typeorm/typeorm</i>, a gente espera no mínimo que você esteja reescrevendo o framework inteiro, não só corrigindo uns errinhos de digitação. E <i>PartnrTechnologies/authenticator-middleware</i>? Sério? Isso ainda existe? Achei que já tinham inventado a autenticação automática por telepatia.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end" e o repositório mais recente é de 2024? Imagino a paixão deve estar meio fria, tipo café requentado. E <i>Taskmaster</i> com 2 estrelas? Sua organização de tarefas precisa urgentemente de uma auditoria, começando por priorizar atualizar seus projetos, quem sabe assim a gente não te vê liderando esse ranking em breve. E "TudoGostoso"? Espero que suas receitas sejam melhores que suas contribuições, porque senão... queima!</p>
+<p><b>Corvo</b>, "em fase de aprendizado, então não espere muito". Relaxa, a gente já não esperava nada mesmo. Sem atividade recente, sem projetos... Sua bio é quase um atestado de óbito digital. Mas ei, pelo menos você tem a honestidade de um corvo. Agora, levanta essa asa e vai bicar uns commits, vai?</p>
+<p><b>João Nery</b>, um "Full-Stack Developer" que se orgulha de uma "Caluladora-em-JavaScript" e um "Jogo-da-Velha-Tic-Tac-Toe-"? Que audácia! Próximo passo é fazer um "Hello World" em COBOL e pedir um aumento. Mas falando sério, cadê os projetos inovadores? A gente quer ver você criando a próxima revolução da web, não reinventando a roda (quadrada).</p>
+<p><b>Rafael Lima de Morais</b>, com Go, Typescript, Rust e Vim no currículo, e o que você tem pra mostrar são "dotfiles"? Que decepção! E "lazydocker"? Sério que você precisa de um wrapper pra Docker? Imagino que o próximo passo seja um wrapper pra acender a luz. Desperdice menos tempo sendo "lazy" e comece a construir algo que impressione, por favor.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs"... Ufa! Depois dessa lista toda, a gente espera que você esteja construindo o próximo unicórnio da web3, mas as contribuições recentes não parecem exatamente promissoras. "YourControls"? Sério? Depois de tudo isso, você está mexendo com simuladores de voo? Talvez seja hora de reavaliar suas prioridades.</p>
+<p><b>Filipe Deschamps</b>, o guru da programação que quer te fazer "sentir competente"? Parece que a competência parou no <i>tabnews.com.br</i>. <i>doom-fire-algorithm</i> é legal, mas já estamos em 2025, não em 1993. E esses "dotfiles"? Todo mundo tem um, Filipe. Cadê o próximo grande projeto? A gente está esperando, ansiosamente... ou nem tanto.</p>
+<p><b>Ageu Silva</b>, 127.0.0.1, o endereço de casa. Faz sentido, já que suas contribuições parecem não sair do seu próprio computador. Um "digital garden model"? Que pretensioso! E um repositório de "AulasPython" de 2024 sem nenhum arquivo? Imagino que as aulas sejam tão inspiradoras quanto sua presença neste ranking. Desculpa a sinceridade, mas é a verdade nua e crua.</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast". Ok, versatilidade é bom, mas foco é melhor. Contribuindo em um "moodle-profilefield_cpf" de 2014? Isso cheira a arqueologia de código. E um fork de "coa_tools2"? Que tal criar algo original em vez de viver de migalhas alheias? Mostra pra gente que você é mais que um amador curioso, vai!</p>
+<p><b>Caio Cavalcante</b>, "Each brick is part of the wall of life". Que filosófico! Mas parece que suas contribuições são mais como poeira no meio dos tijolos. A maior parte da sua atividade recente é em repositórios de cursos da Digital Innovation One? Que tal inovar de verdade ao invés de apenas replicar o que te ensinam? A gente acredita em você (ou não).</p>
+<p><b>Cézar</b>, um ".NET Developer" que aparentemente esqueceu como usar o GitHub. Com apenas duas contribuições, você está quase se qualificando para o prêmio de "menor esforço". Se continuar assim, vai ser promovido a espectador vitalício deste ranking. Desperta, Cézar, o mundo .NET precisa de você (ou talvez não).</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-04 at 00:24:53 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-05 at 00:23:17 UTC +0000</i>
 <h6>
