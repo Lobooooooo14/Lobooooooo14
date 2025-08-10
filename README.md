@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>114 ctr.</td>
+                <td>129 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,27 +41,27 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>62 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>36 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/GabrielCS08">Gabriel Carvalho</a></td>
-                <td>29 ctr.</td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>22 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>21 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 114 contribuições, você lidera o ranking, mas não se anime muito.  Afinal, estar no topo de um grupo que idolatra o Lobo não é exatamente uma medalha de honra ao mérito.  Continue assim, quem sabe um dia você consegue impressionar alguém além de nós.  Ah, e parabéns por contribuir no TypeORM, um projeto com mais de 35 mil estrelas.  Impressionante... para quem se impressiona fácil.</p>
-<p><b>Danilo Nobre</b>, suas 96 contribuições são... interessantes.  Um toque de full-stack, uma pitada de game dev, e um quê de 3D Enthusiast.  Imagino que seus projetos sejam tão ecléticos quanto seu currículo.  Só não entendi o moodle-profilefield_cpf.  Sério, um campo de CPF para Moodle?  Isso soa tão divertido quanto uma declaração de imposto de renda.</p>
-<p><b>Rafael Lima de Morais</b>, com 62 contribuições, você está quase lá.  Quase lá para quê?  Boa pergunta.  Seus projetos em Go, Typescript e Rust até impressionam, mas seu repositório "desires" para gerenciar wishlists?  Espero que pelo menos seus desejos sejam mais ambiciosos que o número de estrelas nos seus repositórios.  E "lazydocker"?  Sério, preguiça ao ponto de automatizar a preguiça.  Inovador.</p>
-<p><b>Deivid Souza Santana</b>, 36 contribuições e um futuro brilhante... talvez.  "Taskmaster" com Flask, "TudoGostoso" para receitas... Parece que você está tentando agradar a todos.  Só não se esqueça de agradar a si mesmo, ou vai acabar cozinhando tarefas para os outros enquanto sua própria vida esfria.  E Clean-Arch-CS?  Espero que esteja mais limpo que seu histórico de commits.</p>
-<p><b>Gabriel Carvalho</b>, 29 contribuições.  "content_sumarizer" e "data_structures".  Que original!  Parece que alguém está tentando otimizar o próprio cérebro.  Boa sorte com isso, você vai precisar.  Ainda bem que criou esses repositórios essa semana, assim podemos fingir que você fez algo relevante recentemente.</p>
-<p><b>Cézar</b>, 22 contribuições.  Um .NET Developer sem repositórios recentes?  Sério?  Isso é o equivalente a um chef de cozinha sem panelas.  Espero que pelo menos você esteja usando esse tempo para aprender algo útil, como fazer café.  Porque programar, pelo visto, não está nos seus planos.</p>
-<p><b>TopTrenDev</b>, com 21 contribuições, você se diz especialista em Blockchain, Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs.  Ufa, quase fiquei sem ar só de ler.  Mas me diga, quantas dessas buzzwords realmente se traduzem em algo concreto?  E "YourControls"?  Controlar voos online com outras pessoas?  Parece divertido... para quem não tem nada melhor para fazer.</p>
-<p><b>João Nery</b>, 19 contribuições e uma calculadora em JavaScript.  Que ousadia!  E um Jogo da Velha?  Você está realmente desafiando os limites da inovação.  Só não se esqueça de que, enquanto você brinca com HTML e CSS, o mundo está construindo foguetes e inteligência artificial.  Mas ei, pelo menos seu site da AT Softwares está... online.</p>
-<p><b>Filipe Deschamps</b>, 14 contribuições.  "Quer se sentir competente em programação? Confira isso: https://curso.dev".  Ah, o bom e velho autopromoção.  Mas falando sério, um algoritmo de fogo do DOOM?  Isso é tão anos 90 quanto Tamagotchi.  E "tabnews.com.br"?  Conteúdos para quem trabalha com programação e tecnologia?  Que altruísta.  Só não se esqueça de contribuir mais e divulgar menos.</p>
-<p><b>Felipe Gueller</b>, com apenas 10 contribuições, você está quase conseguindo a proeza de não fazer nada.  "Componentes HTML diversos"?  Sério, você está guardando componentes HTML como se fossem relíquias?  Espero que pelo menos eles sejam responsivos, porque sua taxa de contribuição definitivamente não é.</p>
-<p><b>giverplay</b>, 8 contribuições.  "Implementação do TabNews"?  Que originalidade!  E uma "Antena" em Typescript?  Você está realmente antenado nas últimas tendências... de 2024.  Com essa taxa de contribuição, logo logo você vai precisar de um currículo novo.  Quem sabe em 2026 você não nos surpreende com... mais do mesmo?</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 129 contribuições, liderando o ranking... Imagino que a "paixão por tecnologia" se traduza em noites <i>e mais noites</i> debruçado sobre o TypeORM. Alguém precisa pagar as contas, certo? Pelo menos você saiu do seu repositório "authenticator-middleware" e deu uma olhada no mundo exterior, ainda que para contribuir em projetos que usam Flutter e Objective-C. Diversifique, meu caro, ou vai virar monolíngue!</p>
+<p><b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast" em segundo lugar com 96 contribuições. A julgar pelos seus repositórios, você é mais "faz-tudo" do que especialista em alguma coisa. Um "site de apresentação e portfólio" desde 2022 e ainda não decolou? E esse *fork* de Blender addon? Originalidade mandou lembranças. Continue tentando, quem sabe um dia você realmente "craft" algo memorável.</p>
+<p><b>Rafael Lima de Morais</b>, o terceiro colocado com 66 contribuições. Go, TypeScript, Rust, Vim... Parece o cardápio de um restaurante que tenta agradar a todos e não acerta em nada. Seu "dotfiles" atualizado pela última vez em 4 de agosto? Que organização impecável! E esse "lazydocker" forked há um ano? Espero que você esteja usando-o com mais frequência do que atualizando. Ao menos, criou um CLI para gerenciar sua lista de desejos, sinal de que ainda tem esperança no futuro.</p>
+<p><b>Deivid Souza Santana</b>, com 41 contribuições, o aspirante a desenvolvedor back-end. Seu repositório pessoal, DeividSouSan/DeividSouSan, permanece um mistério desde 2023. O "Taskmaster" com Flask parece interessante, mas cuidado para não se perder nas tarefas. E o "TudoGostoso" com Mako e Python? Espero que as receitas sejam melhores que o código. Boa sorte, você vai precisar.</p>
+<p><b>Gabriel Carvalho</b>, o misterioso contribuinte com 31 participações. Um "content_sumarizer" e "data_structures" em Python. Parabéns, você reinventou a roda! Sério, espero que esteja aprendendo algo com isso, porque para quem está olhando de fora, parece puro tédio. Mas ei, pelo menos você está fazendo algo, certo?</p>
+<p><b>Cézar</b>, o .NET Developer com 25 contribuições. Sem repositórios recentes para analisar? Talvez você esteja tão ocupado com o .NET que esqueceu de mostrar o que faz. Ou talvez não haja nada para mostrar. De qualquer forma, obrigado por participar.</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer" com 23 contribuições. Solana, Bitcoin, Ethereum... Uau, quanta buzzword! Mas e o código? Ah, sim, o *fork* de "YourControls" para simuladores de voo. Porque o mundo precisa de mais um simulador de voo, certo? Continue sonhando com a Web3, quem sabe um dia você decola de verdade.</p>
+<p><b>João Nery</b>, o "Full-Stack Developer" com 19 contribuições. Uma "Caluladora-em-JavaScript" e um "Jogo-da-Velha-Tic-Tac-Toe-". Que nostalgia! Parece que voltamos aos anos 90. E o site da "AT Softwares"? Espero que seja mais moderno do que seus outros projetos. Mas ei, todo mundo começa de algum lugar, certo?</p>
+<p><b>Filipe Deschamps</b>, o "influenciador" com 14 contribuições. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o bom e velho marketing! Pelo menos você tem o "tabnews.com.br" para mostrar que faz algo além de vender cursos. E o "doom-fire-algorithm"? Clássico! Mas sério, com tantos projetos antigos, quando você realmente programa?</p>
+<p><b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações" com apenas 10 contribuições. "componentes-html-diversos". Que diversidade! Um repositório parado desde 2024. Espero que você tenha encontrado um emprego que pague bem, porque a vida de contribuinte open source não parece ser para você.</p>
+<p><b>giverplay</b>, o "Olá, estranho!" com míseras 10 contribuições. "Next Level Week 04" de 2021? Parece que você ficou preso no passado. E o "clone-tabnews"? Por que clonar quando se pode inovar? Mas ei, pelo menos você tem um Discord para conversar com outros estranhos. Talvez lá você encontre a motivação para contribuir mais.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-09 at 00:21:05 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-10 at 00:24:40 UTC +0000</i>
 <h6>
