@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>130 ctr.</td>
+                <td>131 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>66 ctr.</td>
+                <td>67 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,28 +50,28 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/GabrielCS08">Gabriel Carvalho</a></td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>25 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>24 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/joao-nery">João Nery</a></td>
-                <td>19 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>14 ctr.</td>
+                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td>20 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar! 130 contribuições... Que inveja! Quer dizer, que bom para você. Imagino que passar o dia lidando com o TypeORM te dê uma satisfação imensa. E ainda arruma tempo para o <i>authenticator-middleware</i>, quanta generosidade. Mas, sério, quando foi a última vez que você viu a luz do sol?</p>
-<p><b>Danilo Nobre</b>, 96 contribuições, quase lá. Vejo que você divide seu tempo entre web, jogos e 3D. Uma pena que o repositório mais recente não seja tão impressionante assim. Mas ei, pelo menos você tem um site de apresentação da Space Wizard Studios! Aposto que seus amigos estão *muito* impressionados.</p>
-<p><b>Rafael Lima de Morais</b>, com 66 contribuições. Software Engineer, Go, Typescript, Rust, Vim... Uau, que currículo! Mas vamos ser sinceros, gastar tempo demais configurando <i>dotfiles</i> não conta como "contribuição de impacto", ok? E esse lazydocker aí, é pra quem tem preguiça de aprender docker de verdade?</p>
-<p><b>Deivid Souza Santana</b>, 45 contribuições. "Apaixonado por back-end". Imagino as noites em claro com o Taskmaster e o TudoGostoso. Só espero que você não esteja comendo enquanto programa, porque misturar código com comida pode dar umas coisas indigestas. E C# no QuizFast? Isso é para testar a paciência dos usuários?</p>
-<p><b>Gabriel Carvalho</b>, com 31 contribuições. Vejo que você anda sumarizando conteúdo e brincando com estruturas de dados. Espero que esteja aprendendo algo útil, porque o mundo não precisa de mais um "especialista" em algoritmos que não sabe fritar um ovo. Ah, e tente adicionar uma bio, ninguém sabe quem você é.</p>
-<p><b>Cézar</b>, 25 contribuições. Um .NET Developer misterioso. Sem repositórios recentes? Está de férias? Sumido? Se escondendo? Espero que esteja usando esse tempo para aprender algo novo e não apenas procrastinando no LinkedIn. Ou talvez, só talvez, você esteja trabalhando em algo *realmente* secreto. Me conta depois.</p>
-<p><b>TopTrenDev</b>, com 24 contribuições. Blockchain Developer, Solana Specialist... Nossa, que hype! Mas, ei, nem só de criptomoedas vive o homem. Dê uma olhada no seu <i>yourcontrols</i>, talvez ele precise de um pouco mais de atenção antes de decolar. E pare de usar emojis na bio, isso não te faz parecer mais "cool".</p>
-<p><b>João Nery</b>, 19 contribuições. Uma calculadora em JS e um jogo da velha? Que nostálgico! Mas vamos ser sinceros, você não está tentando reinventar a roda, está? E esse site da AT Softwares, precisa de uma repaginada urgente. Mas não se preocupe, todo mundo começa de algum lugar. Tente não estacionar aí.</p>
-<p><b>Filipe Deschamps</b>, 14 contribuições. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Pelo menos o doom-fire-algorithm ainda impressiona. Mas, ei, não se esqueça de contribuir com o código aberto de vez em quando, em vez de apenas vendê-lo.</p>
-<p><b>giverplay</b>, com 14 contribuições. "Olá, estranho!". Que simpático. Clone do TabNews e uma antena? Parece que você está tentando de tudo um pouco. Só não se esqueça de focar em algo que realmente te motive, em vez de apenas seguir as tendências. E talvez atualizar a descrição do seu perfil para algo mais original.</p>
-<p><b>Felipe Gueller</b>, míseras 10 contribuições. "Bacharel em Sistemas de Informações". Sério? Só isso? E ainda por cima, só tem componentes HTML "legais"? Espero que você tenha planos maiores do que apenas juntar divs coloridas. Mostre que você aprendeu alguma coisa nesses anos de estudo, por favor!</p>
+    <div align="justify"><p>Ah, <b>Everton Marcelino Jr.</b>, o primeiro da lista. 131 contribuições? Impressionante... para quem está competindo consigo mesmo. Pelo menos está mexendo em projetos com algum <i>hype</i>, como o <i>TypeORM</i>. Mas, ei, não se anime muito, lembre-se que quantidade nem sempre é qualidade. </p>
+<p><b>Danilo Nobre</b>, o mestre dos jogos e 3D. 96 contribuições. Fora o *fork* ali, imagino que a "<i>Space Wizard Studios</i>" esteja te dando trabalho. Será que as experiências em 3D são mais interessantes que o seu perfil no GitHub? Fica a reflexão.</p>
+<p><b>Rafael Lima de Morais</b>, o "Vim Lover" que contribuiu 67 vezes. Dotfiles, Lazydocker, Desires... Tudo soa como um dev que procrastina produtivamente. Mas ei, pelo menos você está escrevendo um livro sobre Python, talvez isso compense as horas gastas configurando o Vim. </p>
+<p><b>Deivid Souza Santana</b>, com suas 45 contribuições. Pelo menos você está tentando, criando APIs de receitas e sistemas de tarefas. Mas convenhamos, "<i>TudoGostoso</i>" e "<i>Taskmaster</i>"? Esses nomes precisam de uma repaginada urgente. E "<i>QuizFast</i>" em C#? Cuidado para não se perder no multiverso das linguagens.</p>
+<p><b>Gabriel Carvalho</b>, com modestas 31 contribuições. Um "<i>content_sumarizer</i>" e "<i>data_structures</i>"? Que original! Mas falando sério, parece que você acordou pra vida agora em agosto de 2025. Será que finalmente vai sair do 0 a 0?</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET com 30 contribuições e nenhum repositório recente para mostrar. Está escondendo o jogo? Ou será que as contribuições foram para algum projeto secreto da NASA? A curiosidade nos corrói. </p>
+<p><b>TopTrenDev</b>, o especialista em blockchain que contribuiu 25 vezes. Solana, Bitcoin, Ethereum... Parece que você está surfando na onda das criptomoedas. Mas, ei, cuidado para não se afogar em mar de NFTs e DeFi. </p>
+<p><b>Filipe Deschamps</b>, o "<i>influencer</i>" da programação com 21 contribuições. Dotfiles, Doom Fire Algorithm... Pelo menos você tem projetos interessantes para mostrar. Mas será que o "<i>tabnews.com.br</i>" te dá mais trabalho do que realmente vale a pena? </p>
+<p><b>João Nery</b>, com suas 20 contribuições. Calculadora em JavaScript, Jogo da Velha... Nostalgia pura! Mas, ei, talvez seja hora de mirar em projetos um pouco mais ambiciosos. Que tal um clone do Pac-Man em Rust? </p>
+<p><b>giverplay</b>, com suas 14 contribuições. "<i>clone-tabnews</i>" e "<i>satellite-dish</i>"? Parece que você está indeciso entre ser um clone ou um inventor. Mas, ei, pelo menos você tem um perfil no Discord. Isso é um começo.</p>
+<p>Ah, <b>Felipe Gueller</b>, o último da lista, com apenas 10 contribuições. "<i>componentes-html-diversos</i>"? Sério? Parece que alguém está preso em 2010. Mas, ei, não desanime! Quem sabe um dia você não cria o próximo Bootstrap. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-11 at 00:23:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-12 at 00:21:20 UTC +0000</i>
 <h6>
