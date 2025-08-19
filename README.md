@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>152 ctr.</td>
+                <td>156 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>106 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>98 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>89 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>71 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,16 +56,16 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>41 ctr.</td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>32 ctr.</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
                 <td>31 ctr.</td>
             </tr>
             <tr align="center">
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 152 contribuições. Impressionante. Quase me fez esquecer que a maior parte foi em projetos que não são seus. Mas ei, quem precisa criar algo original quando se pode viver de _pull requests_ em _TypeORM_, não é mesmo? _TypeORM_ que não te paga, diga-se de passagem. E o resto, contribuições em _client-sdk-flutter_ e _formbricks_. A pergunta que não quer calar é: quando veremos algo *seu* de verdade?</p>
-<p><b>Danilo Nobre</b>, parabéns pelas 98 contribuições! Quase lá... para o limbo. Vejo ali um _fork_ de _coa_tools2_, um _addon_ para Blender. Legal, você está ajudando alguém a fazer animações _cutout_. Que nobre... da sua parte. Ah, e um site de apresentação da _Space Wizard Studios_. Espero que os magos do espaço estejam pagando suas contas, porque contribuições no GitHub não pagam, _né_?</p>
-<p><b>Rafael Lima de Morais</b>, com suas 89 contribuições, você quase me convenceu de que faz algo além de mexer em _dotfiles_ e _lazydocker_. Mas aí eu vi. _lazydocker_ é um _fork_, e seu repositório de desejos, o _desires_, não parece ter realizado muitos desejos, já que tem zero estrelas. E um livro de _Advanced Python Programming_? Espero que você esteja realmente programando e não apenas lendo sobre.</p>
-<p><b>Felipe Gueller</b>, 71 contribuições... em componentes HTML diversos. Que legal! Alguém precisa fazer aqueles _carrosséis_ infinitos e _modais_ que ninguém pediu. Mas falando sério, quando você vai sair dos componentes HTML diversos e criar algo que realmente resolva um problema, ao invés de criar mais um problema de acessibilidade?</p>
-<p><b>Deivid Souza Santana</b>, com 45 contribuições, você está quase na metade do caminho para... lugar nenhum. Vejo ali um _Taskmaster_ em Flask, um _QuizFast_ em C# e um _ReceitasGov_ em Python. Parece que você está colecionando _frameworks_ e linguagens, não projetos finalizados. Escolha um e foque, ou vai continuar sendo um _faz-tudo_ que não faz nada direito.</p>
-<p><b>Cézar</b>, 41 contribuições. Hmm, sem atividade recente... Será que você se perdeu em algum projeto .NET obscuro? Ou será que você finalmente percebeu que contribuir para projetos de código aberto não te traz nada além de _"estrelinhas"_ virtuais? Desaparecer é uma contribuição também, eu acho.</p>
-<p><b>TopTrenDev</b>, 32 contribuições. Blockchain, Solana, Smart Contracts... Ah, o hype! Mas olhando mais de perto, vejo que você contribui mais para o _hype_ dos outros do que para seus próprios projetos. _YourControls_, um simulador de voo colaborativo? Parece interessante... se tivesse mais estrelas do que o número de contribuições que você fez este mês.</p>
-<p><b>Gabriel Carvalho</b>, 31 contribuições. Um _content_sumarizer_ e _data_structures_. Ok, você está brincando de cientista de dados. Mas será que você já tentou resumir sua própria falta de projetos originais? Ou talvez organizar suas ideias em algo que não seja apenas um amontoado de algoritmos?</p>
-<p><b>Filipe Deschamps</b>, com 26 contribuições, você está quase se escondendo na lista. Mas espera, você tem um _doom-fire-algorithm_ com mais de mil estrelas! E um _tabnews.com.br_ com quase seis mil! Ah, claro, você já tem a sua fama. Contribuir para outros projetos? Pra quê? Você já tem seu próprio _reino_ de seguidores.</p>
-<p><b>João Nery</b>, 25 contribuições. Uma calculadora em JavaScript, um jogo da velha... Que fofo! Você está aprendendo a programar. Mas será que você vai sair dos tutoriais do YouTube e criar algo que realmente impressione alguém além da sua avó? Talvez um dia você chegue lá. Ou não.</p>
-<p><b>giverplay</b>, apenas 14 contribuições. Quase imperceptível. _moveit_, _clone-tabnews_... Parece que você está clonando mais ideias do que criando as suas próprias. E _satellite-dish_? Sério? Você está contribuindo para uma antena virtual? Espero que pelo menos pegue um sinal melhor do que o seu engajamento no GitHub.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 156 contribuições. Imagino que <i>typeorm/typeorm</i> esteja te pagando bem para manter aquilo funcionando, hein? Ou você realmente gosta de ORMs? E o <i>authenticator-middleware</i>, firme e forte desde 2021, sem descrição. Um verdadeiro mistério para a humanidade.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Precisamos de mais tecnologias no seu bio, quem sabe Cobol? Ah, e seus <i>dotfiles</i>? Tão customizados que até o GitHub ficou confuso. E o <i>lazydocker</i>? Porque a vida já não é preguiçosa o suficiente, não é mesmo?</p>
+<p><b>Danilo Nobre</b>, mestre dos jogos, do 3D e do full-stack. 98 contribuições. Imagino que você gaste mais tempo escolhendo o emoji perfeito para o seu bio do que codificando. E esse addon para Blender? <i>coa_tools2</i>, parece nome de remédio. Mas parabéns por manter viva uma forked desde 2020!</p>
+<p><b>Felipe Gueller</b>, com seus "componentes-html-diversos". Que legal que você acha legal, Felipe. Alguém precisa, não é? 92 contribuições, talvez um dia você crie algo que não seja "diverso", mas sim... útil?</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por back-end". 45 contribuições. Que paixão, hein? O <i>Taskmaster</i> em Flask, "para praticar". Porque praticar é sempre uma boa desculpa para criar mais um gerenciador de tarefas que ninguém vai usar. E o <i>QuizFast</i> em C#, espero que seja mais rápido que suas contribuições.</p>
+<p><b>Cézar</b>, .NET Developer, 42 contribuições e aparentemente nenhum repositório recente para mostrar. Cézar, você está bem? Precisamos conversar? Ou você está escondendo seus projetos secretos da NASA?</p>
+<p><b>Gabriel Carvalho</b>, sem bio, mas com 31 contribuições. Seu <i>content_sumarizer</i> deve ser tão bom que você não precisa de uma bio. E o <i>data_structures</i>? Criado e atualizado no mesmo dia? Isso é eficiência ou desespero?</p>
+<p><b>TopTrenDev</b>, o "Solana Specialist" com 31 contribuições. Entre blockchains, NFTs e DeFi, espero que você tenha tempo para respirar. O <i>meme-ai-agent</i> parece promissor, mas será que o mundo precisa de mais memes?</p>
+<p><b>Filipe Deschamps</b>, o mestre dos cursos. 26 contribuições. Seus <i>dotfiles</i> de 2016 ainda assustam? E o <i>tabnews.com.br</i>? Conteúdos para quem trabalha com programação. Que generosidade... ou autopromoção?</p>
+<p><b>João Nery</b>, o "Full-Stack Developer" com 25 contribuições. Uma "Caluladora-em-JavaScript". Original. E o "Jogo-da-Velha-Tic-Tac-Toe-"? Tão criativo que até o nome é redundante. Mas ei, todo mundo começa em algum lugar, certo?</p>
+<p><b>NeWBoX22</b>, com 19 contribuições e um <i>yt-downloader</i>. Aparentemente, a rebeldia ainda vive. Só espero que você não esteja baixando meus vídeos. Ou talvez eu não tenha nenhum vídeo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-18 at 00:23:25 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-19 at 00:21:01 UTC +0000</i>
 <h6>
