@@ -35,48 +35,48 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>106 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>111 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>100 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>51 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>45 ctr.</td>
+                <td>46 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>34 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>31 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>31 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
                 <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>28 ctr.</td>
+                <td>29 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... Imagino que você se sinta no topo do mundo, ou pelo menos no topo deste ranking insignificante. 156 contribuições? Que impressionante... para quem está competindo numa corrida de tartarugas. E quanto ao "typeorm/typeorm", hein? Quanta generosidade em contribuir para um projeto com 35678 estrelas. Espero que eles notem sua contribuição heroica. Mas não se acomode muito, o resto de nós está aqui, "apaixonados por tecnologia", esperando você tropeçar.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo! Só falta aprender a contribuir de verdade. 112 contribuições? Quase alcançando o líder, mas vamos ser sinceros, seus "dotfiles" customizados não vão mudar o mundo. E aquele fork de "lazydocker" criado e atualizado no mesmo dia? Parabéns pela eficiência... em copiar o trabalho dos outros. Continue assim, quem sabe um dia você cria algo original (e útil).</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informação, hein? E o que você tem a mostrar? "componentes-html-diversos"? Sério? Espero que esses componentes "legais" façam mais do que só ocupar espaço no seu repositório. 106 contribuições... quase lá. Mas lembre-se, quantidade não é qualidade. E por favor, da próxima vez, tente contribuir com algo que não pareça ter saído de um tutorial dos anos 90.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev and 3D Enthusiast". Que combinação! Mas suas 100 contribuições parecem mais um amontoado de projetos aleatórios do que uma carreira coerente. Um profile field CPF para Moodle? Um addon para Blender? Parece que você está atirando para todos os lados, esperando acertar em algo. Talvez seja hora de focar em algo, ou você vai continuar sendo um faz-tudo medíocre.</p>
-<p><b>Cézar</b>, um ".NET Developer" misterioso. 51 contribuições e nenhum repositório recente para mostrar? Está escondendo algo? Ou será que você simplesmente não tem nada para mostrar? Talvez esteja na hora de sair das sombras e começar a contribuir de verdade, ou vai acabar esquecido neste ranking insignificante.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo. 45 contribuições e um "Taskmaster" feito em Flask? Que original. E aquele "QuizFast" em C#? Aposto que está fazendo sucesso... entre você e seus amigos. Continue "apaixonado", mas lembre-se que paixão não paga as contas. Talvez seja hora de transformar essa paixão em algo que realmente impressione.</p>
-<p><b>Gabriel Carvalho</b>, sem bio, sem pretensões? Apenas 31 contribuições e um "content_sumarizer" e "data_structures"? Parece que alguém está começando... ou desistindo. Se pretende chegar a algum lugar, vai precisar de mais do que isso. Mas ei, pelo menos você está tentando, certo? Ou não?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Uau, quanta buzzword! 31 contribuições e envolvido com "Meme AI Agent"? Parece que alguém está tentando pegar a onda das criptomoedas. Mas cuidado para não se afogar na própria hype. E lembre-se, nem tudo que reluz é ouro (ou Bitcoin).</p>
-<p><b>NeWBoX22</b>, sem bio, mas com um "yt-downloader"? Parabéns por criar algo que provavelmente já existe em milhares de versões. 30 contribuições... quase alcançando a mediocridade. Mas ei, pelo menos você está ajudando as pessoas a baixarem vídeos do YouTube, o que é uma causa nobre... ou não.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o autopromoção em pessoa. 28 contribuições e um curso para vender. Que conveniente. Mas vamos ser sinceros, seus "dotfiles" e o "doom-fire-algorithm" são legais, mas não vão mudar o mundo. E o "tabnews.com.br"? Parabéns por criar um clone do Reddit. Continue vendendo seus cursos, quem sabe um dia você se torna relevante.</p>
-<p><b>João Nery</b>, "Full-Stack Developer". Uma "Caluladora-em-JavaScript" e um "Jogo-da-Velha-Tic-Tac-Toe-"? Que impressionante! Sério, estou boquiaberto com tanta originalidade. 28 contribuições... quase desistindo, hein? Talvez seja hora de aprender algo novo, ou você vai continuar preso nos anos 90. Mas ei, pelo menos você tem um site da "AT Softwares", o que quer que seja isso.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 156 contribuições. Imagino que metade disso seja corrigir "typos" no TypeORM. E ainda contribui para um authenticator-middleware com 0 estrelas, que ousadia! E para finalizar, deu um "up" no client-sdk-flutter, quem sabe um dia ele te note. </p>
+<p><b>Felipe Gueller</b>, 112 contribuições, quase alcançando a glória. Mas vamos ser sinceros, "componentes-html-diversos"? Sério? Isso é o que te impede de dominar o mundo. Da próxima vez, tente algo que não pareça um projeto de faculdade dos anos 90.</p>
+<p><b>Rafael Lima de Morais</b>, empatado em segundo com 112 contribuições, mas vamos aos fatos: dotfiles atualizados no início do mês. Imagino que a principal contribuição seja "mudar a cor do terminal para um tom de rosa mais vibrante". E um "desires" para gerenciar listas de desejos? Quanta ambição! E para fechar com chave de ouro, um fork do lazydocker. Uau, inovador. </p>
+<p><b>Cézar</b>, com 111 contribuições, quase lá, quase... Mas sem atividades recentes? Estava hibernando? Espero que as contribuições tenham sido significativas, e não apenas "corrigir um ponto e vírgula esquecido".</p>
+<p><b>Danilo Nobre</b>, 100 contribuições cravadas! Um número redondo, perfeito para quem gosta de 3D. Mas vamos ver... Contribuições em um profile field de CPF para Moodle de 2014? Um "up" em uma ferramenta de animação no Blender? E um site da Space Wizard Studios? Parece que alguém está espalhando talento por aí, mas será que está focando no lugar certo?</p>
+<p><b>Deivid Souza Santana</b>, 46 contribuições. Quase desistindo, hein? Um "Taskmaster" para organizar tarefas (irônico, não?), um "QuizFast" em C# (coragem!), e uma automação para baixar receitas do governo. Espero que esteja usando esse conhecimento para algo mais produtivo do que sonegar impostos.</p>
+<p><b>NeWBoX22</b>, com 34 contribuições, quase saindo da lama. Um "yt-downloader" (original!) e um repositório com o próprio nome (narcisista!). Mas ei, pelo menos está fazendo alguma coisa, diferente de alguns outros por aqui.</p>
+<p><b>Gabriel Carvalho</b>, 31 contribuições. "content_sumarizer" e "data_structures". Imagino que esteja tentando se tornar o próximo grande cientista de dados. Mas cuidado para não se perder em meio a tantos algoritmos e acabar virando um robô sem alma.</p>
+<p><b>TopTrenDev</b>, 30 contribuições. Blockchain, Solana, DeFi... Palavras da moda para quem quer impressionar. Mas vamos ver... Contribuições em projetos já existentes. Cadê a inovação? Cadê o próximo unicórnio? Ah, e um "yourcontrols" para simulação de voo. Espero que esteja pilotando algo mais interessante do que a própria carreira.</p>
+<p><b>Filipe Deschamps</b>, 29 contribuições. Quase lá, quase... Mas vamos ser honestos, metade disso é atualizar o README do "doom-fire-algorithm". E um "parse-google-docs-json"? Que original! E o tabnews.com.br? Espero que pelo menos esteja usando para divulgar o próprio trabalho, em vez de ficar só lendo notícias.</p>
+<p><b>João Nery</b>, com míseras 28 contribuições, quase no fim da fila. Uma "Caluladora-em-JavaScript" (com erros de digitação no nome, que beleza!), um "Jogo-da-Velha-Tic-Tac-Toe-" (com ainda mais erros de digitação, parabéns!), e um site da AT Softwares (que nem sequer é seu). Sério, precisa se esforçar mais. Ou talvez menos. Talvez só mudar de área.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-20 at 00:20:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-21 at 00:19:24 UTC +0000</i>
 <h6>
