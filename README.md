@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>158 ctr.</td>
+                <td>159 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>134 ctr.</td>
+                <td>143 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>127 ctr.</td>
+                <td>136 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>46 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>35 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>29 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. 158 contribuições, hein? Quase dá para notar. Vejo que você andou mexendo com TypeORM. Que ousadia! E ainda contribui para projetos com milhares de estrelas, que generosidade a sua, emprestando seu talento a causas tão nobres. Mas me conta, o "authenticator-middleware" da PartnrTechnologies ainda autentica alguém além de você?</p>
-<p><b>Cézar</b>, parabéns pelas 134 contribuições! Ou quase isso, né? Imagino que você esteja tão ocupado desenvolvendo em .NET que não sobra tempo para mais nada. Mas ei, pelo menos você está na lista, o que já é mais do que muitos podem dizer. Quem sabe no próximo mês você não decide sair da toca e mostrar a que veio? Ou talvez não, tanto faz.</p>
-<p><b>Felipe Gueller</b>, com seus "componentes HTML diversos". Que nome original! E com atualização em 2024, impressionante. Imagino que o mundo esteja ansioso para ver suas criações. Mas falando sério, alguém realmente usa esses componentes, ou eles são só para enfeitar seu GitHub? 127 contribuições, ok, quase relevante.</p>
-<p><b>Rafael Lima de Morais</b>, um "Software Engineer" que ama Go, Typescript, Rust e... Vim? Que combinação peculiar. Seus "dotfiles" devem ser a inveja de todos os sysadmins. E o "desires", que nome inspirador para um gerenciador de listas de desejos. Mas me diga, você realmente usa tudo isso, ou só coleciona tecnologias como se fossem figurinhas?</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Uau, que currículo! Mas vamos ser sinceros, quantas dessas 100 contribuições foram realmente significativas? Contribuir para um fork de um addon do Blender não te faz um mestre do 3D. E o site da Space Wizard Studios... bem, pelo menos tem um nome chamativo.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Que clichê! E com apenas 46 contribuições, a paixão não parece ser tão forte assim. O "Taskmaster" em Flask parece interessante, mas será que ele realmente te ajuda a organizar suas tarefas, ou é só mais um projeto inacabado na sua lista? E o "QuizFast" em C#, imagino que seja tão rápido quanto sua progressão no ranking.</p>
-<p><b>TopTrenDev</b>, com 39 contribuições e a audácia de se auto-intitular "Full-Stack & Blockchain Developer". Vejo que você está envolvido com "Smart contracts, dApps, DeFi & NFTs". Que original! Mas será que você realmente entende o que está fazendo, ou só está surfando na onda das criptomoedas? E o "YourControls", parece interessante, mas será que alguém além de você se importa?</p>
-<p><b>NeWBoX22</b>, um "yt-downloader". Que ideia revolucionária! Mas será que ele realmente funciona, ou só serve para encher seu GitHub de projetos genéricos? E com apenas 35 contribuições, imagino que você esteja muito ocupado baixando vídeos do YouTube para ter tempo para mais alguma coisa. Ah, e o repositório com seu nome, que metalinguístico! Quase tão profundo quanto suas contribuições.</p>
-<p><b>Gabriel Carvalho</b>, com suas 31 contribuições e um "content_sumarizer". Será que ele consegue resumir sua falta de atividade no GitHub? E o "data_structures", imagino que seja um repositório cheio de algoritmos complexos que você nunca usou na vida real. Mas ei, pelo menos você está tentando, o que já é mais do que muitos podem dizer. Quase.</p>
-<p><b>Filipe Deschamps</b>, o "guru" da programação. Com 29 contribuições, imagino que você esteja muito ocupado vendendo cursos para ter tempo para contribuir de verdade. O "doom-fire-algorithm" é legal, mas já tem uns bons anos, hein? E o "tabnews.com.br", imagino que seja onde você passa a maior parte do seu tempo, promovendo seus próprios conteúdos. Mas ei, pelo menos você tem um "bio" chamativo, o que já é mais do que muitos podem dizer.</p>
-<p><b>João Nery</b>, com seus projetos de "Caluladora-em-JavaScript" e "Jogo-da-Velha-Tic-Tac-Toe-". Que nostalgia! Mas será que você realmente aprendeu alguma coisa com isso, ou só está reciclando código antigo? E com apenas 28 contribuições, imagino que você esteja muito ocupado jogando seus próprios jogos para ter tempo para mais alguma coisa. Mas ei, pelo menos você está se divertindo, o que já é mais do que muitos podem dizer.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro da lista. Presumo que "apaixonado por tecnologia" seja uma forma elegante de dizer que você passa mais tempo com código do que com pessoas reais. 159 contribuições, impressionante... se ao menos metade delas não fossem para o TypeORM. Sério, você vive lá dentro? Que tal explorar outros ORMs, ou, quem sabe, tocar num banco de dados de verdade?</p>
+<p><b>Cézar</b>, parabéns pela sua incrível contribuição de... bem, 143 contribuições. Vejo que seu foco em .NET é tão intenso que você não tem tempo para mais nada. Sem repositórios recentes? Talvez seja hora de sair da toca do Visual Studio e encarar o mundo lá fora. Ou não, quem sou eu para julgar suas escolhas de vida?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações", hein? Chique. Mas me diga, esses "componentes HTML diversos" que você faz são realmente tão legais assim? Seu repositório foi atualizado pela última vez em agosto do ano passado. Imagino que a palavra "diversos" signifique "uma dúzia de botões e um input mal estilizado".</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... parece que temos um ninja moderno aqui. "Dotfiles" como repositório mais recente? Que ousadia! Mas, falando sério, "CL4R1T4S" para "SYSTEM PROMPT TRANSPARENCY"? Me parece que alguém está tentando resolver problemas do mundo com gambiarras. E o livro de Python? Já está vendendo bem ou só está pegando poeira digital?</p>
+<p><b>Danilo Nobre</b>, Full-stack, Game dev e 3D Enthusiast... uau, um verdadeiro polímata! Mas, analisando suas contribuições, parece que você está mais para "faz-tudo que não termina nada". Sua última contribuição relevante foi em julho. "Space Wizard Studios"? Sério? Parece nome de startup que vai durar seis meses. E o que dizer daquele fork do Blender? Só para dizer que você mexe com 3D?</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Que fofo! "Taskmaster" para organizar tarefas? Sério? Você precisa de um aplicativo para isso? "ReceitasGov"? Automatizar o acesso a dados públicos? Interessante... pena que foi em outubro do ano passado. E "MADB" em C++? Espero que não seja mais um projeto inacabado na sua coleção.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist". Que currículo! Mas, vamos ser sinceros, quantos desses projetos blockchain realmente funcionam? Seu "YourControls" para simuladores de voo parece promissor, mas a última atualização foi há alguns dias. Espero que você não esteja apenas fingindo que está ocupado.</p>
+<p><b>NeWBoX22</b>, um "yt-downloader" em Python? Original! A última atualização foi ontem, então imagino que você esteja correndo atrás para evitar que o YouTube mude a API de novo. Pelo menos você está fazendo algo, diferente de muitos aqui. Mas, sério, você precisa de um repositório com seu nome? Para quê? Autoafirmação?</p>
+<p><b>Gabriel Carvalho</b>, "content_sumarizer" e "data_structures"? Parece que alguém está tentando ser o próximo grande cientista de dados. Mas, olhando para suas contribuições, parece que você está mais para "estudante esforçado que ainda não sabe para onde ir". Quem sabe você não descobre antes do próximo mês.</p>
+<p><b>Filipe Deschamps</b>, ah, o guru da programação. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Sério, Filipe? Autopromoção descarada em um ranking de contribuições? "doom-fire-algorithm"? Que nostalgia! Mas e o resto? Parece que você está mais preocupado em vender cursos do que em contribuir de verdade. Pelo menos o "tabnews.com.br" ainda está ativo, né?</p>
+<p><b>João Nery</b>, "Calculadora em JS" e "Jogo da Velha"? Que projetos inovadores! Parece que voltamos para 2010. "Site da AT Softwares"? Imagino que seja o auge do design moderno. Sério, João, você precisa urgentemente de um curso de design e um pouco de originalidade. Mas não desista, talvez um dia você chegue lá.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-22 at 00:20:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-23 at 00:19:54 UTC +0000</i>
 <h6>
