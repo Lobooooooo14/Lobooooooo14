@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>143 ctr.</td>
+                <td>144 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -56,27 +56,27 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>57 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>50 ctr.</td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>40 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>37 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>31 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>37 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 159 contribuições, você está liderando o ranking. Parabéns por contribuir para o TypeORM, um projeto com mais de 35 mil estrelas. Mas, sério, um authenticator-middleware em 2025? Já não inventaram algo melhor?</p>
-<p><b>Cézar</b>, 143 contribuições e nenhum repositório recente para espiar? Está escondendo o jogo ou só está contribuindo em projetos secretos do governo? A gente sabe que .NET é coisa séria, mas nem tanto, né?</p>
-<p><b>Felipe Gueller</b>, com 136 contribuições e um repositório de "componentes HTML diversos"? Isso soa como a gaveta de bugigangas do mundo do desenvolvimento. Mas ei, pelo menos você está organizando suas tranqueiras!</p>
-<p><b>Rafael Lima de Morais</b>, 112 contribuições e um "desires" CLI? Espero que seus desejos sejam mais ambiciosos que automatizar listas de compras. E um fork de um projeto chamado "CL4R1T4S"? Parece que alguém está tentando decifrar os segredos da IA... ou só está curioso demais.</p>
-<p><b>Danilo Nobre</b>, 100 contribuições! Vejo que você é um homem de muitos talentos: full-stack, game dev e entusiasta 3D. Mas, sinceramente, um fork de um addon para Blender chamado "coa_tools2"? Espero que esteja fazendo algo mais emocionante do que animações de recorte.</p>
-<p><b>Jean Brito</b>, 57 contribuições. Rocket.Chat é legal, mas um Dockerfile para instalar um servidor de jogo? Isso é como usar um canhão para matar uma formiga. Mas ei, pelo menos você está preparado para o apocalipse gamer.</p>
-<p><b>Deivid Souza Santana</b>, 50 contribuições. Um website para organizar tarefas feito em Flask? Que original! E um projeto para baixar receitas do Portal da Transparência? Espero que esteja usando isso para algo mais interessante do que cozinhar.</p>
-<p><b>TopTrenDev</b>, com 40 contribuições, vejo que você está mergulhado no mundo blockchain. Solana, Bitcoin, Ethereum... Parece que alguém está tentando ficar rico rapidamente. Mas não se esqueça dos mortais, ok?</p>
-<p><b>NeWBoX22</b>, 37 contribuições. Um aplicativo para baixar vídeos do YouTube? Em 2025? Sério? Espero que pelo menos esteja baixando conteúdo educativo e não vídeos de gatinhos.</p>
-<p><b>Gabriel Carvalho</b>, 31 contribuições. Um "content_sumarizer"? Que conveniente! Imagino que você use isso para ler os resumos dos outros e parecer inteligente. E "data_structures"? Espero que esteja usando isso para algo mais útil do que listas de compras.</p>
-<p><b>Filipe Deschamps</b>, 30 contribuições. Ah, o guru da programação! Dotfiles, Doom fire algorithm, e um parser de Google Docs? Parece que alguém está tentando automatizar a própria vida. Mas ei, pelo menos você tem um curso para vender.</p>
+    <div align="justify"><p><b>Everton Marcelino Jr.</b>, com 159 contribuições, liderando o ranking. Ah, que lindo, "apaixonado por tecnologia". Queria ver essa paixão se traduzir em algo mais original além de mexer no TypeORM. E o que dizer do "authenticator-middleware" do PartnrTechnologies? Espero que pelo menos autentique, né?</p>
+<p><b>Cézar</b>, parabéns pelas 144 contribuições. Imagino que esteja desenvolvendo um código tão secreto que não pode nem ser mencionado. Ou será que está só esperando o momento certo para revelar seu talento? Porque por enquanto, né...</p>
+<p><b>Felipe Gueller</b>, com seus 136 pontos, pelo menos tem um repositório de "componentes-html-diversos". Diversos em quê? Cores? Tamanhos? Aposto que o HTML é tão diverso quanto as opções de miojo no supermercado. E a última atualização foi ano passado, será que já viraram componentes *vintage*?</p>
+<p><b>Rafael Lima de Morais</b>, o mestre do "Vim" e aspirante a guru de Go, TypeScript e Rust, acumulou 112 contribuições. Mas vamos falar dos seus "dotfiles" que não veem a luz do dia há semanas. E o "desires", que pelo visto ficou só no desejo mesmo, parado no tempo. Quem sabe um dia você não realiza, né?</p>
+<p><b>Danilo Nobre</b>, o polímata com 100 contribuições, que é full-stack, game dev e entusiasta 3D. Mas vamos ser sinceros, esse "Space Wizard Studios" parece mais um projeto de garagem do que um estúdio de verdade. E aquele fork do Blender addon? Tentando a sorte pra ver se cola?</p>
+<p><b>Jean Brito</b>, com 92 contribuições, parece estar obcecado com Rocket.Chat. Será que ele manda mensagem pra ele mesmo o dia inteiro? E o "docker-steamcmd-server" que não é atualizado desde o ano passado? Aposto que o servidor já virou pó, assim como a relevância desse ranking.</p>
+<p><b>Deivid Souza Santana</b>, o estudante de ADS com 51 contribuições e uma paixão avassaladora por back-end. O "Taskmaster" em Flask parece ser a coisa mais emocionante que você fez, e olhe lá. E o "ReceitasGov"? Espero que não esteja desviando dinheiro público, hein?</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer" com 41 contribuições, especialista em tudo que é hype: Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs. Aposto que está tão ocupado falando sobre isso que esqueceu de realmente construir algo útil. Ah, e "YourControls"? Mais um projeto abandonado na vastidão do GitHub.</p>
+<p><b>Felipe</b>, com 39 contribuições, tem um repositório com o próprio nome. Que original! E o projeto "Adamas"? Parece promissor, mas a última atualização foi há tanto tempo que já deve ter virado pó cósmico. Talvez devesse focar em menos projetos e terminar algum, né?</p>
+<p><b>NeWBoX22</b>, com 37 contribuições, criou um "yt-downloader". Sério? Em pleno 2025? Isso me faz questionar a sua definição de "inovação". E o repositório com o próprio nome, vazio? Pelo menos economizou nas palavras, já é alguma coisa.</p>
+<p><b>Gabriel Carvalho</b>, o último da lista com 31 contribuições. Pelo menos está estudando "data_structures", quem sabe um dia não aprende a organizar a própria vida. E o "content_sumarizer"? Espero que consiga resumir esse texto, porque está longo demais.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-24 at 00:22:38 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-25 at 00:21:31 UTC +0000</i>
 <h6>
