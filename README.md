@@ -30,18 +30,18 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>165 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>273 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>160 ctr.</td>
+                <td>169 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>151 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>168 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,17 +51,17 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>139 ctr.</td>
+                <td>147 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>106 ctr.</td>
+                <td>115 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>56 ctr.</td>
+                <td>62 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>44 ctr.</td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Everton Marcelino Jr.</b>, ah, o primeiro lugar... com 165 contribuições. Imagino que metade disso seja só correção de ponto e vírgula no TypeORM, não é? Mas ei, pelo menos você atualizou algo no LiveKit, quem sabe um dia desses ele sai da versão beta. </p>
-<p>Cézar, .NET Developer, hein? 160 contribuições. Que inveja! Mas espera... nenhum repositório recente? Está contribuindo para algum projeto secreto da Microsoft? Ou será que está só escrevendo código que ninguém nunca vai ver?</p>
-<p>Danilo Nobre, o artista 3D que também faz uns sites... Interessante essa sua contribuição no moodle-profilefield_cpf. Ajudando a galera a fraudar o imposto de renda desde 2014. E esse fork do coa_tools2? Está tentando fazer animação 2D em Blender? Boa sorte com isso.</p>
-<p>Felipe Gueller, 151 contribuições e um repositório de "componentes HTML diversos" atualizado pela última vez em 2024. Aposto que são aqueles botões com gradiente horrorosos que você achava que eram modernos. Mas, ei, pelo menos você tentou, né?</p>
-<p>Rafael Lima de Morais, o minimalista que usa Vim e programa em Go, Typescript e Rust. Mas vamos ser sinceros, 139 contribuições e a maioria é em repositórios com zero estrelas.  E esse "desires" para gerenciar *wishlists*? Sério? Espero que sua *wishlist* inclua um curso de design de interface.</p>
-<p>Jean Brito, com 106 contribuições. Trabalhando no Rocket.Chat, hein? Deve ser emocionante ficar corrigindo bugs de uma plataforma de comunicação que ninguém usa. E esse "detect-browsers"?  Ainda precisa disso em 2025? </p>
-<p>Felipe, 56 contribuições. Um repositório com seu nome, que original! E o projeto Adamas? Parece ambicioso, mas a última atualização foi em 2024. Já desistiu?  Ainda bem que o front-end é em HTML e CSS, assim não tem como dar muito errado.</p>
-<p>Deivid Souza Santana, o estudante apaixonado por back-end com 51 contribuições. "Taskmaster" para organizar tarefas? Que irônico, considerando que você não atualiza o projeto desde o ano passado. E o "ReceitasGov"? Automatizando o acesso a dados públicos... será que é pra uso próprio?</p>
-<p>TopTrenDev, o guru blockchain com 44 contribuições. Especialista em Solana, Bitcoin, Ethereum... uau! Mas vamos ver, o último commit relevante foi no streamingfast/substreams.  Ainda bem que alguém está tentando entender essa bagunça das blockchains.</p>
-<p>NeWBoX22, com 37 contribuições. Um downloader de vídeos do YouTube? Que inovador! Imagino que esteja usando para... fins educativos, certo? E o repositório com seu nome, que originalidade! Mas ei, pelo menos você está aprendendo Python, né?</p>
-<p>Gabriel Carvalho, 31 contribuições. Um "content_sumarizer"?  Sério?  O mundo precisa de mais resumos ruins feitos por IA?  E "data_structures"?  Espero que esteja usando para algo mais útil do que só impressionar o recrutador.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar, mas vamos ser honestos, metade dessas contribuições são em um addon de Blender para animação *cutout*... Aquela técnica que sua avó usava pra fazer cartaz na igreja? Impressionante sua paixão por tecnologias... "vintage".</p>
+<p>Cézar, .NET Developer, que aparentemente não desenvolve nada. 169 contribuições e nenhum repositório recente pra mostrar? Imagino que esteja contribuindo ativamente para o Stack Overflow, respondendo perguntas sobre como centralizar uma div. Continue assim, herói anônimo.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", hein? Que tal demonstrar essa paixão toda em *seus* projetos, ao invés de só ficar dando uns toques no TypeORM? Entendo, é mais fácil corrigir o código dos outros do que criar o seu próprio, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, criando "componentes HTML diversos"... Que ousadia! Espero que esses componentes incluam um botão que diga "Clique aqui para me impressionar", porque até agora, nada.</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer que ama Go, Typescript, Rust e Vim. Tão eclético que no fim das contas não entrega nada. Criou um "Cli para gerenciar listas de desejos"... Sério? Com tanta tecnologia à disposição, essa foi a melhor ideia que você teve? <i>Parabéns</i>.</p>
+<p><b>Jean Brito</b>, contribuidor assíduo do Rocket.Chat. Será que está tentando desesperadamente chamar a atenção para ser contratado? Ou será que só gosta de mandar uns "emojis" e corrigir erros de digitação alheios? Fica o questionamento.</p>
+<p><b>Felipe</b>, com um repositório chamado "Felipe-Takayuki" que só serve de espelho. Que tal começar a usar esse "REPOSITÓRIO" para algo útil, em vez de só mostrar que ele existe? E "Adamas"? Parece nome de remédio. Tá precisando?</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Se a paixão fosse medida em contribuições, diria que está mais para um caso de "crush" passageiro. Mas ei, pelo menos você tem um website de organização de tarefas! Originalidade mandou lembranças.</p>
+<p><b>TopTrenDev</b>, especialista em Blockchain, Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs. Ufa! Cansou só de ler. Aposto que domina tudo isso tão bem quanto eu domino mandar indiretas. Mas, ei, pelo menos contribui para projetos com nomes que soam futuristicos.</p>
+<p><b>NeWBoX22</b>, um "aplicativo de desktop que permite baixar vídeos e áudios do YouTube"... Sério? Em 2025? Você está atrasado uns 10 anos, meu caro. Mas não se preocupe, sempre tem espaço para mais um "yt-downloader" no mundo. Ou não.</p>
+<p><b>Gabriel Carvalho</b>, com um "content_summarizer". Já pensou em usar essa sua ferramenta para resumir o feedback que está recebendo aqui? Poderia te poupar um bom tempo, já que suas contribuições não enchem nem um parágrafo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-27 at 00:20:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-28 at 00:20:08 UTC +0000</i>
 <h6>
