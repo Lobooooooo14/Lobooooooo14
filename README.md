@@ -31,42 +31,42 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>273 ctr.</td>
+                <td>301 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>169 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>179 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>168 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>175 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>151 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>173 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>147 ctr.</td>
+                <td>148 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>115 ctr.</td>
+                <td>116 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>62 ctr.</td>
+                <td>65 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>51 ctr.</td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, parabéns pelo primeiro lugar, mas vamos ser honestos, metade dessas contribuições são em um addon de Blender para animação *cutout*... Aquela técnica que sua avó usava pra fazer cartaz na igreja? Impressionante sua paixão por tecnologias... "vintage".</p>
-<p>Cézar, .NET Developer, que aparentemente não desenvolve nada. 169 contribuições e nenhum repositório recente pra mostrar? Imagino que esteja contribuindo ativamente para o Stack Overflow, respondendo perguntas sobre como centralizar uma div. Continue assim, herói anônimo.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", hein? Que tal demonstrar essa paixão toda em *seus* projetos, ao invés de só ficar dando uns toques no TypeORM? Entendo, é mais fácil corrigir o código dos outros do que criar o seu próprio, não é mesmo?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, criando "componentes HTML diversos"... Que ousadia! Espero que esses componentes incluam um botão que diga "Clique aqui para me impressionar", porque até agora, nada.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer que ama Go, Typescript, Rust e Vim. Tão eclético que no fim das contas não entrega nada. Criou um "Cli para gerenciar listas de desejos"... Sério? Com tanta tecnologia à disposição, essa foi a melhor ideia que você teve? <i>Parabéns</i>.</p>
-<p><b>Jean Brito</b>, contribuidor assíduo do Rocket.Chat. Será que está tentando desesperadamente chamar a atenção para ser contratado? Ou será que só gosta de mandar uns "emojis" e corrigir erros de digitação alheios? Fica o questionamento.</p>
-<p><b>Felipe</b>, com um repositório chamado "Felipe-Takayuki" que só serve de espelho. Que tal começar a usar esse "REPOSITÓRIO" para algo útil, em vez de só mostrar que ele existe? E "Adamas"? Parece nome de remédio. Tá precisando?</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Se a paixão fosse medida em contribuições, diria que está mais para um caso de "crush" passageiro. Mas ei, pelo menos você tem um website de organização de tarefas! Originalidade mandou lembranças.</p>
-<p><b>TopTrenDev</b>, especialista em Blockchain, Solana, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs. Ufa! Cansou só de ler. Aposto que domina tudo isso tão bem quanto eu domino mandar indiretas. Mas, ei, pelo menos contribui para projetos com nomes que soam futuristicos.</p>
-<p><b>NeWBoX22</b>, um "aplicativo de desktop que permite baixar vídeos e áudios do YouTube"... Sério? Em 2025? Você está atrasado uns 10 anos, meu caro. Mas não se preocupe, sempre tem espaço para mais um "yt-downloader" no mundo. Ou não.</p>
-<p><b>Gabriel Carvalho</b>, com um "content_summarizer". Já pensou em usar essa sua ferramenta para resumir o feedback que está recebendo aqui? Poderia te poupar um bom tempo, já que suas contribuições não enchem nem um parágrafo.</p>
+    <div align="justify"><p><b>Danilo Nobre</b>, ah, o mestre dos três ofícios: full-stack, game dev e 3D. Imagino que seus commits sejam tão complexos que precisam de óculos 3D para serem revisados. 301 contribuições? É o suficiente para impressionar... um estagiário. Mas ei, pelo menos você mexe com Blender, talvez um dia consiga animar essa sua vontade de realmente contribuir para algo grandioso.</p>
+<p><b>Felipe Gueller</b>, o rei dos "componentes-html-diversos". Espero que essa "diversidade" inclua algo além de botões e caixas de texto genéricas. 179 contribuições, hein? Quase lá para impressionar sua mãe. E ei, a última atualização foi ontem, 2024? Estás preso no tempo, meu caro?</p>
+<p><b>Cézar</b>, o misterioso desenvolvedor .NET. 175 contribuições e nenhum repositório recente? Você é tipo um ninja, suas contribuições são tão silenciosas que ninguém as vê. Ou talvez você só esteja escondendo o jogo... ou a falta dele.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que genérico! Contribuiu no TypeORM, hein? Espero que tenha corrigido uns bugs, porque só usar a biblioteca não conta como paixão. 173 contribuições? Ok, talvez você goste um *pouquinho* de tecnologia.</p>
+<p><b>Rafael Lima de Morais</b>, o guru do "Go | Typescript | Rust | Vim". Com tantas linguagens, imagino que seus commits sejam uma Torre de Babel. 148 contribuições, e um repositório chamado "desires"? Espero que seus desejos incluam aprender a usar um editor de texto decente, em vez de Vim.</p>
+<p><b>Jean Brito</b>, um contribuidor do Rocket.Chat. Espero que você não esteja apenas mandando emojis no chat da empresa. 116 contribuições, não é ruim, mas também não é como se estivesse construindo foguetes. Ah, e um Dockerfile para um servidor de Steam? Que tal contribuir com algo útil para a sociedade, em vez de só para sua diversão?</p>
+<p><b>Felipe</b>, o "REPOSITÓRIO" sem descrição. 65 contribuições, e um projeto chamado "Adamas"? Espero que seja mais valioso que um pedaço de carvão, porque até agora, parece só mais um projeto genérico. E FrontEnd em HTML e CSS em pleno 2025? Você está vivendo em outra era, meu amigo.</p>
+<p><b>Deivid Souza Santana</b>, o "apaixonado por desenvolvimento back-end". Que clichê! 52 contribuições e um projeto chamado "Taskmaster"? Espero que ele realmente te ajude a organizar suas tarefas, porque pelo visto, você precisa de ajuda. E "ReceitasGov"? Sério? Isso parece mais um trabalho de faculdade do que uma contribuição real.</p>
+<p><b>TopTrenDev</b>, o "Full-Stack & Blockchain Developer". Uau, que currículo impressionante! Mas 45 contribuições? Parece que você está mais para "TopTrenHypado" do que "TopTrenDev". E "Solana Specialist"? Espero que você tenha mais sorte com Solana do que eu tenho com meus investimentos em criptomoedas.</p>
+<p><b>NeWBoX22</b>, um nome tão criativo quanto suas contribuições. 37 contribuições e um "yt-downloader"? Sério? Em 2025? Isso é tipo inventar a roda de novo. Mas ei, pelo menos você está usando Python, a linguagem da moda para projetos inúteis.</p>
+<p><b>Gabriel Carvalho</b>, o mestre do "content_summarizer". Espero que ele consiga resumir a sua falta de contribuições de forma convincente. 31 contribuições e um repositório de "data_structures"? Que original! Mas ei, pelo menos você está tentando, o que é mais do que posso dizer de alguns aqui.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-08-28 at 00:20:08 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-08-29 at 00:20:18 UTC +0000</i>
 <h6>
