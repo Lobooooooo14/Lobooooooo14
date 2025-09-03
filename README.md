@@ -31,32 +31,52 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>43 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>5 ctr.</td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>2 ctr.</td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>3 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>1 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -64,12 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Danilo Nobre</b>, com 43 contribuições, liderando o ranking. Parabéns... por enquanto. Mas não se acomode, viu? Afinal, quem precisa de um full-stack, game dev e entusiasta de 3D quando se pode ter um café quentinho e uma soneca? Ah, e sobre aquele fork de <i>coa_tools2</i>, espero que esteja adicionando algo realmente útil e não apenas renomeando variáveis.</p>
-<p><b>Cézar</b>, com míseras 5 contribuições. .NET Developer, hein? Mais parece .NET "Developing Nothing". Brincadeira... ou não. Sem atividade recente? Espero que esteja trabalhando em algo grandioso e secreto, e não apenas procrastinando no TikTok. Mas, ei, pelo menos você apareceu por aqui, diferente de alguns.</p>
-<p><b>Carlos Israel</b>, com 3 contribuições. Software Engineer "apaixonado por tecnologia"? A paixão é tanta que mal se vê no seu histórico de contribuições. Mas ei, pelo menos criou um repositório chamado <i>Cr-Israel/Cr-Israel</i>. Narcisismo? Talvez. Produtividade? Definitivamente não. Ah, e sobre o <i>Forum-Nest-DDD</i>, espero que o fórum tenha mais atividade do que o seu perfil no GitHub.</p>
-<p><b>CookieUkw</b>, também com 3 contribuições. Contribuiu no <i>godotengine/godot</i>, que legal, espero que não tenha sido apenas pra corrigir um typo. E sobre o projeto <i>Vex-AI</i>, boa sorte tentando criar uma IA consciente. Talvez ela te ajude a aumentar suas contribuições por aqui. Mas falando sério, o nome "CookieUkw" é um tanto... peculiar. Tem alguma história por trás disso?</p>
-<p><b>Felipe</b>, com apenas 2 contribuições. Um repositório chamado <i>Felipe-Takayuki/Felipe-Takayuki</i> com a descrição "REPOSITÓRIO". Original, hein? E o projeto Adamas? Parece interessante... pena que suas contribuições não dizem muito sobre isso. Mas não desanime, Felipe! Lembre-se: devagar e sempre... ou talvez nunca.</p>
-<p><b>Rafael Lima de Morais</b>, também com 2 contribuições. Software Engineer que gosta de Go, Typescript, Rust e Vim. Quanta modernidade! Pena que as contribuições não refletem essa paixão toda. Criou um <i>desires</i>, que gerencia listas de desejos. Quem sabe o próximo desejo seja aumentar o número de contribuições no GitHub? Fica a dica.</p>
+    <div align="justify"><p>Ah, <b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". Entendi, você faz um pouco de tudo, o que significa que domina... nada? Brincadeira (ou não). Pelo menos você bifurcou algo popular em Julho. Contribuições? Bom, pelo menos você está no topo, por enquanto.</p>
+<p><b>Cézar</b>, .NET Developer. Que conveniente, sem atividade recente. Talvez o .NET esteja tão perfeito que não precisa de você? Ou será que você está esperando o Lobo morder você pra sair da toca? 17 contribuições, que esforço hercúleo.</p>
+<p><b>Jean Brito</b>, ah, um colaborador do Rocket.Chat. Imagino que passe o dia inteiro se comunicando por lá, em vez de realmente contribuir. Mas ei, pelo menos você fez alguma coisa em repositórios com mais de 40k estrelas, diferente de uns por aí. Contribuições iguais ao segundo colocado, empate técnico?</p>
+<p><b>Carlos Israel</b>, engenheiro de software "apaixonado por tecnologia". Que clichê! Mas, falando sério, criar um fórum com DDD? Que masoquismo! Mas calma, só 13 contribuições, ainda dá tempo de desistir. E antes que eu me esqueça, que tal adicionar umas estrelas nesses seus projetos? Estão precisando.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. Sem atividade recente? Formado desde quando? Que tal usar esse diploma pra... sei lá, contribuir com alguma coisa? Só 10 contribuições, você consegue piorar?</p>
+<p><b>Rafael Lima de Morais</b>, "Go | Typescript | Rust | Vim". Aposto que usa Arch Linux também. Pelo menos você atualizou seus "dotfiles" recentemente, que emocionante. E um CLI para gerenciar listas de desejos? Que original! Também com 10 contribuições, está em busca de um lugar ao sol.</p>
+<p><b>Felipe</b>, o misterioso. "REPOSITÓRIO", que nome criativo! E um site para criação e divulgação de projetos e eventos? Isso existe aos montes, sabia? Com 6 contribuições, está quase alcançando o fundo do poço.</p>
+<p><b>kromodoro</b>, contribuições no CakePHP CookBook e sphinxcontrib-phpdomain. Que específico! Mas ei, pelo menos você está contribuindo com documentação, alguém tem que fazer esse trabalho sujo. 6 contribuições, a mediocridade te aguarda.</p>
+<p><b>CookieUkw</b>, um colaborador do Godot Engine! Que impressionante... se você realmente tivesse feito algo significativo lá. Mas, falando sério, um "AI capaz de manter conversas normais"? Boa sorte com isso. 3 contribuições, quase sumindo do mapa.</p>
+<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". Outro clichê! Mas um sistema para organizar tarefas com Flask? Que inovador! Ah, e automação para baixar receitas do Portal da Transparência? Alguém precisa fazer o trabalho sujo. Uma única contribuição? É sério isso?</p>
+<p><b>Filipe Deschamps</b>, o guru da programação. Quer que a gente se sinta competente? Primeiro, contribua mais. Uma contribuição? Patético! E pare de tentar vender seus cursos, ninguém aqui é bobo.</p>
 </div>
     </details>
 </div>
@@ -84,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-02 at 00:20:15 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-03 at 00:19:02 UTC +0000</i>
 <h6>
