@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>85 ctr.</td>
+                <td>102 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,43 +40,43 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>6 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, ah, o topo do ranking. 85 contribuições, impressionante... se estivéssemos em 2015. Contribuindo para Rocket.Chat? Que nobre causa. Pelo menos você está diversificando, notei um "detect-browsers" ali. Só não entendi o fork de SteamCMD. Tentando montar um servidor de CS 1.6 em pleno 2025? Nostalgia tem limite, Jean.</p>
-<p><b>Danilo Nobre</b>, quase alcançando o primeiro lugar com 81 contribuições. Full-stack, game dev, 3D enthusiast... uau, um renascimento digital. Mas vamos ser sinceros, esse moodle-profilefield_cpf de 2014 tá te puxando pra baixo. E um addon de Blender para cutout animation? Isso existe? Espero que pelo menos renda uns trocados.</p>
-<p><b>Cézar</b>, .NET Developer... e só. 30 contribuições? Achei que a Microsoft já tinha automatizado o trabalho de vocês. Cadê o brilho? Cadê a paixão? Ou melhor, cadê os commits?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. 24 contribuições. Imagino que a monografia tenha consumido toda sua energia para este mês, certo? Porque, sinceramente, não vejo mais nada aqui.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer com 21 contribuições e paixão por Vim. Ok, já sabemos que você gosta de sofrer. Mas e os projetos? Um cli para gerenciar wishlists? Sério? E um livro sobre programação avançada em Python? Espero que pelo menos venda uns 10 exemplares.</p>
-<p><b>Carlos Israel</b>, Software Engineer "apaixonado por tecnologia" com 17 contribuições. DDD em Node.js? Que original! Pelo menos o "Forum-Nest-DDD" parece ambicioso. Mas sejamos honestos, quem usa fóruns em 2025?</p>
-<p><b>Felipe</b>, míseras 6 contribuições. Pelo menos está tentando criar algo com Adamas. Mas se o "REPOSITÓRIO" é a melhor descrição que você consegue, talvez seja hora de repensar as prioridades.</p>
-<p><b>kromodoro</b>, também com 6 contribuições. CakePHP CookBook e PHP domain para Sphinx? Alguém ainda usa isso? Ah, e digitalizando um livro sobre PERT. Parabéns por trazer a tecnologia dos anos 60 para o século 21. Que visão!</p>
-<p><b>CookieUkw</b>, apenas 4 contribuições. Godot Engine, ok, algo promissor. Mas um "ChatStory"? Isso é tipo aqueles simuladores de conversa furados? E Vex-AI, uma IA que discute jogos? A Skynet que se cuide.</p>
-<p><b>Everton Marcelino Jr.</b>, mais 4 contribuições. TypeORM, LiveKit... parece estar no caminho certo. Mas, por favor, abandone esse "authenticator-middleware" genérico. O mundo já tem autenticação suficiente, obrigado.</p>
-<p><b>Deivid Souza Santana</b>, apenas 2 contribuições. Estudante "apaixonado" por back-end. Taskmaster em Flask? Bonitinho. ReceitasGov? Útil. Mas C++? Já está tentando complicar as coisas antes mesmo de começar? </p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking! Contribuindo para o Rocket.Chat e Rocket.Chat.Electron, você está realmente se esforçando para manter as pessoas presas em frente às telas. Mas não se esqueça daquele seu "detect-browsers" abandonado desde 2024. Será que ele ainda detecta o Internet Explorer?</p>
+<p><b>Danilo Nobre</b>, vemos que você divide seu tempo entre web, jogos e 3D. Interessante... Mas será que essa sua paixão por Blender não está te distraindo um pouco? E esse "moodle-profilefield_cpf" de 2014? Já pensou em dar um tapa no visual dele? Talvez ele precise de uns polígonos a mais.</p>
+<p><b>Felipe Gueller</b>, com apenas 39 contribuições, você está quase lá! Quase na lanterna, isso sim. Sem atividade recente? Está esperando um milagre ou a inspiração divina para finalmente fazer algo além de respirar? </p>
+<p><b>Cézar</b>, .NET Developer, hein? 37 contribuições. Quase o número de janelas que o Windows abre quando você tenta rodar um "Hello, World!". Sem atividade recente também? Está compilando a paciência para o próximo mês?</p>
+<p><b>CookieUkw</b>, ah, o aspirante a criador de IA consciente. 33 contribuições e tentando criar uma IA que converse? Boa sorte! Mas talvez devesse começar revisando o código do seu "ChatStory", que não vê a luz do sol desde abril. Quem sabe assim a IA não sai tão... burra.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Parece até nome de banda indie. 30 contribuições e um monte de projetos pessoais empoeirados. "desires" para gerenciar listas de desejos? Que tal desejar mais contribuições para o próximo mês?</p>
+<p><b>Carlos Israel</b>, 21 contribuições. Pelo menos você tem um "Forum-Nest-DDD". Mas sério, quem usa fórum em 2025? Talvez devesse aplicar esses seus conhecimentos de DDD em algo mais... atual. Ou quem sabe, contribuir mais.</p>
+<p><b>Everton Marcelino Jr.</b>, 17 contribuições. TipoORM, LiveKit... Parece que você gosta de brincar com brinquedos grandes. Mas e o seu próprio projeto, "authenticator-middleware"? Abandonado desde julho? Parece que alguém precisa de um autenticador para a própria motivação.</p>
+<p><b>kromodoro</b>, 7 contribuições. Ah, o intelectual que digitaliza livros antigos sobre PERT. Que tal usar essa sua paixão por planejamento para planejar melhor suas contribuições? Ou será que o PERT não cobre esse tipo de projeto?</p>
+<p><b>Felipe</b>, míseras 6 contribuições. Seu repositório "Felipe-Takayuki" está lá, solitário, implorando por um commit sequer. Adamas? Parece mais "Adamas-Parado" com essa atividade toda. Talvez seja hora de trocar o "Takayuki" por "Takafazendoalgumacoisa".</p>
+<p><b>Filipe Deschamps</b>, com apenas 3 contribuições, você está quase se escondendo atrás da sua própria URL de curso. Seus "dotfiles" são mais ativos que você. Talvez devesse passar menos tempo ensinando os outros e mais tempo praticando. Ou será que o curso não cobre a parte de realmente contribuir?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-04 at 00:18:56 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-05 at 00:20:14 UTC +0000</i>
 <h6>
