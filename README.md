@@ -31,47 +31,47 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>149 ctr.</td>
+                <td>151 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>127 ctr.</td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>94 ctr.</td>
+                <td>97 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>66 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>58 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>68 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>47 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>11 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns por estar no topo... do ranking de pessoas que contribuem para projetos que você não criou. Impressionantes 149 contribuições! Espero que algum dia você use essa energia toda em algo seu, tipo, sei lá, um "Hello, World" que não dependa de 43 mil estrelas para brilhar. Mas ei, quem sou eu para julgar? Afinal, quem precisa de originalidade quando se tem Rocket.Chat?</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Uau, que currículo! Pena que a maior parte das suas contribuições recentes é em um fork de um addon de Blender. Será que a empolgação com 3D te fez esquecer do resto? Ah, e parabéns pelo site de apresentação da Space Wizard Studios. Imagino que os ETs estejam impressionados. Mas sério, quando vai usar toda essa sua descrição para fazer algo que não seja só um site institucional?</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que genérico, Everton, que genérico... Mas, ei, pelo menos você contribui para projetos relevantes como TypeORM. Pena que a maioria das suas contribuições são para projetos que já têm mais estrelas do que você terá de seguidores na vida. Mas não se preocupe, continue assim, quem sabe um dia você consegue uma vaga de digitador de código em alguma startup hypada. </p>
-<p><b>Cézar</b>, .NET Developer... e aparentemente, especialista em não contribuir com nada. 66 contribuições no total, mas nenhuma atividade recente. Imagino que você esteja tão ocupado desenvolvendo que não tem tempo para mostrar o que faz. Ou será que o problema é exatamente o contrário? 🤔</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e mestre em manter o histórico de contribuições vazio. 58 contribuições, parabéns! Imagino que você esteja usando todo o seu conhecimento para resolver problemas do mundo real, tipo, sei lá, organizar seus arquivos no computador. </p>
-<p><b>CookieUkw</b>, 47 contribuições e um sonho de criar uma IA consciente. Imagino que a IA vai ser tão consciente que vai se recusar a rodar no seu código. Mas ei, pelo menos você contribui para o Godot Engine, quem sabe um dia você cria um jogo onde a IA se rebela contra o criador... espere, já fizeram isso? ¯\_(ツ)_/¯</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Mais um apaixonado genérico... Mas, ei, pelo menos você tem um "Forum-Nest-DDD", que, a julgar pelo nome, deve ser a coisa mais emocionante do mundo. Sério, Carlos, você precisa urgentemente de um hobby que não envolva linhas de código. Que tal jardinagem? Ou sei lá, pular de paraquedas? Qualquer coisa que te tire da frente do computador por uns minutos.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Uau, que poliglota! Pena que a maior parte das suas contribuições recentes é em arquivos de configuração. Será que você está tão ocupado configurando o Vim que esqueceu de programar? Ah, e parabéns pelo "desires", um CLI para gerenciar listas de desejos. Imagino que o seu maior desejo seja ter mais tempo para programar de verdade.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Que fofo, um estudante apaixonado! Pena que a paixão não se traduz em muitas contribuições. Mas não se preocupe, Deivid, você ainda tem tempo para aprender a programar de verdade. Ah, e parabéns pelo "Taskmaster", um website de organização de tarefas. Imagino que a sua primeira tarefa seja aprender a contribuir mais.</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer, Solana Specialist, Bitcoin, Ethereum, Smart contracts, dApps, DeFi & NFTs". Nossa, quanta buzzword junta! Mas e as contribuições? Ah, sim, 10. Contribuindo para o futuro descentralizado do mundo, um commit de cada vez. Espero que entre um NFT e outro, sobre um tempinho para você fazer algo realmente inovador.</p>
-<p><b>kromodoro</b>, com míseras 7 contribuições, você está quase conseguindo a proeza de ser invisível. Mas não se preocupe, pelo menos você contribui para a documentação do CakePHP. Imagino que você esteja tão ocupado lendo a documentação que não tem tempo para programar. Mas ei, quem precisa de código quando se tem um livro digitalizado sobre PERT?</p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking com 151 contribuições! Aposto que você se sente o próprio "Lobo" agora, não é? Só não deixe esse poder todo subir à cabeça e te transformar em um RocketChat dependente. E por favor, atualize aquele seu repositório de 2016, "detect-browsers", antes que ele se torne uma relíquia arqueológica da internet.</p>
+<p><b>Danilo Nobre</b>, impressionantes 132 contribuições! Entre full-stack, game dev e 3D, fico imaginando se você realmente dorme. Mas, falando sério, talvez seja hora de dar uma olhada naquele "moodle-profilefield_cpf" de 2014. O mundo mudou muito desde então, e o PHP também (um pouco). E, já que você é entusiasta de 3D, que tal dar um tapa no visual do seu portfólio "sw-site"? Só uma sugestão amigável.</p>
+<p><b>Everton Marcelino Jr.</b>, com 97 contribuições, você está quase lá! Quase alcançando o pódio da irrelevância. Mas, ei, pelo menos você está contribuindo em projetos populares como TypeORM e formbricks. Só não se esqueça de dar uma atençãozinha para aquele "authenticator-middleware" esquecido. Afinal, até as tecnologias precisam de um pouco de amor e carinho, ou pelo menos uma atualizaçãozinha básica.</p>
+<p><b>Felipe Gueller</b>, 71 contribuições... Hum... ok. Tudo bem, nem todo mundo precisa ser um super-herói do código. Mas, ei, que tal começar a contribuir em algum projeto? Só para ter o que mostrar na próxima review, sabe? Não precisa ser nada grandioso, só algo que diga: "Eu existo e contribuo para o mundo do software!".</p>
+<p><b>Cézar</b>, 68 contribuições. Quase lá, quase relevante. Mas, ei, pelo menos você tem o .NET! Agora, falando sério, que tal dar uma olhada em algum projeto open source? Ou criar o seu próprio? Só para mostrar que você não é apenas mais um desenvolvedor .NET no meio da multidão. E quem sabe, até impressionar o "Lobo" (se é que isso é possível).</p>
+<p><b>CookieUkw</b>, com 54 contribuições, você está quase alcançando a zona de conforto. Mas, ei, pelo menos você está contribuindo para o Godot Engine! Só não se esqueça de dar uma atençãozinha para aquele seu projeto "ChatStory" de 2022. Quem sabe, com algumas atualizações, ele possa se tornar o próximo grande sucesso do mundo dos jogos indie. Ou não. Mas vale a pena tentar, certo?</p>
+<p><b>Rafael Lima de Morais</b>, 42 contribuições, hein? Parece que alguém está mais interessado em configurar o Vim do que em salvar o mundo com código. Mas, ei, pelo menos você tem um projeto chamado "desires"! Só espero que seus desejos incluam mais contribuições no GitHub. E, já que você gosta de Go, TypeScript e Rust, que tal criar algo realmente inovador? Só uma sugestão, tá?</p>
+<p><b>Carlos Israel</b>, 34 contribuições... Hmm, nada mal para quem está mais preocupado em criar fóruns com NestJS e DDD. Mas, falando sério, que tal dar uma olhada naquele seu "Telegram-Downloader-Bot"? Aposto que ele está precisando de uns ajustes para lidar com as últimas mudanças do Telegram. E, já que você é apaixonado por tecnologia, que tal explorar outras áreas além do desenvolvimento web? Só uma ideia.</p>
+<p><b>Deivid Souza Santana</b>, 12 contribuições... Bem, pelo menos você tentou. Mas, ei, não desanime! Afinal, até os maiores programadores começaram em algum lugar. E, já que você é apaixonado por desenvolvimento back-end, que tal criar uma API realmente útil? Ou contribuir para algum projeto open source que te inspire? Só não se esqueça de atualizar aquele seu projeto "ReceitasGov" de 2024. A transparência agradece.</p>
+<p><b>TopTrenDev</b>, com apenas 10 contribuições, parece que você está mais interessado em ser um "Full-Stack & Blockchain Developer" do que em realmente contribuir para a comunidade. Mas, ei, pelo menos você está trabalhando com Solana e DeFi! Só não se esqueça de dar uma atençãozinha para aquele seu projeto "cybrid-demo-app-typescript" de 2022. Talvez ele possa te ajudar a se destacar no mundo das criptomoedas. Ou não. Mas vale a pena tentar, certo?</p>
+<p><b>Filipe Deschamps</b>, 7 contribuições? Sério? Achei que você estivesse muito ocupado vendendo cursos para ter tempo para contribuir. Mas, ei, pelo menos você tem um projeto chamado "doom-fire-algorithm"! Só não se esqueça de dar uma atençãozinha para aquele seu "tabnews.com.br". Afinal, conteúdo de qualidade é sempre bem-vindo. E, já que você quer que as pessoas se sintam competentes em programação, que tal começar dando o exemplo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-10 at 00:19:30 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-11 at 00:19:51 UTC +0000</i>
 <h6>
