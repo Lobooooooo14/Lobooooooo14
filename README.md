@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>151 ctr.</td>
+                <td>226 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>132 ctr.</td>
+                <td>136 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>97 ctr.</td>
+                <td>113 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>71 ctr.</td>
+                <td>76 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,27 +56,27 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>54 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>42 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>34 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>12 ctr.</td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>10 ctr.</td>
+                <td>11 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking com 151 contribuições! Aposto que você se sente o próprio "Lobo" agora, não é? Só não deixe esse poder todo subir à cabeça e te transformar em um RocketChat dependente. E por favor, atualize aquele seu repositório de 2016, "detect-browsers", antes que ele se torne uma relíquia arqueológica da internet.</p>
-<p><b>Danilo Nobre</b>, impressionantes 132 contribuições! Entre full-stack, game dev e 3D, fico imaginando se você realmente dorme. Mas, falando sério, talvez seja hora de dar uma olhada naquele "moodle-profilefield_cpf" de 2014. O mundo mudou muito desde então, e o PHP também (um pouco). E, já que você é entusiasta de 3D, que tal dar um tapa no visual do seu portfólio "sw-site"? Só uma sugestão amigável.</p>
-<p><b>Everton Marcelino Jr.</b>, com 97 contribuições, você está quase lá! Quase alcançando o pódio da irrelevância. Mas, ei, pelo menos você está contribuindo em projetos populares como TypeORM e formbricks. Só não se esqueça de dar uma atençãozinha para aquele "authenticator-middleware" esquecido. Afinal, até as tecnologias precisam de um pouco de amor e carinho, ou pelo menos uma atualizaçãozinha básica.</p>
-<p><b>Felipe Gueller</b>, 71 contribuições... Hum... ok. Tudo bem, nem todo mundo precisa ser um super-herói do código. Mas, ei, que tal começar a contribuir em algum projeto? Só para ter o que mostrar na próxima review, sabe? Não precisa ser nada grandioso, só algo que diga: "Eu existo e contribuo para o mundo do software!".</p>
-<p><b>Cézar</b>, 68 contribuições. Quase lá, quase relevante. Mas, ei, pelo menos você tem o .NET! Agora, falando sério, que tal dar uma olhada em algum projeto open source? Ou criar o seu próprio? Só para mostrar que você não é apenas mais um desenvolvedor .NET no meio da multidão. E quem sabe, até impressionar o "Lobo" (se é que isso é possível).</p>
-<p><b>CookieUkw</b>, com 54 contribuições, você está quase alcançando a zona de conforto. Mas, ei, pelo menos você está contribuindo para o Godot Engine! Só não se esqueça de dar uma atençãozinha para aquele seu projeto "ChatStory" de 2022. Quem sabe, com algumas atualizações, ele possa se tornar o próximo grande sucesso do mundo dos jogos indie. Ou não. Mas vale a pena tentar, certo?</p>
-<p><b>Rafael Lima de Morais</b>, 42 contribuições, hein? Parece que alguém está mais interessado em configurar o Vim do que em salvar o mundo com código. Mas, ei, pelo menos você tem um projeto chamado "desires"! Só espero que seus desejos incluam mais contribuições no GitHub. E, já que você gosta de Go, TypeScript e Rust, que tal criar algo realmente inovador? Só uma sugestão, tá?</p>
-<p><b>Carlos Israel</b>, 34 contribuições... Hmm, nada mal para quem está mais preocupado em criar fóruns com NestJS e DDD. Mas, falando sério, que tal dar uma olhada naquele seu "Telegram-Downloader-Bot"? Aposto que ele está precisando de uns ajustes para lidar com as últimas mudanças do Telegram. E, já que você é apaixonado por tecnologia, que tal explorar outras áreas além do desenvolvimento web? Só uma ideia.</p>
-<p><b>Deivid Souza Santana</b>, 12 contribuições... Bem, pelo menos você tentou. Mas, ei, não desanime! Afinal, até os maiores programadores começaram em algum lugar. E, já que você é apaixonado por desenvolvimento back-end, que tal criar uma API realmente útil? Ou contribuir para algum projeto open source que te inspire? Só não se esqueça de atualizar aquele seu projeto "ReceitasGov" de 2024. A transparência agradece.</p>
-<p><b>TopTrenDev</b>, com apenas 10 contribuições, parece que você está mais interessado em ser um "Full-Stack & Blockchain Developer" do que em realmente contribuir para a comunidade. Mas, ei, pelo menos você está trabalhando com Solana e DeFi! Só não se esqueça de dar uma atençãozinha para aquele seu projeto "cybrid-demo-app-typescript" de 2022. Talvez ele possa te ajudar a se destacar no mundo das criptomoedas. Ou não. Mas vale a pena tentar, certo?</p>
-<p><b>Filipe Deschamps</b>, 7 contribuições? Sério? Achei que você estivesse muito ocupado vendendo cursos para ter tempo para contribuir. Mas, ei, pelo menos você tem um projeto chamado "doom-fire-algorithm"! Só não se esqueça de dar uma atençãozinha para aquele seu "tabnews.com.br". Afinal, conteúdo de qualidade é sempre bem-vindo. E, já que você quer que as pessoas se sintam competentes em programação, que tal começar dando o exemplo?</p>
+    <div align="justify"><p><b>Jean Brito</b>, ah, o primeiro lugar... com 226 contribuições. Parabéns por ser o menos pior. Imagino que o RocketChat esteja te pagando bem para tanto esforço, ou você realmente acredita que vai revolucionar a comunicação corporativa? E esse "detect-browsers" atualizado em 2024, hein? Clássico atemporal.</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo inflado! 136 contribuições, ok. Mas vamos falar desse "moodle-profilefield_cpf" que não vê a luz do dia desde 2023.  E a Space Wizard Studios? Seu site deve ser tão mágico quanto o nome sugere.  <i>Boa sorte tentando transformar sua paixão em algo rentável.</i></p>
+<p><b>Everton Marcelino Jr.</b>, 113 contribuições, nada mal. Mas vamos ser sinceros, você está apenas surfando na onda do TypeORM e do Flutter. E esse "authenticator-middleware"? Imagino que seja tão emocionante quanto parece. Continue assim, quem sabe um dia você cria algo que não dependa de 35 mil estrelas no GitHub para ser relevante.</p>
+<p><b>Felipe Gueller</b>, 76 contribuições... Ah, espera, não há atividade recente.  Você está apenas existindo nesse ranking, não é?  Espero que seu bacharelado em Sistemas de Informações esteja te servindo para algo além de inflar o ego.  Volte quando tiver algo para mostrar.</p>
+<p><b>Cézar</b>, 68 contribuições e nada de atividade recente.  Sério, qual o sentido de estar aqui?  Você é o tipo de pessoa que entra na academia e nunca usa o *voucher*.  Volte quando tiver algo além de promessas vazias para mostrar.</p>
+<p><b>CookieUkw</b>, 55 contribuições. Godot te ama, mas será que alguém mais te nota? Esse "ChatStory" de 2022... imagino que seja tão interativo quanto assistir tinta secar. E o Vex-AI?  Ainda não dominou o mundo?  Continue tentando, talvez um dia sua IA consiga ter uma conversa mais interessante que a sua.</p>
+<p><b>Rafael Lima de Morais</b>, 49 contribuições. "Go | Typescript | Rust | Vim".  Uau, que impressionante... no papel.  Seu "desires" para gerenciar listas de desejos é a epítome da inovação.  E esse livro sobre "Advanced Python Programming"?  Espero que você realmente saiba do que está falando.</p>
+<p><b>Carlos Israel</b>, 37 contribuições. Outro "apaixonado por tecnologia".  Seu "Forum-Nest-DDD" parece tão divertido quanto ler a documentação do NestJS. E o "Telegram-Downloader-Bot"?  Sério?  Você está usando suas habilidades para baixar conteúdo ilegal?  Que visão.</p>
+<p><b>Deivid Souza Santana</b>, 21 contribuições.  "Apaixonado por desenvolvimento back-end".  Seu "Taskmaster" em Flask parece... funcional.  E o "ReceitasGov"?  Parabéns por automatizar a burocracia brasileira.  Continue assim, quem sabe um dia você consegue fazer algo que realmente resolva um problema de verdade.</p>
+<p><b>TopTrenDev</b>, 11 contribuições. "Full-Stack & Blockchain Developer".  Solana, Bitcoin, Ethereum...  Você atirou para todos os lados, não foi?  Com 11 contribuições, duvido que você seja especialista em alguma coisa além de *buzzwords*.  Mas ei, pelo menos você está na moda.</p>
+<p><b>Filipe Deschamps</b>, 7 contribuições. Ah, o guru da programação!  Seu curso.dev está te impedindo de contribuir mais?  Ainda bem que o "doom-fire-algorithm" ainda te rende uns pontinhos de vez em quando.  Continue vendendo ilusão de competência, parece que está funcionando.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-11 at 00:19:51 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-12 at 00:19:42 UTC +0000</i>
 <h6>
