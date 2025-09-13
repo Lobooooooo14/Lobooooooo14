@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>226 ctr.</td>
+                <td>272 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>76 ctr.</td>
+                <td>81 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>68 ctr.</td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>49 ctr.</td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/TopTrenDev">TopTrenDev</a></td>
-                <td>11 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>15 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, ah, o primeiro lugar... com 226 contribuições. Parabéns por ser o menos pior. Imagino que o RocketChat esteja te pagando bem para tanto esforço, ou você realmente acredita que vai revolucionar a comunicação corporativa? E esse "detect-browsers" atualizado em 2024, hein? Clássico atemporal.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Que currículo inflado! 136 contribuições, ok. Mas vamos falar desse "moodle-profilefield_cpf" que não vê a luz do dia desde 2023.  E a Space Wizard Studios? Seu site deve ser tão mágico quanto o nome sugere.  <i>Boa sorte tentando transformar sua paixão em algo rentável.</i></p>
-<p><b>Everton Marcelino Jr.</b>, 113 contribuições, nada mal. Mas vamos ser sinceros, você está apenas surfando na onda do TypeORM e do Flutter. E esse "authenticator-middleware"? Imagino que seja tão emocionante quanto parece. Continue assim, quem sabe um dia você cria algo que não dependa de 35 mil estrelas no GitHub para ser relevante.</p>
-<p><b>Felipe Gueller</b>, 76 contribuições... Ah, espera, não há atividade recente.  Você está apenas existindo nesse ranking, não é?  Espero que seu bacharelado em Sistemas de Informações esteja te servindo para algo além de inflar o ego.  Volte quando tiver algo para mostrar.</p>
-<p><b>Cézar</b>, 68 contribuições e nada de atividade recente.  Sério, qual o sentido de estar aqui?  Você é o tipo de pessoa que entra na academia e nunca usa o *voucher*.  Volte quando tiver algo além de promessas vazias para mostrar.</p>
-<p><b>CookieUkw</b>, 55 contribuições. Godot te ama, mas será que alguém mais te nota? Esse "ChatStory" de 2022... imagino que seja tão interativo quanto assistir tinta secar. E o Vex-AI?  Ainda não dominou o mundo?  Continue tentando, talvez um dia sua IA consiga ter uma conversa mais interessante que a sua.</p>
-<p><b>Rafael Lima de Morais</b>, 49 contribuições. "Go | Typescript | Rust | Vim".  Uau, que impressionante... no papel.  Seu "desires" para gerenciar listas de desejos é a epítome da inovação.  E esse livro sobre "Advanced Python Programming"?  Espero que você realmente saiba do que está falando.</p>
-<p><b>Carlos Israel</b>, 37 contribuições. Outro "apaixonado por tecnologia".  Seu "Forum-Nest-DDD" parece tão divertido quanto ler a documentação do NestJS. E o "Telegram-Downloader-Bot"?  Sério?  Você está usando suas habilidades para baixar conteúdo ilegal?  Que visão.</p>
-<p><b>Deivid Souza Santana</b>, 21 contribuições.  "Apaixonado por desenvolvimento back-end".  Seu "Taskmaster" em Flask parece... funcional.  E o "ReceitasGov"?  Parabéns por automatizar a burocracia brasileira.  Continue assim, quem sabe um dia você consegue fazer algo que realmente resolva um problema de verdade.</p>
-<p><b>TopTrenDev</b>, 11 contribuições. "Full-Stack & Blockchain Developer".  Solana, Bitcoin, Ethereum...  Você atirou para todos os lados, não foi?  Com 11 contribuições, duvido que você seja especialista em alguma coisa além de *buzzwords*.  Mas ei, pelo menos você está na moda.</p>
-<p><b>Filipe Deschamps</b>, 7 contribuições. Ah, o guru da programação!  Seu curso.dev está te impedindo de contribuir mais?  Ainda bem que o "doom-fire-algorithm" ainda te rende uns pontinhos de vez em quando.  Continue vendendo ilusão de competência, parece que está funcionando.</p>
+    <div align="justify"><p><b>Jean Brito</b>, com 272 contribuições, liderando o ranking... Parabéns? Sério, depois de quase 10 anos, ainda mexendo com <i>Rocket.Chat</i>? Espero que pelo menos tenha aprendido a diferença entre EJS e Handlebars nesse tempo. E, por favor, abandone esse "detect-browsers" de 2016, a não ser que você esteja tentando rodar o Internet Explorer no Windows 95.</p>
+<p><b>Danilo Nobre</b>, ah, o "Full-stack, Game dev e 3D Enthusiast". 136 contribuições, quase metade do líder. Mas vamos ser sinceros, seu projeto mais recente é um fork de uma ferramenta de animação 2D de 2020. E antes disso, um site de portfólio da <i>Space Wizard Studios</i>. Parece que o "wizard" está mais para ilusionista de festinha infantil do que para mago da tecnologia.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio. 113 contribuições. <i>TypeORM</i>, <i>Flutter</i>... Tudo muito moderno, muito bonito. Mas será que essa paixão se traduz em algo além de seguir tutoriais? Porque, sejamos honestos, contribuir com <i>formbricks</i> não te torna um gênio, só te faz mais um tijolo na parede.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações e... 81 contribuições. Ok, você tem um diploma. Mas o que você fez com ele? Porque, pelo visto, a resposta é "nada". Se o seu objetivo era ser um fantasma digital, parabéns, você conseguiu.</p>
+<p><b>Cézar</b>, ".NET Developer". 74 contribuições. Sem atividade recente. É assim que a paixão morre, não é? Lentamente, silenciosamente, até que você se torna apenas mais um desenvolvedor .NET esquecido no churrasco da tecnologia. Pelo menos você tem o consolo de saber que está em boa companhia.</p>
+<p><b>CookieUkw</b>, 55 contribuições. <i>Godot Engine</i>, ok, interessante. Mas depois disso, um "ChatStory" e um projeto de "Inteligência Artificial" chamado <i>Vex-AI</i> que parece ter sido abandonado.  Seu sonho de criar uma IA consciente talvez devesse se concentrar em fazer um bot que responda aos seus pull requests primeiro.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  51 contribuições.  Um monte de tecnologias da moda e... nada para mostrar.  Um "cli to manage wishlists" e um livro sobre programação em Python?  Sério?  Da próxima vez, tente contribuir com algo que realmente resolva um problema, em vez de criar mais um projeto de lista de desejos.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." 37 contribuições.  Um fórum com <i>NestJS</i> e DDD, aparentemente inacabado desde fevereiro.  Um "Telegram-Downloader-Bot"?  Espero que você não esteja baixando conteúdo ilegal.  Seu perfil grita "potencial desperdiçado".  Acorde e faça algo que realmente impressione, ou continue sendo apenas mais um no mar de engenheiros de software medíocres.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end". 21 contribuições.  Um website de organização de tarefas e uma automação para baixar dados do governo.  Parabéns, você automatizou o tédio.  Agora, que tal usar essa paixão para criar algo que realmente faça a diferença, em vez de apenas facilitar a burocracia?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack".  15 contribuições.  Um portfólio com "Pixels-Art" e um "E-CommerceX".  Aparentemente, você é um faz-tudo que não faz nada bem.  Escolha uma área, se especialize e pare de tentar abraçar o mundo com as pernas.  Ou continue sendo apenas mais um "full stack" genérico.</p>
+<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". 13 contribuições. Especialista em Solana, Bitcoin, Ethereum... Nossa, que currículo impressionante! Pena que suas contribuições se resumem a coisas como "comunidade para Dev Protocol". Da próxima vez, mostre algo que realmente justifique essa sua bio de "guru blockchain".</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-12 at 00:19:42 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-13 at 00:18:28 UTC +0000</i>
 <h6>
