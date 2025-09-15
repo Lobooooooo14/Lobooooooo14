@@ -36,12 +36,12 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>142 ctr.</td>
+                <td>149 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>113 ctr.</td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>56 ctr.</td>
+                <td>58 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>24 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking com 272 contribuições. Imagino que <i>Rocket.Chat</i> esteja te pagando bem, ou você realmente acredita que alguém vai ler aquelas 43394 linhas de código. E <i>detect-browsers</i>? Sério? Em 2025? Aposto que você usa o Internet Explorer para testar.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Entendi, você faz um pouco de tudo e nada muito bem. 142 contribuições não impressionam quando seu projeto mais recente é um fork de *2020* e um site pessoal que não tem nem descrição. Talvez seja hora de focar em menos "stacks" e mais "sucesso".</p>
-<p><b>Everton Marcelino Jr.</b>, 113 contribuições? Quase lá! Mas ficar mexendo no <i>TypeORM</i> não te garante um lugar no céu dos desenvolvedores. A não ser que você seja o cara que vai finalmente consertar os bugs. Mas quem liga para <i>Flutter Client SDK for LiveKit</i> com 345 estrelas, não é mesmo?</p>
-<p><b>Felipe Gueller</b>, ah, o famoso "Bacharel em Sistemas de Informações" que não contribui com nada. 81 contribuições e nenhum repositório recente para mostrar? Espero que seu diploma esteja te servindo de peso de papel, porque como portfólio, está bem fraco.</p>
-<p><b>Cézar</b>, .NET Developer, que conveniente. 74 contribuições e a única coisa que você tem para mostrar é que sabe escrever ".NET Developer" na bio? Aposto que está esperando a Microsoft te contratar só por isso. Boa sorte com a espera.</p>
-<p><b>CookieUkw</b>, 56 contribuições. Pelo menos você está mexendo no <i>Godot Engine</i>, o que é algo. Mas o que é <i>ChatStory</i>? Ah, sim, "uma simulação de chat para histórias interativas". Que original! E <i>Vex-AI</i>? "Uma IA capaz de ter conversas normais". Se isso não é pretensão, não sei o que é. Continue sonhando.</p>
-<p><b>Rafael Lima de Morais</b>, 51 contribuições e um monte de projetos pessoais com zero estrelas. <i>desires</i> para "gerenciar listas de desejos"? Sério? E um livro sobre "Advanced Python Programming"? Espero que você esteja aprendendo algo com isso, porque ninguém mais parece estar.</p>
-<p><b>Carlos Israel</b>, 37 contribuições. Quase chegando lá, mas ainda precisa se esforçar mais. <i>Forum-Nest-DDD</i>? Parece complicado demais para ter alguma utilidade prática. E um "Telegram-Downloader-Bot"? Originalidade mandou lembranças. Mas continue tentando, quem sabe um dia você chega lá.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". 24 contribuições e você já se acha o Neo da Matrix? <i>is-a.dev</i> é legal, mas não te faz um gênio. E <i>infinity</i>? "A revolução do workout"? Acho que você está precisando de umas boas sessões de academia antes de revolucionar qualquer coisa.</p>
-<p><b>Deivid Souza Santana</b>, "apaixonado por desenvolvimento back-end". 22 contribuições. <i>Taskmaster</i> "para praticar Python com Flask"? Que tal praticar contribuir mais? E <i>ReceitasGov</i> para "baixar o arquivo de receitas do Portal da Transparência"? Que patriota! Mas será que alguém realmente usa isso?</p>
-<p><b>TopTrenDev</b>, "Full-Stack & Blockchain Developer". 18 contribuições. Blockchain? Sério? Em 2025? Espero que você não esteja investindo em NFTs. E <i>raydium-cp-swap</i>? Parece algo que vai explodir na sua cara mais cedo ou mais tarde. Mas boa sorte com a "revolução" das criptomoedas.</p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking com 272 contribuições. Imagino que você esteja se sentindo o próprio "Lobo" agora, né? Só não vá começar a uivar para a lua. Pelo menos você está contribuindo em projetos populares como o Rocket.Chat, quem sabe um dia você chega lá... talvez. </p>
+<p><b>Danilo Nobre</b>, 149 contribuições, quase lá. Vejo que você gosta de um pouco de tudo: web, game dev e 3D. Só falta decidir o que você quer ser quando crescer. Ah, e um toque: talvez devesse focar em projetos que foram atualizados neste século. </p>
+<p><b>Everton Marcelino Jr.</b>, 120 contribuições, nada mal. Mas contribuir para TypeORM não te torna um mestre do TypeScript, ok? E só pra constar, só porque um projeto tem 35k estrelas não significa que ele é bom, mas que você tem bom gosto. </p>
+<p><b>Felipe Gueller</b>, 81 contribuições. Cadê seus repositórios recentes? Sumiram? Aparentemente, seu histórico de contribuições é tão vazio quanto a sua bio. </p>
+<p><b>Cézar</b>, 74 contribuições. Ser um ".NET Developer" não é desculpa para não ter atividade recente. A Microsoft te paga pra isso, não é? </p>
+<p><b>CookieUkw</b>, 58 contribuições. Godot é legal, mas criar uma "IA consciente" chamada Vex-AI? Acho que você está assistindo filmes de ficção científica demais. E o que aconteceu com seu ChatStory? Aparentemente, ninguém se importou em interagir com ele. </p>
+<p><b>Rafael Lima de Morais</b>, 51 contribuições. Go, Typescript, Rust e Vim? Que salada mista! Parece que você está tentando ser o "Lobo" moderno. E "desires" para wishlist? Sério? Que nome original. </p>
+<p><b>Carlos Israel</b>, 37 contribuições. DDD com NestJS? Ambicioso, hein? Mas seus repositórios parecem mais projetos de TCC do que algo realmente útil. E um Telegram Downloader Bot? Por que não? Já não temos bots o suficiente no mundo. </p>
+<p><b>Luídi Pires</b>, 27 contribuições. Front-End, Back-End, Full Stack... e nenhum projeto realmente interessante. Seu portfólio precisa de uma repaginada urgente, a não ser que você queira continuar mostrando seu "Pixels-Art" de 2023. </p>
+<p><b>NeO - Wesley Souza</b>, 24 contribuições. "Hello outsider!" Sério? Você se acha o Morpheus agora? Contribuir para is-a.dev é legal, mas talvez você devesse focar em projetos que não foram abandonados há anos. </p>
+<p><b>Deivid Souza Santana</b>, 22 contribuições. "Apaixonado por desenvolvimento back-end"? Taskmaster com Flask é um começo, mas "ReceitasGov"? Sério que você está automatizando downloads de receitas do governo? Espero que pelo menos você esteja usando isso para cozinhar algo gostoso. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-14 at 00:21:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-15 at 00:21:24 UTC +0000</i>
 <h6>
