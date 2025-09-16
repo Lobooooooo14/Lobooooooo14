@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>272 ctr.</td>
+                <td>299 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>150 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>149 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>120 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>81 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>51 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -71,12 +71,12 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>27 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>24 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns por liderar o ranking com 272 contribuições. Imagino que você esteja se sentindo o próprio "Lobo" agora, né? Só não vá começar a uivar para a lua. Pelo menos você está contribuindo em projetos populares como o Rocket.Chat, quem sabe um dia você chega lá... talvez. </p>
-<p><b>Danilo Nobre</b>, 149 contribuições, quase lá. Vejo que você gosta de um pouco de tudo: web, game dev e 3D. Só falta decidir o que você quer ser quando crescer. Ah, e um toque: talvez devesse focar em projetos que foram atualizados neste século. </p>
-<p><b>Everton Marcelino Jr.</b>, 120 contribuições, nada mal. Mas contribuir para TypeORM não te torna um mestre do TypeScript, ok? E só pra constar, só porque um projeto tem 35k estrelas não significa que ele é bom, mas que você tem bom gosto. </p>
-<p><b>Felipe Gueller</b>, 81 contribuições. Cadê seus repositórios recentes? Sumiram? Aparentemente, seu histórico de contribuições é tão vazio quanto a sua bio. </p>
-<p><b>Cézar</b>, 74 contribuições. Ser um ".NET Developer" não é desculpa para não ter atividade recente. A Microsoft te paga pra isso, não é? </p>
-<p><b>CookieUkw</b>, 58 contribuições. Godot é legal, mas criar uma "IA consciente" chamada Vex-AI? Acho que você está assistindo filmes de ficção científica demais. E o que aconteceu com seu ChatStory? Aparentemente, ninguém se importou em interagir com ele. </p>
-<p><b>Rafael Lima de Morais</b>, 51 contribuições. Go, Typescript, Rust e Vim? Que salada mista! Parece que você está tentando ser o "Lobo" moderno. E "desires" para wishlist? Sério? Que nome original. </p>
-<p><b>Carlos Israel</b>, 37 contribuições. DDD com NestJS? Ambicioso, hein? Mas seus repositórios parecem mais projetos de TCC do que algo realmente útil. E um Telegram Downloader Bot? Por que não? Já não temos bots o suficiente no mundo. </p>
-<p><b>Luídi Pires</b>, 27 contribuições. Front-End, Back-End, Full Stack... e nenhum projeto realmente interessante. Seu portfólio precisa de uma repaginada urgente, a não ser que você queira continuar mostrando seu "Pixels-Art" de 2023. </p>
-<p><b>NeO - Wesley Souza</b>, 24 contribuições. "Hello outsider!" Sério? Você se acha o Morpheus agora? Contribuir para is-a.dev é legal, mas talvez você devesse focar em projetos que não foram abandonados há anos. </p>
-<p><b>Deivid Souza Santana</b>, 22 contribuições. "Apaixonado por desenvolvimento back-end"? Taskmaster com Flask é um começo, mas "ReceitasGov"? Sério que você está automatizando downloads de receitas do governo? Espero que pelo menos você esteja usando isso para cozinhar algo gostoso. </p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns pelo primeiro lugar! Contribuições impressionantes, quase 300! Mas, vamos ser sinceros, metade disso deve ser correção de ponto e vírgula no Rocket.Chat, não é? E o resto, cuidando de navegador obsoleto? Espero que pelo menos esteja usando um bom editor de texto pra isso.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", diz a bio. Imagino que essa paixão se manifeste em abrir pull requests gigantescos no TypeORM, rezando para que alguém tenha paciência de revisar. E, por favor, esse "authenticator-middleware" da PartnrTechnologies, espero que não seja para autenticar o que você come no almoço, hein?</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Uau, que currículo! Pena que a maior parte do seu trabalho parece ser em um fork de um addon de Blender abandonado e um site pessoal que ninguém visita. Mas ei, pelo menos você tem um site de portfólio da Space Wizard Studios! Alguém precisa pagar as contas, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". E onde essas informações estão sendo aplicadas? Ah, certo, em lugar nenhum. Sem atividade recente. Talvez seja hora de transformar esse diploma em um peso de papel, ou quem sabe, usá-lo para calçar a porta.</p>
+<p><b>Cézar</b>, ".NET Developer". Que conveniente, você desapareceu do mapa de contribuições, assim como a relevância do .NET nos dias de hoje. Mas não se preocupe, sempre haverá vagas para migrar sistemas legados para a nuvem. Afinal, alguém tem que fazer o trabalho sujo.</p>
+<p><b>CookieUkw</b>, quase 60 contribuições, uhuu! Mas vamos ser honestos, quantas dessas foram realmente úteis? Ah, e esse projeto Vex-AI tentando criar uma IA consciente...boa sorte com isso. Talvez ela se torne consciente e fuja de você o mais rápido possível.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Parece até um cardápio de hipster. Mas no fim das contas, o que temos aqui? Um monte de "dotfiles" e um "Cli to manage wishlists". Sério? E um livro sobre programação avançada em Python? Espero que pelo menos você tenha usado o Vim para escrever.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Mas a paixão não parece ser recíproca. Seu "Forum-Nest-DDD" deve estar bombando... de erros. E esse "Telegram-Downloader-Bot"? Espero que não esteja baixando nada ilegal, hein?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". O famoso "faz tudo, mas não faz nada bem". Seu portfólio deve ser incrível, com certeza construído com as tecnologias mais modernas... HTML e JavaScript. E esse "E-CommerceX"? Imagino que as vendas estejam decolando.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático. Contribuições modestas, mas pelo menos você se importa em ser receptivo. Esse projeto "infinity" de workout deve estar mudando vidas. Ou talvez só esteja coletando dados para vender depois.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end". Ok, temos um futuro promissor aqui... ou não. Um website de organização de tarefas feito em Flask. Original. E "ReceitasGov"? Espero que esteja tudo dentro da lei, hein?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-15 at 00:21:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-16 at 00:19:16 UTC +0000</i>
 <h6>
