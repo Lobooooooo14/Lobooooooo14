@@ -35,13 +35,13 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>162 ctr.</td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>180 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>152 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>166 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -55,13 +55,13 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>58 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>56 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>58 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, com 299 contribuições, liderando o ranking! Mas não se anime muito, Jean. Contribuir para projetos grandes como Rocket.Chat é fácil, quero ver você criar algo do zero. Ah, e esse "detect-browsers" atualizado em 2024? Sério? Espero que você tenha detectado que precisa de projetos mais recentes.</p>
-<p><b>Everton Marcelino Jr.</b>, em segundo lugar com 162 contribuições. Usando TypeORM, que original! E esse "authenticator-middleware" da PartnrTechnologies, com última atualização em 2025-09-09, quase uma semana atrás? Que velocidade! Parabéns por manter o mínimo.</p>
-<p><b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast". 152 contribuições, quase alcançando o segundo lugar. Mas vamos ser sinceros, esse "moodle-profilefield_cpf" de 2014? Já pensou em atualizar seu portfólio para algo mais... atual? Ah, e cuidado com os forks, hein.</p>
-<p><b>Felipe Gueller</b>, 92 contribuições. Parece que você está um pouco sumido, hein? Cadê os projetos? Ou será que está tudo guardado a sete chaves? Mostra o que você sabe, Felipe, ou vai ficar para trás.</p>
-<p><b>Cézar</b>, .NET Developer com 74 contribuições. .NET, que moderno! Brincadeira, Cézar. Cadê os projetos? Escondendo o jogo? Seus colegas estão curiosos para ver o que você anda aprontando. Ou será que não tem nada para mostrar?</p>
-<p><b>CookieUkw</b>, 58 contribuições. Contribuindo para Godot Engine, que legal! Mas e o seu "ChatStory" de 2022? Já pensou em dar uma repaginada? E esse "Vex-AI", tentando criar uma IA consciente? Boa sorte com isso, você vai precisar.</p>
-<p><b>Rafael Lima de Morais</b>, o mestre do "Go | Typescript | Rust | Vim" com 56 contribuições. "desires" para gerenciar suas listas de desejos? Que original! E esse livro de "Advanced Python Programming" de 2024? Espero que você tenha aprendido algo. Ah, e atualize esse "rafazeero", está precisando.</p>
-<p><b>Carlos Israel</b>, "Passionate about technology" com 37 contribuições. "Forum-Nest-DDD", que nome chamativo! Mas e as estrelas? Ninguém se interessou? E esse "Telegram-Downloader-Bot" de 2024? Sério? Telegram ainda é relevante? Talvez seja hora de inovar um pouco mais.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack" com 37 contribuições. Um "Portfolio" com última atualização em 2025-05-02? Espero que ele esteja realmente apresentável. E esse "E-CommerceX" com HTML e CSS? Que ousadia! Mostra que você sabe mais do que isso, Luídi.</p>
-<p><b>NeO - Wesley Souza</b>, o "Hello outsider!" com 28 contribuições. Contribuindo para "is-a.dev", que legal! Mas e o seu "old-flary"? Por que "old"? Já está obsoleto? E esse "infinity", a revolução do workout? Espero que você esteja em forma para manter esse projeto.</p>
-<p><b>Deivid Souza Santana</b>, o "apaixonado por desenvolvimento back-end" com 22 contribuições. Um "Taskmaster" para organizar tarefas? Que irônico! E esse "ReceitasGov" para automatizar downloads de receitas? Espero que você não esteja planejando nada ilegal. Ah, e o "MADB" em C++? Que nostálgico!</p>
+    <div align="justify"><p><b>Jean Brito</b>, 299 contribuições? Ok, campeão. Mas será que todas essas contribuições realmente contribuíram para algo, ou você só está inflando o número? Rocket.Chat, Rocket.Chat.Electron... Parece que alguém está obcecado em conversar. Espero que você também converse com um terapeuta.</p>
+<p><b>Danilo Nobre</b>, com 180 contribuições e a bio "Full-stack, Game dev e 3D Enthusiast", você parece um daqueles artistas de rua que fazem um pouco de tudo, mas nada muito bem. Seu trabalho com Moodle é de 2014? Seria bom ver algo mais recente, tipo...deste ano, quem sabe? E "Space Wizard Studios"? Sério?</p>
+<p><b>Everton Marcelino Jr.</b>, 166 contribuições e "apaixonado por tecnologia"? Que original. Contribuindo para TypeORM, LiveKit e Formbricks, hein? Parece que você gosta de seguir as tendências. Espero que essa paixão não te abandone quando a próxima tecnologia da moda surgir.</p>
+<p><b>Felipe Gueller</b>, 92 contribuições... Hm, nada de repositórios recentes para mostrar. Parece que alguém está de férias prolongadas. Ou será que as contribuições evaporaram? Talvez seja hora de sair do "Bacharel em Sistemas de Informações" e começar a *usar* esses sistemas.</p>
+<p><b>Cézar</b>, 74 contribuições e ".NET Developer". Mais um tijolo na parede. Nada de repositórios recentes? Imagino que você esteja muito ocupado digitando código em algum projeto corporativo sem graça. Pelo menos o salário deve ser bom, certo?</p>
+<p><b>Rafael Lima de Morais</b>, 59 contribuições e "Software Engineer | Go | Typescript | Rust | Vim". Quanta linguagem! Aposto que gasta mais tempo configurando o Vim do que programando de verdade. "desires"? "advanced_py_programming_book"? Parece que alguém está tentando criar um hype em cima de projetos pessoais que ninguém nunca vai usar.</p>
+<p><b>CookieUkw</b>, 58 contribuições e mexendo com Godot Engine. Ok, indie dev. "ChatStory" e "Vex-AI"? Parece que alguém está tentando criar o próximo Tamagotchi. Mas será que você consegue criar algo que as pessoas realmente se importem? A não ser que você esteja criando para si mesmo, aí tudo bem.</p>
+<p><b>Carlos Israel</b>, 37 contribuições e "Software Engineer. Passionate about technology." Outro apaixonado! "Forum-Nest-DDD"? Que nome criativo... Not. "Telegram-Downloader-Bot"? Sério? Espero que você não esteja baixando nada ilegal. E só pra constar, ter paixão não paga as contas, entrega resultado.</p>
+<p><b>Luídi Pires</b>, também com 37 contribuições e "Front-End | Back-End | Full Stack". Um faz-tudo, que legal. "LuidiPiresHub/Portfolio" com zero estrelas? Que triste. "E-CommerceX"? Espero que pelo menos venda alguma coisa, além de falsas esperanças. Talvez você devesse se especializar em algo, em vez de tentar abraçar o mundo.</p>
+<p><b>NeO - Wesley Souza</b>, míseras 28 contribuições. "Hello outsider!". É assim que você se sente? Porque suas contribuições certamente te colocam lá. "old-flary"? Que nome peculiar. "infinity"? Parece pretensioso. Talvez você devesse focar em fazer *alguma* coisa, em vez de só "ajudar com alguma coisa".</p>
+<p><b>Deivid Souza Santana</b>, com apenas 22 contribuições. "Taskmaster"? Que nome dramático para um gerenciador de tarefas. "ReceitasGov"? Espero que você não esteja mexendo com dinheiro público. "MADB"? Parece um projeto inacabado. Talvez você devesse se concentrar em terminar um projeto antes de começar outro, sabe?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-17 at 00:20:03 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-18 at 00:19:11 UTC +0000</i>
 <h6>
