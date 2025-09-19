@@ -36,12 +36,12 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>180 ctr.</td>
+                <td>185 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>166 ctr.</td>
+                <td>172 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>74 ctr.</td>
+                <td>79 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>59 ctr.</td>
+                <td>78 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>28 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, 299 contribuições? Ok, campeão. Mas será que todas essas contribuições realmente contribuíram para algo, ou você só está inflando o número? Rocket.Chat, Rocket.Chat.Electron... Parece que alguém está obcecado em conversar. Espero que você também converse com um terapeuta.</p>
-<p><b>Danilo Nobre</b>, com 180 contribuições e a bio "Full-stack, Game dev e 3D Enthusiast", você parece um daqueles artistas de rua que fazem um pouco de tudo, mas nada muito bem. Seu trabalho com Moodle é de 2014? Seria bom ver algo mais recente, tipo...deste ano, quem sabe? E "Space Wizard Studios"? Sério?</p>
-<p><b>Everton Marcelino Jr.</b>, 166 contribuições e "apaixonado por tecnologia"? Que original. Contribuindo para TypeORM, LiveKit e Formbricks, hein? Parece que você gosta de seguir as tendências. Espero que essa paixão não te abandone quando a próxima tecnologia da moda surgir.</p>
-<p><b>Felipe Gueller</b>, 92 contribuições... Hm, nada de repositórios recentes para mostrar. Parece que alguém está de férias prolongadas. Ou será que as contribuições evaporaram? Talvez seja hora de sair do "Bacharel em Sistemas de Informações" e começar a *usar* esses sistemas.</p>
-<p><b>Cézar</b>, 74 contribuições e ".NET Developer". Mais um tijolo na parede. Nada de repositórios recentes? Imagino que você esteja muito ocupado digitando código em algum projeto corporativo sem graça. Pelo menos o salário deve ser bom, certo?</p>
-<p><b>Rafael Lima de Morais</b>, 59 contribuições e "Software Engineer | Go | Typescript | Rust | Vim". Quanta linguagem! Aposto que gasta mais tempo configurando o Vim do que programando de verdade. "desires"? "advanced_py_programming_book"? Parece que alguém está tentando criar um hype em cima de projetos pessoais que ninguém nunca vai usar.</p>
-<p><b>CookieUkw</b>, 58 contribuições e mexendo com Godot Engine. Ok, indie dev. "ChatStory" e "Vex-AI"? Parece que alguém está tentando criar o próximo Tamagotchi. Mas será que você consegue criar algo que as pessoas realmente se importem? A não ser que você esteja criando para si mesmo, aí tudo bem.</p>
-<p><b>Carlos Israel</b>, 37 contribuições e "Software Engineer. Passionate about technology." Outro apaixonado! "Forum-Nest-DDD"? Que nome criativo... Not. "Telegram-Downloader-Bot"? Sério? Espero que você não esteja baixando nada ilegal. E só pra constar, ter paixão não paga as contas, entrega resultado.</p>
-<p><b>Luídi Pires</b>, também com 37 contribuições e "Front-End | Back-End | Full Stack". Um faz-tudo, que legal. "LuidiPiresHub/Portfolio" com zero estrelas? Que triste. "E-CommerceX"? Espero que pelo menos venda alguma coisa, além de falsas esperanças. Talvez você devesse se especializar em algo, em vez de tentar abraçar o mundo.</p>
-<p><b>NeO - Wesley Souza</b>, míseras 28 contribuições. "Hello outsider!". É assim que você se sente? Porque suas contribuições certamente te colocam lá. "old-flary"? Que nome peculiar. "infinity"? Parece pretensioso. Talvez você devesse focar em fazer *alguma* coisa, em vez de só "ajudar com alguma coisa".</p>
-<p><b>Deivid Souza Santana</b>, com apenas 22 contribuições. "Taskmaster"? Que nome dramático para um gerenciador de tarefas. "ReceitasGov"? Espero que você não esteja mexendo com dinheiro público. "MADB"? Parece um projeto inacabado. Talvez você devesse se concentrar em terminar um projeto antes de começar outro, sabe?</p>
+    <div align="justify"><p><b>Jean Brito</b>, em primeiro lugar, hein? Quase 300 contribuições... Imagino que a maioria seja correção de ponto e vírgula no RocketChat, porque, né, quem precisa de criatividade quando se tem a plataforma de comunicação que "põe a proteção de dados em primeiro lugar"? Ah, e parabéns pelo seu repo "detect-browsers", de 2024, quase uma relíquia arqueológica no mundo tech. </p>
+<p><b>Danilo Nobre</b>, o "Full-stack, Game dev e 3D Enthusiast".  Aparentemente, você é bom em tudo, menos em ter contribuições expressivas este mês.  E esse "site de apresentação e portfólio da Space Wizard Studios"?  Só consigo imaginar o quão mágico deve ser... Talvez você devesse focar em uma coisa só, tipo, sei lá, contribuir mais. </p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que clichê! Mas ok, pelo menos você mexeu em projetos com mais de 30 mil estrelas. Será que você realmente contribuiu ou só ficou olhando as estrelas?  Ah, e "authenticator-middleware" da PartnrTechnologies, parece ser emocionante... Queria ver essa paixão se traduzir em algo mais substancial. </p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Parabéns pelo diploma, mas cadê as contribuições?  Aparentemente, o sistema de informações te informou que você não precisa contribuir este mês.  Relaxa, o importante é ter o diploma na parede. </p>
+<p><b>Cézar</b>, ".NET Developer". Que direto ao ponto! Mas e as contribuições?  Será que o .NET está te dando tanto trabalho que não sobra tempo para mais nada?  Talvez você devesse tentar respirar um pouco fora do ecossistema Microsoft. </p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  Uau, um verdadeiro poliglota da programação!  Mas parece que a única coisa que você realmente fez foi mexer nos seus "dotfiles".  Prioridades, né?  E esse "Cli to manage wishlists to buy anything that you... desire lol"?  Acho que o seu desejo de contribuir mais ficou na lista. </p>
+<p><b>CookieUkw</b>, com um nick desses, esperava mais doçura nas contribuições.  Godot Engine, Vex-AI... Projetos ambiciosos, mas cadê o <i>seu</i> brilho neles?  Ah, e "ChatStory", uma simulação de chat para histórias interativas... Espero que pelo menos as histórias sejam mais interessantes que suas contribuições. </p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology". Outro apaixonado! Mas será que essa paixão se manifesta em algo além de criar repositórios com nomes genéricos como "Cr-Israel"?  "Forum-Nest-DDD"... Que nome inspirador!  Espero que pelo menos o código seja mais criativo que o nome. </p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack".  Aparentemente, você faz tudo, mas será que faz bem?  "LuidiPiresHub/LuidiPiresHub"... Que original!  E "E-CommerceX"?  Imagino que seja a décima variação de e-commerce que você faz.  Que tal tentar algo novo? </p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!".  Que recepção calorosa!  Mas parece que você está mais ocupado dando as boas-vindas do que contribuindo.  "Grab your own sweet-looking '.is-a.dev' subdomain"... Que útil!  E "Five-Fugas", um gamemode para SAMP... Nostalgia pura!  Talvez você devesse focar em menos projetos e mais contribuições. </p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end".  Ok, estamos cheios de apaixonados aqui.  "Taskmaster", um website de organização de tarefas...  Será que você está usando ele para organizar suas contribuições?  E "ReceitasGov", automação para baixar receitas do governo...  Espero que você esteja usando esse conhecimento para o bem. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-18 at 00:19:11 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-19 at 00:19:59 UTC +0000</i>
 <h6>
