@@ -45,13 +45,13 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>92 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>100 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>91 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, ah, o primeiro da lista, com 299 contribuições. Quase 300! Aposto que você está contando os segundos para chegar lá, para poder se gabar. Contribuindo no Rocket.Chat, hein? Espero que pelo menos use a plataforma para coordenar seus esforços hercúleos.</p>
-<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Três carreiras em uma, e só 185 contribuições? Talvez seja hora de focar em *uma* coisa, tipo, sei lá, contribuir mais. Ah, e um fork de 2020 atualizado agora em Setembro, belo trabalho mantendo as coisas em dia. Ou não.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que clichê! Mas, ei, 172 contribuições não são nada mal. TypeORM e Formbricks? Parece que alguém está tentando resolver os problemas do mundo corporativo. Ou pelo menos fingindo tentar.</p>
-<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Parabéns pelo diploma, mas cadê as contribuições? Ah, nenhuma atividade recente. Entendi, está usando o diploma para... decorar a parede? Pelo menos economiza tinta.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Quanta tecnologia! Mas só 91 contribuições? Parece que alguém está mais interessado em listar tecnologias do que usá-las. E um livro sobre Python avançado? Espero que você tenha lido antes de escrever.</p>
-<p><b>Cézar</b>, ".NET Developer". Simples e direto, como código bem escrito... exceto pelas 80 contribuições. Precisa de um empurrãozinho para chegar aos dois dígitos? Talvez um curso de "Contribuições para Iniciantes" ajude.</p>
-<p><b>CookieUkw</b>, sem bio, sem mistério. Mas com 58 contribuições, o que você anda aprontando? Ah, Godot Engine! Parece que alguém está sonhando em criar o próximo grande jogo. Boa sorte, você vai precisar.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Apaixonado por tecnologia." Outro apaixonado! 37 contribuições? Ok, ok, menos paixão, mais ação. Um "Telegram-Downloader-Bot"? Espero que você não esteja usando isso para fins...questionáveis.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Mais um faz-tudo! Mas com apenas 37 contribuições, parece mais um "mal-e-porcamente-tudo". Um portfólio com "Acesse meu Portfolio abaixo:"? Originalidade mandou lembranças.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Que simpático... demais até. 34 contribuições? Parece que você está mais ocupado dando boas-vindas do que contribuindo. E "Gamemode desenvolvida para a plataforma do SAMP"? Nostalgia mandou um abraço.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Ah, a paixão juvenil! 22 contribuições? Calma, pequeno gafanhoto, você ainda vai chegar lá. Um "Taskmaster" em Flask? Espero que pelo menos te ajude a organizar suas prioridades.</p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns por quase alcançar 300 contribuições! Quase. Imagino que esses 299 commits foram todos cruciais para o futuro da humanidade, ou pelo menos para o Rocket.Chat. Continue assim, quem sabe no próximo mês você chega lá. Mas sem promessas, né?</p>
+<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast"? Que currículo! Mas me diz, quantas dimensões tem o seu repositório "danko-nobre/danko-nobre" que não tem linguagem nenhuma? Talvez seja tão avançado que ainda não inventaram a linguagem para descrevê-lo.</p>
+<p><b>Everton Marcelino Jr.</b>, ah, o "apaixonado por tecnologia". Contribuindo em projetos como TypeORM, quem sabe um dia você escreve um ORM do zero, ou talvez não. Mas ei, pelo menos você está contribuindo, diferente de alguns por aqui.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece até um cardápio de hipster. E esse "desires", o CLI para gerenciar listas de desejos? É para comprar mais livros de programação avançada em Python? Porque pelo visto, você precisa.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e? Cadê os commits? As issues? Os pull requests? Ah, entendi, você está esperando o sistema de informações te informar o que fazer. Enquanto isso, vai assistindo os outros contribuírem.</p>
+<p><b>Cézar</b>, ".NET Developer". Imagino que você esteja desenvolvendo a próxima geração de "Hello World" em .NET. Mas ei, pelo menos você tem um título. Quem sabe no próximo mês você decide realmente usá-lo para contribuir com algo além de boas intenções.</p>
+<p><b>CookieUkw</b>, 58 contribuições... Nada mal para quem está tentando criar uma IA consciente. Mas será que essa IA vai te ajudar a subir nesse ranking? Porque, por enquanto, você está mais para biscoito de água e sal do que para um desenvolvedor de ponta.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Apaixonado por tecnologia." Outro apaixonado! Mas o que me diz desse "Forum-Nest-DDD" que não tem nem uma estrela? Será que nem você mesmo gostou do resultado? Talvez seja hora de repensar essa paixão.</p>
+<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e nenhum stargazer nos seus repositórios? Parece que você está full stack de promessas não cumpridas. Mas não desanime, um dia alguém vai olhar para o seu código e dizer: "É... podia ser melhor".</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider! ✨". Que simpático. Mas me diz, esse "old-flary" é tão "old" que já pegou poeira? E o que dizer do projeto Infinity? Parece que a única coisa infinita ali é a sua falta de contribuições relevantes. Mas ei, pelo menos você é simpático.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Mais um apaixonado! E esse "Taskmaster"? É para te lembrar das tarefas que você não está fazendo? Porque, com 25 contribuições, parece que o único taskmaster aqui é o tempo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-20 at 00:19:07 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-21 at 00:21:47 UTC +0000</i>
 <h6>
