@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>299 ctr.</td>
+                <td>340 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>185 ctr.</td>
+                <td>186 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -65,12 +65,12 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>37 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>37 ctr.</td>
             </tr>
             <tr align="center">
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns por quase alcançar 300 contribuições! Quase. Imagino que esses 299 commits foram todos cruciais para o futuro da humanidade, ou pelo menos para o Rocket.Chat. Continue assim, quem sabe no próximo mês você chega lá. Mas sem promessas, né?</p>
-<p><b>Danilo Nobre</b>, um "Full-stack, Game dev e 3D Enthusiast"? Que currículo! Mas me diz, quantas dimensões tem o seu repositório "danko-nobre/danko-nobre" que não tem linguagem nenhuma? Talvez seja tão avançado que ainda não inventaram a linguagem para descrevê-lo.</p>
-<p><b>Everton Marcelino Jr.</b>, ah, o "apaixonado por tecnologia". Contribuindo em projetos como TypeORM, quem sabe um dia você escreve um ORM do zero, ou talvez não. Mas ei, pelo menos você está contribuindo, diferente de alguns por aqui.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece até um cardápio de hipster. E esse "desires", o CLI para gerenciar listas de desejos? É para comprar mais livros de programação avançada em Python? Porque pelo visto, você precisa.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e? Cadê os commits? As issues? Os pull requests? Ah, entendi, você está esperando o sistema de informações te informar o que fazer. Enquanto isso, vai assistindo os outros contribuírem.</p>
-<p><b>Cézar</b>, ".NET Developer". Imagino que você esteja desenvolvendo a próxima geração de "Hello World" em .NET. Mas ei, pelo menos você tem um título. Quem sabe no próximo mês você decide realmente usá-lo para contribuir com algo além de boas intenções.</p>
-<p><b>CookieUkw</b>, 58 contribuições... Nada mal para quem está tentando criar uma IA consciente. Mas será que essa IA vai te ajudar a subir nesse ranking? Porque, por enquanto, você está mais para biscoito de água e sal do que para um desenvolvedor de ponta.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Apaixonado por tecnologia." Outro apaixonado! Mas o que me diz desse "Forum-Nest-DDD" que não tem nem uma estrela? Será que nem você mesmo gostou do resultado? Talvez seja hora de repensar essa paixão.</p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e nenhum stargazer nos seus repositórios? Parece que você está full stack de promessas não cumpridas. Mas não desanime, um dia alguém vai olhar para o seu código e dizer: "É... podia ser melhor".</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider! ✨". Que simpático. Mas me diz, esse "old-flary" é tão "old" que já pegou poeira? E o que dizer do projeto Infinity? Parece que a única coisa infinita ali é a sua falta de contribuições relevantes. Mas ei, pelo menos você é simpático.</p>
-<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Mais um apaixonado! E esse "Taskmaster"? É para te lembrar das tarefas que você não está fazendo? Porque, com 25 contribuições, parece que o único taskmaster aqui é o tempo.</p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns pelo primeiro lugar! 340 contribuições! Imagino que você tenha passado tanto tempo no Rocket.Chat que agora fala em EJS e Handlebars fluentemente. Mas, ei, pelo menos você não está preso em um repositório de detecção de navegadores de 2016, certo? Aposto que o Bevy Entitiles está te dando umas boas dores de cabeça com WGSL e Rust, hein?</p>
+<p><b>Danilo Nobre</b>, ah, um "Full-stack, Game dev e 3D Enthusiast". Que combinação peculiar. Suas 186 contribuições são quase tão aleatórias quanto seus interesses. Trabalhando em um perfil de CPF para Moodle em 2023? Sério? E um fork de uma ferramenta Blender de 2020? Parece que alguém está vivendo no passado. Mas ei, pelo menos você tem um site de portfólio "Space Wizard Studios". Isso deve impressionar alguém.</p>
+<p><b>Everton Marcelino Jr.</b>, 172 contribuições! Nada mal, considerando que você parece estar obcecado com TypeORM desde 2016. Contribuindo para o SDK Flutter da LiveKit? Espero que você esteja aproveitando a escrita em Objective-C, já que aparentemente TypeScript não é suficiente para você. E não vamos esquecer o "Open Source Qualtrics Alternative". Porque o mundo realmente precisava de mais um desses, né?</p>
+<p><b>Rafael Lima de Morais</b>, 100 contribuições. Parabéns por atingir a marca de dois dígitos! Seu repositório "rafazeero" é tão descritivo quanto seu bio. Dotfiles em Shell e Lua? Que original! E um "Cli to manage wishlists to buy anything that you... desire lol" em Go? Genial! Ah, e um livro sobre programação avançada em Python. Porque o mundo precisava disso, né?</p>
+<p><b>Felipe Gueller</b>, 92 contribuições. Quase lá, continue se esforçando! Pena que não tem nenhum repositório recente para eu poder zoar. Mas não se preocupe, estou certo de que você encontrará algo para contribuir em breve. Talvez algo relacionado ao Instituto Federal do Espírito Santo?</p>
+<p><b>Cézar</b>, 80 contribuições. Chegando lá, quase no top 5! .NET Developer, hein? Tão original quanto uma página em branco. Assim como Felipe, também não tem nenhum repositório recente para eu poder zoar. Mas ei, pelo menos você está contribuindo, certo? Talvez você possa criar um aplicativo para automatizar a criação de bio genéricas.</p>
+<p><b>CookieUkw</b>, 58 contribuições. Quase na metade do caminho! Godot Engine? Que escolha... peculiar. Mas ei, pelo menos você está tentando criar uma "artificial intelligence capable of holding normal conversations". Isso deve ser útil quando você estiver sozinho no porão. E não vamos esquecer o "sample chat simulation for interactive stories". Porque o mundo precisa de mais disso, certo?</p>
+<p><b>Luídi Pires</b>, 38 contribuições. Front-End, Back-End, Full Stack? Que original! Seu repositório "LuidiPiresHub" é tão descritivo quanto seu bio. Um portfólio com JavaScript e HTML? Que inovador! E "Pixels-Art" em 2024? Parece que alguém está preso nos anos 90. Mas ei, pelo menos você tem um "E-CommerceX" com HTML e CSS. Isso deve impressionar alguém.</p>
+<p><b>Carlos Israel</b>, 37 contribuições. Quase lá! Software Engineer. Passionate about technology. Que original! Seu repositório "Cr-Israel" é tão descritivo quanto seu bio. Um "Forum-Nest-DDD" em TypeScript? Que complexo! E um "Telegram-Downloader-Bot" em JavaScript? Parece que alguém está precisando de uma intervenção. Mas ei, pelo menos você está contribuindo, certo?</p>
+<p><b>NeO - Wesley Souza</b>, 34 contribuições. Hello outsider! Que amigável! Contribuindo para ".is-a.dev"? Parece que alguém está desesperado por um domínio legal. E "old-flary" com Objective-C e Kotlin? Que mistura peculiar! Ah, e "Infinity Project is the revolution of the workout". Porque o mundo precisava disso, né?</p>
+<p><b>Deivid Souza Santana</b>, 25 contribuições. Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end. Que original! Seu repositório "DeividSouSan" é tão descritivo quanto seu bio. Um "Taskmaster" com Python e Flask? Que inovador! E "ReceitasGov" para automatizar o download de receitas do Portal da Transparência? Parece que alguém está tentando economizar dinheiro. Mas ei, pelo menos você está contribuindo, certo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-21 at 00:21:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-22 at 00:21:48 UTC +0000</i>
 <h6>
