@@ -36,4 +36,4 @@ class RepositoriesContributedTo:
 
     def __post_init__(self):
         if isinstance(self.nodes, list):
-            self.nodes = [Repository(**x) for x in self.nodes]
+            self.nodes = [Repository(**x) for x in self.nodes if x is not None]
