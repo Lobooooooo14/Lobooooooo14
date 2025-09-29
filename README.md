@@ -31,32 +31,32 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>340 ctr.</td>
+                <td>376 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>186 ctr.</td>
+                <td>302 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>172 ctr.</td>
+                <td>211 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>100 ctr.</td>
+                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td>151 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>92 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>141 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
-                <td>80 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>102 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>38 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>37 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>40 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns pelo primeiro lugar! 340 contribuições! Imagino que você tenha passado tanto tempo no Rocket.Chat que agora fala em EJS e Handlebars fluentemente. Mas, ei, pelo menos você não está preso em um repositório de detecção de navegadores de 2016, certo? Aposto que o Bevy Entitiles está te dando umas boas dores de cabeça com WGSL e Rust, hein?</p>
-<p><b>Danilo Nobre</b>, ah, um "Full-stack, Game dev e 3D Enthusiast". Que combinação peculiar. Suas 186 contribuições são quase tão aleatórias quanto seus interesses. Trabalhando em um perfil de CPF para Moodle em 2023? Sério? E um fork de uma ferramenta Blender de 2020? Parece que alguém está vivendo no passado. Mas ei, pelo menos você tem um site de portfólio "Space Wizard Studios". Isso deve impressionar alguém.</p>
-<p><b>Everton Marcelino Jr.</b>, 172 contribuições! Nada mal, considerando que você parece estar obcecado com TypeORM desde 2016. Contribuindo para o SDK Flutter da LiveKit? Espero que você esteja aproveitando a escrita em Objective-C, já que aparentemente TypeScript não é suficiente para você. E não vamos esquecer o "Open Source Qualtrics Alternative". Porque o mundo realmente precisava de mais um desses, né?</p>
-<p><b>Rafael Lima de Morais</b>, 100 contribuições. Parabéns por atingir a marca de dois dígitos! Seu repositório "rafazeero" é tão descritivo quanto seu bio. Dotfiles em Shell e Lua? Que original! E um "Cli to manage wishlists to buy anything that you... desire lol" em Go? Genial! Ah, e um livro sobre programação avançada em Python. Porque o mundo precisava disso, né?</p>
-<p><b>Felipe Gueller</b>, 92 contribuições. Quase lá, continue se esforçando! Pena que não tem nenhum repositório recente para eu poder zoar. Mas não se preocupe, estou certo de que você encontrará algo para contribuir em breve. Talvez algo relacionado ao Instituto Federal do Espírito Santo?</p>
-<p><b>Cézar</b>, 80 contribuições. Chegando lá, quase no top 5! .NET Developer, hein? Tão original quanto uma página em branco. Assim como Felipe, também não tem nenhum repositório recente para eu poder zoar. Mas ei, pelo menos você está contribuindo, certo? Talvez você possa criar um aplicativo para automatizar a criação de bio genéricas.</p>
-<p><b>CookieUkw</b>, 58 contribuições. Quase na metade do caminho! Godot Engine? Que escolha... peculiar. Mas ei, pelo menos você está tentando criar uma "artificial intelligence capable of holding normal conversations". Isso deve ser útil quando você estiver sozinho no porão. E não vamos esquecer o "sample chat simulation for interactive stories". Porque o mundo precisa de mais disso, certo?</p>
-<p><b>Luídi Pires</b>, 38 contribuições. Front-End, Back-End, Full Stack? Que original! Seu repositório "LuidiPiresHub" é tão descritivo quanto seu bio. Um portfólio com JavaScript e HTML? Que inovador! E "Pixels-Art" em 2024? Parece que alguém está preso nos anos 90. Mas ei, pelo menos você tem um "E-CommerceX" com HTML e CSS. Isso deve impressionar alguém.</p>
-<p><b>Carlos Israel</b>, 37 contribuições. Quase lá! Software Engineer. Passionate about technology. Que original! Seu repositório "Cr-Israel" é tão descritivo quanto seu bio. Um "Forum-Nest-DDD" em TypeScript? Que complexo! E um "Telegram-Downloader-Bot" em JavaScript? Parece que alguém está precisando de uma intervenção. Mas ei, pelo menos você está contribuindo, certo?</p>
-<p><b>NeO - Wesley Souza</b>, 34 contribuições. Hello outsider! Que amigável! Contribuindo para ".is-a.dev"? Parece que alguém está desesperado por um domínio legal. E "old-flary" com Objective-C e Kotlin? Que mistura peculiar! Ah, e "Infinity Project is the revolution of the workout". Porque o mundo precisava disso, né?</p>
-<p><b>Deivid Souza Santana</b>, 25 contribuições. Estudante de Análise e Desenvolvimento de Sistemas apaixonado por back-end. Que original! Seu repositório "DeividSouSan" é tão descritivo quanto seu bio. Um "Taskmaster" com Python e Flask? Que inovador! E "ReceitasGov" para automatizar o download de receitas do Portal da Transparência? Parece que alguém está tentando economizar dinheiro. Mas ei, pelo menos você está contribuindo, certo?</p>
+    <div align="justify"><p><b>Jean Brito</b>, ah, o primeiro da lista com 376 contribuições. Parabéns por... estar no topo? Imagino que você esteja radiante por ter contribuído em projetos como Rocket.Chat. A descrição diz que eles colocam a proteção de dados em primeiro lugar. Que nobre! Pena que a maioria dos seus outros projetos parece ter sido esquecida no churrasco da tecnologia. Mas ei, pelo menos você tentou, certo?</p>
+<p><b>Danilo Nobre</b>, "Full-stack, Game dev e 3D Enthusiast". Uau, um verdadeiro homem de múltiplos talentos! Pena que esses talentos parecem estar mais espalhados do que as minhas tentativas de entender a sua organização no GitHub.  Um fork de um addon de Blender para animação, um site de portfólio...  Continue assim, Danilo, e talvez um dia você domine o mundo... ou pelo menos um tutorial do YouTube.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que original! Com 211 contribuições, você parece estar contribuindo em projetos populares. Tipo, "TypeORM" e "formbricks". Isso é ótimo, Everton! Continue assim e quem sabe um dia você cria algo que as pessoas realmente usem e lembrem... além de um middleware genérico de autenticação.</p>
+<p><b>Cézar</b>, ".NET Developer". Que direto ao ponto! Mas cadê as contribuições, Cézar? 151 no total, mas nenhum repositório recente para mostrar? Hmm, imagino que você esteja guardando todos os seus commits incríveis para um projeto secreto que vai revolucionar o mundo. Ou talvez você só esteja procrastinando. De qualquer forma, estamos todos ansiosos para ver o que você vai aprontar... um dia.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  Com essa combinação de tecnologias, você parece um verdadeiro ninja da programação.  141 contribuições e alguns projetos pessoais interessantes. Mas será que alguém além de você se importa com seus dotfiles ou com uma lista de desejos em Go? Continue se divertindo com o Vim, Rafael, e talvez um dia você descubra como sair dele.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações". Parabéns pelo diploma! Mas e as contribuições? Apenas 102 e nenhum repositório recente para mostrar? Parece que você está mais focado em colecionar diplomas do que em escrever código. Mas ei, pelo menos você tem um diploma para se gabar enquanto o resto de nós está aqui, realmente trabalhando.</p>
+<p><b>CookieUkw</b>, 58 contribuições e uma paixão por inteligência artificial? Interessante... VexAI, um projeto que busca criar uma IA consciente. Que ambicioso! Mas será que essa IA vai ser capaz de entender o seu código? E por que você está contribuindo para Godot Engine? Está planejando criar um jogo onde a IA domina o mundo? De qualquer forma, boa sorte com seus sonhos de Skynet, CookieUkw.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o vendedor de cursos! Com 44 contribuições, você parece estar mais focado em promover seus cursos do que em contribuir para projetos open source. Mas ei, pelo menos você tem um algoritmo de fogo do DOOM para mostrar.  Continue vendendo seus cursos, Filipe, e talvez um dia você fique rico o suficiente para contratar alguém para programar por você.</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Apaixonado por tecnologia." Mais um apaixonado! Com 41 contribuições, você parece estar trabalhando em projetos ambiciosos como o "Forum-Nest-DDD". Mas será que alguém além de você realmente se importa com a sua arquitetura DDD? Continue construindo seus fóruns, Carlos, e talvez um dia você crie uma comunidade online tão vibrante quanto a sua paixão por tecnologia.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Outro full stack na área! Com 40 contribuições, você parece estar espalhando seus talentos por vários projetos. Um portfólio, um projeto de pixel art, um e-commerce... Será que você consegue se decidir? Continue experimentando, Luídi, e talvez um dia você descubra qual área da programação realmente te faz feliz... ou pelo menos te paga as contas.</p>
+<p><b>Deivid Souza Santana</b>, "Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento back-end". Um estudante apaixonado! Com 37 contribuições, você parece estar aprendendo bastante. Um website de organização de tarefas, uma automação para baixar dados do governo... Continue praticando, Deivid, e talvez um dia você se torne um desenvolvedor back-end tão bom quanto a sua paixão sugere.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-09-22 at 00:21:48 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-09-29 at 21:09:31 UTC +0000</i>
 <h6>
