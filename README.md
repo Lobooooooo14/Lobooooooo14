@@ -35,13 +35,13 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>27 ctr.</td>
+                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>26 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
+                <td>17 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/wTechnoo">Cézar</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>12 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
                 <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>10 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns pelo primeiro lugar! Mas não se anime muito, o topo é solitário e sua bio continua vazia, reflexo de uma vida de contribuições em projetos dos outros. Pelo menos o Rocket.Chat te notou, né? Quem sabe um dia você cria algo que as pessoas realmente usem, ao invés de só "contribuir" para o sucesso alheio.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia", que clichê! Mas, ei, pelo menos você contribui com projetos que têm mais de 30 mil estrelas. Será que um dia sua paixão vai gerar algo com mais de 10 estrelas? Continue tentando, quem sabe um dia você não precise depender do TypeORM para se sentir relevante.</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, "fã de IA", mas pelo visto, a IA ainda não é fã do seu código. Um app de edição de imagem com filtro e um boné com sensores? Parece coisa de feira de ciências do ensino médio. Mas ei, um dia você chega lá. Talvez.</p>
-<p><b>CookieUkw</b>, com contribuições em Godot, você está quase criando o próximo grande jogo. Quase. Enquanto isso, continue alimentando sua IA Vex-AI, quem sabe ela não escreve o código para você. Pelo menos você tem a desculpa de estar "construindo uma IA consciente" para justificar seus projetos inacabados.</p>
-<p><b>Cézar</b>, .NET Developer... e só? Sua lista de contribuições está tão vazia quanto a minha paciência. Espero que você esteja guardando suas energias para algo realmente impressionante, porque até agora, só decepção.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!", mas suas contribuições não dizem olá para ninguém. Um domínio ".is-a.dev" e um projeto "infinity" que parece não ter fim. Continue tentando, quem sabe um dia você encontra um projeto que te defina melhor do que "Neo".</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro clichê. E aparentemente apaixonado por criar projetos com zero estrelas. Um fórum com DDD e um downloader de Telegram? Sério? Tente algo que pelo menos uma pessoa use além de você.</p>
-<p><b>kromodoro</b>, você está contribuindo para a documentação do CakePHP? Que nobre! Mas não se esqueça de atualizar seu perfil, porque ele parece tão abandonado quanto um bolo velho. E digitalizar um livro sobre PERT? Sério? Nostalgia é bom, mas o mundo precisa de código, não de PDFs.</p>
-<p><b>LestterX</b>, contribuindo para "OsProgramadores"? Que irônico, suas contribuições parecem estar "forcando" a barra. E projetos com nomes como "forcando" não inspiram muita confiança. Mas continue tentando, quem sabe um dia você realmente "programa" algo de útil.</p>
-<p><b>Danilo Nobre</b>, full-stack, game dev e entusiasta de 3D? Uau, que currículo! Mas suas contribuições... bem, digamos que são modestas. Um fork de um addon do Blender e um site de portfólio? Continue praticando, quem sabe um dia você cria algo que realmente impressione.</p>
-<p><b>Filipe Deschamps</b>, quer que as pessoas se sintam competentes em programação? Comece contribuindo com algo mais interessante do que seus dotfiles. O "doom-fire-algorithm" é legal, mas estamos em 2025, não em 1993. E o "tabnews.com.br"? Espero que pelo menos você esteja ganhando dinheiro com isso.</p>
+    <div align="justify"><p><b>Jean Brito</b>, com 76 contribuições, liderando o ranking! Parabéns... por enquanto. Espero que essas contribuições todas não sejam só pra corrigir "vírgulas". E falando em corrigir, talvez devesse dar uma olhada na sua bio, está meio vazia, não acha? Ah, e cuidado pra não se afogar no meio de tantos Rocket.Chat, hein?</p>
+<p><b>Lucas Almeida Tiburtino da Silva</b>, com 33 contribuições. Vejo que você é fã de IA, mas será que a IA é fã de você? Seu boné com sensores é interessante, mas será que ele consegue detectar quando o código está ruim? E esse app de edição de imagem... Bom, pelo menos tem um <i>stargazer</i>. Um, Lucas, um!</p>
+<p><b>Everton Marcelino Jr.</b>, 27 contribuições. Trabalhando com TypeORM, hein? Espero que esteja escrevendo testes, porque ninguém gosta de ORMs que quebram na produção. E cuidado com o <i>formbricks</i>, vai que você acaba criando o próximo "Qualtrics".</p>
+<p><b>CookieUkw</b>, 17 contribuições. Godot Engine, Vex-AI... Parece que alguém está tentando criar o próximo jogo de sucesso ou a próxima Skynet. Mas e o seu próprio código? Ah, sim, o <i>ChatStory</i> com 4 estrelas. Quem sabe um dia você chega lá, CookieUkw. Quem sabe...</p>
+<p><b>kromodoro</b>, também com 17 contribuições. Contribuindo para a documentação do CakePHP? Que nobre! Mas e o seu perfil? Zero estrelas. Talvez seja hora de dar um <i>"bake"</i> nele. E digitalizar livros sobre PERT? Isso é mais anos 70 que discoteca, meu amigo.</p>
+<p><b>Cézar</b>, 16 contribuições. .NET Developer, hein? Cadê os repositórios? Ah, é... Nenhum à vista. Será que você está contribuindo em modo stealth? Ou será que suas contribuições estão tão escondidas quanto um bug no código de produção?</p>
+<p><b>NeO - Wesley Souza</b>, 13 contribuições. Hello outsider! Mas suas contribuições não estão muito "insider", né? Dominio .is-a.dev, um gamemode para SAMP... Parece que alguém está preso nos anos 2000. Mas ei, pelo menos você tem 2 estrelas em um projeto. Parabéns? </p>
+<p><b>Carlos Israel</b>, 12 contribuições. Software Engineer apaixonado por tecnologia, mas seus repositórios parecem mais apaixonados por ficar em zero estrelas. Forum-Nest-DDD, Telegram-Downloader-Bot... Talvez seja hora de adicionar um pouco de "paixão" ao seu código.</p>
+<p><b>Danilo Nobre</b>, 10 contribuições. Full-stack, Game dev e entusiasta de 3D. Uau, quanta coisa! Mas e as contribuições? Um profile field para Moodle e um fork de um addon para Blender. Parece que alguém está mais interessado em "fazer de tudo um pouco" do que em realmente contribuir.</p>
+<p><b>LestterX</b>, também com 10 contribuições. Contribuindo para OsProgramadores.com? Que legal! Mas e seus próprios projetos? "Forçando"? Que nome sugestivo... Será que é assim que você se sente ao programar?</p>
+<p><b>Ageu Silva</b>, com míseras 9 contribuições. 127.0.0.1, hein? Espero que você esteja contribuindo mais do que só com commits no seu próprio perfil. Um blog "digital garden"? Que poético... Mas será que ele dá frutos?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-10-05 at 00:22:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-10-06 at 00:20:20 UTC +0000</i>
 <h6>
