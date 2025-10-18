@@ -20,4 +20,4 @@ class Followers:
             self.pageInfo = PageInfo(**self.pageInfo)
 
         if isinstance(self.nodes, list):
-            self.nodes = [User(**x) for x in self.nodes]
+            self.nodes = [User(**x) for x in self.nodes if x is not None]
