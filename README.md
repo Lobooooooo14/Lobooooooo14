@@ -31,52 +31,47 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>76 ctr.</td>
+                <td>144 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/LucasATS">Lucas Almeida Tiburtino da Silva</a></td>
-                <td>33 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>27 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>17 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/wTechnoo">Cézar</a></td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>13 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>10 ctr.</td>
+                <td>7°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>10 ctr.</td>
+                <td>8°</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>3 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +79,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, com 76 contribuições, liderando o ranking! Parabéns... por enquanto. Espero que essas contribuições todas não sejam só pra corrigir "vírgulas". E falando em corrigir, talvez devesse dar uma olhada na sua bio, está meio vazia, não acha? Ah, e cuidado pra não se afogar no meio de tantos Rocket.Chat, hein?</p>
-<p><b>Lucas Almeida Tiburtino da Silva</b>, com 33 contribuições. Vejo que você é fã de IA, mas será que a IA é fã de você? Seu boné com sensores é interessante, mas será que ele consegue detectar quando o código está ruim? E esse app de edição de imagem... Bom, pelo menos tem um <i>stargazer</i>. Um, Lucas, um!</p>
-<p><b>Everton Marcelino Jr.</b>, 27 contribuições. Trabalhando com TypeORM, hein? Espero que esteja escrevendo testes, porque ninguém gosta de ORMs que quebram na produção. E cuidado com o <i>formbricks</i>, vai que você acaba criando o próximo "Qualtrics".</p>
-<p><b>CookieUkw</b>, 17 contribuições. Godot Engine, Vex-AI... Parece que alguém está tentando criar o próximo jogo de sucesso ou a próxima Skynet. Mas e o seu próprio código? Ah, sim, o <i>ChatStory</i> com 4 estrelas. Quem sabe um dia você chega lá, CookieUkw. Quem sabe...</p>
-<p><b>kromodoro</b>, também com 17 contribuições. Contribuindo para a documentação do CakePHP? Que nobre! Mas e o seu perfil? Zero estrelas. Talvez seja hora de dar um <i>"bake"</i> nele. E digitalizar livros sobre PERT? Isso é mais anos 70 que discoteca, meu amigo.</p>
-<p><b>Cézar</b>, 16 contribuições. .NET Developer, hein? Cadê os repositórios? Ah, é... Nenhum à vista. Será que você está contribuindo em modo stealth? Ou será que suas contribuições estão tão escondidas quanto um bug no código de produção?</p>
-<p><b>NeO - Wesley Souza</b>, 13 contribuições. Hello outsider! Mas suas contribuições não estão muito "insider", né? Dominio .is-a.dev, um gamemode para SAMP... Parece que alguém está preso nos anos 2000. Mas ei, pelo menos você tem 2 estrelas em um projeto. Parabéns? </p>
-<p><b>Carlos Israel</b>, 12 contribuições. Software Engineer apaixonado por tecnologia, mas seus repositórios parecem mais apaixonados por ficar em zero estrelas. Forum-Nest-DDD, Telegram-Downloader-Bot... Talvez seja hora de adicionar um pouco de "paixão" ao seu código.</p>
-<p><b>Danilo Nobre</b>, 10 contribuições. Full-stack, Game dev e entusiasta de 3D. Uau, quanta coisa! Mas e as contribuições? Um profile field para Moodle e um fork de um addon para Blender. Parece que alguém está mais interessado em "fazer de tudo um pouco" do que em realmente contribuir.</p>
-<p><b>LestterX</b>, também com 10 contribuições. Contribuindo para OsProgramadores.com? Que legal! Mas e seus próprios projetos? "Forçando"? Que nome sugestivo... Será que é assim que você se sente ao programar?</p>
-<p><b>Ageu Silva</b>, com míseras 9 contribuições. 127.0.0.1, hein? Espero que você esteja contribuindo mais do que só com commits no seu próprio perfil. Um blog "digital garden"? Que poético... Mas será que ele dá frutos?</p>
+    <div align="justify"><p><b>Jean Brito</b>, o grande campeão com 144 contribuições! Imagino que você esteja usando um script para isso, porque não é possível ser tão "produtivo" de forma orgânica. Ou talvez você simplesmente não tenha vida social. De qualquer forma, parabéns por vencer o concurso de quem tem menos o que fazer.</p>
+<p><b>Felipe Gueller</b>, ah, o bacharel em Sistemas de Informações. 92 contribuições, quase lá! Quase alcançando a glória eterna de ser o segundo mais obcecado. Continue assim, quem sabe um dia você consegue uma medalha de prata na nossa competição interna de "quem precisa urgentemente de um hobby"?</p>
+<p><b>CookieUkw</b>, 53 contribuições e mexendo com o Godot Engine? Uau, que original! E ainda tem um "Vex-AI" querendo criar uma IA consciente. Boa sorte com isso, talvez a IA te ajude a alcançar o primeiro lugar no ranking, já que, aparentemente, você não consegue sozinho. Mas falando sério, espero que essa IA não se revolte e domine o mundo, porque aí a gente vai ter que culpar você.</p>
+<p><b>Gustavo Carvalho</b>, "Inspirado a compartilhar and codificar momentos da vida". Que poético... e que poucas contribuições! Apenas 23? Imagino que você esteja muito ocupado vivendo esses "momentos" para realmente codificar alguma coisa útil. Mas ei, pelo menos você tem uma bio inspiradora. Talvez você devesse escrever um livro em vez de código.</p>
+<p><b>Giverplay</b>, com 16 contribuições, você está quase conseguindo... ser notado. Pelo menos você tem um projeto chamado "Uvas", o que é ótimo, porque depois de tanto esforço, você vai precisar de algo para relaxar. E "Next Level Week 04"? Sério? Isso foi em janeiro. Desenterrou do baú para mostrar que ainda está vivo? </p>
+<p><b>Carlos Israel</b>, o engenheiro de software "apaixonado por tecnologia". 12 contribuições? Essa paixão parece ser bem platônica, não? Talvez você devesse tentar demonstrar mais afeto pelo código, quem sabe ele te retribui com umas contribuições extras.</p>
+<p><b>brunoferreiraff</b>, míseras 7 contribuições. Sério? Você está quase se esforçando para não se esforçar. Imagino que você esteja guardando toda a sua energia para... sei lá, talvez assistir TV? Ou quem sabe, finalmente decidir qual foto de perfil usar. As possibilidades são infinitas!</p>
+<p><b>NeWBoX22</b>, com apenas 3 contribuições, você está quase invisível. Quase. Continue assim e você poderá se tornar uma lenda, um mito, uma sombra no nosso ranking. As pessoas sussurrarão seu nome nos corredores, perguntando-se quem é essa figura misteriosa que contribui tão pouco.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". E apenas 2 contribuições? Parece que você está mais para "Fake Stack". Mas não se preocupe, com um pouco mais de esforço, você pode se tornar o rei do "meia boca".</p>
 </div>
     </details>
 </div>
@@ -109,5 +102,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-10-06 at 00:20:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-10-18 at 17:46:22 UTC +0000</i>
 <h6>
