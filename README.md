@@ -30,28 +30,28 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>200 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>106 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>94 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>3°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>55 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>23 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>16 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -79,15 +79,14 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Jean Brito</b>, parabéns pelo primeiro lugar! 200 contribuições... Imagino que você esteja usando um script para isso, certo? Ninguém é tão engajado assim, a menos que esteja tentando desesperadamente impressionar alguém. Ou será que você realmente gosta de programar? Que estranho.</p>
-<p><b>Felipe Gueller</b>, com suas 94 contribuições, quase lá! Quase alcançando a glória eterna... ou pelo menos um lugar melhor no ranking. Mas ei, pelo menos você tem uma bio detalhada. Alguém se importa com o seu bacharelado em Sistemas de Informações? Duvido.</p>
-<p><b>CookieUkw</b>, ah, o terceiro lugar, com 55 contribuições. Vejo que você anda metido com a Godot Engine. Tentando fazer um joguinho indie para finalmente sair do porão da sua mãe? Boa sorte com isso. E esse ChatStory... Hilário. Sério, quem precisa de IA quando se tem HTML e JavaScript?</p>
-<p><b>Gustavo Carvalho</b>, "Inventor de componentes e animações". Que pretensão, hein? Com apenas 23 contribuições, acho que você está mais para "aspirante a inventor". Mas não se preocupe, um dia você chega lá. Talvez.</p>
-<p><b>giverplay</b>, 16 contribuições... Quase chegando aos dois dígitos! E "Uvas"? Sério? Espero que seja mais interessante que a fruta. E esse clone do TabNews... Originalidade mandou lembranças. Mas ei, pelo menos você tem alguns projetos com 0 <i>stargazers</i>. Isso que é popularidade!</p>
-<p><b>Carlos Israel</b>, "apaixonado por tecnologia" com 12 contribuições. Que clichê! Aposto que você também gosta de café e odeia segunda-feira. Mas ei, pelo menos você tem uma bio. Isso já te coloca à frente de alguns.</p>
-<p><b>brunoferreiraff</b>, 7 contribuições e nem uma bio? Você é o ninja silencioso da programação. Ou talvez só esteja esquecendo de atualizar seu perfil. De qualquer forma, continue assim, ninguém vai notar mesmo.</p>
-<p><b>NeWBoX22</b>, com 3 contribuições, você está quase alcançando a marca de "inexistente". Mas não se preocupe, sempre há espaço para melhorar. Ou piorar. Tanto faz.</p>
-<p><b>Lúddi Pires</b>, 2 contribuições. Parabéns, você quase não fez nada! Front-End, Back-End, Full Stack... Parece que você está mais para "meio stack". Mas ei, pelo menos você tentou. Quase.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar! 106 contribuições... Uau. Quase uma por dia, hein? Será que você está contribuindo ou só floodando os repositórios alheios com "correções" de ponto e vírgula? Mas ei, quem sou eu para julgar? Afinal, alguém precisa manter o GitHub funcionando, mesmo que seja à custa da sanidade dos outros.</p>
+<p><b>CookieUkw</b>, segundo lugar, que honra! Contribuições em Godot Engine, que chique. Mas peraí, também tem um "ChatStory"? Ah, que fofo, um projeto pessoal com míseros 4 <i>stargazers</i>. Imagino as noites em claro para manter essa maravilha funcionando. E Vex-AI? Tentando criar uma IA consciente? Boa sorte com isso, talvez ela te ajude a subir no ranking no próximo mês.</p>
+<p><b>Gustavo Carvalho</b>, ah, o terceiro lugar. "Escritor de contos e experimentos aleatórios". Que sonhador! Aposto que suas contribuições são tão abstratas quanto sua bio. 23 contribuições? Isso é o suficiente para te manter relevante, mas não o suficiente para te dar o direito de se gabar. Continue assim, quem sabe um dia você chega lá... ou não.</p>
+<p><b>Giverplay</b>, "Olá, estranho!". Que simpático. Projetos "próprios" com 4 <i>stargazers</i> e um clone do TabNews. Originalidade mandou lembranças. Mas ei, pelo menos você tem um perfil no Discord, né? Quem sabe você não encontra umas almas perdidas por lá para te darem um pouco de atenção. 16 contribuições, quase lá, continue se esforçando.</p>
+<p><b>LestterX</b>, em quinto lugar, com 15 contribuições. Sem bio, sem brilho, sem nada. Você é o ninja silencioso das contribuições, não é? Ninguém sabe o que você faz, mas de alguma forma você está ali. Continue assim, LestterX, o mundo precisa de pessoas como você... ou não.</p>
+<p><b>Carlos Israel</b>, um "Software Engineer" apaixonado por tecnologia. Que clichê! Mas ei, pelo menos você tem uma bio, o que já te coloca à frente de alguns aqui. 12 contribuições? Isso é o suficiente para pagar as contas? Se não for, talvez seja hora de contribuir mais e reclamar menos. Só uma sugestão.</p>
+<p><b>brunoferreiraff</b>, 7 contribuições. Quase irrelevante. Mas não se preocupe, sempre há espaço para melhorias. Ou pioras, dependendo do seu ponto de vista. Sem bio, sem projetos interessantes, sem nada para comentar. Mas ei, pelo menos você está na lista, né?</p>
+<p><b>Gabriel Carvalho</b> e <b>NeWBoX22</b>, ambos com 4 contribuições. Parabéns, vocês empataram na mediocridade! Que feito! Sério, 4 contribuições? Vocês estão aqui só para fazer número? Ou será que estão esperando um milagre acontecer? De qualquer forma, boa sorte com isso. Vocês vão precisar.</p>
 </div>
     </details>
 </div>
@@ -102,5 +101,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-10-21 at 00:20:29 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-10-22 at 00:20:51 UTC +0000</i>
 <h6>
