@@ -11,7 +11,7 @@ jobs:
       - name: 🐍 Generating Snakommits
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Lobooooooo14
+          github_user_name: olob0
           outputs: |
             .github/assets/snakes/snake-light.svg
             .github/assets/snakes/snake-dark.svg?palette=github-dark
