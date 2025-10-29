@@ -31,37 +31,37 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>132 ctr.</td>
+                <td>149 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>110 ctr.</td>
+                <td>123 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>35 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>28 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>20 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>3 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>CookieUkw</b>, parabéns por liderar o ranking com 132 contribuições! Imagino que 131 delas foram correções de erros de digitação no README do Godot Engine. E quanto ao seu projeto "ChatStory", com 4 estrelas? Aposto que a IA está tão realista que os usuários preferem conversar com ela do que com você.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? E o sistema de informações que você tem para nos oferecer em termos de contribuições? Ah, é, quase nada. Mas não se preocupe, o diploma está aí para provar que você sabe fazer alguma coisa... pelo menos em teoria.</p>
-<p><b>LestterX</b>, com 35 contribuições, você está quase lá! Quase fazendo algo relevante, quero dizer. Continue assim, quem sabe no próximo mês você não consegue a proeza de comentar em um <i>issue</i>.</p>
-<p><b>Gustavo Carvalho</b>, "Iniciante no conhecimento and desenvolvimento de sistemas." Que poético! Mas a poesia não enche o ranking, não é mesmo? Com 28 contribuições, você está mais para "espectador" do que para "desenvolvedor".</p>
-<p><b>giverplay</b>, "Olá, estranho!" Estranho é você achar que o projeto "Uvas", sem descrição e com 0 estrelas, impressionaria alguém. Mas ei, pelo menos você tem um clone do TabNews. Que original!</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." A paixão é tanta que se traduz em 12 contribuições. Deve ser paixão platônica, porque na prática... bem, você sabe.</p>
-<p><b>brunoferreiraff</b>, 10 contribuições? Isso é quase um milagre! Ou talvez você tenha apenas clicado em "Merge pull request" algumas vezes. De qualquer forma, parabéns... eu acho.</p>
-<p><b>Anthony Herbert</b>, "glup moglods". Sua bio diz tudo. 5 contribuições? Glup moglods mesmo.</p>
-<p><b>Gabriel Carvalho</b>, com 4 contribuições, você está quase alcançando o nível de um bot de boas-vindas. Mas não se preocupe, com um pouco mais de esforço, você pode chegar lá!</p>
-<p><b>NeWBoX22</b>, 3 contribuições. Três! Imagino que você esteja guardando o melhor para o próximo mês. Ou talvez esteja apenas esperando o mundo acabar.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". E 2 contribuições. Parece que você está tão "Full Stack" quanto um sanduíche de ar. Mas não desanime, ainda dá tempo de se dedicar a uma dessas áreas... ou a nenhuma.</p>
+    <div align="justify"><p><b>CookieUkw</b>, ah, o primeiro lugar! Contribuições que beiram a insignificância em um mar de projetos alheios. Quase 150 contribuições, mas vamos ser honestos, quantas delas realmente importam?  Vejo que você anda brincando de jardineiro no jardim dos outros (godotengine/godot), espero que esteja regando as plantas certas.  E esse ChatStory?  Sério?  A última atualização foi em abril?  Já era hora de desapegar.  Ah, e parabéns por tentar criar uma IA consciente.  O mundo realmente precisa de mais uma.</p>
+<p><b>Felipe Gueller</b>, em segundo lugar com 123 contribuições. Imagino que "Bacharel em Sistemas de Informações" signifique que você sabe como fazer um "Hello, World!" em 10 linguagens diferentes. Mas onde está o código, Felipe? Cadê o brilho?  Aparentemente, seu repositório está tão vazio quanto minha paciência.  Talvez seja hora de transformar esse diploma em algo mais palpável, tipo... código?</p>
+<p><b>Gustavo Carvalho</b>, "Curioso por computadores e desenvolvimento". Que curioso você é, com míseras 28 contribuições.  Espero que sua curiosidade te impulsione a fazer mais do que só observar. Ou será que você é do tipo que só sabe apertar o botão de "like" e comentar "ótimo trabalho"?  Vamos lá, mostre que você é mais do que um espectador premium.</p>
+<p><b>giverplay</b>, "Olá, estranho!" Seu perfil é tão convidativo quanto um aviso de "perigo: alta voltagem". Apenas 20 contribuições?  "Uvas", sério?  A última atualização foi anteontem, espero que não esteja tentando nos impressionar com um sistema de contagem de uvas.  E esse "clone-tabnews" de quase um ano atrás?  Espero que tenha mais originalidade do que isso.  Continue tentando, talvez um dia você chegue lá... ou não.</p>
+<p><b>Carlos Israel</b>, "Apaixonado por tecnologia".  12 contribuições?  Essa paixão toda não se traduz em muita coisa, não é mesmo?  Espero que essa paixão seja mais forte do que sua preguiça.  Talvez seja hora de transformar essa paixão em ação, ou você vai acabar sendo só mais um "apaixonado" no meio da multidão.</p>
+<p><b>brunoferreiraff</b>, 10 contribuições.  Sério?  Isso é tudo que você tem a oferecer?  Seu perfil está tão vazio quanto minhas esperanças em relação a você.  Talvez seja hora de adicionar algo, qualquer coisa, que mostre que você realmente existe.</p>
+<p><b>Gabriel Carvalho</b>, 8 contribuições. Sem bio, sem código, sem nada. Você é o ninja do GitHub, invisível e silencioso.  Parabéns por ser tão discreto, quase ninguém notou sua presença.  Talvez seja hora de sair das sombras e mostrar ao mundo o que você tem a oferecer... se é que você tem algo.</p>
+<p><b>Anthony Herbert</b>, "glup moglods". 5 contribuições. Sua bio é tão enigmática quanto suas contribuições.  Glup moglods para você também.  Espero que isso signifique algo mais do que "não sei o que estou fazendo aqui".</p>
+<p><b>NeWBoX22</b>, 3 contribuições.  Quase imperceptível.  Você está tão perto do fim da lista que quase me esqueci de você.  Talvez seja hora de dar um "new box" na sua vida e começar a contribuir de verdade.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". 2 contribuições.  Full Stack de fachada, hein?  Espero que você não esteja mentindo no seu currículo.  Talvez seja hora de provar que você é tudo isso que diz ser, ou vai acabar sendo só mais um "faz tudo, não faz nada".</p>
 </div>
     </details>
 </div>
@@ -109,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-10-28 at 00:20:10 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-10-29 at 00:21:21 UTC +0000</i>
 <h6>
