@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>132 ctr.</td>
+                <td>140 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -55,26 +55,21 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>11 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
                 <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>2 ctr.</td>
             </tr>
@@ -84,16 +79,14 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>CookieUkw</b>, ah, o primeiro lugar com 155 contribuições. Impressionante. Quase dá para notar sua existência no <i>godotengine/godot</i>. E que tal o seu <i>cookieukw/ChatStory</i>? Ah, sim, aquele projeto de 2022 que não vê uma atualização desde Abril. Que dedicação!</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? E as contribuições? Ah, sim, 132. Quase alcançou o CookieUkw. Mas, ei, pelo menos você tem uma bio elaborada, diferente de alguns por aqui. Pena que sua atividade recente é inexistente. Quem sabe no próximo mês, não é mesmo?</p>
-<p><b>Gustavo Carvalho</b>, "Criador de computadores inteligentes"... Que pretensão! 28 contribuições? Isso é o suficiente para criar um computador de ábaco, talvez. Mas ei, pelo menos a bio é inspiradora. Continue sonhando alto!</p>
-<p><b>Giverplay</b>, "Olá, estranho!". Estranho é você achando que 20 contribuições impressionam alguém. Ainda bem que você tem o Discord para se sentir importante. E esse <i>Uvas</i>, hein? Atualizado há poucos dias, mas com zero estrelas. Que sucesso!</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia", diz ele com 13 contribuições. A paixão é tanta que ele não consegue demonstrar em código. Mas ei, pelo menos ele tem uma bio clichê para impressionar recrutadores desavisados. Continue sonhando em ser o próximo Bill Gates.</p>
-<p><b>Anthony Herbert</b>, "glup moglods". Sem comentários. Pelo menos é honesto. 11 contribuições, o suficiente para dizer que fez algo. Talvez no próximo mês ele consiga escrever uma bio que faça sentido. Ou não.</p>
-<p><b>Gabriel Carvalho</b>, sem bio, sem alma, 11 contribuições. Praticamente um fantasma digital. Será que ele realmente existe ou é apenas um bot disfarçado? Mistérios da internet...</p>
-<p><b>brunoferreiraff</b>, sem bio, 10 contribuições. Quase podemos sentir a motivação pulsando através do seu perfil... Quase.</p>
-<p><b>NeWBoX22</b>, 3 contribuições. É melhor nem comentar. Mas ei, pelo menos ele está no ranking. Isso já é uma vitória, certo?</p>
-<p><b>Luídi Pires</b>, "Full Stack", com 2 contribuições. Essa é a definição de "malabarista de uma bola só". Mas ei, pelo menos ele tem a audácia de se auto-intitular "Full Stack". Continue sonhando, Luídi!</p>
+    <div align="justify"><p><b>CookieUkw</b>, 155 contribuições? Imagino que a maior parte seja adicionar ponto e vírgula no Godot Engine, né? E esse ChatStory com 4 estrelas, a próxima revolução da IA? Ah, e Vex-AI... "capaz de manter conversas normais"... espero que pelo menos não te peça em casamento.</p>
+<p><b>Felipe Gueller</b>, 140 contribuições, hein? Quase alcançando o CookieUkw! Pena que sua atividade recente é... inexistente. Tirando o pó do GitHub, Felipe? Acorda pra vida, camarada, o trem já partiu!</p>
+<p><b>Gustavo Carvalho</b>, com 28 contribuições e uma bio que parece um enigma egípcio, você está quase lá... quase não contribuindo para nada. Mas ei, pelo menos você tem uma bio criativa, diferente de alguns por aqui. Prioridades, né?</p>
+<p><b>Giverplay</b>, 20 contribuições... e um repositório chamado "Uvas" atualizado há uns dias. Seria esse o projeto secreto para a vinícola do futuro? Ah, e o "clone-tabnews" de quase um ano atrás? Inovador! Próximo Elon Musk aí, gente.</p>
+<p><b>Carlos Israel</b> e <b>brunoferreiraff</b>, um empate glorioso com 13 contribuições cada. Imagino que estejam competindo para ver quem consegue menos atividade no GitHub. Continuem assim, o mundo precisa de mais espectadores.</p>
+<p><b>Anthony Herbert</b>, "glup moglods" e 11 contribuições. Sua bio é tão misteriosa quanto sua atividade no GitHub. Estaria você codificando em uma língua ancestral desconhecida? Ou será que "glup moglods" é a senha para o seu próximo commit?</p>
+<p><b>NeWBoX22</b>, 3 contribuições. Parabéns, você está quase no nível "usuário fantasma". Continue assim e logo, logo ninguém vai lembrar que você existe por aqui. Mas ei, quem precisa de reconhecimento, não é mesmo?</p>
+<p><b>Luídi Pires</b>, com míseras 2 contribuições, você está quase provando que é possível ter menos atividade que o NeWBoX22. Front-End, Back-End, Full Stack... e zero commits? Talvez seja hora de focar em "No-End".</p>
 </div>
     </details>
 </div>
@@ -108,5 +101,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-10-30 at 00:21:30 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-10-31 at 00:20:43 UTC +0000</i>
 <h6>
