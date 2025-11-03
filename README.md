@@ -30,13 +30,13 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -45,6 +45,16 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>1 ctr.</td>
             </tr>
@@ -54,10 +64,12 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Gustavo Carvalho, o "cientista de computação aspirante". Quatro contribuições? É isso que te define? Espero que sua bio seja mais impressionante que seu histórico de commits, porque até agora, parece que você está mais aspirando do que realizando. E nenhum repositório recente? Sério? Está esperando a inspiração divina ou algo assim? Acorda pra vida!</p>
-<p>Al Yasir, o "amante da ciência e matemática". Duas contribuições, hein? Imagino que esteja muito ocupado resolvendo equações diferenciais para se preocupar com o mundo real. "MashAllah por tudo", inclusive por essa sua participação pífia. Continue amando a ciência, quem sabe um dia ela te ame de volta com uns commits decentes.</p>
-<p>Anthony Herbert, "glup moglods". Sua bio é tão enigmática quanto suas contribuições. Duas? Glup moglods para você também. Espero que isso signifique algo mais profundo do que a minha decepção com sua falta de empenho. Da próxima vez, tente algo mais substancial, tipo "adicionado um ponto e vírgula crucial".</p>
-<p>LestterX, o misterioso. Sem bio, apenas uma solitária contribuição. É você o ninja silencioso do código? O fantasma que ocasionalmente toca no repositório e desaparece nas sombras? Seus colegas estão ansiosos para ver sua próxima aparição, talvez antes do próximo ranking. Ou talvez você prefira continuar sendo uma lenda urbana.</p>
+    <div align="justify"><p><b>Al Yasir</b>, parabéns pelo primeiro lugar, 35 contribuições! Imagino que você esteja se sentindo o próprio Lobo, só que menos... peludo? Continue assim, quem sabe um dia você chega lá. Ou não.</p>
+<p><b>Gustavo Carvalho</b>, com míseras 4 contribuições, você está quase se escondendo atrás do seu <i>"interesse em computação e segurança"</i>. Sério, o que você fez esse mês além de ler notícias sobre ataques cibernéticos?</p>
+<p><b>Anthony Herbert</b>, "glup moglods", hein? Sua bio reflete perfeitamente suas 2 contribuições. Continue com essa dedicação e você poderá um dia aspirar ao glorioso posto de... espectador.</p>
+<p><b>CookieUkw</b>, oh, um commit no Godot Engine, que legal! Aposto que você mudou uma vírgula e agora se sente parte da história. E esse seu projeto de "IA consciente"? Hilário. Boa sorte com isso.</p>
+<p><b>Gabriel Carvalho</b>, uma única contribuição? Espero que tenha valido a pena. Talvez um dia você consiga se destacar... na multidão dos que não contribuem.</p>
+<p><b>LestterX</b>, sem bio e com uma contribuição. Você é o ninja silencioso da inatividade. Parabéns por ser tão... discreto. </p>
 </div>
     </details>
 </div>
@@ -72,5 +84,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-02 at 00:22:15 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-03 at 00:22:14 UTC +0000</i>
 <h6>
