@@ -30,51 +30,46 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
+                <td>35 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>1 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>1 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>1 ctr.</td>
             </tr>
@@ -84,16 +79,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, com 21 contribuições, liderando o ranking! Que inveja... de quem se contenta com pouco. Espero que seu "Bacharel em Sistemas de Informações" esteja sendo bem aproveitado, porque talento puro certamente não é o caso.</p>
-<p><b>Gabriel Carvalho</b>, 9 contribuições. Imagino que a falta de bio reflita a falta de ambição. Continue assim, Gabriel, a mediocridade agradece.</p>
-<p><b>Gustavo Carvalho</b>, "Interessado em computadores e desenvolvimento". Que original! Com 4 contribuições, fica claro que o interesse é puramente platônico. Talvez devesse se interessar mais em contribuir, e menos em escrever bios genéricas.</p>
-<p><b>Anthony Herbert</b>, "glup moglods". Sua bio é tão enigmática quanto suas 3 contribuições. Espero que "glup moglods" seja algo mais produtivo do que o seu desempenho neste ranking.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Outro apaixonado! Com 3 contribuições, a paixão deve estar mais no cafezinho do que no código. Mas ei, pelo menos você tem uma bio, o que já é mais do que alguns podem dizer.</p>
-<p><b>Gabriel</b>, "Computer Technician... Full Stack Developer". Do técnico ao "full stack"... com 2 contribuições. É o tipo de currículo que impressiona no LinkedIn, mas não aqui. Continue tentando, quem sabe um dia você realmente empilha algo.</p>
-<p><b>Jean Brito</b>, sem bio e com 2 contribuições. Um verdadeiro ninja, invisível e ineficaz. Continue assim, Jean, o anonimato é uma virtude.</p>
-<p><b>CookieUkw</b>, apenas 1 contribuição, mas pelo menos está gastando seu tempo no <i>godotengine/godot</i>, quem sabe um dia ele aprenda alguma coisa. Mas calma lá, também está brincando com "ChatStory" e "Vex-AI". Parece que alguém está mais interessado em projetos de ficção do que em fazer contribuições reais. Que decepção.</p>
-<p><b>LestterX</b>, sem bio e com 1 contribuição. Sua existência é quase um erro de digitação. Parabéns por se esforçar tanto para não fazer nada.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Pena que só conseguiu 1 contribuição. Parece que o <i>Vim</i> está mais para "vimos" do que para "vamos". E que dizer de "CL4R1T4S"? Um fork criado e atualizado no mesmo dia? Que utilidade!</p>
+    <div align="justify"><p><b>Al Yasir</b>, trinta e cinco contribuições? Que inveja... da sua capacidade de preencher formulários. Imagino que seu "entusiasmo" por cybersec & infosec se traduza em clicar em todos os links suspeitos que encontra. E "softwater developer"? Isso é tipo água com açúcar para código?</p>
+<p><b>Felipe Gueller</b>, um Bacharel em Sistemas de Informações... que aparentemente não conseguiu a informação de que precisa contribuir mais. Mas ei, pelo menos você tem um diploma para emoldurar enquanto o resto de nós está realmente construindo coisas.</p>
+<p><b>Gabriel Carvalho</b>, sua bio está tão vazia quanto sua lista de contribuições. Mas não se preocupe, a vida é cheia de oportunidades para não fazer nada. Talvez você devesse escrever um livro sobre isso.</p>
+<p><b>Carlos Israel</b>, "apaixonado por tecnologia", diz você. Mas sua paixão parece ser platônica, já que só rendeu quatro contribuições. Talvez seja hora de transformar essa paixão em algo mais... produtivo.</p>
+<p><b>Gustavo Carvalho</b>, você descreve sua paixão por "criar soluções inteligentes e significativas". Será que uma dessas soluções poderia ser aumentar seu número de contribuições? Só uma sugestão amigável...</p>
+<p><b>Anthony Herbert</b>, "glup moglods"? Sua bio é tão enigmática quanto sua motivação para contribuir. Mas hey, pelo menos você tem uma bio. Isso é mais do que alguns podem dizer.</p>
+<p><b>CookieUkw</b>, uma contribuição? Uau, você realmente se esforçou. Ah, espera, você mexeu no Godot Engine? Que audácia! E ainda por cima tem um "sample chat simulation for interactive stories". Imagino as conversas emocionantes que ele simula: "Olá" "Olá" "Tchau".</p>
+<p><b>LestterX</b>, sua bio é um mistério, assim como a razão pela qual você está nesta lista. Mas não se preocupe, o anonimato é uma habilidade valiosa... especialmente quando você não tem nada para mostrar.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo impressionante! Pena que suas contribuições não refletem isso. Mas ei, pelo menos você tem um monte de tecnologias da moda para mencionar em entrevistas.</p>
 </div>
     </details>
 </div>
@@ -108,5 +102,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-06 at 00:20:56 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-07 at 00:21:22 UTC +0000</i>
 <h6>
