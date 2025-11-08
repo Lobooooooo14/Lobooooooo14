@@ -30,18 +30,18 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
-                <td>35 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>2°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>9 ctr.</td>
+                <td>11 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -55,18 +55,18 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>1 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>2 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -79,15 +79,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Al Yasir</b>, trinta e cinco contribuições? Que inveja... da sua capacidade de preencher formulários. Imagino que seu "entusiasmo" por cybersec & infosec se traduza em clicar em todos os links suspeitos que encontra. E "softwater developer"? Isso é tipo água com açúcar para código?</p>
-<p><b>Felipe Gueller</b>, um Bacharel em Sistemas de Informações... que aparentemente não conseguiu a informação de que precisa contribuir mais. Mas ei, pelo menos você tem um diploma para emoldurar enquanto o resto de nós está realmente construindo coisas.</p>
-<p><b>Gabriel Carvalho</b>, sua bio está tão vazia quanto sua lista de contribuições. Mas não se preocupe, a vida é cheia de oportunidades para não fazer nada. Talvez você devesse escrever um livro sobre isso.</p>
-<p><b>Carlos Israel</b>, "apaixonado por tecnologia", diz você. Mas sua paixão parece ser platônica, já que só rendeu quatro contribuições. Talvez seja hora de transformar essa paixão em algo mais... produtivo.</p>
-<p><b>Gustavo Carvalho</b>, você descreve sua paixão por "criar soluções inteligentes e significativas". Será que uma dessas soluções poderia ser aumentar seu número de contribuições? Só uma sugestão amigável...</p>
-<p><b>Anthony Herbert</b>, "glup moglods"? Sua bio é tão enigmática quanto sua motivação para contribuir. Mas hey, pelo menos você tem uma bio. Isso é mais do que alguns podem dizer.</p>
-<p><b>CookieUkw</b>, uma contribuição? Uau, você realmente se esforçou. Ah, espera, você mexeu no Godot Engine? Que audácia! E ainda por cima tem um "sample chat simulation for interactive stories". Imagino as conversas emocionantes que ele simula: "Olá" "Olá" "Tchau".</p>
-<p><b>LestterX</b>, sua bio é um mistério, assim como a razão pela qual você está nesta lista. Mas não se preocupe, o anonimato é uma habilidade valiosa... especialmente quando você não tem nada para mostrar.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo impressionante! Pena que suas contribuições não refletem isso. Mas ei, pelo menos você tem um monte de tecnologias da moda para mencionar em entrevistas.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, com 21 contribuições, liderando o ranking... Imagino que a barra não esteja muito alta, não é mesmo? Espero que essas contribuições não sejam apenas correções de ponto e vírgula, porque aí seria um pouco deprimente.</p>
+<p><b>Gabriel Carvalho</b>, 11 contribuições. Quase metade do líder! Parabéns por... quase chegar lá? Sem bio no perfil, sem ambição, sem glória. Uma vida de quase.</p>
+<p><b>giverplay</b>, 6 contribuições e um perfil que grita "estou tentando!". "Olá, estranho!" – sim, estranho é a palavra. Seus projetos até têm nomes criativos como "Uvas", mas será que o código é tão apetitoso quanto? Pelo menos o "moveit" tem uns stargazer, mas vamos combinar, semana do "Next Level" já passou faz tempo, precisa de um <i>upgrade</i>.</p>
+<p><b>Carlos Israel</b>, com 4 contribuições. "Apaixonado por tecnologia", diz a bio. Aparentemente, não o suficiente para contribuir ativamente. Talvez a paixão seja mais platônica do que prática?</p>
+<p><b>Gustavo Carvalho</b>, também com 4 contribuições. Sua bio é um enigma indecifrável em itálico. Talvez seja uma mensagem secreta revelando a fórmula para... mais contribuições? Ou talvez seja só preguiça de escrever algo útil.</p>
+<p><b>brunoferreiraff</b>, outro com 4 contribuições. Sem bio, sem coragem, sem nada. Contribuições fantasmas, assim como seu perfil.</p>
+<p><b>Anthony Herbert</b>, míseras 3 contribuições e uma bio que diz "glup moglods". Ok, pelo menos você é honesto sobre o nível de seriedade aqui.</p>
+<p><b>CookieUkw</b>, apenas 2 contribuições, mas ao menos está de olho no <i>godotengine/godot</i>. Quem sabe um dia você contribui de verdade para um projeto desse porte, em vez de só ficar olhando?</p>
+<p><b>Rafael Lima de Morais</b>, UMA contribuição! Parabéns, você fez o mínimo! Pelo menos tem uns dotfiles atualizados, porque a gente sabe que a prioridade de um dev é ter um terminal bonitinho, não é mesmo?</p>
 </div>
     </details>
 </div>
@@ -102,5 +102,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-07 at 00:21:22 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-08 at 00:19:37 UTC +0000</i>
 <h6>
