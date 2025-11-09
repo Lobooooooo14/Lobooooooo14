@@ -30,38 +30,38 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
+                <td>36 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>11 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>4 ctr.</td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,6 +70,11 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>1 ctr.</td>
             </tr>
@@ -79,15 +84,13 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, com 21 contribuições, liderando o ranking... Imagino que a barra não esteja muito alta, não é mesmo? Espero que essas contribuições não sejam apenas correções de ponto e vírgula, porque aí seria um pouco deprimente.</p>
-<p><b>Gabriel Carvalho</b>, 11 contribuições. Quase metade do líder! Parabéns por... quase chegar lá? Sem bio no perfil, sem ambição, sem glória. Uma vida de quase.</p>
-<p><b>giverplay</b>, 6 contribuições e um perfil que grita "estou tentando!". "Olá, estranho!" – sim, estranho é a palavra. Seus projetos até têm nomes criativos como "Uvas", mas será que o código é tão apetitoso quanto? Pelo menos o "moveit" tem uns stargazer, mas vamos combinar, semana do "Next Level" já passou faz tempo, precisa de um <i>upgrade</i>.</p>
-<p><b>Carlos Israel</b>, com 4 contribuições. "Apaixonado por tecnologia", diz a bio. Aparentemente, não o suficiente para contribuir ativamente. Talvez a paixão seja mais platônica do que prática?</p>
-<p><b>Gustavo Carvalho</b>, também com 4 contribuições. Sua bio é um enigma indecifrável em itálico. Talvez seja uma mensagem secreta revelando a fórmula para... mais contribuições? Ou talvez seja só preguiça de escrever algo útil.</p>
-<p><b>brunoferreiraff</b>, outro com 4 contribuições. Sem bio, sem coragem, sem nada. Contribuições fantasmas, assim como seu perfil.</p>
-<p><b>Anthony Herbert</b>, míseras 3 contribuições e uma bio que diz "glup moglods". Ok, pelo menos você é honesto sobre o nível de seriedade aqui.</p>
-<p><b>CookieUkw</b>, apenas 2 contribuições, mas ao menos está de olho no <i>godotengine/godot</i>. Quem sabe um dia você contribui de verdade para um projeto desse porte, em vez de só ficar olhando?</p>
-<p><b>Rafael Lima de Morais</b>, UMA contribuição! Parabéns, você fez o mínimo! Pelo menos tem uns dotfiles atualizados, porque a gente sabe que a prioridade de um dev é ter um terminal bonitinho, não é mesmo?</p>
+    <div align="justify"><p><b>Al Yasir</b>, com 36 contribuições, liderando o ranking. Imagino que esteja se sentindo o próprio "Lobo" agora, não é? Mas lembre-se, ainda é só um rankingzinho. Aproveite a liderança, porque a queda pode ser feia.</p>
+<p><b>Felipe Gueller</b>, 21 contribuições. Ah, o eterno segundo lugar... Quase lá, mas não o bastante. Continue tentando, quem sabe um dia você chega perto de incomodar o primeiro. Ou não.</p>
+<p><b>Gabriel Carvalho</b>, 12 contribuições. Hm, um esforço honesto. Mas honestidade te leva a algum lugar? Duvido. A não ser que seu objetivo seja ser medíocre.</p>
+<p><b>Carlos Israel</b> e <b>giverplay</b>, ambos com 6 contribuições. Que belo empate... na mediocridade. Pelo menos vocês têm companhia. Giverplay, notei que seu "moveit" tem 4 estrelas. Parabéns? E desde Janeiro que você não mexe nele?</p>
+<p><b>Anthony Herbert</b> e <b>Gustavo Carvalho</b>, com 4 contribuições. Quatro? Isso é o número de commits que um estagiário faz antes do almoço. Mas ei, pelo menos vocês tentaram. Ou não.</p>
+<p><b>CookieUkw</b>, apenas 2 contribuições. Mas ei, você contribuiu para o Godot Engine! Impressionante... se alguém realmente se importasse. Mas falando sério, o que é essa sua obsessão com IA?</p>
+<p><b>LestterX</b> e <b>Rafael Lima de Morais</b>, com mísera 1 contribuição. Uma única contribuição? Sério? Imagino que vocês estejam orgulhosos de si mesmos. Rafael, "dotfiles" atualizado recentemente? Que emocionante. Imagino que isso te ajude a dormir à noite.</p>
 </div>
     </details>
 </div>
@@ -102,5 +105,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-08 at 00:19:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-09 at 00:22:46 UTC +0000</i>
 <h6>
