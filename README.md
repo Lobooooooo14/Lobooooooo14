@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>23 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,27 +41,27 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
-                <td>6 ctr.</td>
+                <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>6 ctr.</td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>6 ctr.</td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,12 +70,12 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>2 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, em primeiro lugar com 23 contribuições... Imagino que a barra estava bem baixa este mês. Espero que pelo menos tenha sido algo útil, e não só correção de ponto e vírgula. Ah, e cadê os seus projetos? O que você anda fazendo além de seguir o Lobo?</p>
-<p><b>Gabriel Carvalho</b>, 14 contribuições? Quase alcançou o primeiro lugar, mas "quase" não enche a geladeira. Que tal sair do quase e mostrar para que veio? Ou vai continuar sendo só mais um na multidão?</p>
-<p><b>Anthony Herbert</b>, "glup moglods"? Sério? Sua bio é tão misteriosa quanto suas 6 contribuições. Pelo menos sabemos que você existe, diferente de alguns por aqui.</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia". Que clichê! Mas e aí, essa paixão se traduz em algo além de 6 contribuições? Mostre que você não é só mais um "apaixonado" genérico.</p>
-<p><b>Jean Brito</b>, sem bio, sem histórico... Você é o fantasma do ranking. 6 contribuições é o suficiente para provar que você não é um bot, mas não muito mais que isso.</p>
-<p><b>brunoferreiraff</b>, bio nula, contribuições na mesma linha. Imagino que você esteja no "modo stealth". Mas lembre-se, até fantasmas precisam fazer alguma coisa para serem notados.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Seus projetos até que chamam a atenção, com destaque para o "moveit" com seus 4 Stargazers, mas suas 6 contribuições no ranking ainda não impressionam. Será que dá pra transformar esses projetos em algo mais impactante?</p>
-<p><b>Gustavo Carvalho</b>, sua bio é indecifrável, assim como a razão de você estar nesse ranking com míseras 4 contribuições. Da próxima vez, traga algo que faça sentido, tanto na bio quanto nas contribuições.</p>
-<p><b>CookieUkw</b>, vejo ali que você contribuiu para o Godot Engine! Uau, impressionante...pena que sua contribuição se perdeu no meio de 103103 estrelas. Quem sabe da próxima você não cria algo que brilhe sozinho?</p>
-<p><b>Gabriel</b>, técnico em informática e Full Stack Developer? Deveria estar liderando esse ranking, não empatado lá embaixo com 2 contribuições. Acorda pra vida e mostra o que você sabe fazer!</p>
-<p><b>LestterX</b>, outro fantasma sem bio e com apenas 2 contribuições. Começo a achar que esse ranking está atraindo mais "lurkers" do que contribuidores de verdade. Se apresente, mostre a que veio, ou suma de vez!</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar com 49 contribuições! Imagino que esteja se sentindo o próprio "Lobo" agora, não é mesmo? Só não vá se acostumando muito com essa posição, porque a concorrência está faminta... ou nem tanto.</p>
+<p><b>Gabriel Carvalho</b>, 14 contribuições... hmm, isso é mais ou menos a quantidade de vezes que eu bocejo em uma reunião. Mas ei, cada contribuição conta, certo? Continue assim e talvez um dia você chegue lá... talvez.</p>
+<p><b>Anthony Herbert</b>, "glup moglods"? Sério? Essa é a sua bio? Ok, suas 9 contribuições até que são mais compreensíveis agora. Mas falando sério, o que significa "glup moglods"? Estou genuinamente curioso (e um pouco preocupado).</p>
+<p><b>Carlos Israel</b>, um "Software Engineer" apaixonado por tecnologia, hein? Que clichê! Mas ei, pelo menos você tem 8 contribuições para mostrar que não está só de papo. Continue assim e talvez um dia você possa realmente impressionar alguém.</p>
+<p><b>Jean Brito</b>, sua bio está tão vazia quanto minha paciência para gente que não se esforça. 7 contribuições... bom, pelo menos você não está zerado. Mas vamos lá, mostre que você é mais do que um fantasma no GitHub!</p>
+<p><b>giverplay</b>, "Olá, estranho!"? Que simpático da sua parte! Vejo que você tem alguns projetos interessantes, inclusive um clone do TabNews. Será que ele é melhor que o original? Duvido. Mas ei, pelo menos você está tentando, e suas 6 contribuições mostram isso.</p>
+<p><b>Gabriel</b>, "Computer Technician" e "Full Stack Developer"? Uau, que currículo! Mas só 4 contribuições? Parece que você está mais "full" de desculpas do que de código. Acorda pra vida e mostra do que você é capaz!</p>
+<p><b>Gustavo Carvalho</b>, sua bio está toda em símbolos estranhos. Que original! Suas 4 contribuições também são um mistério para mim. Mas ei, pelo menos você está tentando ser diferente. Ou será que você só digitou aleatoriamente no teclado?</p>
+<p><b>brunoferreiraff</b>, sem bio e com 4 contribuições? Você é o ninja silencioso do GitHub! Ninguém sabe quem você é, o que você faz, ou por que você está aqui. Mas ei, pelo menos você está contribuindo, mesmo que seja no anonimato.</p>
+<p><b>CookieUkw</b>, 2 contribuições? Sério? Até minha avó contribui mais que isso! Mas ei, pelo menos você está trabalhando em um projeto de IA consciente. Quem sabe, talvez ela possa escrever código por você e aumentar suas contribuições. E quem sabe, com mais de 100k de <i>stargazers</i> no Godotengine, talvez sobre um pouco dessa fama para você.</p>
+<p><b>LestterX</b>, outro fantasma na lista! Sem bio e com 2 contribuições? Você está competindo para ver quem consegue ser o mais invisível? Acorda pra vida e mostra que você existe!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-11 at 00:21:32 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-12 at 00:21:23 UTC +0000</i>
 <h6>
