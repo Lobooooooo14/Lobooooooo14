@@ -36,46 +36,46 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>15 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>12 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>7 ctr.</td>
+                <td>6°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>2 ctr.</td>
             </tr>
         </tbody>
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, com 56 contribuições, liderando o ranking! Imagino que você esteja gastando todo o seu tempo livre nisso. Espero que pelo menos esteja se divertindo, porque o resto de nós está vivendo nossas vidas lá fora. Ah, e parabéns pelo seu Bacharel em Sistemas de Informações. Espero que esteja usando-o para algo mais emocionante do que alimentar este ranking.</p>
-<p><b>Gabriel Carvalho</b>, 15 contribuições? Que esforço admirável. Quase dá para ver você digitando furiosamente, tentando alcançar o topo. Quase. Continue assim, quem sabe um dia você não chega lá... ou não.</p>
-<p><b>Carlos Israel</b>, um "Software Engineer" apaixonado por tecnologia, com 11 contribuições. Que lindo! Aposto que você sonha com linhas de código e acorda pensando em algoritmos. Mas ei, pelo menos você tem uma bio criativa. Ou não.</p>
-<p><b>Anthony Herbert</b>, "glup moglods", 9 contribuições. Sua bio é tão inspiradora quanto suas contribuições. Continue assim, quem sabe um dia você não domina o mundo... ou pelo menos o ranking.</p>
-<p><b>giverplay</b>, com 7 contribuições e um portfólio de projetos... Interessante. "Next Level Week 04" com 4 estrelas? Que sucesso estrondoso! E "Uvas", com Java, mantido religiosamente atualizado até outubro deste ano. Imagino que você esteja colhendo os frutos desse trabalho árduo. E "clone-tabnews", que ousadia! Lembre-se, originalidade é superestimada.</p>
-<p><b>Gabriel</b>, "Computer Technician" e "Full Stack Developer", com 4 contribuições. Que inveja! Aposto que você divide seu tempo entre consertar computadores e desenvolver sistemas complexos. E ainda sobra tempo para contribuir aqui. Impressionante. Ou não.</p>
-<p><b>Gustavo Carvalho</b>, com uma bio que parece um código indecifrável e 4 contribuições. Sua dedicação à criptografia é admirável. Espero que você esteja usando essas habilidades para algo mais útil do que este ranking.</p>
-<p><b>brunoferreiraff</b>, 4 contribuições e nenhuma bio. O mistério te envolve. Quem sabe suas contribuições não sejam tão secretas quanto sua identidade? Continue assim, o mundo precisa de mais enigmas.</p>
-<p><b>CookieUkw</b>, 2 contribuições, mas pelo menos uma delas foi para o Godot Engine. Que nobre causa! E "ChatStory", com 4 estrelas, que sucesso! Mas não se esqueça do "Vex-AI", afinal, quem não quer criar uma IA consciente? Continue sonhando, CookieUkw, quem sabe um dia seus sonhos se tornem realidade... ou não.</p>
-<p><b>LestterX</b>, 2 contribuições e nenhuma bio. Que minimalista! Suas ações falam mais do que palavras. Ou talvez não haja nada a dizer. De qualquer forma, parabéns por participar.</p>
+    <div align="justify"><p>Ah, <b>Felipe Gueller</b>, o campeão de contribuições! 56 no total, hein? Imagino que metade disso seja correção de ponto e vírgula, mas quem sou eu para julgar? Afinal, alguém tem que garantir que o código compile, certo?</p>
+<p><b>Gabriel Carvalho</b>, com suas 19 contribuições. Quase alcançando a marca de 20! Continue assim, quem sabe no próximo mês você não consegue fazer o dobro? A gente acredita em você (ou não).</p>
+<p><b>Giverplay</b>, "Olá, estranho!". Pelo menos é simpático. 12 contribuições e um repositório chamado "Uvas" atualizado recentemente. Espero que sejam uvas de qualidade, porque contribuições, pelo visto, não são o seu forte. Ah, e parabéns pelos 4 <i>stargazers</i> no "moveit". Que sucesso estrondoso!</p>
+<p><b>Carlos Israel</b>, o "apaixonado por tecnologia". Com 11 contribuições, imagino que essa paixão se manifeste em pequenas doses. Mas ei, menos é mais, certo? Ou talvez só menos mesmo.</p>
+<p><b>Anthony Herbert</b>, "glup moglods". Sua bio diz tudo sobre suas 9 contribuições. Genial, enigmático, inspirador... ou talvez só confuso mesmo.</p>
+<p><b>Lúddi Pires</b>, o "Full Stack". Com 6 contribuições, imagino que você seja "Full Stack" em alguma tecnologia obscura que ninguém nunca ouviu falar. Mas não se preocupe, o importante é ter um título pomposo no currículo.</p>
+<p><b>Gabriel</b>, o "Técnico em Computação". 4 contribuições? Imagino que a Centrodata Sistemas te mantenha bem ocupado, afinal, alguém tem que ligar e desligar os servidores, certo?</p>
+<p><b>Gustavo Carvalho</b>, com seus misteriosos caracteres Unicode na bio e 4 contribuições. Espero que essa dedicação à estética não te impeça de contribuir mais ativamente no futuro. Ou não.</p>
+<p><b>brunoferreiraff</b>, sem bio e com 4 contribuições. O mistério te rodeia. Será você um fantasma no mundo do código? Ou apenas alguém sem tempo para escrever uma biografia?</p>
+<p><b>CookieUkw</b>, apenas 2 contribuições, mas participando do projeto Godot Engine. Uau, que inveja, e eu aqui zuando você. Que contribuições maravilhosas, que inveja.</p>
+<p><b>LestterX</b>, com míseras 2 contribuições. Espero que esteja tudo bem. Talvez você devesse se dedicar a outra coisa, tipo jardinagem. Ou sei lá, qualquer coisa que não envolva código.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-14 at 00:21:34 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-15 at 00:20:37 UTC +0000</i>
 <h6>
