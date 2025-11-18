@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>56 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>21 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>19 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>14 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,18 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, com 56 contribuições, liderando o ranking! Que inveja... de quem está em último lugar. Mas sério, cadê o brilho? Onde estão os projetos que gritam "Eu domino o mundo da tecnologia!"? Ah, certo, ocupado demais com o "Bacharel em Sistemas de Informações".</p>
-<p><b>Gabriel Carvalho</b>, 19 contribuições. Quase lá, quase relevante. Mas "quase" não enche currículo, nem impressiona o RH. Cadê a ambição? Onde está o código que vai mudar o mundo? Ah, desculpa, estava esperando a inspiração divina, né?</p>
-<p><b>Anthony Herbert</b>, "glup moglods", 14 contribuições. Sua bio é tão enigmática quanto suas contribuições. Mas ei, pelo menos você tem uma bio, o que já é mais do que alguns podem dizer. Mas "glup moglods" sério? Isso é um código secreto para "ainda estou aprendendo"?</p>
-<p><b>giverplay</b>, com seus 13 pontinhos de esforço. Pelo menos você tem alguns projetos no GitHub. "Uvas" em Java, hein? Espero que não sejam daquelas que dão dor de cabeça no dia seguinte. E o "clone-tabnews" em JavaScript? Tentando a sorte no mundo das notícias? Talvez você devesse focar em algo mais original, tipo um clone do clone.</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia", com 11 contribuições. Que original! Aposto que também gosta de café e cachorros. Mas falando sério, cadê a paixão? 11 contribuições não gritam "eu vivo e respiro código". A não ser que você esteja contando cada linha comentada como uma contribuição.</p>
-<p><b>Gabriel</b>, o "Full Stack Developer" com míseras 4 contribuições. Imagino o quão "full" é essa stack... Quatro commits? Sério? Espero que pelo menos o café no Centrodata Sistemas seja bom, porque o seu GitHub não está te levando a lugar nenhum.</p>
-<p><b>Gustavo Carvalho</b>, com 4 contribuições e uma bio que parece ter sido escrita em outra língua. Decifrar hieróglifos deve ser mais fácil do que entender o que você faz. Mas ei, pelo menos você se esforçou para ser diferente. Pena que o esforço não se traduziu em contribuições.</p>
-<p><b>brunoferreiraff</b>, 4 contribuições e bio "null". É o resumo perfeito do seu perfil. Quatro contribuições e nada a dizer sobre si mesmo. Imagino que seu código seja tão expressivo quanto sua bio. Próximo!</p>
-<p><b>CookieUkw</b>, 2 contribuições, mas pelo menos mexeu no Godot Engine. Duas contribuições para um projeto gigante? Parabéns por adicionar uma vírgula e reivindicar a glória! Mas ei, quem sabe um dia você não se torna o próximo grande contribuidor do Godot. Ou talvez continue brincando com "ChatStory".</p>
-<p><b>LestterX</b>, duas contribuições e uma bio que grita "inexistência". Duas contribuições, LestterX? Sério? Isso é o seu melhor? Espero que pelo menos tenha sido algo significativo, tipo corrigir um typo no README. Ou quem sabe, adicionar um ponto final.</p></div>
+    <div align="justify"><p>Ah, <b>Felipe Gueller</b>, o campeão dos sistemas de informação. 60 contribuições, hein? Imagino que a maior parte seja formatando <i>READMEs</i>. Sem ofensas, mas cadê os projetos brilhantes? Ou está tudo guardado a sete chaves?</p>
+<p><b>Giverplay</b>, "Olá, estranho!". Seu perfil parece um baú de projetos esquecidos. "Uvas" atualizado recentemente, que interessante... Espero que não sejam aquelas uvas passas que ninguém quer na ceia de Natal. E 4 estrelas no "moveit"? Quase uma estrela por ano desde a criação. Impressionante.</p>
+<p><b>Gabriel Carvalho</b>, o misterioso. Bio vazia, contribuições modestas. É o ninja silencioso do GitHub, ou só está de passagem por aqui? De qualquer forma, não se esforce muito.</p>
+<p><b>Anthony Herbert</b>, "glup moglods". Sua bio diz tudo. Ou melhor, não diz nada. Contribuições que deixam a gente se perguntando se não são só erros de digitação glorificados.</p>
+<p><b>Carlos Israel</b>, "apaixonado por tecnologia". Que clichê! Mas pelo menos contribui um pouco. Imagino que a paixão seja maior do que o código que você realmente escreve.</p>
+<p><b>Gustavo Carvalho</b>, com essa bio toda em símbolos, esperava mais contribuições. Parece que decifrar sua própria bio tomou todo o seu tempo. Talvez no próximo mês?</p>
+<p><b>Jean Brito</b>, outro ninja silencioso. Contribuições invisíveis, bio inexistente. É o fantasma do GitHub, assombrando os rankings com sua presença quase nula.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Tantas opções e apenas 8 contribuições? Parece que a indecisão te impede de brilhar. Escolha um lado, Luídi, ou continue sendo o faz-tudo medíocre.</p>
+<p><b>brunoferreiraff</b>, sem bio, sem comentários. Suas 7 contribuições falam por si, ou melhor, não dizem absolutamente nada. Continue assim!</p>
+<p><b>Gabriel</b>, técnico em informática e "Full Stack Developer". A combinação perfeita para... 4 contribuições? Parece que o "Full Stack" está mais para "pilha de pratos sujos" do que para desenvolvimento de software.</p>
+<p><b>CookieUkw</b>, impressionante sua contribuição no GodotEngine. Pena que as outras são projetos pessoais com 3 ou 4 estrelas. Quem sabe um dia você não cria algo que realmente cause impacto, além de inflar seu ego.</p>
+</div>
     </details>
 </div>
 
@@ -107,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-17 at 00:21:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-18 at 00:21:15 UTC +0000</i>
 <h6>
