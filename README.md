@@ -36,12 +36,12 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>22 ctr.</td>
+                <td>36 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>21 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,32 +51,32 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>11 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>8 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>9 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>8 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Parabéns, <b>Felipe Gueller</b>, pelo primeiro lugar! 62 contribuições... Uau. Quase uma por dia! Continue assim, quem sabe um dia você chega perto do que o Lobo faz. Mas, ei, pelo menos você tem uma bio elaborada, o que já é mais do que muitos aqui conseguiram.</p>
-<p><b>giverplay</b>, em segundo lugar com 22 contribuições. "Olá, estranho!"... Que simpático. Vejo que você anda brincando com Next Level Week 04, que, a propósito, foi "next level" em janeiro. E "Uvas", seu projeto de novembro, hein? Quatro dias para fazer algo? Espero que não sejam uvas passadas. Ah, e parabéns pelos 4 "stargazers" no moveit. Que sucesso.</p>
-<p><b>Gabriel Carvalho</b>, o terceiro colocado misterioso. 21 contribuições e nenhuma bio. Imagino que sua descrição seja "o cara que contribui silenciosamente". Ou talvez você só esteja esquecendo de preencher o perfil. De qualquer forma, bom trabalho... por enquanto.</p>
-<p><b>Anthony Herbert</b>, em quarto lugar com 15 contribuições e uma bio que diz "glup moglods". Isso explica muita coisa. Continue com seus "glup moglods", Anthony, e quem sabe um dia eles farão sentido para o resto de nós.</p>
-<p><b>Carlos Israel</b>, o engenheiro de software apaixonado por tecnologia que fez 11 contribuições. A paixão é tanta que quase não aparece no seu histórico. Mas ei, pelo menos você é apaixonado. Isso é mais do que alguns podem dizer.</p>
-<p><b>Gustavo Carvalho</b>, com 8 contribuições e uma bio que parece ter sido escrita em código alienígena. Traduzindo: "Sou apenas começando a contribuir nesse mundo". Boa sorte com isso. Você vai precisar.</p>
-<p><b>Luídi Pires</b>, o faz-tudo front-end, back-end e full stack. Também com 8 contribuições. Imagino que você esteja tão ocupado sendo tudo ao mesmo tempo que não sobra tempo para contribuir mais. Mas não se preocupe, a gente entende (ou não).</p>
-<p><b>brunoferreiraff</b>, com 7 contribuições e nenhuma bio. Talvez você esteja esperando que suas contribuições falem por você. Spoiler: elas não estão gritando muito alto.</p>
-<p><b>Gabriel</b>, o técnico em informática e desenvolvedor full stack do Centrodata Sistemas. Apenas 4 contribuições? Parece que o "full stack" está mais para "pilha de pratos sujos" do que para desenvolvimento. Mas ei, pelo menos você tem um emprego.</p>
-<p><b>CookieUkw</b>, ah, o décimo colocado com 2 contribuições. Mas que moral, hein? Contribuiu para o Godot Engine, com seus 103341 "stargazers"! Aposto que suas 2 contribuições foram cruciais para o sucesso do projeto. E que tal o ChatStory? Esse fez sucesso em abril! Continue assim, quem sabe um dia você domina o mundo... dos jogos indie.</p>
-<p><b>LestterX</b>, o lanterninha com 2 contribuições e nenhuma bio. Imagino que você esteja tão envergonhado que preferiu se esconder atrás do anonimato. Mas não se preocupe, todos começam em algum lugar. Ou quase todos.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar... em ser o menos pior. 62 contribuições? É o suficiente para manter as luzes acesas, mas não espere que te deem um troféu por isso. Volte quando tiver números que impressionem, se é que isso é possível.</p>
+<p><b>Giverplay</b>, com 36 contribuições, você está quase lá, quase fazendo algo notável. Seus projetos "Uvas" e "clone-tabnews" são... projetos. Que bom que você está se divertindo. E "satellite-dish", a antena da FocaEnterprises, uau, que visão! Mas e as contribuições para o Lobo? Ah, é, quase esqueci, isso aqui é sobre o Lobo, não sobre o seu portfólio. Que fique claro.</p>
+<p><b>Gabriel Carvalho</b>, 23 contribuições. Imagino que você esteja se sentindo orgulhoso, certo? Não deveria. Você é a personificação da mediocridade. Mas não desanime, continue se esforçando para ser apenas... medíocre. Quem sabe um dia você chega lá.</p>
+<p><b>Anthony Herbert</b>, "glup moglods", hein? Sua bio é tão inspiradora quanto suas 15 contribuições. Mas ei, pelo menos você apareceu na lista, o que é mais do que muitos podem dizer. Continue assim e talvez, só talvez, alguém note seu nome em algum lugar.</p>
+<p><b>Carlos Israel</b>, "Apaixonado por tecnologia". Que clichê! Suas 12 contribuições devem estar fervendo de paixão, não é mesmo? Espero que essa paixão se traduza em algo mais substancial do que apenas mais um nome na lista. Mas não espere muito.</p>
+<p><b>Gustavo Carvalho</b>, com 12 contribuições, você está quase alcançando o patamar da irrelevância. Sua bio é um amontoado de palavras que não dizem absolutamente nada. Mas não se preocupe, sua contribuição para este ranking também não diz nada. Continue assim!</p>
+<p><b>Jean Brito</b>, 9 contribuições. Quase uma dezena! Se você continuar nesse ritmo, talvez um dia consiga contribuir tanto quanto alguém que realmente se importa. Mas, por enquanto, aproveite sua posição na obscuridade.</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". E zero contribuições relevantes. Mas não se preocupe, sua bio impressionante compensa a falta de ação. Continue vendendo seu peixe, quem sabe alguém morda a isca.</p>
+<p><b>Bruno Ferreira</b>, 7 contribuições e uma bio nula. Pelo menos você é consistente na sua falta de brilho. Mas ei, menos é mais, certo? Ou talvez só seja menos mesmo. Quem sabe um dia você decide preencher sua bio e suas contribuições.</p>
+<p><b>Gabriel</b>, Técnico em Informática e Desenvolvedor Full Stack. 4 contribuições. Imagino que você esteja muito ocupado para contribuir mais, certo? Afinal, você é um "Full Stack Developer". Que bom que você encontrou tempo para aparecer aqui, mesmo que seja no final da lista.</p>
+<p><b>CookieUkw</b>, apenas 2 contribuições, mas contribuiu no Godot Engine! Impressionante, quase tanto quanto o fato de você ter criado um "ChatStory". Continue assim, quem sabe um dia você consiga fazer algo que realmente impressione, em vez de apenas se agarrar à fama alheia.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-19 at 00:21:39 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-20 at 00:21:11 UTC +0000</i>
 <h6>
