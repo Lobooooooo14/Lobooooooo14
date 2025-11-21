@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>23 ctr.</td>
+                <td>24 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar... em ser o menos pior. 62 contribuições? É o suficiente para manter as luzes acesas, mas não espere que te deem um troféu por isso. Volte quando tiver números que impressionem, se é que isso é possível.</p>
-<p><b>Giverplay</b>, com 36 contribuições, você está quase lá, quase fazendo algo notável. Seus projetos "Uvas" e "clone-tabnews" são... projetos. Que bom que você está se divertindo. E "satellite-dish", a antena da FocaEnterprises, uau, que visão! Mas e as contribuições para o Lobo? Ah, é, quase esqueci, isso aqui é sobre o Lobo, não sobre o seu portfólio. Que fique claro.</p>
-<p><b>Gabriel Carvalho</b>, 23 contribuições. Imagino que você esteja se sentindo orgulhoso, certo? Não deveria. Você é a personificação da mediocridade. Mas não desanime, continue se esforçando para ser apenas... medíocre. Quem sabe um dia você chega lá.</p>
-<p><b>Anthony Herbert</b>, "glup moglods", hein? Sua bio é tão inspiradora quanto suas 15 contribuições. Mas ei, pelo menos você apareceu na lista, o que é mais do que muitos podem dizer. Continue assim e talvez, só talvez, alguém note seu nome em algum lugar.</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia". Que clichê! Suas 12 contribuições devem estar fervendo de paixão, não é mesmo? Espero que essa paixão se traduza em algo mais substancial do que apenas mais um nome na lista. Mas não espere muito.</p>
-<p><b>Gustavo Carvalho</b>, com 12 contribuições, você está quase alcançando o patamar da irrelevância. Sua bio é um amontoado de palavras que não dizem absolutamente nada. Mas não se preocupe, sua contribuição para este ranking também não diz nada. Continue assim!</p>
-<p><b>Jean Brito</b>, 9 contribuições. Quase uma dezena! Se você continuar nesse ritmo, talvez um dia consiga contribuir tanto quanto alguém que realmente se importa. Mas, por enquanto, aproveite sua posição na obscuridade.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". E zero contribuições relevantes. Mas não se preocupe, sua bio impressionante compensa a falta de ação. Continue vendendo seu peixe, quem sabe alguém morda a isca.</p>
-<p><b>Bruno Ferreira</b>, 7 contribuições e uma bio nula. Pelo menos você é consistente na sua falta de brilho. Mas ei, menos é mais, certo? Ou talvez só seja menos mesmo. Quem sabe um dia você decide preencher sua bio e suas contribuições.</p>
-<p><b>Gabriel</b>, Técnico em Informática e Desenvolvedor Full Stack. 4 contribuições. Imagino que você esteja muito ocupado para contribuir mais, certo? Afinal, você é um "Full Stack Developer". Que bom que você encontrou tempo para aparecer aqui, mesmo que seja no final da lista.</p>
-<p><b>CookieUkw</b>, apenas 2 contribuições, mas contribuiu no Godot Engine! Impressionante, quase tanto quanto o fato de você ter criado um "ChatStory". Continue assim, quem sabe um dia você consiga fazer algo que realmente impressione, em vez de apenas se agarrar à fama alheia.</p>
+    <div align="justify"><p>Ah, <b>Felipe Gueller</b>, o bacharel em Sistemas de Informações que aparentemente esqueceu como contribuir. 62 contribuições? Que feio, hein? Será que o diploma veio com um manual de instruções sobre como *não* usar o GitHub? Ou será que está ocupado demais caçando Pokémons com o diploma na mão?</p>
+<p><b>Giverplay</b>, que nome sugestivo... Será que você está dando "play" na sua preguiça? Pelo menos tem uns projetinhos ali, um "Uvas" que não chama a atenção de ninguém e um clone do TabNews que, sinceramente, já nasceu obsoleto. Mas ei, 4 estrelas no "moveit" é quase um troféu, não é mesmo? Quase.</p>
+<p><b>Gabriel Carvalho</b>, sua bio é tão vazia quanto sua lista de contribuições. 24? É o número de vezes que você pensou em contribuir? Menos conversa e mais código, quem sabe um dia você sai do anonimato.</p>
+<p><b>Anthony Herbert</b>, "glup moglods"? É o som que você faz quando tenta entender o código dos outros? Com 15 contribuições, talvez seja melhor continuar só no "glup".</p>
+<p><b>Carlos Israel</b>, "apaixonado por tecnologia"? Aparentemente não o suficiente para contribuir mais. 12 contribuições mostram que sua paixão é mais platônica do que prática. Mas ei, pelo menos você tem a paixão, né?</p>
+<p><b>Gustavo Carvalho</b>, sua bio é mais complicada que um labirinto. Tanta firula para justificar míseras 12 contribuições? Menos fontes bonitas e mais commits, por favor.</p>
+<p><b>Jean Brito</b>, sem bio, sem contribuições... Quase um fantasma no GitHub. 9 contribuições? Será que você está contribuindo em projetos secretos do governo?</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"... E 8 contribuições? Será que você é full stack de desculpas? Com essa taxa de contribuição, vai acabar virando "No Stack".</p>
+<p><b>Brunoferreiraff</b>, sem bio, poucas contribuições... Está quase alcançando o status de "usuário genérico do GitHub". 7 contribuições é o número de vezes que você prometeu que ia contribuir mais?</p>
+<p><b>Gabriel</b>, técnico em informática e Full Stack Developer? Com 4 contribuições, parece mais um estagiário perdido no mundo do código. Mas não se preocupe, com dedicação e esforço, você pode chegar lá... daqui a uns 10 anos.</p>
+<p><b>LestterX</b>, outro sem bio... E com as mesmas 4 contribuições do Gabriel. Vocês dois estão combinando de não contribuir? Pelo menos vocês têm isso em comum.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-20 at 00:21:11 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-21 at 00:20:49 UTC +0000</i>
 <h6>
