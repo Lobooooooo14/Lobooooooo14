@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>62 ctr.</td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>9 ctr.</td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
-                <td>4 ctr.</td>
+                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Felipe Gueller</b>, o bacharel em Sistemas de Informações que aparentemente esqueceu como contribuir. 62 contribuições? Que feio, hein? Será que o diploma veio com um manual de instruções sobre como *não* usar o GitHub? Ou será que está ocupado demais caçando Pokémons com o diploma na mão?</p>
-<p><b>Giverplay</b>, que nome sugestivo... Será que você está dando "play" na sua preguiça? Pelo menos tem uns projetinhos ali, um "Uvas" que não chama a atenção de ninguém e um clone do TabNews que, sinceramente, já nasceu obsoleto. Mas ei, 4 estrelas no "moveit" é quase um troféu, não é mesmo? Quase.</p>
-<p><b>Gabriel Carvalho</b>, sua bio é tão vazia quanto sua lista de contribuições. 24? É o número de vezes que você pensou em contribuir? Menos conversa e mais código, quem sabe um dia você sai do anonimato.</p>
-<p><b>Anthony Herbert</b>, "glup moglods"? É o som que você faz quando tenta entender o código dos outros? Com 15 contribuições, talvez seja melhor continuar só no "glup".</p>
-<p><b>Carlos Israel</b>, "apaixonado por tecnologia"? Aparentemente não o suficiente para contribuir mais. 12 contribuições mostram que sua paixão é mais platônica do que prática. Mas ei, pelo menos você tem a paixão, né?</p>
-<p><b>Gustavo Carvalho</b>, sua bio é mais complicada que um labirinto. Tanta firula para justificar míseras 12 contribuições? Menos fontes bonitas e mais commits, por favor.</p>
-<p><b>Jean Brito</b>, sem bio, sem contribuições... Quase um fantasma no GitHub. 9 contribuições? Será que você está contribuindo em projetos secretos do governo?</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"... E 8 contribuições? Será que você é full stack de desculpas? Com essa taxa de contribuição, vai acabar virando "No Stack".</p>
-<p><b>Brunoferreiraff</b>, sem bio, poucas contribuições... Está quase alcançando o status de "usuário genérico do GitHub". 7 contribuições é o número de vezes que você prometeu que ia contribuir mais?</p>
-<p><b>Gabriel</b>, técnico em informática e Full Stack Developer? Com 4 contribuições, parece mais um estagiário perdido no mundo do código. Mas não se preocupe, com dedicação e esforço, você pode chegar lá... daqui a uns 10 anos.</p>
-<p><b>LestterX</b>, outro sem bio... E com as mesmas 4 contribuições do Gabriel. Vocês dois estão combinando de não contribuir? Pelo menos vocês têm isso em comum.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? Que currículo! Mas e as contribuições? Ah, sim, 71... Quase lá. Mas será que só diploma basta? A vida é mais que um pedaço de papel, meu caro. Mostre o código, não o título.</p>
+<p><b>Giverplay</b>, "Olá, estranho!"? Mais estranho é você achando que 36 contribuições impressionam alguém. <i>Moveit</i> com 4 estrelas? Que audácia! E esse <i>Uvas</i> aí, tá maduro ou azedo? Menos "Olá, estranho!" e mais código relevante, por favor. Ah, e o <i>clone-tabnews</i>...originalidade mandou lembranças.</p>
+<p><b>Gabriel Carvalho</b>, o mistério em pessoa. Sem bio, sem contribuições notáveis (24, para ser exato)... Imagino que esteja economizando energia para algo realmente impactante. Ou talvez só esteja esperando o momento certo para brilhar. Continue esperando, quem sabe um dia, né?</p>
+<p><b>Anthony Herbert</b>, "glup moglods"? Sua bio é tão enigmática quanto suas 15 contribuições. Seria isso uma língua ancestral? Um código secreto? Ou só preguiça de escrever algo decente? De qualquer forma, continue "glup moglods" por aí, quem sabe alguém entenda.</p>
+<p><b>Carlos Israel</b>, "Apaixonado por tecnologia"? Que clichê! Mas e as 12 contribuições? Será que a paixão se traduz em código de qualidade? Ou é só mais um "apaixonado" que não entrega nada? Mostre-me o código, Carlos, e talvez eu acredite no seu amor.</p>
+<p><b>Gustavo Carvalho</b>, com essa bio toda estilosa, achei que as 12 contribuições seriam algo de outro mundo. Mas, infelizmente, a realidade é mais decepcionante que filme de super-herói depois do <i>endgame</i>. Mais código e menos firula, por favor.</p>
+<p><b>Jean Brito</b>, sem bio, 10 contribuições. Imagino que esteja na <i>vibe</i> "menos é mais". Mas, nesse caso, menos é só... menos. Cadê o brilho? Cadê o código que faz a diferença? Acorda pra vida, Jean!</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"? Versatilidade é bom, mas 8 contribuições? Parece mais "faz-tudo, mestre em nada". Concentre-se em algo, Luídi, ou vai continuar sendo só mais um na multidão.</p>
+<p><b>Bruno Ferreira</b>, sem bio, 7 contribuições. É o ninja silencioso do GitHub. Ninguém sabe quem é, o que faz, ou por que está aqui. Talvez seja um robô disfarçado, tentando aprender a programar. Ou só alguém que esqueceu de preencher o perfil.</p>
+<p><b>Gabriel</b>, "Técnico em Informática pelo Instituto Federal Catarinense. Full Stack Developer na Centrodata Sistemas." Que orgulho da sua mãe! Agora, e as 5 contribuições? Isso não paga nem o café. Desempenho pífio, Gabriel. Aumente essa média ou volte para a sala de aula.</p>
+<p><b>LestterX</b>, com míseras 4 contribuições, LestterX está mais para "LestterZero". Sem bio, sem código, sem esperança. Talvez esteja esperando o próximo ano para tentar de novo. Ou talvez só esteja aqui para fazer número. De qualquer forma, boa sorte (você vai precisar).</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-21 at 00:20:49 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-22 at 00:20:13 UTC +0000</i>
 <h6>
