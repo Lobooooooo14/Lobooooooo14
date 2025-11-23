@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>36 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -50,23 +50,23 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>8 ctr.</td>
+                <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? Que currículo! Mas e as contribuições? Ah, sim, 71... Quase lá. Mas será que só diploma basta? A vida é mais que um pedaço de papel, meu caro. Mostre o código, não o título.</p>
-<p><b>Giverplay</b>, "Olá, estranho!"? Mais estranho é você achando que 36 contribuições impressionam alguém. <i>Moveit</i> com 4 estrelas? Que audácia! E esse <i>Uvas</i> aí, tá maduro ou azedo? Menos "Olá, estranho!" e mais código relevante, por favor. Ah, e o <i>clone-tabnews</i>...originalidade mandou lembranças.</p>
-<p><b>Gabriel Carvalho</b>, o mistério em pessoa. Sem bio, sem contribuições notáveis (24, para ser exato)... Imagino que esteja economizando energia para algo realmente impactante. Ou talvez só esteja esperando o momento certo para brilhar. Continue esperando, quem sabe um dia, né?</p>
-<p><b>Anthony Herbert</b>, "glup moglods"? Sua bio é tão enigmática quanto suas 15 contribuições. Seria isso uma língua ancestral? Um código secreto? Ou só preguiça de escrever algo decente? De qualquer forma, continue "glup moglods" por aí, quem sabe alguém entenda.</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia"? Que clichê! Mas e as 12 contribuições? Será que a paixão se traduz em código de qualidade? Ou é só mais um "apaixonado" que não entrega nada? Mostre-me o código, Carlos, e talvez eu acredite no seu amor.</p>
-<p><b>Gustavo Carvalho</b>, com essa bio toda estilosa, achei que as 12 contribuições seriam algo de outro mundo. Mas, infelizmente, a realidade é mais decepcionante que filme de super-herói depois do <i>endgame</i>. Mais código e menos firula, por favor.</p>
-<p><b>Jean Brito</b>, sem bio, 10 contribuições. Imagino que esteja na <i>vibe</i> "menos é mais". Mas, nesse caso, menos é só... menos. Cadê o brilho? Cadê o código que faz a diferença? Acorda pra vida, Jean!</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"? Versatilidade é bom, mas 8 contribuições? Parece mais "faz-tudo, mestre em nada". Concentre-se em algo, Luídi, ou vai continuar sendo só mais um na multidão.</p>
-<p><b>Bruno Ferreira</b>, sem bio, 7 contribuições. É o ninja silencioso do GitHub. Ninguém sabe quem é, o que faz, ou por que está aqui. Talvez seja um robô disfarçado, tentando aprender a programar. Ou só alguém que esqueceu de preencher o perfil.</p>
-<p><b>Gabriel</b>, "Técnico em Informática pelo Instituto Federal Catarinense. Full Stack Developer na Centrodata Sistemas." Que orgulho da sua mãe! Agora, e as 5 contribuições? Isso não paga nem o café. Desempenho pífio, Gabriel. Aumente essa média ou volte para a sala de aula.</p>
-<p><b>LestterX</b>, com míseras 4 contribuições, LestterX está mais para "LestterZero". Sem bio, sem código, sem esperança. Talvez esteja esperando o próximo ano para tentar de novo. Ou talvez só esteja aqui para fazer número. De qualquer forma, boa sorte (você vai precisar).</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, em primeiro lugar com 71 contribuições. Parabéns, você liderou um bando de gente que aparentemente só sabe seguir o Lobo no GitHub. Mas cá entre nós, liderar esse grupo é tipo ser o melhor jogador de bocha do asilo. Sem atividades recentes, hein? Será que as contribuições foram só pra manter a pose?</p>
+<p><b>giverplay</b>, ah, o segundo lugar, com 37 contribuições. "Olá, estranho!", diz o bio. Estranho é você achando que engana alguém com esse "Next Level Week 04" de 2021. E "Uvas"? Sério? Espero que pelo menos tenha feito um bom vinho com elas, porque contribuições que importam, <i>niente</i>. Pelo menos se aventurou em um "clone-tabnews", talvez tentando desesperadamente pegar uma carona no sucesso alheio.</p>
+<p><b>Gabriel Carvalho</b>, 24 contribuições. Ok, você existe. Próximo!</p>
+<p><b>Anthony Herbert</b>, "glup moglods". Sua bio diz tudo sobre suas 15 contribuições. Imagino que "glup" seja o som que suas ideias fazem antes de sumirem no abismo da irrelevância.</p>
+<p><b>Jean Brito</b>, 13 contribuições. Estamos quase na zona de rebaixamento da irrelevância, hein? Se esforce mais, ou vai virar estatística.</p>
+<p><b>Carlos Israel</b>, "Apaixonado por tecnologia". Que clichê! Com 12 contribuições, a paixão não está rendendo muitos frutos, hein? Talvez precise de umas aulas de "como realmente contribuir" em vez de só sentir a brisa tecnológica.</p>
+<p><b>Gustavo Carvalho</b>, com pomposos dizeres em itálico que ninguém se deu ao trabalho de traduzir e míseras 12 contribuições, você personifica a máxima de "muito barulho por nada".</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Com 9 contribuições, parece mais "Front-End... às vezes | Back-End... quem sabe | Full Stack... de desculpas".</p>
+<p><b>brunoferreiraff</b>, 7 contribuições e bio nula. Claramente, a descrição do seu desempenho neste ranking.</p>
+<p><b>Gabriel</b>, "Técnico em Informática". Ótimo! Agora, que tal usar esse conhecimento para fazer mais do que 5 contribuições? A Centrodata Sistemas espera mais de você, eu imagino.</p>
+<p><b>LestterX</b>, 4 contribuições. Parabéns, você está oficialmente na lanterna! Daqui a pouco, o Lobo vai começar a cobrar pedágio pra usar o nome dele.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-22 at 00:20:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-23 at 00:24:21 UTC +0000</i>
 <h6>
